@@ -1,0 +1,15 @@
+ Source URL: https://cocis.kiet.edu.pk/acm/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+College of Computing & Information Sciences hosts student society Associate for computing machinery
+ACM
+Associate for computing machinery established in 1947 and till now it is promoting computing to the world. And now ACM introduces its chapter at KIET CoCIS. It provides platform to those individuals who are enthusiastic about technology and want to enhance their computing skills.
+The objective of ACM society is to enhance student technical skills in their respective domains by allowing them to work independently and to prepare them for the real world where the competition is fierce and the deadlines are stringent. Computer Science society holds regular workshops, competitions and seminars to establish sound programming skills and to introduce the new tools and technologies in the area of Software Engineering.
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

@@ -1,0 +1,25 @@
+ Source URL: https://iccis.kiet.edu.pk/Nazeeruddin.html
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Dr. Nazeeruddin Mohammad
+Dr. Nazeeruddin Mohammad
+Talk Title:
+"State of Malicious Software (Malware)"
+Malware is a software developed to damage, disrupt or intrude on a computing device. Malware has evolved from a simple virus to complicated software to evade malware analysis. This talk will describe some of the malware techniques and tactics. It further talks about modern mobile malware threats and ransomware"
+Back
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---
+https://iccis.kiet.edu.pk/Nazeeruddin.html#about
+https://iccis.kiet.edu.pk/Nazeeruddin.html#Keynotespeakers
+https://iccis.kiet.edu.pk/Nazeeruddin.html#callforpaper
+https://iccis.kiet.edu.pk/Nazeeruddin.html#submissions
+https://iccis.kiet.edu.pk/Nazeeruddin.html#importantdates
+https://iccis.kiet.edu.pk/Nazeeruddin.html#Committee
+https://iccis.kiet.edu.pk/Nazeeruddin.html#reg
+https://iccis.kiet.edu.pk/Nazeeruddin.html#contact

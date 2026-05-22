@@ -1,0 +1,215 @@
+ Source URL: https://coms.kiet.edu.pk/academics-coms/course-description/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Management Science
+These course descriptions briefly describe the contents and objectives of the courses. Course outlines are updated regularly. Prerequisites are mandatory to be completed before the course is undertaken. Other prerequisites may be specified by the Academic Committee.
+Accounting
+ACT102- Financial Accounting- 1:
+Basic concepts and theory of financial accounting. Financial accounting practices, receipt and payment accounts, income and expenditure accounts. It includes worksheet and concepts and procedures of adjusting and reversing entries, preparation of classified and incorporated income statements, problems of consolidation of financial statements and special procedures of partnership, corporate accounting, branch accounting, and installment sales.
+ACT103- Financial Accounting:
+General framework, Accounting concept and principles, Double entry book keeping and accounting system, accounting treatment, financial statements. Interpretation of financial statements. Basic concepts and theory of financial accounting. Financial accounting practices. Receipt and payment accounts, income and expenditure accounts. It includes the work sheet and the concept and procedures of adjusting and reversing entries, preparation of classified and incorporated income statements, problems of consolidation of financial statements and special procedures of partnership, corporate accounting, branch accounting, and installment sales.
+ACT104- Cost & Managerial Accounting:
+Helps to apply Cost Accounting techniques to various managerial situations Emphasis is on cost systems, breakeven analysis, profit planning, and budgeting to arrive at sound management decisions, the comparative study of foundational and activity based accounting, standard costing and cost-volume-profit analysis.
+ACT201- Financial Accounting- 2:
+The course will build up on the knowledge attained in the preceding course. Accounts of limited, corporate and partnership companies. Accounting for inventories, property, plant & equipment, net profit and loss, R& D costs, contingent losses and borrowing costs. Conversion of partnerships to limited companies and merger of firms. Prerequisite: ACT 102
+ACT202- Cost Accounting:
+It studies the treatment of material, labor and overhead allocation, and development and installation of standard costing and budgetary control system, absorption costing, process costing and discrete manufacturing costing. Emphasis is on costs for control, decision processes internal to the firm including standards of performance, relevant costs for decisions, budgets & capital investment consideration. Prerequisite: ACT 201
+ACT203- Taxation:
+Corporate business, Unincorporated business, employees, tax planning. IT Ordinance, 1979 chapter III and IV and Wealth Tax 1963 and CVT. Covers the requirements of paper 2.3 of ACCA and C8 of ICAP
+ACT204- Auditing:
+Audit Framework, Internal Audit and Internal Review, Regulations and ISA, Planning And Risk, Internal Control Other Audit And Internal Review Evidence Reporting. Covers requirements of paper 2.6 of ACCA, and paper D11 of ICAP. Prerequisite: ACT 203
+ACT205- Advance Auditing:
+Professional and ethical consideration, practice management, audit process, assignment, current issue and development. Covers requirements of paper 3.1 of ACCA, and paper 2 of PE1 of ICAP. Prerequisites: ACT 104, ACT 204
+ACT301- Managerial Accounting:
+Helps to apply Cost Accounting techniques to various managerial situations Emphasis is posed on cost systems, break even analysis, profit planning, and budgeting to arrive at a sound management decisions, the comparative study of foundational and activity based accounting, standard costing and cost-volume-profit analysis. Prerequisite: ACT 202
+ACT302- Advanced Taxation:
+Taxation of individuals, taxation of corporate businesses, tax planning, personal financial planning. IT Ordinance, wealth tax, sales tax act and capital value tax. Covers the requirements of paper 3.2 of ACCA and paper 3 of PE2. Prerequisite: ACT 203
+ACT303- Advanced Corporate Reporting:
+The international Accounting Standard committee regulatory framework, preparation of financial statement of complex business entity, preparation of reports for external and internal users., current issues and development, ethical consideration. Covers requirements for paper 3.6 of ACCA. Prerequisite: ACT 104
+ACT- 401 Integrated Accounting Information System:
+The contents of this courses covers introduction to electronic accounting, comparison of different available accounting packages. One of these packages is taught thoroughly. Students also practice on familiarity with the current packages. Prerequisite: ACT 201
+ACT402- Advance Financial Accounting:
+Covers several senior- level advance financial accounting topics, with primary emphasis on business combination and accounting for international activities. These topics are examined from theoretical and practical perspectives. Prerequisite: ACT 201
+ACT403- Advance Managerial Accounting:
+This course deals with the use of accounting information for managerial decision-making. This course covers cost accounting techniques including activity-costing and their applications to the costing of products and services. This course focuses on both structural and process issues in the design and operation of management control systems for the modern corporate organization. Prerequisite: ACT 301
+ACT404- Income Tax Accounting:
+This course covers tax implications and accounting issues relating to different types of business organizations. Prerequisite: ACT 203
+ACT405- Seminar In Accounting:
+This specialized course includes contemporary cost concepts; performance measurement, evaluation and strategic accounting responsibility. Prerequisites: ACT 402, ACT 403
+Economics
+ECO101- Macroeconomics:
+Analysis of the economy as a whole; determinants of the level of income, employment, and prices; money and banking, economic fluctuations, introduction to international trade and economic development; the role of public policy.
+ECO102- Microeconomics:
+Builds upon the basic concepts in Economics and over view of Price Theory with reference to supply and demand is provided before analyzing these forces in depth. Amongst the topics covered are analytical tools of optimization, demand and cost analysis of different forms of market organization, efficient allocation by the firm and household.
+ECO103- Principles of Economics:
+Analysis of the economy as a whole; determinants of the level of income, employment, and prices; money and banking, economic fluctuations, international trade, economic development; the role of public policy. Analysis of the allocation of resources and the distribution of income through a price system; competition and monopoly; the role of public policy; comparative economic systems.
+ECO201- Managerial Economics:
+The objective is to develop the Analytical and managerial skills of the students with the available parameters of Economics. Prerequisites: ECO 101, ECO 102, QT 102
+ECO204- Econometrics:
+Introduction of problems of observation, estimation and hypotheses testing in economics through the study of the theory and application of linear regression models, critical evaluation of selected examples of empirical research and exercises in applied economics.
+ECO205- Public Finance:
+Assessing the economic burden of taxation; equity and efficiency considerations in tax design; structure and economic effects of the U.S. tax system (including personal income tax, corporation income tax, and property tax); tax loopholes; recent developments; tax reform proposals.
+ECO206- Microeconomics- 2:
+Includes topics of mathematics of optimization, preferences and utility, utility maximization and choice, effects of changes in income and price, choice in uncertain situations: Expected utility and risk aversion, economics of information, pricing in imperfectly competitive markets, strategy and game theory.
+ECO209- Mathematical Economics- 1:
+Linear algebra for economists; necessary and sufficient conditions in static optimization problems; implicit function theorem; economic methodology and mathematics; comparative static Analysis; envelope theorem; Le Chatelier principle; applications to production and consumer models.
+ECO210- Public Finance II:
+The aim of this course is to take a broad look at issues of equity and efficiency in the allocation of public benefits and burdens. In addition to traditional issues in public finance, such as taxation and public sector pricing, the course will also deal with the allocation of property rights more generally. Examples include setting user fees for public facilities (airports, waterways), allocating scarce medical resources (organs for transplantation), creating rights in new kinds of property (broadcasting spectrum, sulfur dioxide emissions permits), determining who should serve in the Army, and so forth. We shall examine the criteria that public agencies actually use to solve these kinds of distributive problems, and ask how this relates to theoretical prescriptions based on equity and efficiency considerations. The objective is to develop a common analytical framework for analyzing distributive problems in the public sector that goes beyond traditional approaches such as optimal taxation. Prerequisite: PUB 501
+ECO302- Monetary Theory & Practice:
+Advanced topics in Economic Theory; including money demand, financial intermediation, rational expectations, and growth theory. Prerequisite: ECO 101
+ECO307- Mathematical Economics- 1:
+This is a course in dynamic aspects of optimization models. Techniques of dynamic programming and the calculus of variations will also be developed. Prerequisite: QT 105
+ECO402- International Trade:
+Theory of trade determinants; gains from trade; tariffs and effective protection; economic unions. Balance of payments adjustment mechanisms; foreign exchange markets’ theories of balance of payments policy and international monetary mechanisms. Analysis of foreign investment and its links to trade; theories of the firm as they relate to firm’s export and investment decisions; and an introduction to the political economy of trade policies. Prerequisites: ECO 101, ECO 102
+ECO403- Econometrics- 2:
+Multiple regression analysis: The problem of estimation & inference, multicollinearity, heteroscedasticity, autocorrelation, Model Specification, Regression on Dummy variables, Simultaneous-Equation Models: Simultaneous equation model, The identification Model, Simultaneous-Equation Methods. Prerequisite: ECO 204
+ECO408- Research in Economics:
+Includes publication & analysis on new economic research. Further deals with the researches conducted in the modern world encompassing the area of Economics. Prerequisites: ECO 204, ECO 206, ECO 302
+Finance
+BNK101- Money & Banking:
+The topic includes functioning of monetary institutions, the banking system, money creation process, the Federal Reserve System, and various tools of monetary policy. Prerequisites: ECO 101, ECO 102
+BNK201- Introduction to Banking:
+The purpose is to provide students about the working/mechanism of how banking industry plays its role in the economic activities. Role of central bank, credit expansion, changes in monetary base, money multiplier for M0, M1, M2 etc, international linkages with commercial and central banking system and effects on exchange rate. Treasury, trade finance, asset management, corporate banking and other specialized topics. Prerequisites: ECO 101, ECO 102
+BNK401- Investment Banking:
+This course enables the students to recognize the ways to select securities and to act prudently with respect to diversification and management of fund for investment. It contains topics like valuation, sale and purchase of companies, assets management theory, mutual funds management and security analysis. Prerequisite: BNK 201
+FIN201- Introduction to Business Finance:
+Delves into various methods of financing a company and the application of funds. The course apprises the student about the concept of short term and long term financing, profit planning, capital budgeting, working capital and its management, management of assets and cost of capital, analysis of financial statements. Prerequisites: QT 102, ACT 102/ACT 104, ECO 102
+FIN202- Financial Management & Control:
+Financial management objectives, financial management environment, management of working capital sources of finance, capital expenditure and investment, costing system, costing technique, Standard costing and variances analysis, Budgeting and budgetary control. Covers requirements for paper 2.4 of ACCA. Prerequisite: ACT 202
+FIN301- Financial Institutions & Markets:
+The course covers financial institutions such as investment banks, development finance institutions, brokerage houses, insurance companies, and leasing and modaraba companies. The course also deals with institutional asset management, particularly portfolio management, and interest rate analysis including the term structure of interest rates. Prerequisite: FIN 201
+FIN302- Financial Management:
+Evaluation of alternative source of funds, assets management, analysis of capital structure, funds flow analysis, forecasting future needs for funds, financial planning and control, dividend policy bond and stock valuation, risk and return analysis and income administration the creation of value, agency theory, capital methods and asset portfolio theory. Prerequisites: FIN 201, QT 201
+FIN303- Strategic Financial Management:
+Objective and corporate governance, strategy formulation, risk analysis, investment decision, treasury management and financial forecasting, The global economic environment, global financial management, ethical consideration. Covers requirements for paper 3.7 of ACCA. Prerequisites: FIN 201, FIN 302
+FIN401- Corporate Finance:
+Focuses on debt & equity, and various modes of financing. Preparation of feasibility studies, proposing hypothetical projects, but in a rational manner. Practical problems are applied to the local financial scenario. Includes value, risk, practical problems in capital budgetary financing decision and market efficiency, dividend policy, capital structure, options, debt financing, financial planning, short-term financial decision, mergers, and international finance. Prerequisite: FIN 302
+FIN402- Seminar In Finance:
+It undertakes an intensive study of some phases of business finance or investment management through articles, which appear in the international journals, and periodicals of finance. Prerequisite: FIN 302
+FIN403- Treasury And Fund Management:
+It comprises of various methods of treasury and Fund Management incorporating asset pricing, expectation theory, interest rate risk and the term structure of interest rates, short term and term T-bills and yield curves. The difference in asset liability management key concepts, managing interest rated risk, financial engineering and selling interest rate risk product. Prerequisite: FIN 302
+FIN-404- Securities Analysis:
+This course enables the participants to distinguish between the various types of investment securities, to apply the recognized tests of income risk and marketability in the selection of securities and to act prudently with respect to diversification and management of funds. Careful consideration is given to the methods of security analysis and the use of technical aids in the appraisal of investment values. This course gives student’s practical investment experience and introduces them to various styles of investing and security analysis. It exposes students to the operations of money management-related professionals, investment culture of Karachi Stock Exchange and ability to interact with KSE professionals. It also assists in increasing student’s knowledge with regard to the various business fundamentals characterized by different industries. Prerequisites: FIN 302, BNK 201, QT 102
+FIN405- Analysis of Financial Statements:
+It provides the actual interface to the students with the Company Final Accounts as prescribed by the Companies Ordinance 1984. Understanding and interpretation of financial statements, preparation of common size statements, analyze financial statements, manipulate the financial statements through standard ratio analysis and apply trend percentage analysis to the financial Data. Prerequisite: FIN 302
+FIN406- Project Evaluation:
+The use of projects and project management, and evaluation continues to grow in our society and its organizations. This practical course enables the students to use project management to accomplish unique outcomes with limited resources under critical time constraints. The course contents are the study of various feasibilities, inclusive of economics commercial, technical, and especially, finance. The viability of a project is studied with examples and extensive case studies of success and failure stories. Prerequisites: FIN 302, QT 201
+FIN407- Portfolio Management:
+The course discusses the portfolio management process by describing procedures for evaluating and selecting projects. The course contents are primary model selection criterion, steps in using a model, portfolio selection model, measurement of risk, forecasting and risk management. Handling uncertainty, projects proposals, and history of portfolio management. Prerequisite: FIN 302
+FIN408- Risk Management:
+The course discusses various aspects of management of risk associated with operating multinational enterprises. Emphasis is on evaluating and hedging financial risks in fixed income, equity, commodity, and foreign exchange risk exposure. The goal of this course is to study the management of risks that face corporations and individuals, the transfer of risk from one party to another by introducing a risk management process. Case studies will introduce the real world challenges that practitioners face. The course will introduce traditional concepts relating to insurable risk and consider the strategies being used by non-financial firms to manage operating and financial risks. In addition to the traditional risk evaluation tools discussed in most risk management texts, insights from modern financial theory will be introduced. Prerequisite: FIN 302
+FIN410- Mergers and Acquisitions:
+The course provides an in-depth assessment of all major features of public and private merger and acquisition transactions including defining the acquisition target, the process of the acquisition acquiring turnaround candidate, structuring and financing the acquisition. Prerequisite: FM 302
+FIN412- Financial Moduling and Forcasting:
+It covers the use of financial mathematics for forecasting drawn from the diciplines of probability therory, statistics, simulations, scientific computing and partial differential equations to provide models and derive relationship between fundamental variables such as asset prices, market movements and interest rate. Prerequisite: QT 203, ECO 102, ACT 103, FIN 201
+FIN413- Global Financial Management: The course provides the knowledge of exchange rates between currencies, hedging instruments against unfavorable exchange rate fluctuations; capital budgeting, consolidation and reporting of accounts, and current problems faced by the multinationals financial managers.
+Management/HRM
+MAN101- Organization Behavior:
+Study of organizational behavior and dynamics. Sources of motivation. Informal networks and their dynamics. Group dynamics. Alignment of personal goals with organizational goals. Theories of motivation, achievement, leadership, and excellence. Work environment, competition, encouragement and positive behavior. Study of individuals, groups and structures on organizational behavior.
+MAN102- Principles of Management:
+Management principles and their application in an enterprise. Study of origin of management and the functional areas of management, namely planning, organizing, communicating, staffing, leading, directing and controlling with special emphasis on their application. Extensive case studies. Prerequisites: MAN 101
+MAN201- Managing People:
+Management and team development, recruitment and selection, training and development, motivation and leadership, effective communication practices. Covers the requirements of paper 1.3 of ACCA. Prerequisite: MAN101
+MAN301- Managerial Skills:
+Effective managers require leadership and managerial skills. Technical, interpersonal, problem solving, conflict resolution, decision-making, organizational and conceptual skills. Flexibility, practicality and creativity in the application of skills. Prerequisites: MAN 101, MAN 102
+MAN302- Personal Management:
+Effective managers require leadership and managerial skills, technical, interpersonal, problem solving, conflict resolution, decision-making, organizational and conceptual skills. Flexibility, practicality and creativity in the application of skills. Prerequisites: MAN 101, MAN 102
+MAN303- Human Resource Management:
+HRM covers all aspects of manpower management. Specific subjects include recruitment, staffing, training and wage administration & relation with labor unions. The course covers various ways to measure manpower management effectiveness and how it contributes to the attainment of general management objectives. Prerequisite: MAN 102
+MAN304- Methods of Business Research:
+Design and conduct of research projects. Formulation of problem and related hypotheses, development of research design, sampling techniques, construction of questionnaires, interviewing techniques, analysis of data, construction and solution of models, and use of primary and secondary data sources. Prerequisites: MAN 102, MKT 202, QT 201
+MAN401- Production Management:
+Familiarizes students with the fundamental problems in the area of plant operation management. It covers the study of economics of production, Layout of machines and buildings, production control, MRP, capacity planning, quality management, process and discrete costing, operations management in manufacturing industries and allied facilities. Prerequisites: MAN 102, ACT 102, ACT 103
+MAN402- Public Policy & Administration: Functioning of Government and other public bodies. Structure, hierarchy, relationships, role and responsibilities. Public policy formulation, analysis, and their management, public management and leadership, government budgeting and finance. Pre-requisite: MAN 102
+MAN403- Strategic Management:
+Position a firm effectively against market forces and shape their advantage; how to build resources and capabilities essential to maintaining – and strengthening market position; and link strategy to action. Strategic issues of linking HR strategies, marketing strategies and financial strategies for competitive advantage. Theories of strategic management, approaches, case studies and critical success factors. Role of strategic leadership and strategic management. Prerequisites: MAN 102, FIN 201, MKT 202
+MAN404- Leadership & Team Building:
+Leadership is key to the long-term growth and success of every organization. Management scientists have found that leaders are not merely born; they can be harnessed in Business Managers. This course is designed to equip Business graduates with leadership qualities so that they can emerge as effective Business Leaders. Important topics are models of leadership, theories of leadership and team building process. Prerequisite: MAN 303
+MAN406- Organizational Development:
+The process of planned change and improvement of organization through the application of the behavioral sciences. Collection of techniques for understanding, changing and developing an organization workforce in order to improve its effectiveness. It builds on humanistic and democratic values. OD places a lot of emphasis on importance of growth, collaborative and participative process and spirit of enquiry. OD is the top management-supported long-range effort to improve an organizations problem solving and renewal processes. Major topics include intervention techniques, models, and role of consultants. Prerequisite: MAN 303
+MAN407- Total Quality Management:
+A comprehensive approach to building quality into every organizational process. Evolution of TQM, conceptualization, planning, implementation and measurement. Links with customer satisfaction. Creation of philosophy, direction and processes. Understanding by subordinates. Implementation processes and training of members. Prerequisites: MAN 303, MKT 202
+MAN410- Quantitative Management:
+This course will introduce the participants to computer-based mathematical modeling techniques that will enable them to make better decisions by intelligent use of data. Although the focus is on general-purpose modeling using spreadsheets, tools like simulation, linear programming, regression analysis and decision trees will also be covered. Prerequisites: MAN 303, QT 102
+MAN413- Strategic Business Planning Development:
+Models of strategic management, external environmental scanning, internal assessment, nature of strategy analysis and choice, nature of strategy implementation, matching structures with strategy, nature of global competition, outcomes of strategic management process and ethical considerations. Covers requirements of paper 3.5 of ACCA. Prerequisite: MAN 403
+MAN414- Project Management:
+In this course students learn the design, feasibility, planning and management of projects using program evaluation review technique (PERT), Gantt charts, critical path method (CPM), task development techniques and project management software. The course also focuses on the engineering technologist’s role in the business environment. Current industry approaches are presented, including concurrent engineering, ISO9000, total quality management (TQM) and benchmarking. Students formulate a time-phased, hardware- and software-based senior project proposal to be completed in a later semester.
+MAN415- Supply Chain Management:
+The supply chain encompasses all activities associated with the flow and transformation of goods from the row material stages (extraction), through to the end user, as well as the associated information flows. Material and information flow both up and down the supply chain. Supply Chain Management (SCM) is the integration of these activities through improved supply chain relationships, to achieve a sustainable competitive advantage. Important topics are role of suppliers, internal process, and distribution channels. Prerequisite: MKT 202
+MAN416- Recruitment and Selection:
+Organizations depend upon good human resource planning. The idea of introducing this course is to acquaint students with concepts like recruitment plans, interviewing skills and final selection. Topic like HR planning process, internal recruitment viz a viz external, Job analysis and type of tests will be covered. Prerequisite: MAN 102
+MAN417- Managerial Policy:
+Is an advance level course offered in the final semester. The course introduces Advanced Concepts of Management, Finance and Marketing. If falls in the realm of Strategic Planning, Decision Making Tool, Strategic Evaluation and Managing the four Factors of Production. It can be offered as a substitute of Strategic Management. Prerequisites: MAN102, MKT101, FIN302
+MAN418- Advanced Management:
+Takes steps of forging ahead with the functions of Management like planning, organizing, leading and controlling. Topics to be covered in the course are Comparative Management, Diversity of Cultures and Impact on the Management. Theories of Management in detail, Models of Leadership, International Management, Reengineering Management and Elements of Change Management. Prerequisites: MAN102
+MAN420- Sociology:
+Sociology is the systamatic and scientific study of human behavior in xociety. It helps in understanding the cultural patterns shaping the behavior of modern people. The course contents will cover the role of values and social research, components of symbolic culture, socialization, social satisfaction and interaction, social class in contemporary society, inequalities of gender, population and urbanization, social movements.
+Marketing
+MKT101- Principles of Marketing:
+The goal of marketing is to attract new customers by promising superior value and keeping them by delivering satisfaction. A simple definition of Marketing is the delivery of satisfaction at a profit. Everybody who works in a company is at some time called upon do some kind of marketing. This course will seek to communicate all aspects of marketing to the student using the 4P’s the communication mix, product & brand strategies, STP and Market information system.
+MKT201- Principles of Marketing- 1:
+The goal of marketing is to attract new customers by promising superior value and keeping them by delivering satisfaction. A simple definition of Marketing is the delivery of satisfaction at a profit. Marketing planning and decision making are examined from firm and consumer points of view. topics include the marketing concept and its company-wide implications, the integration of marketing with other functions, and the role that product, price, promotion, and distribution play in marketing strategy and implementation. This course goes into greater depth for issues of segmentation, targeting and positioning. Hands on assignments develop the marketing student. Prerequisites: ECO 101, MAN 102
+MKT202- International Marketing:
+Significance of International trade and investment, international monetary environment for marketing, analysis of foreign markets, regional market integration, the administration of international marketing, and trade promotion. Export and import procedures and regulations. Prerequisites: MKT 201, ECO 101
+MKT301- Service Marketing:
+Use of marketing by service firms; Differences and similarities between service marketing and goods marketing. Marketing by service firms, special consideration for service marketers, a classification system of service firms, extent of service in economy, and practical illustrations of service marketing by various kind of service firms and sectors. Services industry characteristics and peculiarities. Prerequisite: MKT 201
+MKT401- Marketing- 2:
+Topics include the marketing concept and its company-wide implications, the integration of marketing with other functions, and the role that product, price, promotion, and distribution play in marketing strategy and implementation. Case studies touch upon a wide number of business situations and on how each business responded to the marketing challenges that if faced. A student completing this course is ready to take on elective marketing courses that go into depth. Topics include producing effective marketing report, analysis and management of results. Prerequisite: MKT 201
+MKT402- Marketing Management:
+The course covers MKT 204 Marketing-I and MKT 210 Marketing-II Would provide the students with sound foundations in marketing enabling them to understand and evaluate the management considerations in implementing marketing decision and their imperatives. Prerequisite: MKT 202
+MKT403- Consumer Behavior:
+The course explores the dynamics of consumer behavior and consumer markets. It studies the models of consumer behavior, characteristics affecting behavior, psychological factors, types of decision buying behaviors and the buyer decision process in detail. Prerequisites: MKT 201, SSC 101
+MKT404- Seminar in Marketing:
+Topics include competitor analysis and managing competitive interaction. Emphasis is on applications through the use of case studies and/or computer game simulation of competitive interaction. Issues include what stage marketing is at in Pakistan as well as in the world. An individual thesis or major term peper is required under the supervision of the course instructor. Prerequisite: MKT 201
+MKT405- Business Research:
+This course applies statistical methods to analyze business research. The student learns which methods of research are most effective in given situations. Quantitative business techniques are used along with qualitative measures to ensure that the research carried out is effective. Market research and statistical techniques are applied throughout the course. Prerequisites: MKT 201, QT 104
+MKT406- Brand Management:
+Brands vary in the amount of value they have the marketplace. This course looks at brand strategies, equity, brand sponsors and branding strategies. The course tries to impart how brands are developed and what makes them such effective marketing tools. Case studies and class lectures form the main tools of instruction. Prerequisite: MKT 201
+MKT407- Direct Marketing & Sales Promotion:
+The course deals with tools like direct mail, telemarketing, direct selling and direct advertising. The course also looks at new methods such as CRM. LTVA and Call centers. Prerequisite: MKT 201
+MKT408- Export Marketing:
+This course looks at how to export and sell to other countries. Covers world markets, their respective consumers, and their political/economic marketing environments. Examines the marketing issues required to meet the product, promotion, price, and distribution demands of a world market. Though course has a global orientation, issues specific to exporting are discussed. The first half covered geographical, legal and economic aspects, while the second half looks at the procedures of actual export. Assignments and some market study is undertaken to ensure that the student can start his own export business after completing this course. Prerequisite: MKT 201
+MKT409- Personal Selling:
+This course looks at the different aspects and psychology of the sales process. It goes into how people sell on a one to one and a one to many basis. It looks at how deals are made, how they are negotiated and what aspects of personal selling go into closing the sale. Presentations, class workshops and regular assignments ensure that the student gets value from this course. Topics include techniques for effective speaking, persuasion, and listening. Prerequisite: MKT 201
+MKT410- Retailing:
+The course covers major marketing management problems in retail institutions. Examines treatment of retail/marketing strategy design and problems related to financial requirements, buying, inventory, pricing, promotion, merchandising, physical facilities, location, and personnel. Prerequisite: MKT 201
+MKT411- Distribution Management:
+Logistics and distribution is essential for the success of strategic plans. Logistic and distribution management will cover scheduling, transportation and distribution planning. Drop shipments and managing distribution of virtual organizations. Choice of mode, route, flow of merchandise and sustaining operations and continuity. Quantitative techniques including transportation models will be covered. Prerequisite: MKT 201
+MKT412- Industrial Marketing:
+Buyers and sellers behavior is entirely different for the industrial products than for the consumer products. Industrial Marketing is of great importance for the students majoring in marketing. Covers role of technology, complexity of product, choices, options, versions, obsolescence, parts and components, industrial products, industrial research and planning, industrial market segmentation, strategic management pricing, marketing communications, personal selling, and distribution. Prerequisite: MKT 201
+MKT414- Principles of Advertising:
+The course looks at what advertising is and how it differes from other forms of promotion and publicity. It studies what advertising is used for; when and how it is applied to maximize impact; why companies advertise and which sort of campaigns are needed. All the basic concepts of advertising are covered in the course including communication, design, media planning and copy writing. Prerequisite: MKT 201
+MKT415- Promotion and Advertisement Management:
+The course examines the basic advertising and sales-promotion concepts; the design, management and integration of a firm’s promotional strategy; and public policy aspects and the role of advertising in marketing communications in different cultures. It looks at how major advertising agencies in Pakistan manage their campaigns. Topics include producing effective campaigns; basics of layout and design; techniques for advertising persuasion, and measuring feedback and presentation graphics. Prerequisite: MKT 201
+MKT416- Small Business Management:
+This course seeks to impart to the student what works and what does not in a small business. Case studies are used and students are taught to look at the micro picture of a business with its challenges, rewards and responsibilities. A project is required simulating a small business so that students may start their own businesses later if they wish to. Prerequisites: MKT 201, MAN 102
+MKT417- Sales Management:
+The course emphasizes the activities and problems of field-sales management. Includes organizing sales force, recruiting training, compensation, motivation, sales techniques, forecasting, territory design, evaluation, and control. Methods of teaching are through lectures, regular student presentations, class simulations and case studies. Topics include producing sales call reports; techniques for effective selling, persuasion, listening and negotiation. Prerequisites: MKT 201, MAN 102
+MKT418- Customer Relationship Management:
+The course looks at how customer relationship management achieves this objective; how it identifies customers for acquisition, retention and deletion. Data mining, database marketing, LTVA along with class lectures and case studies are the methods of study. Prerequisites: IS 201, MKT 201
+Transport and Logistics
+TL 460- Logistics and Supply Chain Management:
+Introduction and analysis of the logistics concept to include the management of transport, inventory, packaging, warehousing, materials handling, order processing, facility location, and customer service. The course considers supply chain management as a logistics management process across the full spectrum of business from the sourcing of raw materials to delivery of goods and services to the final consumers.
+TL 461- Transport Economics:
+The role of transportation in the economy; the economic characteristics of the various modes of transport, including the nature of transport demand and cost functions; economic dimensions of transport service; transport market structures; and transport pricing theory and practice. Emphasis is placed on managerial implications of transport economic principles.
+TL 462- Transport Management:
+Transport planning and operations, transport infrastructure and regulations, selection of carriers, transport costing, transport strategies, and application of information technology in transportation; carrier management problems involving ownership and mergers, routes, competition, labor, and other decision areas.
+TL 463- Purchasing Management:
+Principles and policy in acquiring goods and services for the firm, with emphasis on purchasing as it relates to materials management.
+TL 466- International Transportation and Logistics:
+The course covers logistics systems and legal framework for the international movement of goods and people; Operational characteristics of providers of exporting and importing services and the effects of government trade policies on global logistics.
+TL 468- Transport and Public Policy:
+The course covers analysis of current policies affecting transportation providers and users; the roles of carrier and shipper organizations; government agencies; and other interest groups in policy development; evaluation of impact of programs, policies and legislation on various transportation constituencies.
+TL 469- Distribution:
+The course covers the changing supply chain and the role of warehousing; distribution and warehousing; distribution planning; warehouse management; warehouse operations; customer order processing; inventory management; warehouse administration; technology in warehousing and distribution; and e commerce implications.
+TL 560- Transport and Logistics Management—Industry based Project:
+A particular area of transport or logistics may be selected for study. This professional skills program aims to facilitate the transition from the institute to the workplace, and is a full semester program, under the supervision of an assigned instructor.
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

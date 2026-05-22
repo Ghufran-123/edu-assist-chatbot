@@ -1,0 +1,183 @@
+ Source URL: https://cocis.kiet.edu.pk/bs-data-science/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Bachelor of Science in Data Science (BS-DS)
+Rapid growth of I.T. infrastructure in local and foreign organizations has increased the demand for computer professionals. Specialization can be done through 5 elective courses in selected area. The program meets the HEC and international standards for a full-length 4-year bachelor’s degree.
+Year 1
+C-Code
+Course Title
+Cr-H
+SE102
+Programming Fundamentals
+3+1
+CS101
+Introduction to Info. & Communication Technologies
+2+1
+SS3315
+Pakistan and Islamic Studies
+3+0
+MKT417
+Visionary Leadership & Motivation
+2+0
+QT104
+Calculus & Analytical Geometry
+3+0
+COM131
+English-I (Proficiency Development)
+3+0
+MAN102
+Principles of Management
+3+0
+SE201
+Object Oriented Programming
+3+1
+ACT102
+Financial Accounting
+3+0
+Year 2
+Cr-H
+COM130
+English-II (Public Speaking)
+3+0
+CE201
+Digital Logic & Design
+3+1
+CS102
+Data Structures & Algorithms
+3+1
+QT106
+Discrete Mathematics
+3+0
+ECR6509
+English-III (Official Communication)
+3+0
+QT107
+Differential Equations & Multivariable Calculus
+3+0
+CS204
+Operating Systems
+3+1
+CE204
+Computer Organization & Assembly Language
+3+1
+CS201
+Database Management Systems
+3+1
+QT105
+Linear Algebra
+3+1
+Year 3
+Cr-H
+CS112
+Introduction to Data Science
+2+1
+CS302
+Machine Learning
+3+1
+MG4302
+Technology Entrepreneurship
+2+1
+CS124
+Data Warehousing & Business Intelligence
+3+0
+QT340
+Probability  & Statistics
+2+1
+CS212
+Data Mining
+3+0
+QT301
+Advance Statistics
+3+0
+CS402
+Artificial Intelligence
+3+0
+NW301
+Data Communication &  Networks
+3+0
+IPT693
+Final Project-I
+3+0
+Year 4
+Cr-H
+CS128
+Big Data Analytics
+3+0
+ELE
+Elective 1
+3+0
+SE302
+Software Engineering
+3+1
+IPT695
+Final Project-II
+3+0
+CS132
+Data Visualization
+3+0
+IPT307
+Internship-I
+3+0
+ELE-2
+Elective 2
+3+0
+ELE-3
+Elective 3
+3+0
+CS-422
+Design & Analysis of Algorithm
+3+0
+NW401
+Cryptography/td>
+1+0
+CS4322
+Parallel & Distributed Computing Systems
+3+0
+IPT-407
+Internship II
+3+0
+Curriculum Structure
+Area
+Cr Hr
+Area
+Cr Hr
+Computer Science
+Networks
+Software Engineering
+Social Sciences
+Quantitative
+Management
+Computer Engineering
+Internship
+Accounting
+Project
+Information Systems/ERP
+Sports
+Degree Structure
+Durations
+4 Years
+Courses
+Projects
+Internships
+Sports
+Course Cr. Hrs.
+125 + 6 + 2 + 4
+Eligibility
+Intermediate 50% minimum or
+equivalent A levels
+Year 1
+Year 2
+Year 3
+Year 4
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---
+https://cocis.kiet.edu.pk/bs-data-science/#yearone
+https://cocis.kiet.edu.pk/bs-data-science/#yeartwo
+https://cocis.kiet.edu.pk/bs-data-science/#yearthree
+https://cocis.kiet.edu.pk/bs-data-science/#yearfour

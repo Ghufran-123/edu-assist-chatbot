@@ -1,0 +1,42 @@
+ Source URL: https://kjcisjournal.kiet.edu.pk/index.php/kjcis/issue/view/14
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Vol. 7 No. 2 (2024): KIET Journal of Computing & Information Sciences
+DOI:
+https://doi.org/10.51153/kjcis.v7i2
+Published:
+2025-02-05
+Full Issue
+Requires Subscription
+PDF
+Articles
+Rice Varieties (LULC) Classification using Artificial Neural  Network through Landsat 8 OLI Image
+Talha Virk, MUHAMMAD USMAN
+1-34
+PDF
+Topic Modeling and Identification in a Resource-Scarce Roman Urdu Language
+Afsa Riaza, Mohsin Ali Memon, Amirita Dewani, Sania Bhatti, Fariha Naeem, Memoona  Sami
+60-83
+PDF
+A Prediction of Network Intrusion Using CNN-LSTM
+Hybrid Approach By Deep Learning For Prediction of Network Intrusion
+Humza Rana,  Farwa  Zainab,  Farwa  Raoof, Attiya  Zahoor
+103-119
+PDF
+Enhancing Histopathological Image Classification: Optimal Fine-Tuning of Convolutional Neural Networks with Feature Extraction
+Muhammad Hamza Mehmood, Muhammad Hasnain Muhammad Hasnain, Rizwan  Mehmmod,  Sardar  Usman, Rana Zeeshan  Zulfiqar
+35-59
+PDF
+Social Distance Assessment and prevention system Based on Marker
+Hira Beenish, Muhammad Fahad; Amta Nadeem, Syed Abbas  Raza
+84-102
+PDF
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---
+https://kjcisjournal.kiet.edu.pk/index.php/kjcis/issue/view/14/14

@@ -1,0 +1,42 @@
+ Source URL: https://kjcisjournal.kiet.edu.pk/index.php/kjcis/issue/view/2
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Vol. 2 No. 1 (2019): Volume 2 | Issue 1 | Jan - June | 2019
+DOI:
+https://doi.org/10.51153/kjcis.v2i1
+Published:
+2019-01-01
+Full Issue
+Requires Subscription
+Volume 2 | Issue 1 | Jan - June
+Articles
+A Study of SAR Despeckling Methods
+Muhammad Haris, Mahmood Ashraf, Faraz Ahsan, Ahmed Athar, Memoona Malik
+PDF
+Achieving High Availability in Cloud through Live Migration
+Abdul Wahab Khan, Shaikh Adnan Ahmed Usmani
+PDF
+Detection of Myocardial Infarction in ECG Base Leads using Deep Convolutional Neural Networks
+Awais M. Lodhi, Adnan N. Qureshi, Usman Sharif, Zahid Ashiq
+PDF
+Mining Diagnostic Investigation Process
+Sohail Imran, Tariq Mahmood
+PDF
+The Role of SEO Techniques to Enhanced Performance and Improved Ranking for Intelli-Web Shop
+Muhammad Noman khalid, Hira Beenish, Muhammad Iqbal, Kamran Rasheed
+PDF
+Optical Character Recognition Engine to extract Food-items and Prices from Grocery Receipt Images via Templating and Dictionary-Traversal Technique
+Ali Sohani, Rafi Ullah, Faraz Ali, Athual Rao, Richard Messier
+PDF
+Ontology Based System for Expert Searching in Academia using SWRL and SPARQL
+Furqan Hussain Essani, Quratulain Rajput
+PDF
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---
+https://kjcisjournal.kiet.edu.pk/index.php/kjcis/issue/view/2/vol1issue12019

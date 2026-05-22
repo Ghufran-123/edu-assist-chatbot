@@ -1,0 +1,245 @@
+📄 Source File:
+https://cocis.kiet.edu.pk/bs-computer-science/
+
+🧠 Extracted Page Text:
+================================================================================
+Bachelor of Science in BS-CS
+Rapid growth of I.T. infrastructure in local and foreign organizations has increased the demand for computer professionals. The program meets the HEC and international standards for a full-length 4-year bachelor’s degree.
+CNO
+Course Code
+Course Title
+8283
+CSCC111
+Programming Fundamentals
+8284
+CSCC112
+Programming Fundamentals Lab
+8285
+CSGE111
+Application of Information & Communication Technologies
+8286
+CSGE112
+Application of Information & Communication Technologies Lab
+8287
+CSGE113
+Discrete Structures
+8288
+CSGE114
+Calculus and Analytic Geometry
+8289
+CSGE115
+Visionary Leadership & Motivation
+8290
+CSGE116
+Functional English
+8430
+CSGE117
+Sports1
+8291
+CSCC121
+Object Oriented Programming
+8292
+CSCC122
+Object Oriented Programming Lab
+8293
+CSCC123
+Database Systems
+8294
+CSCC124
+Database Systems Lab
+8295
+CSCC125
+Digital Logic Design
+8296
+CSCC126
+Digital Logic Design Lab
+8297
+CSMS121
+Multivariable Calculus
+8298
+CSMS122
+Linear Algebra
+8431
+CSGE121
+Sports2
+8299
+CSCC211
+Data Structures
+8300
+CSCC212
+Data Structures Lab
+8301
+CSCC213
+Information Security
+8302
+CSCC214
+Information Security Lab
+8303
+CSCC215
+Artificial Intelligence
+8304
+CSCC216
+Artificial Intelligence Lab
+8305
+CSCC217
+Computer Networks
+8306
+CSCC218
+Computer Networks Lab
+8307
+CSCC219
+Software Engineering
+8308
+CSMS211
+Probability & Statistics
+8432
+CSGE211
+Sports3
+8309
+CSCC221
+Computer Organization & Assembly Language
+8310
+CSCC222
+Computer Organization & Assembly Language Lab
+8311
+CSDC221
+Theory of Automata
+8312
+CSDC222
+Advance Database Management Systems
+8313
+CSDC223
+Advance Database Management Systems Lab
+8314
+CSGE221
+Applied Physics
+8315
+CSGE222
+Applied Physics Lab
+8316
+CSGE223
+Expository Writing
+8317
+CSGE224
+Islamic Studies
+8433
+CSGE225
+Sports4
+8318
+CSCC311
+Operating Systems
+8319
+CSCC312
+Operating Systems Lab
+8320
+CSDC311
+HCI & Computer Graphics
+8321
+CSDC312
+HCI & Computer Graphics Lab
+8322
+CSDC313
+Computer Architecture
+8323
+CSDC314
+Computer Architecture Lab
+8324
+CSDE311
+Mobile Application Development
+8325
+CSDE312
+Mobile Application Development Lab
+8326
+CSDE313
+Numerical Analysis
+8327
+CSDE314
+Numerical Analysis Lab
+8328
+CSGE311
+Introduction to Management
+8434
+CSGE312
+Sports5
+8329
+CSDC321
+Compiler Construction
+8330
+CSDC322
+Compiler Construction Lab
+8331
+CSDC323
+Parallel & Distributed Computing
+8332
+CSDC324
+Parallel & Distributed Computing Lab
+8333
+CSDE321
+Web Engineering
+8334
+CSDE322
+Web Engineering Lab
+8335
+CSDE323
+Cyber Security
+8336
+CSDE324
+Cyber Security Lab
+8337
+CSDE325
+Software Testing & Quality Assurance
+8338
+CSDE326
+Software Testing & Quality Assurance Lab
+8340
+CSDE327
+Object Oriented Analysis & Design
+8341
+CSDE328
+Object Oriented Analysis & Design Lab
+8435
+CSGE321
+Sports6
+8343
+CSCC412
+Analysis of Algorithms
+8344
+CSDE411
+Cloud Computing
+8345
+CSDE412
+Cloud Computing Lab
+8346
+CSES411
+Financial Accounting
+8347
+CSMS411
+Technical & Business Writing
+8348
+CSGE411
+Entrepreneurship
+8342
+CSCC411
+Final Year Project-I
+8436
+CSGE413
+Sports7
+8350
+CSGE421
+Ideology and Constitution of Pakistan
+8428
+CSGE412
+Professional Practices-I
+8429
+CSGE422
+Professional Practices-II
+8349
+CSCC421
+Final Year Project-II
+8437
+CSGE423
+Sports8
+
+🔗 Relevant Internal Links Found:
+================================================================================
+https://cocis.kiet.edu.pk/bs-computer-science/

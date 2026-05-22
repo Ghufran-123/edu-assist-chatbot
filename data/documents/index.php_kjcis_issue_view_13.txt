@@ -1,0 +1,38 @@
+ Source URL: https://kjcisjournal.kiet.edu.pk/index.php/kjcis/issue/view/13
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Vol. 7 No. 1 (2024): Vol. 7 | Issue 1 | Jan- June| 2024
+DOI:
+https://doi.org/10.51153/kjcis.v7i1
+Published:
+2024-10-21
+Full Issue
+Requires Subscription
+PDF
+Articles
+Power Optimized Task Scheduling using Genetic Algorithm (POTS-GA) in Cloud Environment
+Minhaj Ahmad Khan, Sana Saleem
+1-27
+pdf
+Accurate Attack Detection in Intrusion Detection System for cyber threat intelligence feeds using machine learning techniques.
+Ehtsham Irshad, Abdul Basit Siddiqui
+28-41
+PDF
+Predicting Student Performance Using Educational Data Mining: A Review
+Veena Kumari, Areej Fatemah Meghji, Rohma Qadir, Urooj Gianchand, Farhan Bashir Shaikh
+PDF
+A  Hybrid Model for Human Behavior Recognition Using Emotions, Sentiments, and Mood Features
+Asia  Samreen, Syed Asif Ali, Hina Shakir, Muhammad Hussain
+PDF
+Predicting and Characterizing piRNAs and their functions Using an Integrated Machine Learning Approach
+Usman Inayat, Anam  Umera, Sajid  Mahmood
+PDF
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---
+https://kjcisjournal.kiet.edu.pk/index.php/kjcis/issue/view/13/12

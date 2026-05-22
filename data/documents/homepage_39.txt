@@ -1,0 +1,111 @@
+ Source URL: https://mis.kiet.edu.pk/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+© Powered KIET MIS Department
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+>>> OCR: pic03.jpg <<<
+OTHER
+LINKS/INFO
+--------------------
+
+
+>>> OCR: KIET%20LMS.pdf <<<
+Guidelines for using basic features of LMS
+Step 1:
+ Visit https://lms.pafkiet.edu.pk and login as Staff/Faculty.
+(Recommended browsers: Google Chrome & Mozilla Firefox,
+Safari)
+Step 2:
+ Click on My “Current Courses” button.
+Step 3:
+ Click on the course for which you want to share a
+resource, upload assignment or take a quiz etc.
+Step 4:
+ Click the green button at the top to Turn Editing On.
+Step 5:
+ Click on “Add an activity or resource” button (Click the
+button inside the current week).
+Step 6:
+ Click the appropriate activity which you want to
+provide to students (Assignment, Quiz, File etc.)
+Step 7:
+ Fill the required fields accordingly and click on “Save
+and return to course” button.
+Step 7:
+ Fill the required fields accordingly and click on “Save
+and return to course” button.
+ The resource/activity will be visible to all students
+of the class.
+ To share a YouTube video/external link scroll down
+and select URL and then click Add
+ Enter the Name, Description and Paste the link of
+YouTube Video.
+ Click on Appearance and then select Embed from
+Display dropdown and click Save and return to
+course.
+ If teacher wants to inform about the uploaded
+Assignment/Quiz/File/Video Link etc the he/she may send an Email or
+SMS from Main Dashboard or he/she may announce about it during
+live session on Zoom, Facebook or WhatsApp.
+ Please watch the following Videos to learn more about
+using LMS (Moodle).
+ https://www.youtube.com/watch?v=EtVse7rIOAY
+(Uploading Videos on YouTube and then Embedding them in LMS)
+ https://www.youtube.com/watch?v=ovXY-jc5nys&feature
+(Changing Course Start Date on LMS )
+ https://www.youtube.com/watch?v=iLPVsqJYjzk
+(How To Import A Quiz From Word Document To Moodle)
+Important Note: Moodle Software has different versions so few options may look
+differently or appear slightly different. For any help please contact MIS team or send an
+email to lms@pafkiet.edu.pk
+--------------------
+
+
+>>> OCR: pic01.jpg <<<
+STUDENT
+LINKS
+--------------------
+
+
+>>> OCR: pic02.jpg <<<
+STAFF/FACULTY
+LINKS
+--------------------
+
+
+>>> OCR: Submitting%20Assignment%20on%20LMS.pdf <<<
+Submitting Assignment on LMS
+After login, click on Current Courses Button.
+In the course overview window click on the course for which assignment submission is required.
+Assignment link will be shown on the course page. Click the link to submit assignment.
+Click on Add Submission Button.
+Click the button with a small plus or click anywhere on the area with Big Blue Down Arrow.
+Click Choose File and select the Assignment Solution file to submit and then click Upload This File
+button.
+Finally click Save Changes button to complete your submission.
+--------------------
+
+
+ --- LINKS FOUND ---
+http://kiet.edu.pk
+https://mis.kiet.edu.pk/index.html
+http://lms.kiet.edu.pk/kietlms/
+http://lms.kiet.edu.pk/kietlms/my/STUDENTS_OPINION_POLL.php
+http://lms.kiet.edu.pk/kietlms/my/course_registration/index.php
+http://lms.kiet.edu.pk/kietlms/my/pwemail/identify.php
+http://misapp.kiet.edu.pk:81/forms/frmservlet?config=staffnet
+https://mis.kiet.edu.pk/downloads/jre-1_5_0_1.exe
+https://mis.kiet.edu.pk/downloads/chromeinstall-6u29.exe
+https://lms.kiet.edu.pk/asm/main_login.php
+http://cms.kiet.edu.pk/kietlms/
+https://kiet.edu.pk/mis/files/Online%20Classes%20With%20Zoom.pptx
+https://kiet.edu.pk/main/policies/#compolicy
+http://kiet.edu.pk/main/policies/#compolicy
+https://lms.kiet.edu.pk/kietlms/my/Degree_verification/index.php
+https://cms.kiet.edu.pk/kietlms/my/hec/form/hec1.php

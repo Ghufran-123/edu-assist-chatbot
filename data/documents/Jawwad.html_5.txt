@@ -1,0 +1,17 @@
+ Source URL: https://iccis.kiet.edu.pk/Jawwad.html#importantdates
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Dr. Jawwad Shamsi
+Dr. Jawwad Shamsi
+Talk Title:
+"Applications of Artificial Intelligence in Education Technologies"
+"Education technologies (Edtech) involves utilizing integrated computing technologies to enhance learning and support education. Considering the massive problems in our education system such as issues in assessing educational contents, challenges in delivery of educational lectures, lack of infrastructure, increasing illiteracy, disruptions due to COVID-19,  and untrained teachers, there is an immediate need to utilize Artificial Intelligence (AI) to enhance edtech and support education. This talk is focused on explaining different AI-based solutions, which could be integrated with edtech technologies and strengthen learning. The talk will follow a problem-centric approach in which different challenges  in education will be discussed and AI-based solutions will be explained, which can be used to cater these challenges. "
+Back
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

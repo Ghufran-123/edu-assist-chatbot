@@ -1,0 +1,32 @@
+ Source URL: https://cocis.kiet.edu.pk/ictrnd-fund/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+ICT R&D Fund
+The award of a University Medal recognises the achievement of outstanding academic results throughout the student’s program of study.
+CoCIS Award Winning Projects
+Project Title
+Supervisor Name
+E-Voting System
+Dr. Muhammad Affan Alim
+Establishment of Volunteer Computing Test Bed and Performance Evaluation of Scheduling Policies
+Dr. Muhammad Khalid Khan
+Bio-Medical Application using Body Area Network Sensors
+Mr. Abdul Rehman Qaim Khan
+Home Automation Control System
+Mr. Kashif Bashir
+Interactive White Board using Kinect Gesture Motion
+Mr. Abdul Rehman Qaim Khan
+Quran Analytic Mobile Application
+Dr. Tariq Mahmood
+Android base Route Tracer Simulation
+Mr. Kashif Bashir
+Secure & Robust IRIS Recognition
+Mr. Affan Alim
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

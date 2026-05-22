@@ -1,0 +1,57 @@
+ Source URL: https://kiet.edu.pk/php-developer-full-stack-las/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+PHP Developer- Full Stack- LAS
+Position Title:
+PHP Developer- Full Stack
+Location of Workstation: Karachi-Sindh
+Type of Job: Contractual
+Skills & Expertise Required:
+Integration of user-facing elements developed by front-end developers
+Build efficient, testable, and reusable PHP modules
+Have Experience in ERP Development Modules Like procurement, Financial, HR, and Payroll. Projects
+Solve complex performance problems and architectural challenges
+Integration of data storage solutions {may include databases, key-value stores, blob stores, etc.}
+Work on API development, integration of third-party APIs, and implementation
+Strong knowledge of PHP web frameworks {such as Laravel, Yii, etc depending on your technology stack}
+Understanding the fully synchronous behavior of PHP
+Understanding of MVC design patterns
+Have Knowledge of Business Analysis and design
+Basic understanding of front-end technologies, such as JavaScript, HTML5, and CSS3
+Knowledge of object oriented PHP programming
+Understanding accessibility and security compliance {Depending on the specific project}
+Strong knowledge of the common PHP or web server exploits and their solutions
+Understanding fundamental design principles behind a scalable application
+User authentication and authorization between multiple systems, servers, and environments
+Integration of multiple data sources and databases into one system
+Familiarity with SQL/NoSQL databases and their declarative query languages
+Proficient understanding of code versioning tools, such as Git
+Programming/ Scripting Languages
+NET
+VB 6.0
+ASP .NET
+PHP (7 & 8)
+JavaScript
+Jquery
+React JS
+HTML 5
+CSS, CSS 3, Jomla
+Laravel (v7 & v8)
+Custom Coding WordPress
+EEO Statement:
+Integrated into our shared values is LAS’s commitment to diversity and equal employment opportunity. All qualified applicants will receive consideration for employment regardless of sex, age, race, color, creed, religion, disability, sexual orientation, gender identity, or any other characteristics or conduct protected by law. LAS is committed to being an inclusive organization where all people are treated fairly, recognized for their individuality, promoted based on performance and encourage to strive to reach their full potential. We believe in understanding and respecting differences among all people. Every individual at LAS has an ongoing responsibility to respect and support a diverse environment.
+Application Process
+Interested candidates may send their CV and cover letter at hr@las.org.pk latest by 20th January, 2023 by mentioning “
+PHP Developer- Full Stack”
+in the subject line.
+Only Shortlisted candidates will be called for test and interview.
+The organization reserves the right to reject any or all applications.
+For further information please visit http//www.las.org.pk.
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

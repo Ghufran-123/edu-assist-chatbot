@@ -1,0 +1,211 @@
+ Source URL: https://cocis.kiet.edu.pk/research-publications/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Research & Publications
+Some of the recent research publication of the faculty and students of the College of Computing & Information Sciences are given below:
+Research and Publications
+Name of Author
+Title of Paper
+Name of Journal/Conference with Details of Publications
+SALMAN AHMED KHAN
+Goal Programming-Based Two-Tier Multi-Criteria Decision-Making Approach for Wind Turbine Selection
+Applied Artificial Intelligence, Volume 33, Issue 1 (2019)
+MAAZ BIN AHMED
+Implementation of Insider Threat Detection System Using Honeypot Based Sensors and Threat Analytics
+Future of Information and Communication Conference (2019)
+MUHAMMAD TAHA JILANI
+Skin depth verification of the electromagnetic waves for hydrocarbon detection
+International Journal of Applied Electromagnetics and Mechanics 2019
+FARAZ IDRIS KHAN
+Understanding Security Requirements and Challenges in Internet of Things (IoT): A Review
+Journal Comp. Netw. and Communications (2019)
+ABDUL WAHAB KHAN
+Achieving High Availability in Cloud through Live Migration
+KIET Journal of Computing & Information Sciences Volume 2 Issue 1 Jan – June 2019
+SHAH MUHAMMAD EMADUDDIN
+Robust Feature Extraction Techniques in Speech Recognition: A Comparative Analysis
+International Conference on Computing & Information Sciences 2019
+SOHAIL IMRAN
+Mining Diagnostic Investigation Process
+International Conference on Future Information Technology and Management Engineering (2019)
+HIRA BEENISH
+Efficient V2G Model on Smart Grid Vehicles Using AI
+IEEE GPECOM 2019
+HIRA BEENISH, MUHAMMAD FAHAD
+5G A REVIEW ON EXISTING TECHNOLOGIES
+iCOMET 2019
+HIRA BEENISH
+Design and Implementation of an android app controlled Fire Fighting Robot
+IEEC-2019 Ned University Engineering & technology
+HIRA BEENISH
+Improving Descriptive Writing Through Modeling At Middle Level
+Book Chapter https://www.morebooks.shop/bookprice_offer_b4534a2df422abdf365a3ab66e05ac476b04aec7 2019
+AFSHAN SAAD
+Cloud computing A paradigm of more insider threats
+International Conference on Computing System Engineering 2019
+AFSHAN SAAD
+Comparison of Manual testing and automation testing.
+ICSOFT 2019
+AFSHAN SAAD
+Assistive Technology In HCI benefit
+Women in Software Engineering @ the 13th European Conference on Software Architecture (ECSA 2019) and the 23rd Systems and Software Product Line Conference (SPLC 2019)
+SALMAN AHMED KHAN
+Application of swarm intelligence algorithms to multi-objective distributed local area network topology design problem
+Book chapter in “Swarm Intelligence – Volume 3” by prestigious IET (2018)
+MUHAMMAD KHALID KHAN
+Information Processing in Event Web through Detection and Analysis of Connections between Events
+International Journal of Advanced Computer Science and Applications 2018
+Muhammad Khalid Khan
+Cluster Analysis of Pakistani Terrorism Events to Support Counterterrorism
+Societies 2018
+MOHAMMAD AFFAN ALIM
+The most discriminant sub bands for face recognition: A novel information-theoretic framework
+International Journal of Wavelets, Multiresolution and Information Processing (2018)
+MUHAMMAD TAHA JILANI
+Effects of defected ground structure slot tuning on frequency and circuit parameters of bandpass filter
+JOURNAL OF OPTOELECTRONICS AND ADVANCED MATERIALS (2018)
+M. Taha. Jilani et.al
+An Implementation of IoT-based Microwave Sensing System
+Microelectronics Journal 2018, ISI indexed, JCR Impact factor: 1.163
+MUHAMMAD TAHA JILANI
+An Integrated System for the Issuance of e-Passports
+7th International Conference on Advances in Computing, Electronics and Communication-ACEC2018
+HIRA ANWAR KHAN
+Usability Evaluation Methods for Jurassic Carnival
+In Proceedings of 3rd International Conference on Recent Trends in Computer Science and Electronics, Thailand (2018)
+HIRA ANWAR KHAN
+Usability Evaluation Method through SUS Analysis for Coin Party
+International Journal of Pure and Applied Mathematics Volume 118 No. 9 2018, 171-181
+SHAH MUHAMMAD EMADUDDIN
+Multi-Class Emotion Detection (MCED) using Textual Analysis
+International Journal of Advanced Computer Science and Applications 2018
+MUHAMMAD NAVEED
+Performance Evaluation of Unmanned Aerial Vehicles for Video based Surveillance Application
+KIET JOURNAL OF COMPUTING AND INFORMATION SCIENCES, vol 1, issue 1, July-Dec 2018.
+MUHAMMAD AYUB LATIF, KASHIF BASHIR
+Practices for Achieving Accuracy in Software Costing and Estimation
+KIET JOURNAL OF COMPUTING AND INFORMATION SCIENCES, vol 1, issue 1, July-Dec 2018.
+HIRA BEENISH
+ROLE OF ICT IN FOSTERING THE PERFORMANCE OF EDUCATION SECTOR OF AFRICA
+Research Article in EAI International Conference for Research, Innovation and Development for Africa 2018
+HIRA BEENISH
+The Role of SEO Techniques to Enhanced Performance and Improved Ranking for Intelli-Web Shop
+International Conference on Computing & Information Sciences (2018)
+M. Taha. Jilani et.al
+Pilot-Based Time Domain SNR Estimation for Broadcasting OFDM Systems
+Journal of Computer Networks and Communications 2018
+Maaz Bin Ahmad, Muhammad Asif, Imtiaz A Taj, Muhammad Tahir
+A Generalized Multi-Layer Framework for Video Coding to Select Prediction Parameters
+IEEE Access, 2018
+M. Taha. Jilani et.al
+Enhanced Security Mechanism for Emerging Home Area Networks
+The International Conference on Information Technologies, Kaunas (2018)
+Maaz Bin Ahmad, Iftikhar ul Sami, Muhammad Asif, Rafi Ullah
+DoS/DDoS Detection for E-Healthcare in Internet of Things
+International Journal Of Advanced Computer Science And Applications, Vol 9, issue 1, 2018
+Muhammad Fahad
+Heart Diseases Prediction using Data Mining and its Techniques- A Survey
+International Conference on Computing & Information Sciences 2018
+Maaz Bin Ahmed, Rafi Ullah, Syed Ali Hassan, Muhammad Asif
+Prediction type decision for advanced video coding: A machine learning approach
+Sci.Int.(Lahore) (2017)
+Maaz Bin Ahmad, Syed Ali Hassan, Imran Ul Haq, Muhammad Asif, Moeen Tayyab
+An Efficient Scheme for Real-time Information Storage and Retrieval Systems: A Hybrid Approach
+INTERNATIONAL JOURNAL OF ADVANCED COMPUTER SCIENCE AND APPLICATIONS, Vol.8, issue 8, pp-427-431. 2017
+Muhammad Khalid Khan, Muhammad Taha Jilani, Maaz Bin Ahmed, Muhammad Ahmed
+AGENT-BASED ARCHITECTURE FOR ENTERPRISE-WIDE DATA INTEGRATION
+Sci.Int.(Lahore),29(1),107-111,2017
+Muhammad Taha Jilani, Muhammad Khalid Khan, Maaz Bin Ahmed, Mobeen Khan,
+A security framework for wireless body area network based smart healthcare system
+International Conference for Young Researchers in Informatics, Mathematics and Engineering, CEUR–WS Press.pp.80-85, 2017
+Khurum Nazir Junejo, Muhammad Azmi Umer, Aditya Mathur, Sridhar Adepu
+Integrating Design and Data Centric Approaches to Generate Invariants for Distributed Attack Detection
+Proceedings of the 2017 Workshop on Cyber-Physical Systems Security and Privacy ACM
+Khurum Nazir Junejo
+Distribution Shift Resilient Discrimination Information Space for SVM Classification
+The 8th IEEE Annual Information Technology, Electronics and Mobile Communication Conference (2017) IEEE
+M. Taha. Jilani , A. M. Khan, V. Jeoti
+Noise Power Estimation for Broadcasting OFDM Systems
+30th IEEE Canadian Conference on Electrical and Computer Engineering (IEEE CCECE 2017), Windsor, Ontario, Canada
+Khurum Nazir Junejo, Iftikhar ul Sami
+Predicting Future Gold Rates using Machine Learning Approach
+International Journal of Advanced Computer Science and Applications (IJACSA) (2017) The Science and Information (SAI) Organization (Volume 8 – Number 12) 2017
+M. Taha. Jilani, S Rizvi, A Aziz, N Armi, G Muhammad, SH Butt
+An investigation of energy efficiency in 5G wireless networks
+IEEE International Conference on Circuits, System and Simulation (ICCSS 2017), London, UK, 2017
+Muhammad Yaseen Khan, Khurum Nazir Junejo, Shah Muhammad Emaduddin,
+Harnessing English Sentiment Lexicons for Polarity Detection in Urdu Tweets: A Baseline Approach
+11th International Conference on Semantic Computing 2017 (IEEE)
+Muhammad Taha Jilani, Muhammad Khalid Khan, Asad Abbas
+Comparative Analysis Of Wireless Technologies For Internet-of-Things Based Smart Farm Science International
+Journal, ISI Indexed, HEC-recognized, 2017
+Muhammad Khalid Khan, et. al.
+Using Predictive Analytics for Predicting Host Availability in Desktop Grids
+Volume 10, Issue 1 (2017), Page 245 – 254, International Journal of Grid and Distributed Computing. (ISI Indexed)
+Muhammad Khalid Khan, et. al.
+Scheduling in Desktop Grid Systems: Theoretical Evaluation of Policies and Frameworks
+Volume 8, Issue 1 (2017), Page 119 – 127,International Journal of Advanced Computer Science and Applications. (ISI Indexed)
+M. Taha. Jilani
+A Security Framework for Wireless Body Area Network based Smart Healthcare System
+Joint International Conference on Information Technologies, Kaunas, Lithuania, 2017 (accepted)
+Muhammad Asif, Maaz Bin Ahmad, Rafiullah and Syed Ali Hassan
+PREDICTION TYPE DECISION FOR ADVANCED VIDEO CODING
+A MACHINE LEARNINGAPPROACH. Sci.Int.,29(1),59-63,2017. (ISI indexed)
+M. Taha. Jilani
+Noise Power Estimation for Broadcasting OFDM Systems
+30th IEEE Canadian Conference on Electrical and Computer Engineering (IEEE CCECE 2017), Windsor, Ontario, Canada (accepted)
+Muhammad Khalid Khan, et. al.
+A Group based Fault Tolerant Scheduling Mechanism to Improve the Application Turnaround Time on Desktop Grids
+Volume 13, Issue 2 (2016), Page 274-280, International Arab Journal of Information Technology. (Impact Factor: 0.582)
+M. Taha. Jilani
+A Cyclic Correlation-Based Time Domain Channel Estimation Scheme.
+IEEE 6th International Conference on Intelligent and Advanced Systems (ICIAS), Malaysia, 2016.
+Muhammad Khalid Khan, Danish Faiz
+Evaluating the Impact of Client based CPU Scheduling Policies on the Application’s Performance in Desktop Grid Systems
+Volume 16, Issue 12 (2016), Page 144-148, International Journal of Computer Science and Network Security. (ISI Indexed)
+Muhammad Taha Jilani
+Non-destructive characterization of dielectric materials by microwave spectroscopy in LS band
+J. Optoelectron. Adv. M., 18(5-6), 587-592, 2016 (IF = 0.383)
+Muhammad Asif, Imtiaz A.Taj, S.M Ziauddin, Maaz Bin Ahmad and Atif Raza
+An efficient inter prediction mode selection scheme for advanced video coding based on motion homogeneity and residual complexity
+IEEJ Transactions on Electrical and Electronic Engineering, 2016 (I.F 0.212).
+Maaz Bin Ahmad, Muhammad Fahad, Abdul Wahab Khan, and Muhammad Asif
+Toward Securing Medical Document from Insider Attacks
+International Journal of Advanced Computer Science and Applications (IJACSA), 2016. (ISI Indexed).
+Faizan Jawaid, and Khurum Nazir Junejo
+Predicting Daily Mean Solar Power Using Machine Learning Regression Techniques
+Accepted in 6th International conference on Innovative Computing Technology (INTECH) 2016, Ireland.
+Khurum Nazir Junejo, Asim Karim, Malik Tahir Hassan, and Moongu Jeon
+Terms-based Discriminative Information Space for Robust Text Classification
+Information Sciences. 372: 518-538, 2016 Journal impact factor 3.364
+Khurum Nazir Junejo, and Jonathan Goh
+Behavior-Based Attack Detection and Classification in Cyber Physical Systems Using Machine Learning
+ACM Cyber-Physical System Security Workshop, 11th ACM Asia Conf. on Computer & Communications Security (ASIACCS) 2016, China. A* in CORE ranking.
+Jonathan Goh, Sridhar Adepu, Khurum Nazir Junejo and Aditya Mathur
+A Dataset to Support Research in the Design of Secure Water Treatment Systems
+Accepted in proceedings of the 11th International Conference on Critical Information Infrastructures Security (CRITIS), 2016, France. C in CORE ranking
+Maaz Bin Ahmad, Muhammad Fahad, Abdul Wahab Khan, and Muhammad Asif
+A First Step toward Reducing Insider Threats in Government Organization
+International Journal of Computer Science and Network Security (IJCSNS), 2016. (ISI Indexed)
+Emaan Abdul Majeed, and Khurum Nazir Junejo
+Grade Prediction Using Supervised Machine Learning
+4th Global Summit on Education, 2016, Malaysia
+Farooq Ahmed Zuberi, Shankar Khatri, and Khurum Nazir Junejo
+Dynamic Gesture Recognition using Machine Learning Techniques and Factors Affecting its Accuracy
+Accepted in 6th International conference on Innovative Computing Technology (INTECH) 2016, Ireland.
+College of Computing & Information Sciences takes pride in claiming that students and faculty of graduate program have published more than 150 international and national papers in national and international journals and conferences:
+Year
+No. of Publication
+2019
+2018
+2017
+2016
+2015
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

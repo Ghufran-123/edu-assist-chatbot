@@ -1,0 +1,14 @@
+ Source URL: https://kiet.edu.pk/pcc-challenge-2022/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+PCC challenge 2022
+National Center for Cyber Security arranged a national-level challenge with the title, Pakistan Cyber Security (PCC) challenge 2022. Two teams from KIET College of Computing and Information Sciences (CoCIS) participated in Catch the Flag (CTF) challenge. One team qualified and was invited to Air University to compete in onsite challenges. The team finished among the top 10 positions from all over Pakistan. Another team with a single member, Muhammad Tayyab also participated in another competition, Challenge for Ideas Cup. Tayyab competed amongst other teams from different universities and startups across Pakistan and secured 2nd position with prize money of Rs 100,000/-.
+Well done KIETIANS for an impressive performance.
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

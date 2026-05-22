@@ -1,0 +1,44 @@
+ Source URL: https://kjcisjournal.kiet.edu.pk/index.php/kjcis/OpenAccessPolicy
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Open Access Policy
+This journal provides immediate open access to all published content, ensuring free and unrestricted access to research without subscription or registration requirements.
+All articles are published under the Creative Commons Attribution License (CC BY 4.0), which permits users to read, download, copy, distribute, remix, transform, and build upon the work for any purpose, provided appropriate credit is given to the original author(s) and the original source.
+Copyright and Licensing Policy
+This page explains the
+KIET Journal of Computing and Information Sciences (KJCIS)
+approach to copyright ownership, licensing, permissions, and reuse of published content.
+Copyright Ownership
+Authors retain the copyright of their published work. Upon acceptance for publication, authors grant KJCIS a non-exclusive license to publish, reproduce, distribute, and communicate the article in both print and online formats.
+Open License
+KJCIS publishes articles under the
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+license. This license allows unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.
+Where specific funding body, institutional, or national mandates require a different Creative Commons license, authors should inform the editorial office at the time of manuscript submission.
+Permissions for Third-Party Material
+Authors are responsible for obtaining written permission to reproduce any third-party material, including figures, tables, images, or substantial text extracts, that are not covered by the article’s license.
+Evidence of permission must be provided during manuscript submission. All third-party material must be clearly acknowledged and appropriately credited within the manuscript.
+Self-Archiving and Author Rights
+Authors are permitted to self-archive preprints, accepted manuscripts, and the final published version of their articles in institutional repositories, subject repositories, or personal websites, in accordance with the terms of the CC BY 4.0 license.
+When depositing articles, authors are encouraged to include the full citation details and the Digital Object Identifier (DOI) of the published version.
+License Changes and Versioning
+KJCIS may update its licensing policies from time to time. Any such changes will be publicly announced on the journal website. Licensing terms for previously published articles remain unchanged unless otherwise agreed with the authors.
+Attribution and Citation
+Proper attribution of published articles should include the following elements:
+Author(s) name(s)
+Article title
+Journal title (KJCIS)
+Volume and issue number
+Page range
+Year of publication
+Digital Object Identifier (DOI)
+Contact for Permissions and Queries
+For permission requests, licensing clarifications, or copyright-related queries, please contact the Editorial Office of KJCIS with complete article details and a clear description of the request.
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

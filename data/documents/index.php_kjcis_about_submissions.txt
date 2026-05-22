@@ -1,0 +1,54 @@
+ Source URL: https://kjcisjournal.kiet.edu.pk/index.php/kjcis/about/submissions
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Submissions
+Submissions
+Login
+Register
+to make a submission.
+Author Guidelines
+The authors may submit manuscripts abiding by the following rules:-
+Certify that the paper is original and is not under consideration for publication in
+any other journal. Please mention so, in case it has been submitted elsewhere.
+Adhere to normal rules of business or research writing. Font style be 12 points
+and the length of the paper can vary between 3000 to 5000 words.
+Illustrations/tables or figures should be numbered consecutively in Arabic
+numerals and should be inserted appropriately within the text.
+The title page of the manuscript should contain the Title, the Name(s), email
+address and institutional affiliation, an abstract of not more than 200 words
+should be included. A footnote on the same sheet should give a short profile of
+the author(s).
+Full reference and /or website links should be given in accordance with the APA
+citation style. These will be listed as separate sections at the end of the paper in
+the bibliographic style. References should not exceed 50.
+All manuscripts would be subjected to tests of plagiarism before being peer-reviewed.
+All manuscripts go through a double-blind peer-review process.
+The Journal does not have any article processing and publication charges.
+Submit your manuscript in KJCIS format.
+Download Manuscipt Template
+Submission Preparation Checklist
+All submissions must meet the following requirements.
+The submission has not been previously published, nor is it before another journal for consideration (or an explanation has been provided in Comments to the Editor).
+The submission file is in OpenOffice, Microsoft Word, or RTF document file format.
+Where available, URLs for the references have been provided.
+The text is single-spaced; uses a 12-point font; employs italics, rather than underlining (except with URL addresses); and all illustrations, figures, and tables are placed within the text at the appropriate points, rather than at the end.
+The text adheres to the stylistic and bibliographic requirements outlined in the Author Guidelines.
+Articles
+Section default policy
+Copyright Notice
+Copyright Notice
+Copyright of all the submissions to the KIET Journal of Computing & Information Science will remain to the contributors.
+Anyone is allowed to distribute, remix, tweak, and build upon his/her work, even commercially, as long as it is credited/cited to the original contributors of the KIET Journal of Computing & Information Science.
+Privacy Statement
+All rights reserved. No part of this publication may be produced, translated or stored in a retrieval
+system or transmitted in any form or by any means; electronic, mechanical, photocopying and/
+or otherwise the prior permission of publication authorities.
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---
+http://kjcis.pafkiet.edu.pk/index.php/kjcis/libraryFiles/downloadPublic/1

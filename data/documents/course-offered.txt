@@ -1,0 +1,1751 @@
+ Source URL: https://dasr.kiet.edu.pk/course-offered/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Fall 2024
+Spring 2024
+SNo
+Title
+Instructor
+Degree
+Time, Day, Venue
+Probability and Stochastic Processes
+Dr. Razia Maroof
+EE (Core)
+Sat 0930 to 1230
+Natural Language Processing
+Dr. Sohail Imran
+EE, CS
+Sat 0930 to 1230
+Advanced Project Management
+Dr. Umaima Hani
+Sat 0930 to1230
+Research Methodologies
+Dr. Salman Khan
+EE, CS
+Sat 1230 to1530
+Advanced Analysis of algorithms
+Dr. Noman Hassany
+CS (Core)
+Sun 0930 to 1230
+Reconfigurable Computing
+Dr. Husain Parvez
+EE, CS
+Sun 0930 to1230
+Artificial Neural Networks
+Dr. Imran Naseem
+EE, CS
+Sun 1230 to1530
+DLT and Blockchain
+Dr. Muhammad Khalid Khan
+Sun 1230 to1530
+* All dasr classes will be held at Main Campus in Spring 2024. * Courses with less than 5 students may be cancelled.
+Fall 2021
+SNo
+Title
+Instructor
+Degree
+Time, Day, Venue
+Drone Networks and Communications
+Dr. Muhammad Naveed
+EE, CS
+Information Theory and Coding
+Dr. Sameer Qazi
+EE, CS
+Thur 1800 to 2100
+Selected topics in Control Engineering-1
+Dr. Muhammad Bilal Kadri
+Information Security
+Dr. Maaz Ahmed
+EE, CS
+Tue 1800 to 2100
+Pervasive Computing
+Dr. Muhammad Taha Gillani
+Advanced Distributed Systems
+Dr. Khalid Khan
+Introduction to Nature Inspired Algorithms
+Dr. Salman A Khan
+CS, EE
+Sun 1200 to 1500
+Advanced Computer Architecture
+Dr. Husain Parvez
+CS (Core), EE
+Wed 1800 to 2100
+Advanced Operating System
+Dr. Muhammad Mazhar Iqbal
+CS (Core)
+Machine Learning
+Dr. Affan Alim
+CS, EE
+Sun 0900 to 1200
+Special topics in Machine Learning
+Dr. Imran Naseem
+CS, EE
+Sun 0900 to 1200
+Convex Optimization for Signal Processing
+Dr. Muhammad Arif
+Sun 0900 to 1200
+* All dasr classes will be held at City Campus in Fall 2021. * Courses with less than 5 students may be cancelled.
+Spring 2021
+SNo
+Title
+Instructor
+Degree
+Time, Day, Venue
+Adv. Theory of Computation
+Dr. Affan Alim
+CS (Core)
+1200-1500, Sat
+Adv. Advanced FPGA Based Systems Design
+Dr. Muhammad Mazhar Iqbal
+EE, CS
+1200-1500, Sat
+Mathematical Methods for Engineers and Scientists
+Dr. Muhammad Bilal Kadri
+EE (Core)
+1600 – 1900, Sat
+Advanced Algorithm Analysis
+Dr. Salman A Khan
+CS (Core)
+1600 – 1900, Sat
+Mobile Data Networks
+Dr. Maaz Ahmed
+0900 – 1200, Sun
+Artificial Neural Networks
+Dr. Imran Naseem
+0900 – 1200, Sun
+Advanced Communication Networks
+Dr. Muhammad Taha Jilani
+1200 – 1500, Sun
+Probability and Stochastic Processes
+Dr. Sameer Kazi
+EE (Core)
+1200 – 1500, Sun
+Reconfigurable Computing
+Dr. Husain Parvez
+EE, CS
+1200 – 1500, Sun
+Distributed Ledger Technology and Blockchain
+Dr. Khalid Khan
+1500 – 1800, Sun
+* All dasr classes will be held at Main Campus in Spring 2021. Free transport service will be available from City to Main Campus. * Courses with less than 5 students may be cancelled.
+Fall 2020
+SNo
+Title
+Instructor
+Degree
+Time, Day, Venue
+Fundamental Design Concepts of Analog IC Design (AICD 1)
+Dr. Syed Arsalan Jawed
+1600 – 1900,
+Thur (R
+36)
+Advanced Operating Systems
+Dr. Muhammad Mazhar Iqbal
+CS Core Course
+1200 – 1500, Sat (R 78)
+Linear Systems Theory
+Dr. Muhammad Bilal Kadri
+EE Core Course
+1600 – 1900, Sat (R 78)
+Swarm Intelligence: Theory and Applications
+Dr. Salman Ahmed
+EE, CS
+1600 – 1900, Sat (R 77)
+Pattern Classification
+Dr. Imran Naseem
+0900 – 1200, Sun (R 36)
+Information and Network Security
+Dr. Maaz Bin Ahmed
+0900 – 1200, Sun (R 78)
+Advanced Computer Architecture
+Dr. Husain Parvez
+EE,
+CS Core Course
+1200 – 1500, Sun (R 77)
+Network Simulation
+Dr. Sameer Hashmat
+EE, CS
+1200 – 1500, Sun (R 78)
+Internet of Things
+Dr. Muhammad Taha
+1200 – 1500, Sun (R 36)
+Advanced Distributed Systems
+Dr. Muhammad Khalid Khan
+1500 – 1800, Sun (R 77)
+* All dasr classes will be held at Main Campus in Fall 2020. Free transport service will be available from City to Main Campus. * Courses with less than 5 students may be cancelled.
+Spring 2020
+SNo
+Title
+Instructor
+Course for Degree
+Timing & Day
+CMOS Readout Interfaces for Bio-Sensors
+Dr. Arsalan Javed
+1500 – 1800 Thursday
+Advanced Algorithm Analysis
+Dr. Salman Ahmed
+CS Core course
+1530 – 1830 Saturday
+Advanced Robotics
+Dr. Muhammad Bilal Kadri
+EE, CS
+1530 – 1830 Saturday
+Mobile Data Networks
+Dr. Maaz
+0900 – 1200 Sunday
+Advanced Computer Architecture
+Dr. Husain Parvez
+EE,CS
+(CS Core course)
+0900 – 1200 Sunday
+Artificial Neural Networks
+Dr. Imran Naseem
+0900 – 1200 Sunday
+Advanced Theory of Computation
+Dr. Affan Alim
+CS Core course
+1200 – 1500 Sunday
+Information Theory and Coding
+Dr. Sameer Qazi
+EE, CS
+1200 – 1500 Sunday
+Pervasive computing
+Dr. Taha Jillani
+1500 – 1800 Sunday
+Distributed Ledger Technologies and Block chain
+Dr. Khalid Khan
+1500 – 1800 Sunday
+* All dasr classes will be held at Main Campus in Spring 2020. Free transport service will be available from City to Main Campus. * Courses with less than 5 students may be cancelled.
+Fall 2019
+SNo
+Title
+Instructor
+Course for Degree
+Timing & Day
+Advanced Communication Networks
+Dr. Muhammad Taha
+1815 – 2100 Tuesday
+FPGA-based Systems Design
+Dr. Husain Parvez
+EE, CS
+1815 – 2100 Tuesday
+Information & Network Security
+Dr. Maaz Bin Ahmed
+1815 – 2100 Wednesday
+Network Performance Analysis
+Dr. Sameer Qazi
+EE, CS
+1815 – 2100 Thursday
+Advanced Research Methodologies
+Dr. Salman Khan
+1815 – 2100 Friday
+Topics in Networks Research
+Dr. Kamran Nishat
+1815 – 2100 Friday
+Selected Topics in Control Engineering-I
+Dr. M. Bilal Kadri
+1815 – 2100 Friday
+Advanced Wireless Communication
+D. Sarmad Shaikh
+1815 – 2100 Friday
+GPGPU Programming
+Dr. Ayaz Khan
+CS, EE
+1500 – 1800 Saturday
+Pattern Classification
+Dr. Imran Naseem
+0900 – 1200 Sunday
+Digital Integrate Circuit
+Dr. Arsalan Javed
+To be decided
+MS ELECTRONICS
+CIDs
+CNO
+Course
+Instructor
+Schedule
+102820
+6514
+Tuesday
+102821
+7017
+102822
+7516
+102823
+7518
+102824
+6956
+Sunday-I
+MS COMPUTER SCIENCE
+CIDs
+CNO
+Course
+Instructor
+Schedule
+102825
+7018
+Tuesday
+102826
+7019
+102821
+7017
+102827
+7517
+Advanced Research Methodologies
+Dr. Salman Khan
+Friday
+102828
+7319
+Topics in Networks Research
+Dr. Kamran Nishat
+Friday
+102829
+7318
+PhD COMPUTER SCIENCE
+CIDs
+CNO
+Course
+Instructor
+Schedule
+102825
+7018
+Advanced Communication Networks
+Dr. Muhammad Taha
+Tuesday
+102826
+7019
+Information & Network Security
+Dr. Maaz Bin Ahmed
+Wednesday
+102821
+7017
+Network Performance Analysis
+Dr. Sameer Qazi
+Thursday
+102827
+7517
+Advanced Research Methodologies
+Dr. Salman Khan
+Friday
+102828
+7319
+Topics in Networks Research
+Dr. Kamran Nishat
+Friday
+102829
+7318
+GPGPU Programming
+Dr. Ayaz Khan
+Saturday-I
+Spring 2019
+S.No
+Title
+Instructor
+Course for which degree program? *
+Timing & Day
+Reconfigurable Computing
+Dr. Husain Parvez
+EE, CS
+1815-2100 Monday
+Internet of things
+Dr. Muhammad Taha
+1815-2100 Tuesday
+Selected topics in Computer Systems Security
+Dr. Maaz bin Ahmed
+1815-2100 Wednesday
+Theory and Applications of Nature-inspired Algorithms
+Dr. Salman Khan
+1815 – 2100 Wednesday
+Network Simulations
+Dr. Sameer Qazi
+EE, CS
+1815-2100 Thursday
+Selected topics in Controls-II
+Dr. Muhammad Bilal Kadri
+1815-2100 Friday
+Advanced Operating System
+Dr. Kamran Nishat
+1815-2100 Friday
+Antennas and Propagation for Wireless Communication
+Dr. Sarmad Sheikh
+1815-2100 Friday
+Parallel Computing
+Dr. Ayaz Khan
+CS, EE
+1500-1800 Saturday
+10.
+Special Topics in Machine Learning (STML)
+Dr. Imran Naseem
+0900-1200 Sunday
+S.No
+Title
+Instructor
+Course for which degree program? *
+Timing & Day
+Dr. Aamir Feroz Shamsi
+0900-1200 Sunday
+Dr. Tariq Jalees
+1815-2100 Monday
+Dr. Atif, Dr. Usman Amin
+1815-2100 Monday
+All classes will be held at City Campus.
+* Or the course can be taken after consultation with course teacher.
+(Last updated on 25th Dec,  2018)
+Fall 2018
+S.No
+Title
+Instructor
+Course for which degree program? *
+Timing & Day
+Advanced Computer Architecture
+Dr. Husain Parvez
+EE, CS
+1815-2100 Monday
+Pervasive Computing
+Dr. Muhammad Taha
+1815-2100 Tuesday
+Mobile Data Networks
+Dr. Maaz bin Ahmed
+1815-2100 Wednesday
+Information Theory and Coding
+Dr. Sameer Qazi
+EE, CS
+1815-2100 Thursday
+Analog Circuit Design
+Dr. Arsalan Javaid
+1815-2100 Thursday
+Adaptive Fuzzy Control
+Dr. Muhammad Bilal Kadri
+1815-2100 Friday
+Topics in Networks Research
+Dr. Kamran Nishat
+1815-2100 Friday
+Advanced Analysis of Algorithm
+Dr. Salman Khan
+1815 – 2100 Friday
+GP GPU Programming
+Dr. Ayaz Khan
+CS, EE
+1500-1800 Saturday
+10.
+Artificial Neural Networks
+Dr. Imran Naseem
+0900-1200 Sunday
+S.No
+Title
+Instructor
+Course for which degree program? *
+Timing & Day
+Theory of leadership
+Dr. Aamir Feroz Shamsi
+0900-1200 Sunday
+Adv. Strategic Marketing
+Dr. Tariq Jalees
+1815-2100 Monday
+Independent Study-1
+Dr. Atif, Dr. Usman Amin
+1815-2100 Monday
+All classes will be held at City Campus. * Or the course can be taken after consultation with course teacher.
+(Last updated on 14st Aug,  2018)
+Spring 2018
+S.No
+Title
+Instructor
+Course for which degree program? *
+Timing & Day
+Advanced Communication Networks
+Dr. M. Taha
+1815-2100 Monday
+FPGA-based Systems Design
+Dr. Husain Parvez
+EE, CS
+1815-2100 Wednesday
+Information & Network Security
+Dr. Maaz
+1815-2100 Wednesday
+Network Performance Analysis
+Dr. Sameer Qazi
+EE, CS
+1815-2100 Thursday
+Advanced Readout Interface Design for Microsensors
+Dr. Arsalan Javaid
+1815-2100 Thursday
+Selected Topics in Control Engineering
+Dr. Muhammad Bilal Kadri
+1815-2100 Friday
+Advanced Theory of Computation
+Dr. Kamran Nishat
+1815-2100 Friday **
+Parallel Computing
+Dr. Ayaz Khan
+CS, EE
+1500-1800 Saturday**
+Pattern Classification
+Dr. Imran Naseem
+0900-1200 Sunday
+Selected Topics on Subthreshold CMOS Circuit Design
+Dr. Arsalan Javaid
+Independent Study
+All classes will be held at City Campus. * Or the course can be taken after consultation with course teacher. ** Day and time might change
+(Last updated on 16th Jan,  2018)
+Fall 2017
+S.No
+Title
+Instructor
+Timing & Day
+Reconfigurable Computing
+Dr. Husain Parvez
+1815-2100 Wednesday
+Mobile Data Networks
+Dr. Maaz
+1815-2100 Wednesday
+Information Theory and Coding
+Dr. Sameer Qazi
+1815-2100 Thursday
+Analog Integrated Circuits
+Dr. Arsalan Javaid
+1815-2100 Thursday
+Linear System Theory
+Dr. Muhammad Bilal Kadri
+1815-2100 Friday
+Internet of Things
+Dr. M. Taha
+1815-2100 Monday
+Special topics in Machine Learning
+Dr. Imran Naseem
+0900-1200 Sunday
+Information Retrieval and Text mining
+Dr. Khurram Junejo
+1815-2100 Tuesday
+All classes will be held at City Campus.
+(Last updated on 31st July,  2017)
+Spring 2017
+S.No
+Title
+Instructor
+Timing & Day
+Advanced Computer Architecture
+Dr. Husain Parvez
+1815-2100 Tuesday
+Selected Topics in Computer Systems Security
+Dr. Maaz
+1815-2100 Wednesday
+RF IC Design
+Dr. Najam Muhammad Amin
+1815-2100 Thursday
+Network Simulations
+Dr. Sameer Qazi
+1815-2100 Thursday
+Adaptive Fuzzy Control
+Dr. Muhammad Bilal Kadri
+1815-2100 Friday
+Pervasive Computing
+Dr. M. Taha
+1815-2100 Friday
+Digital Integrated Circuits
+Dr. Arsalan Javaid
+1500-1800 Saturday
+Artificial Neural Networks
+Dr. Imran Naseem
+0900-1200 Sunday
+10.
+Advanced Analysis of Algorithms
+Dr. Khurram Junejo
+1200-1500 Sunday
+All classes will be held at City Campus.
+(Last updated on 22nd December,  2016)
+Fall 2016
+S.No
+Title
+Instructor
+Timing & Day
+Information & Network Security
+Dr. Maaz
+1815-2100 Tuesday
+FPGA-based Systems Design
+Dr. Husain Parvez
+1815-2100 Tuesday
+Radio Frequency ICs & Systems Design
+Dr. Najam Muhammad Amin
+1815-2100 Wednesday
+Network Performance Analysis
+Dr. Kazi
+1815-2100 Thursday
+Selected topics in Control
+Dr. Muhammad Bilal Kadri
+1815-2100 Friday
+Advanced Communication Networks
+Dr. M. Taha
+1815-2100 Friday
+Microsystems and Smart Sensor Interfaces
+Dr. Arsalan Javaid
+1500-1800 Saturday
+Pattern Classification
+Dr. Imran Naseem
+0900-1200 Sunday
+Machine Learning
+Dr. Khurram Junejo
+1200-1500 Sunday
+All classes will be held at City Campus.
+(Last updated on 28th July,  2016)
+Spring 2016
+S.No
+Title
+Instructor
+Timing & Day
+Theory of Computation
+Dr. Tariq Mehmood
+1815-2100 Monday
+Modeling and Simulation
+Dr. Ghazanfar
+1815-2100 Monday
+Reconfigurable Computing
+Dr. Husain Parvez
+1815-2100 Tuesday
+Radio Frequency Integrated Circuit Design
+Dr. Najam Muhammad Amin
+1815-2100 Wednesday
+Power Electronics Systems II
+Dr. Ishtiaque Ahmed Makda
+1815-2100 Thursday
+Linear Systems Theory
+Dr. Muhammad Bilal Kadri
+1815-2100 Friday
+Analog IC Design
+Dr. Arsalan Javaid
+1500-1800 Saturday
+Artificial Neural Networks
+Dr. Imran Naseem
+0900-1200 Sunday
+Network Simulation
+Dr. S. M. K. Raazi
+1200-1500 Sunday
+All classes will be held at City Campus.
+(Last updated on 15th Jan,  2016)
+Fall 2015
+S.No
+Title
+Instructor
+Timing & Day
+Big Data Analytics
+Dr. Tariq Mehmood
+1815-2100 Monday
+Power Electronics System
+Dr. Ishtiyaq Ahmed Makda
+1815-2100 Monday
+Advanced Computer Architecture
+Dr. Husain Parvez
+1815-2100 Tuesday
+Advanced DSP
+Dr. Ghazanfar Monir
+1815-2100 Wednesday
+Adaptive and Fuzzy Control System
+Dr. M. Bilal Kadri
+1815-2100 Friday
+Digital IC Design
+Dr. Arsalan Javaid
+1500-1800 Saturday
+Pattern Classification
+Dr. Imran Naseem
+0900-1200 Sunday
+Advanced Operating System
+Dr. S. M. K. Raazi
+1200-1500 Sunday
+All classes will be held at City Campus.
+(Last updated on 1st Sep,  2015)
+Spring 2015
+Tentative list of courses.
+S.No
+Title
+Instructor
+Timing & Day
+Data Mining
+Dr. Tariq Mehmood
+1815-2100 Monday
+Reconfigurable Computing
+Dr. Husain Parvez
+1815-2100 Tuesday
+Advance analysis of algorithms
+Dr. Khurram Nazir
+1815-2100 Wednesday
+Advanced Image Processing
+Dr. Ghazanfar Monir
+1815-2100 Thursday
+Selected topics in Controls
+Dr. M. Bilal Kadri
+1815-2100 Friday
+Microsystems and Smart Sensor Interfaces
+Dr. Arsalan Javaid
+1500-1800 Saturday
+Artificial Neural Networks
+Dr. Imran Naseem
+0900-1200 Sunday
+Network Simulation
+Dr. S. M. K. Raazi
+1200-1500 Sunday
+All classes will be held at City Campus.
+(Last updated on 3rd Jan,  2015)
+Fall 2014
+S.No
+Title
+Instructor
+Timing & Day
+Theory of Computation
+Dr. Tariq Mehmood
+1815-2100 Monday
+Power Electronics System
+Dr. Kashif Ishaque
+1815-2100 Tuesday
+FPGA-based System Design
+Dr. Husain Parvez
+1815-2100 Wednesday
+Machine Learning
+Dr. Khurram Nazir
+1815-2100 Thursday
+Linear System Theory
+Dr. Bilal Kadri
+1815-2100 Friday
+Analog IC Design
+Dr. Arsalan Javaid
+1500-1800 Saturday
+Probability and Stochastic Processes
+Dr. Imran Naseem
+0900-1200 Sunday
+Selected topics in WANETs
+Dr. S. M. K. Raazi
+1200-1500 Sunday
+All classes will be held at City Campus.
+(Last updated on 23rd July,  2014)
+Spring 2014
+S.No
+Title
+Instructor
+Timing & Day
+Big Data Analytics
+Dr. Tariq Mehmood
+1815-2100 Monday
+Applied Artificial Intelligence
+Dr. Kashif Ishaque
+1815-2100 Tuesday
+Advanced Computer Architecture
+Dr. Husain Parvez
+1815-2100 Wednesday
+Information retrieval and text mining
+Dr. Khurram Nazir
+1815-2100 Thursday
+Modeling and Simulation
+Dr. Ghazanfar Monir
+0900-1200 Sunday
+Pattern Recognition and Machine Vision
+Dr. Imran Naseem
+1200-1500 Sunday
+Advanced Operating System
+Dr. S. M. K. Raazi
+1200-1500 Sunday
+VLSI System Design
+Dr. Muhammad Mohiuddin
+Monday, Friday
+All classes will be held at City Campus, except for “VLSI System Design” which will be offered at Main Campus in the morning.
+(Last updated on 21st Jan,  2014)
+Fall 2013
+S.No
+Title
+Instructor
+Timing & Day
+Advanced Artificial Intelligence
+Dr. Kashif Ishaque
+1815-2100 Tuesday
+Reconfigurable Computing
+Dr. Husain Parvez
+1815-2100 Tuesday
+Machine Learning
+Dr. Khurram Nazir
+1815-2100 Wednesday
+Data Mining
+Dr. Tariq Mehmood
+1815-2100 Thursday
+Advanced DSP
+Dr. Ghazanfar Monir
+1815-2100 Thursday
+Probablity and Stochastic Processes
+Course Outline)
+Dr. Imran Naseem
+1815-2100 Friday
+Advanced Network Modeling
+Dr. S. M. K. Raazi
+1200-1500 Sunday
+All classes will be held at City Campus.
+Independent studies
+1. Advanced topics in Signal Processing by Dr. Ghazanfar Monir, Main Campus 2. Special topics in Solar Photovoltaic Systems by Dr. Kashif Ishaque, Main Campus
+(Last updated on 1st September,  2013)
+Summer 2013
+S.No
+Title
+Pre-requisite
+Instructor
+Schedule
+Physical Modeling of Solar Cells – 1
+Advanced fundamentals of Semiconductors or Instructor’s consent
+Dr. Mohiuddin
+Network Simulation
+Comm Networks, Datastructures, OOP
+Dr. S.M.K Raazi
+Friday (1800-2100), Sunday (1200-1500)
+(Last updated on 25th June,  2013)
+Spring 2013
+S.No
+Title
+Pre-requisite
+Instructor
+Schedule
+Social Computing
+None
+Dr. Faraz Zaidi
+Monday
+FPGA based Systems Design
+Logic Design, Programming
+Dr. Husain Parvez
+Wednesday
+Advance Image Processing
+Consent of Instructor
+Dr. Ghazanfar Monir
+Thursday
+Advanced Fundamentals of Semiconductors
+None
+Dr. Mohiuddin
+Thursday
+Artificial Neural Networks
+Consent of Instructor
+Dr. Imran Naseem
+Friday
+Special Topics in Wireless Sensor Networks
+Consent of Instructor
+Dr. S. M. K Raazi
+Sunday*
+Semantic Web and Applications
+Consent of Instructor
+Dr. Irfan Hyder
+All classes will be held at City Campus from 1800hrs to 2100hrs except otherwise stated. * Class will be held from 1200hrs to 1500hrs.
+(Last updated on 21st Jan,  2013)
+Fall 2012
+S.No
+Title
+Pre-requisite
+Instructor
+Schedule
+Embedded System Design – EE6801
+Computer Architecture, Computer Progamming
+Dr. Husain Parvez
+Wednesday
+Multimedia Compression – EE6104
+Undergraduate in EE or CS
+Dr. Ghazanfar Monir
+Thursday
+Solar Cells – EE6206
+EE6201
+Dr. Mohiuddin
+Thursday
+Modelling and Simulation of Solar Photovoltaic Systems – EE7706
+Dr. Kashif Ishaque
+Monday
+Data Mining – CS6402
+Probability and Statistics, AI, Databases
+Dr. Faraz Zaidi
+Friday
+Selected Topics in Wireless Adhoc Networks – CS6504
+CS6502
+Dr. S. K. Raazi
+Sunday (9:00 – 12:00)
+Probability and stochastic processes
+Dr. Imran Naseem
+Friday
+EE6801, and EE6104 will be open for CS students as well. Following teachers will offer Independent Studies: 1.       Dr. Ghazanfar Monir (Wavelet-based image processing) 2.       Dr. Imran Naseem (View-based biometrics)
+(Last updated on 2nd August 2012)
+Spring 2012
+S.No
+Title
+Class ID
+Wireless Sensor Networks
+55946
+Reconfigurable Computing
+56120
+Computer Vision and Pattern Recognition
+55944
+High speed compound semiconductor devices
+55943
+Advanced Digital Signal Processing
+55942
+Advanced Artificial Intelligence
+56103
+Advanced Algorithm Analysis
+55945
+Special Topics in Applied Controls
+56104
+Fall 2021
+SNo
+Title
+Instructor
+Degree
+Time, Day, Venue
+Drone Networks and Communications
+Dr. Muhammad Naveed
+EE, CS
+Information Theory and Coding
+Dr. Sameer Qazi
+EE, CS
+Thur 1800 to 2100
+Selected topics in Control Engineering-1
+Dr. Muhammad Bilal Kadri
+Information Security
+Dr. Maaz Ahmed
+EE, CS
+Tue 1800 to 2100
+Pervasive Computing
+Dr. Muhammad Taha Gillani
+Advanced Distributed Systems
+Dr. Khalid Khan
+Introduction to Nature Inspired Algorithms
+Dr. Salman A Khan
+CS, EE
+Sun 1200 to 1500
+Advanced Computer Architecture
+Dr. Husain Parvez
+CS (Core), EE
+Wed 1800 to 2100
+Advanced Operating System
+Dr. Muhammad Mazhar Iqbal
+CS (Core)
+Machine Learning
+Dr. Affan Alim
+CS, EE
+Sun 0900 to 1200
+Special topics in Machine Learning
+Dr. Imran Naseem
+CS, EE
+Sun 0900 to 1200
+Convex Optimization for Signal Processing
+Dr. Muhammad Arif
+Sun 0900 to 1200
+* All dasr classes will be held at City Campus in Fall 2021. * Courses with less than 5 students may be cancelled.
+Spring 2021
+SNo
+Title
+Instructor
+Degree
+Time, Day, Venue
+Adv. Theory of Computation
+Dr. Affan Alim
+CS (Core)
+1200-1500, Sat
+Adv. Advanced FPGA Based Systems Design
+Dr. Muhammad Mazhar Iqbal
+EE, CS
+1200-1500, Sat
+Mathematical Methods for Engineers and Scientists
+Dr. Muhammad Bilal Kadri
+EE (Core)
+1600 – 1900, Sat
+Advanced Algorithm Analysis
+Dr. Salman A Khan
+CS (Core)
+1600 – 1900, Sat
+Mobile Data Networks
+Dr. Maaz Ahmed
+0900 – 1200, Sun
+Artificial Neural Networks
+Dr. Imran Naseem
+0900 – 1200, Sun
+Advanced Communication Networks
+Dr. Muhammad Taha Jilani
+1200 – 1500, Sun
+Probability and Stochastic Processes
+Dr. Sameer Kazi
+EE (Core)
+1200 – 1500, Sun
+Reconfigurable Computing
+Dr. Husain Parvez
+EE, CS
+1200 – 1500, Sun
+Distributed Ledger Technology and Blockchain
+Dr. Khalid Khan
+1500 – 1800, Sun
+* All dasr classes will be held at Main Campus in Spring 2021. Free transport service will be available from City to Main Campus. * Courses with less than 5 students may be cancelled.
+Fall 2020
+SNo
+Title
+Instructor
+Degree
+Time, Day, Venue
+Fundamental Design Concepts of Analog IC Design (AICD 1)
+Dr. Syed Arsalan Jawed
+1600 – 1900,
+Thur (R
+36)
+Advanced Operating Systems
+Dr. Muhammad Mazhar Iqbal
+CS Core Course
+1200 – 1500, Sat (R 78)
+Linear Systems Theory
+Dr. Muhammad Bilal Kadri
+EE Core Course
+1600 – 1900, Sat (R 78)
+Swarm Intelligence: Theory and Applications
+Dr. Salman Ahmed
+EE, CS
+1600 – 1900, Sat (R 77)
+Pattern Classification
+Dr. Imran Naseem
+0900 – 1200, Sun (R 36)
+Information and Network Security
+Dr. Maaz Bin Ahmed
+0900 – 1200, Sun (R 78)
+Advanced Computer Architecture
+Dr. Husain Parvez
+EE,
+CS Core Course
+1200 – 1500, Sun (R 77)
+Network Simulation
+Dr. Sameer Hashmat
+EE, CS
+1200 – 1500, Sun (R 78)
+Internet of Things
+Dr. Muhammad Taha
+1200 – 1500, Sun (R 36)
+Advanced Distributed Systems
+Dr. Muhammad Khalid Khan
+1500 – 1800, Sun (R 77)
+* All dasr classes will be held at Main Campus in Fall 2020. Free transport service will be available from City to Main Campus. * Courses with less than 5 students may be cancelled.
+Spring 2020
+SNo
+Title
+Instructor
+Course for Degree
+Timing & Day
+CMOS Readout Interfaces for Bio-Sensors
+Dr. Arsalan Javed
+1500 – 1800 Thursday
+Advanced Algorithm Analysis
+Dr. Salman Ahmed
+CS Core course
+1530 – 1830 Saturday
+Advanced Robotics
+Dr. Muhammad Bilal Kadri
+EE, CS
+1530 – 1830 Saturday
+Mobile Data Networks
+Dr. Maaz
+0900 – 1200 Sunday
+Advanced Computer Architecture
+Dr. Husain Parvez
+EE,CS
+(CS Core course)
+0900 – 1200 Sunday
+Artificial Neural Networks
+Dr. Imran Naseem
+0900 – 1200 Sunday
+Advanced Theory of Computation
+Dr. Affan Alim
+CS Core course
+1200 – 1500 Sunday
+Information Theory and Coding
+Dr. Sameer Qazi
+EE, CS
+1200 – 1500 Sunday
+Pervasive computing
+Dr. Taha Jillani
+1500 – 1800 Sunday
+Distributed Ledger Technologies and Block chain
+Dr. Khalid Khan
+1500 – 1800 Sunday
+* All dasr classes will be held at Main Campus in Spring 2020. Free transport service will be available from City to Main Campus. * Courses with less than 5 students may be cancelled.
+Fall 2019
+SNo
+Title
+Instructor
+Course for Degree
+Timing & Day
+Advanced Communication Networks
+Dr. Muhammad Taha
+1815 – 2100 Tuesday
+FPGA-based Systems Design
+Dr. Husain Parvez
+EE, CS
+1815 – 2100 Tuesday
+Information & Network Security
+Dr. Maaz Bin Ahmed
+1815 – 2100 Wednesday
+Network Performance Analysis
+Dr. Sameer Qazi
+EE, CS
+1815 – 2100 Thursday
+Advanced Research Methodologies
+Dr. Salman Khan
+1815 – 2100 Friday
+Topics in Networks Research
+Dr. Kamran Nishat
+1815 – 2100 Friday
+Selected Topics in Control Engineering-I
+Dr. M. Bilal Kadri
+1815 – 2100 Friday
+Advanced Wireless Communication
+D. Sarmad Shaikh
+1815 – 2100 Friday
+GPGPU Programming
+Dr. Ayaz Khan
+CS, EE
+1500 – 1800 Saturday
+Pattern Classification
+Dr. Imran Naseem
+0900 – 1200 Sunday
+Digital Integrate Circuit
+Dr. Arsalan Javed
+To be decided
+MS ELECTRONICS
+CIDs
+CNO
+Course
+Instructor
+Schedule
+102820
+6514
+Tuesday
+102821
+7017
+102822
+7516
+102823
+7518
+102824
+6956
+Sunday-I
+MS COMPUTER SCIENCE
+CIDs
+CNO
+Course
+Instructor
+Schedule
+102825
+7018
+Tuesday
+102826
+7019
+102821
+7017
+102827
+7517
+Advanced Research Methodologies
+Dr. Salman Khan
+Friday
+102828
+7319
+Topics in Networks Research
+Dr. Kamran Nishat
+Friday
+102829
+7318
+PhD COMPUTER SCIENCE
+CIDs
+CNO
+Course
+Instructor
+Schedule
+102825
+7018
+Advanced Communication Networks
+Dr. Muhammad Taha
+Tuesday
+102826
+7019
+Information & Network Security
+Dr. Maaz Bin Ahmed
+Wednesday
+102821
+7017
+Network Performance Analysis
+Dr. Sameer Qazi
+Thursday
+102827
+7517
+Advanced Research Methodologies
+Dr. Salman Khan
+Friday
+102828
+7319
+Topics in Networks Research
+Dr. Kamran Nishat
+Friday
+102829
+7318
+GPGPU Programming
+Dr. Ayaz Khan
+Saturday-I
+Spring 2019
+S.No
+Title
+Instructor
+Course for which degree program? *
+Timing & Day
+Reconfigurable Computing
+Dr. Husain Parvez
+EE, CS
+1815-2100 Monday
+Internet of things
+Dr. Muhammad Taha
+1815-2100 Tuesday
+Selected topics in Computer Systems Security
+Dr. Maaz bin Ahmed
+1815-2100 Wednesday
+Theory and Applications of Nature-inspired Algorithms
+Dr. Salman Khan
+1815 – 2100 Wednesday
+Network Simulations
+Dr. Sameer Qazi
+EE, CS
+1815-2100 Thursday
+Selected topics in Controls-II
+Dr. Muhammad Bilal Kadri
+1815-2100 Friday
+Advanced Operating System
+Dr. Kamran Nishat
+1815-2100 Friday
+Antennas and Propagation for Wireless Communication
+Dr. Sarmad Sheikh
+1815-2100 Friday
+Parallel Computing
+Dr. Ayaz Khan
+CS, EE
+1500-1800 Saturday
+10.
+Special Topics in Machine Learning (STML)
+Dr. Imran Naseem
+0900-1200 Sunday
+S.No
+Title
+Instructor
+Course for which degree program? *
+Timing & Day
+Dr. Aamir Feroz Shamsi
+0900-1200 Sunday
+Dr. Tariq Jalees
+1815-2100 Monday
+Dr. Atif, Dr. Usman Amin
+1815-2100 Monday
+All classes will be held at City Campus.
+* Or the course can be taken after consultation with course teacher.
+(Last updated on 25th Dec,  2018)
+Fall 2018
+S.No
+Title
+Instructor
+Course for which degree program? *
+Timing & Day
+Advanced Computer Architecture
+Dr. Husain Parvez
+EE, CS
+1815-2100 Monday
+Pervasive Computing
+Dr. Muhammad Taha
+1815-2100 Tuesday
+Mobile Data Networks
+Dr. Maaz bin Ahmed
+1815-2100 Wednesday
+Information Theory and Coding
+Dr. Sameer Qazi
+EE, CS
+1815-2100 Thursday
+Analog Circuit Design
+Dr. Arsalan Javaid
+1815-2100 Thursday
+Adaptive Fuzzy Control
+Dr. Muhammad Bilal Kadri
+1815-2100 Friday
+Topics in Networks Research
+Dr. Kamran Nishat
+1815-2100 Friday
+Advanced Analysis of Algorithm
+Dr. Salman Khan
+1815 – 2100 Friday
+GP GPU Programming
+Dr. Ayaz Khan
+CS, EE
+1500-1800 Saturday
+10.
+Artificial Neural Networks
+Dr. Imran Naseem
+0900-1200 Sunday
+S.No
+Title
+Instructor
+Course for which degree program? *
+Timing & Day
+Theory of leadership
+Dr. Aamir Feroz Shamsi
+0900-1200 Sunday
+Adv. Strategic Marketing
+Dr. Tariq Jalees
+1815-2100 Monday
+Independent Study-1
+Dr. Atif, Dr. Usman Amin
+1815-2100 Monday
+All classes will be held at City Campus. * Or the course can be taken after consultation with course teacher.
+(Last updated on 14st Aug,  2018)
+Spring 2018
+S.No
+Title
+Instructor
+Course for which degree program? *
+Timing & Day
+Advanced Communication Networks
+Dr. M. Taha
+1815-2100 Monday
+FPGA-based Systems Design
+Dr. Husain Parvez
+EE, CS
+1815-2100 Wednesday
+Information & Network Security
+Dr. Maaz
+1815-2100 Wednesday
+Network Performance Analysis
+Dr. Sameer Qazi
+EE, CS
+1815-2100 Thursday
+Advanced Readout Interface Design for Microsensors
+Dr. Arsalan Javaid
+1815-2100 Thursday
+Selected Topics in Control Engineering
+Dr. Muhammad Bilal Kadri
+1815-2100 Friday
+Advanced Theory of Computation
+Dr. Kamran Nishat
+1815-2100 Friday **
+Parallel Computing
+Dr. Ayaz Khan
+CS, EE
+1500-1800 Saturday**
+Pattern Classification
+Dr. Imran Naseem
+0900-1200 Sunday
+Selected Topics on Subthreshold CMOS Circuit Design
+Dr. Arsalan Javaid
+Independent Study
+All classes will be held at City Campus. * Or the course can be taken after consultation with course teacher. ** Day and time might change
+(Last updated on 16th Jan,  2018)
+Fall 2017
+S.No
+Title
+Instructor
+Timing & Day
+Reconfigurable Computing
+Dr. Husain Parvez
+1815-2100 Wednesday
+Mobile Data Networks
+Dr. Maaz
+1815-2100 Wednesday
+Information Theory and Coding
+Dr. Sameer Qazi
+1815-2100 Thursday
+Analog Integrated Circuits
+Dr. Arsalan Javaid
+1815-2100 Thursday
+Linear System Theory
+Dr. Muhammad Bilal Kadri
+1815-2100 Friday
+Internet of Things
+Dr. M. Taha
+1815-2100 Monday
+Special topics in Machine Learning
+Dr. Imran Naseem
+0900-1200 Sunday
+Information Retrieval and Text mining
+Dr. Khurram Junejo
+1815-2100 Tuesday
+All classes will be held at City Campus.
+(Last updated on 31st July,  2017)
+Spring 2017
+S.No
+Title
+Instructor
+Timing & Day
+Advanced Computer Architecture
+Dr. Husain Parvez
+1815-2100 Tuesday
+Selected Topics in Computer Systems Security
+Dr. Maaz
+1815-2100 Wednesday
+RF IC Design
+Dr. Najam Muhammad Amin
+1815-2100 Thursday
+Network Simulations
+Dr. Sameer Qazi
+1815-2100 Thursday
+Adaptive Fuzzy Control
+Dr. Muhammad Bilal Kadri
+1815-2100 Friday
+Pervasive Computing
+Dr. M. Taha
+1815-2100 Friday
+Digital Integrated Circuits
+Dr. Arsalan Javaid
+1500-1800 Saturday
+Artificial Neural Networks
+Dr. Imran Naseem
+0900-1200 Sunday
+10.
+Advanced Analysis of Algorithms
+Dr. Khurram Junejo
+1200-1500 Sunday
+All classes will be held at City Campus.
+(Last updated on 22nd December,  2016)
+Fall 2016
+S.No
+Title
+Instructor
+Timing & Day
+Information & Network Security
+Dr. Maaz
+1815-2100 Tuesday
+FPGA-based Systems Design
+Dr. Husain Parvez
+1815-2100 Tuesday
+Radio Frequency ICs & Systems Design
+Dr. Najam Muhammad Amin
+1815-2100 Wednesday
+Network Performance Analysis
+Dr. Kazi
+1815-2100 Thursday
+Selected topics in Control
+Dr. Muhammad Bilal Kadri
+1815-2100 Friday
+Advanced Communication Networks
+Dr. M. Taha
+1815-2100 Friday
+Microsystems and Smart Sensor Interfaces
+Dr. Arsalan Javaid
+1500-1800 Saturday
+Pattern Classification
+Dr. Imran Naseem
+0900-1200 Sunday
+Machine Learning
+Dr. Khurram Junejo
+1200-1500 Sunday
+All classes will be held at City Campus.
+(Last updated on 28th July,  2016)
+Spring 2016
+S.No
+Title
+Instructor
+Timing & Day
+Theory of Computation
+Dr. Tariq Mehmood
+1815-2100 Monday
+Modeling and Simulation
+Dr. Ghazanfar
+1815-2100 Monday
+Reconfigurable Computing
+Dr. Husain Parvez
+1815-2100 Tuesday
+Radio Frequency Integrated Circuit Design
+Dr. Najam Muhammad Amin
+1815-2100 Wednesday
+Power Electronics Systems II
+Dr. Ishtiaque Ahmed Makda
+1815-2100 Thursday
+Linear Systems Theory
+Dr. Muhammad Bilal Kadri
+1815-2100 Friday
+Analog IC Design
+Dr. Arsalan Javaid
+1500-1800 Saturday
+Artificial Neural Networks
+Dr. Imran Naseem
+0900-1200 Sunday
+Network Simulation
+Dr. S. M. K. Raazi
+1200-1500 Sunday
+All classes will be held at City Campus.
+(Last updated on 15th Jan,  2016)
+Fall 2015
+S.No
+Title
+Instructor
+Timing & Day
+Big Data Analytics
+Dr. Tariq Mehmood
+1815-2100 Monday
+Power Electronics System
+Dr. Ishtiyaq Ahmed Makda
+1815-2100 Monday
+Advanced Computer Architecture
+Dr. Husain Parvez
+1815-2100 Tuesday
+Advanced DSP
+Dr. Ghazanfar Monir
+1815-2100 Wednesday
+Adaptive and Fuzzy Control System
+Dr. M. Bilal Kadri
+1815-2100 Friday
+Digital IC Design
+Dr. Arsalan Javaid
+1500-1800 Saturday
+Pattern Classification
+Dr. Imran Naseem
+0900-1200 Sunday
+Advanced Operating System
+Dr. S. M. K. Raazi
+1200-1500 Sunday
+All classes will be held at City Campus.
+(Last updated on 1st Sep,  2015)
+Spring 2015
+Tentative list of courses.
+S.No
+Title
+Instructor
+Timing & Day
+Data Mining
+Dr. Tariq Mehmood
+1815-2100 Monday
+Reconfigurable Computing
+Dr. Husain Parvez
+1815-2100 Tuesday
+Advance analysis of algorithms
+Dr. Khurram Nazir
+1815-2100 Wednesday
+Advanced Image Processing
+Dr. Ghazanfar Monir
+1815-2100 Thursday
+Selected topics in Controls
+Dr. M. Bilal Kadri
+1815-2100 Friday
+Microsystems and Smart Sensor Interfaces
+Dr. Arsalan Javaid
+1500-1800 Saturday
+Artificial Neural Networks
+Dr. Imran Naseem
+0900-1200 Sunday
+Network Simulation
+Dr. S. M. K. Raazi
+1200-1500 Sunday
+All classes will be held at City Campus.
+(Last updated on 3rd Jan,  2015)
+Fall 2014
+S.No
+Title
+Instructor
+Timing & Day
+Theory of Computation
+Dr. Tariq Mehmood
+1815-2100 Monday
+Power Electronics System
+Dr. Kashif Ishaque
+1815-2100 Tuesday
+FPGA-based System Design
+Dr. Husain Parvez
+1815-2100 Wednesday
+Machine Learning
+Dr. Khurram Nazir
+1815-2100 Thursday
+Linear System Theory
+Dr. Bilal Kadri
+1815-2100 Friday
+Analog IC Design
+Dr. Arsalan Javaid
+1500-1800 Saturday
+Probability and Stochastic Processes
+Dr. Imran Naseem
+0900-1200 Sunday
+Selected topics in WANETs
+Dr. S. M. K. Raazi
+1200-1500 Sunday
+All classes will be held at City Campus.
+(Last updated on 23rd July,  2014)
+Spring 2014
+S.No
+Title
+Instructor
+Timing & Day
+Big Data Analytics
+Dr. Tariq Mehmood
+1815-2100 Monday
+Applied Artificial Intelligence
+Dr. Kashif Ishaque
+1815-2100 Tuesday
+Advanced Computer Architecture
+Dr. Husain Parvez
+1815-2100 Wednesday
+Information retrieval and text mining
+Dr. Khurram Nazir
+1815-2100 Thursday
+Modeling and Simulation
+Dr. Ghazanfar Monir
+0900-1200 Sunday
+Pattern Recognition and Machine Vision
+Dr. Imran Naseem
+1200-1500 Sunday
+Advanced Operating System
+Dr. S. M. K. Raazi
+1200-1500 Sunday
+VLSI System Design
+Dr. Muhammad Mohiuddin
+Monday, Friday
+All classes will be held at City Campus, except for “VLSI System Design” which will be offered at Main Campus in the morning.
+(Last updated on 21st Jan,  2014)
+Fall 2013
+S.No
+Title
+Instructor
+Timing & Day
+Advanced Artificial Intelligence
+Dr. Kashif Ishaque
+1815-2100 Tuesday
+Reconfigurable Computing
+Dr. Husain Parvez
+1815-2100 Tuesday
+Machine Learning
+Dr. Khurram Nazir
+1815-2100 Wednesday
+Data Mining
+Dr. Tariq Mehmood
+1815-2100 Thursday
+Advanced DSP
+Dr. Ghazanfar Monir
+1815-2100 Thursday
+Probablity and Stochastic Processes
+Course Outline)
+Dr. Imran Naseem
+1815-2100 Friday
+Advanced Network Modeling
+Dr. S. M. K. Raazi
+1200-1500 Sunday
+All classes will be held at City Campus.
+Independent studies
+1. Advanced topics in Signal Processing by Dr. Ghazanfar Monir, Main Campus 2. Special topics in Solar Photovoltaic Systems by Dr. Kashif Ishaque, Main Campus
+(Last updated on 1st September,  2013)
+Summer 2013
+S.No
+Title
+Pre-requisite
+Instructor
+Schedule
+Physical Modeling of Solar Cells – 1
+Advanced fundamentals of Semiconductors or Instructor’s consent
+Dr. Mohiuddin
+Network Simulation
+Comm Networks, Datastructures, OOP
+Dr. S.M.K Raazi
+Friday (1800-2100), Sunday (1200-1500)
+(Last updated on 25th June,  2013)
+Spring 2013
+S.No
+Title
+Pre-requisite
+Instructor
+Schedule
+Social Computing
+None
+Dr. Faraz Zaidi
+Monday
+FPGA based Systems Design
+Logic Design, Programming
+Dr. Husain Parvez
+Wednesday
+Advance Image Processing
+Consent of Instructor
+Dr. Ghazanfar Monir
+Thursday
+Advanced Fundamentals of Semiconductors
+None
+Dr. Mohiuddin
+Thursday
+Artificial Neural Networks
+Consent of Instructor
+Dr. Imran Naseem
+Friday
+Special Topics in Wireless Sensor Networks
+Consent of Instructor
+Dr. S. M. K Raazi
+Sunday*
+Semantic Web and Applications
+Consent of Instructor
+Dr. Irfan Hyder
+All classes will be held at City Campus from 1800hrs to 2100hrs except otherwise stated. * Class will be held from 1200hrs to 1500hrs.
+(Last updated on 21st Jan,  2013)
+Fall 2012
+S.No
+Title
+Pre-requisite
+Instructor
+Schedule
+Embedded System Design – EE6801
+Computer Architecture, Computer Progamming
+Dr. Husain Parvez
+Wednesday
+Multimedia Compression – EE6104
+Undergraduate in EE or CS
+Dr. Ghazanfar Monir
+Thursday
+Solar Cells – EE6206
+EE6201
+Dr. Mohiuddin
+Thursday
+Modelling and Simulation of Solar Photovoltaic Systems – EE7706
+Dr. Kashif Ishaque
+Monday
+Data Mining – CS6402
+Probability and Statistics, AI, Databases
+Dr. Faraz Zaidi
+Friday
+Selected Topics in Wireless Adhoc Networks – CS6504
+CS6502
+Dr. S. K. Raazi
+Sunday (9:00 – 12:00)
+Probability and stochastic processes
+Dr. Imran Naseem
+Friday
+EE6801, and EE6104 will be open for CS students as well. Following teachers will offer Independent Studies: 1.       Dr. Ghazanfar Monir (Wavelet-based image processing) 2.       Dr. Imran Naseem (View-based biometrics)
+(Last updated on 2nd August 2012)
+Spring 2012
+S.No
+Title
+Class ID
+Wireless Sensor Networks
+55946
+Reconfigurable Computing
+56120
+Computer Vision and Pattern Recognition
+55944
+High speed compound semiconductor devices
+55943
+Advanced Digital Signal Processing
+55942
+Advanced Artificial Intelligence
+56103
+Advanced Algorithm Analysis
+55945
+Special Topics in Applied Controls
+56104
+Related Links
+Semester-wise course offerings
+MS Program Details
+PhD Program Details
+External MS/PhD Students
+Research Collaborations
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---
+https://dasr.kiet.edu.pk/sites/all//files/CourseFlyers/Spring2019/Spring2019_AntennasAndPropagationForWirelessCommunication.doc
+https://dasr.kiet.edu.pk/sites/all//files/CourseFlyers/Spring2019/Spring2019_EE7105Outline.docx
+https://dasr.kiet.edu.pk/sites/all//files/CourseFlyers/Fall2018/Fall2018_MobileDataNetworks.docx
+https://dasr.kiet.edu.pk/sites/all//files/CourseFlyers/Fall2018/GC7005_flyer.docx
+https://dasr.kiet.edu.pk/AdvancedFundamentalsSemiconductors
+https://dasr.kiet.edu.pk/WirelessSensorNetworks
+https://dasr.kiet.edu.pk/ReconfigurableComputing
+https://dasr.kiet.edu.pk/ComputerVisionPatternRecognition
+https://dasr.kiet.edu.pk/SemiconductorDevices
+https://dasr.kiet.edu.pk/AdvancedSignalProcessing
+https://dasr.kiet.edu.pk/AppliedArtificialIntelligence
+https://dasr.kiet.edu.pk/AdvancedAlgorithmAnalysis

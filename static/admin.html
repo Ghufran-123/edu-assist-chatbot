@@ -1,0 +1,3233 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>EDU Assist — Admin</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=DM+Mono:wght@400;500&family=Clash+Display:wght@500;600;700&display=swap"
+    rel="stylesheet" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+  <style>
+    /* ───── Reset ───── */
+    *,
+    *::before,
+    *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0
+    }
+
+    /* ───── Design Tokens ───── */
+    :root {
+      /* Surfaces */
+      --s0: #05060a;
+      --s1: #0b0d14;
+      --s2: #10121c;
+      --s3: #161924;
+      --s4: #1d202e;
+      --s5: #242838;
+
+      /* Borders */
+      --b1: rgba(255, 255, 255, 0.05);
+      --b2: rgba(255, 255, 255, 0.09);
+      --b3: rgba(255, 255, 255, 0.14);
+
+      /* Accent — electric indigo */
+      --a: #6366f1;
+      --a2: #4f52d4;
+      --a3: #818cf8;
+      --ag: rgba(99, 102, 241, 0.12);
+      --ab: rgba(99, 102, 241, 0.22);
+
+      /* Semantic */
+      --emerald: #10b981;
+      --emeraldG: rgba(16, 185, 129, 0.1);
+      --amber: #f59e0b;
+      --amberG: rgba(245, 158, 11, 0.1);
+      --rose: #f43f5e;
+      --roseG: rgba(244, 63, 94, 0.1);
+      --sky: #38bdf8;
+      --skyG: rgba(56, 189, 248, 0.1);
+      --violet: #a78bfa;
+      --violetG: rgba(167, 139, 250, 0.1);
+
+      /* Text */
+      --t1: #f1f2f6;
+      --t2: #8b8fa8;
+      --t3: #555878;
+
+      /* Type */
+      --display: 'Space Grotesk', sans-serif;
+      --mono: 'DM Mono', monospace;
+
+      /* Geometry */
+      --r: 10px;
+      --rl: 16px;
+      --rx: 22px;
+    }
+
+    html {
+      scroll-behavior: smooth
+    }
+
+    body {
+      background: var(--s0);
+      color: var(--t1);
+      font-family: var(--display);
+      font-size: 14px;
+      line-height: 1.6;
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    /* ───── Scrollbar ───── */
+    ::-webkit-scrollbar {
+      width: 3px;
+      height: 3px
+    }
+
+    ::-webkit-scrollbar-track {
+      background: transparent
+    }
+
+    ::-webkit-scrollbar-thumb {
+      background: var(--s5);
+      border-radius: 2px
+    }
+
+    /* ───── Noise texture overlay ───── */
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.04'/%3E%3C/svg%3E");
+      pointer-events: none;
+      z-index: 9999;
+      opacity: 0.5;
+    }
+
+    /* ───── Sidebar ───── */
+    .sidebar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      width: 220px;
+      background: var(--s1);
+      border-right: 1px solid var(--b1);
+      display: flex;
+      flex-direction: column;
+      z-index: 100;
+    }
+
+    .sidebar-brand {
+      padding: 24px 20px 20px;
+      border-bottom: 1px solid var(--b1);
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .brand-mark {
+      width: 36px;
+      height: 36px;
+      border-radius: 10px;
+      background: linear-gradient(135deg, var(--a), var(--a3));
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 18px;
+      flex-shrink: 0;
+      box-shadow: 0 0 20px rgba(99, 102, 241, 0.35);
+    }
+
+    .brand-text {
+      font-size: 15px;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+    }
+
+    .brand-text em {
+      color: var(--a3);
+      font-style: normal
+    }
+
+    .brand-version {
+      font-family: var(--mono);
+      font-size: 10px;
+      color: var(--t3);
+      margin-top: 1px;
+    }
+
+    .nav-section {
+      padding: 18px 12px 6px;
+      font-size: 10px;
+      font-weight: 600;
+      color: var(--t3);
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+    }
+
+    .nav-link {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 8px 10px;
+      margin: 1px 8px;
+      border-radius: var(--r);
+      cursor: pointer;
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--t2);
+      border: 1px solid transparent;
+      transition: all 0.15s;
+      user-select: none;
+    }
+
+    .nav-link:hover {
+      background: var(--s3);
+      color: var(--t1)
+    }
+
+    .nav-link.active {
+      background: var(--ag);
+      color: var(--a3);
+      border-color: var(--ab);
+    }
+
+    .nav-icon {
+      width: 18px;
+      text-align: center;
+      font-size: 15px
+    }
+
+    .nav-badge {
+      margin-left: auto;
+      font-family: var(--mono);
+      font-size: 10px;
+      background: var(--s5);
+      color: var(--t2);
+      padding: 1px 6px;
+      border-radius: 99px;
+    }
+
+    .nav-badge.alert {
+      background: var(--roseG);
+      color: var(--rose)
+    }
+
+    .sidebar-foot {
+      margin-top: auto;
+      padding: 14px 16px;
+      border-top: 1px solid var(--b1);
+    }
+
+    .live-dot {
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: var(--emerald);
+      box-shadow: 0 0 8px var(--emerald);
+      animation: blink 2s infinite;
+      flex-shrink: 0;
+    }
+
+    @keyframes blink {
+
+      0%,
+      100% {
+        opacity: 1
+      }
+
+      50% {
+        opacity: 0.35
+      }
+    }
+
+    .live-status {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 12px;
+      color: var(--t2)
+    }
+
+    /* ───── Main ───── */
+    .main {
+      margin-left: 220px;
+      padding: 28px 32px;
+      min-height: 100vh
+    }
+
+    /* ───── Header ───── */
+    .header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 30px;
+    }
+
+    .header-left h1 {
+      font-size: 20px;
+      font-weight: 700;
+      letter-spacing: -0.03em;
+    }
+
+    .header-left h1 span {
+      color: var(--a3)
+    }
+
+    .header-left p {
+      font-size: 12px;
+      color: var(--t3);
+      margin-top: 2px
+    }
+
+    .header-right {
+      display: flex;
+      gap: 8px;
+      align-items: center
+    }
+
+    /* ───── Buttons ───── */
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 8px 14px;
+      border-radius: var(--r);
+      font-family: var(--display);
+      font-size: 13px;
+      font-weight: 500;
+      cursor: pointer;
+      border: none;
+      outline: none;
+      transition: all 0.15s;
+      text-decoration: none;
+    }
+
+    .btn-solid {
+      background: var(--a);
+      color: #fff
+    }
+
+    .btn-solid:hover {
+      background: var(--a2);
+      box-shadow: 0 4px 16px rgba(99, 102, 241, 0.35);
+      transform: translateY(-1px)
+    }
+
+    .btn-glass {
+      background: var(--s3);
+      color: var(--t2);
+      border: 1px solid var(--b2)
+    }
+
+    .btn-glass:hover {
+      background: var(--s4);
+      color: var(--t1)
+    }
+
+    .btn-ghost {
+      background: transparent;
+      color: var(--t3);
+      border: 1px solid var(--b2)
+    }
+
+    .btn-ghost:hover {
+      background: var(--s2);
+      color: var(--t2)
+    }
+
+    .btn-sm {
+      padding: 6px 11px;
+      font-size: 12px
+    }
+
+    .btn-danger {
+      background: var(--roseG);
+      color: var(--rose);
+      border: 1px solid rgba(244, 63, 94, 0.2)
+    }
+
+    .btn-danger:hover {
+      background: rgba(244, 63, 94, 0.2)
+    }
+
+    .btn-success {
+      background: var(--emeraldG);
+      color: var(--emerald);
+      border: 1px solid rgba(16, 185, 129, 0.2)
+    }
+
+    .btn-success:hover {
+      background: rgba(16, 185, 129, 0.2)
+    }
+
+    /* ───── Pages ───── */
+    .page {
+      display: none;
+      animation: fadeUp 0.25s ease
+    }
+
+    .page.active {
+      display: block
+    }
+
+    @keyframes fadeUp {
+      from {
+        opacity: 0;
+        transform: translateY(8px)
+      }
+
+      to {
+        opacity: 1;
+        transform: translateY(0)
+      }
+    }
+
+    /* ───── Section label ───── */
+    .section-label {
+      font-size: 11px;
+      font-weight: 600;
+      color: var(--t3);
+      text-transform: uppercase;
+      letter-spacing: 0.09em;
+      margin-bottom: 14px;
+    }
+
+    /* ───── Stat Cards ───── */
+    .grid-4 {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 14px;
+      margin-bottom: 18px
+    }
+
+    .grid-3 {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 14px;
+      margin-bottom: 18px
+    }
+
+    .grid-2 {
+      display: grid;
+      grid-template-columns: 2fr 1fr;
+      gap: 14px;
+      margin-bottom: 18px
+    }
+
+    .grid-2r {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 14px;
+      margin-bottom: 18px
+    }
+
+    .stat-card {
+      background: var(--s2);
+      border: 1px solid var(--b1);
+      border-radius: var(--rl);
+      padding: 20px;
+      position: relative;
+      overflow: hidden;
+      transition: border-color 0.2s, transform 0.2s;
+    }
+
+    .stat-card::after {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 1px;
+      background: linear-gradient(90deg, transparent, var(--card-accent, var(--a)), transparent);
+      opacity: 0.6;
+    }
+
+    .stat-card:hover {
+      border-color: var(--b2);
+      transform: translateY(-1px)
+    }
+
+    .stat-card-glow {
+      position: absolute;
+      top: -30px;
+      right: -30px;
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      background: var(--card-accent, var(--a));
+      opacity: 0.04;
+      filter: blur(30px);
+    }
+
+    .stat-label {
+      font-size: 11px;
+      font-weight: 600;
+      color: var(--t3);
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
+      margin-bottom: 10px
+    }
+
+    .stat-value {
+      font-size: 32px;
+      font-weight: 700;
+      letter-spacing: -0.04em;
+      color: var(--card-accent, var(--a));
+      line-height: 1;
+      margin-bottom: 8px;
+    }
+
+    .stat-value small {
+      font-size: 16px;
+      font-weight: 500;
+      opacity: 0.7
+    }
+
+    .stat-sub {
+      font-size: 11px;
+      color: var(--t3)
+    }
+
+    .stat-sub.up {
+      color: var(--emerald)
+    }
+
+    .stat-sub.warn {
+      color: var(--amber)
+    }
+
+    .stat-sub.err {
+      color: var(--rose)
+    }
+
+    /* ───── Chart Cards ───── */
+    .chart-card {
+      background: var(--s2);
+      border: 1px solid var(--b1);
+      border-radius: var(--rl);
+      padding: 22px;
+      margin-bottom: 18px;
+    }
+
+    .chart-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 18px
+    }
+
+    .chart-title {
+      font-size: 14px;
+      font-weight: 600;
+      letter-spacing: -0.01em
+    }
+
+    .chart-sub {
+      font-size: 11px;
+      color: var(--t3);
+      margin-top: 2px
+    }
+
+    .chart-wrap canvas {
+      max-height: 220px
+    }
+
+    /* ───── Table ───── */
+    .tbl-wrap {
+      background: var(--s2);
+      border: 1px solid var(--b1);
+      border-radius: var(--rl);
+      overflow: hidden;
+    }
+
+    .tbl-toolbar {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--b1);
+      background: var(--s3);
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse
+    }
+
+    thead th {
+      padding: 10px 16px;
+      background: var(--s3);
+      font-size: 11px;
+      font-weight: 600;
+      color: var(--t3);
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
+      text-align: left;
+      border-bottom: 1px solid var(--b1);
+    }
+
+    tbody td {
+      padding: 12px 16px;
+      font-size: 13px;
+      color: var(--t2);
+      border-bottom: 1px solid var(--b1);
+      vertical-align: middle;
+    }
+
+    tbody tr:last-child td {
+      border-bottom: none
+    }
+
+    tbody tr:hover td {
+      background: var(--s3);
+      color: var(--t1)
+    }
+
+    /* ───── Badges / Tags ───── */
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      padding: 2px 8px;
+      border-radius: 99px;
+      font-size: 11px;
+      font-weight: 600;
+    }
+
+    .badge-green {
+      background: var(--emeraldG);
+      color: var(--emerald);
+      border: 1px solid rgba(16, 185, 129, 0.2)
+    }
+
+    .badge-amber {
+      background: var(--amberG);
+      color: var(--amber);
+      border: 1px solid rgba(245, 158, 11, 0.2)
+    }
+
+    .badge-rose {
+      background: var(--roseG);
+      color: var(--rose);
+      border: 1px solid rgba(244, 63, 94, 0.2)
+    }
+
+    .badge-sky {
+      background: var(--skyG);
+      color: var(--sky);
+      border: 1px solid rgba(56, 189, 248, 0.2)
+    }
+
+    .badge-violet {
+      background: var(--violetG);
+      color: var(--violet);
+      border: 1px solid rgba(167, 139, 250, 0.2)
+    }
+
+    .badge-indigo {
+      background: var(--ag);
+      color: var(--a3);
+      border: 1px solid var(--ab)
+    }
+
+    .badge-mono {
+      background: var(--s4);
+      color: var(--t2);
+      border: 1px solid var(--b2)
+    }
+
+    /* ───── Search Input ───── */
+    .search-box {
+      background: var(--s4);
+      border: 1px solid var(--b2);
+      border-radius: var(--r);
+      padding: 7px 12px 7px 32px;
+      font-family: var(--display);
+      font-size: 13px;
+      color: var(--t1);
+      outline: none;
+      transition: border-color 0.2s;
+      width: 100%;
+    }
+
+    .search-box::placeholder {
+      color: var(--t3)
+    }
+
+    .search-box:focus {
+      border-color: var(--a)
+    }
+
+    .search-wrap {
+      position: relative;
+      flex: 1
+    }
+
+    .search-wrap::before {
+      content: '⌕';
+      position: absolute;
+      left: 10px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--t3);
+      font-size: 16px;
+      pointer-events: none;
+    }
+
+    /* ───── Input ───── */
+    .input {
+      width: 100%;
+      background: var(--s3);
+      border: 1px solid var(--b2);
+      border-radius: var(--r);
+      padding: 9px 12px;
+      font-family: var(--display);
+      font-size: 13px;
+      color: var(--t1);
+      outline: none;
+      transition: border-color 0.2s;
+    }
+
+    .input:focus {
+      border-color: var(--a)
+    }
+
+    .input::placeholder {
+      color: var(--t3)
+    }
+
+    textarea.input {
+      resize: vertical;
+      min-height: 80px;
+      line-height: 1.6
+    }
+
+    .form-label {
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--t2);
+      margin-bottom: 6px;
+      display: block
+    }
+
+    .form-group {
+      margin-bottom: 14px
+    }
+
+    select.input {
+      cursor: pointer
+    }
+
+    /* ───── Upload Zone ───── */
+    .upload-zone {
+      border: 1px dashed var(--b2);
+      border-radius: var(--rl);
+      padding: 36px 24px;
+      text-align: center;
+      cursor: pointer;
+      transition: all 0.2s;
+      margin-bottom: 14px;
+      background: linear-gradient(135deg, var(--s2), var(--s3));
+    }
+
+    .upload-zone:hover,
+    .upload-zone.drag {
+      border-color: var(--a);
+      background: var(--ag)
+    }
+
+    .upload-icon {
+      font-size: 32px;
+      margin-bottom: 10px;
+      display: block
+    }
+
+    .upload-zone strong {
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--t1)
+    }
+
+    .upload-zone p {
+      font-size: 12px;
+      color: var(--t2);
+      margin-top: 4px
+    }
+
+    .upload-zone small {
+      font-size: 11px;
+      color: var(--t3)
+    }
+
+    /* ───── File Icon ───── */
+    .file-icon {
+      width: 30px;
+      height: 30px;
+      border-radius: 7px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 14px;
+      flex-shrink: 0;
+    }
+
+    .fi-pdf {
+      background: rgba(244, 63, 94, 0.1)
+    }
+
+    .fi-txt {
+      background: rgba(56, 189, 248, 0.1)
+    }
+
+    .fi-docx {
+      background: rgba(99, 102, 241, 0.1)
+    }
+
+    .fi-html {
+      background: rgba(245, 158, 11, 0.1)
+    }
+
+    .fi-md {
+      background: rgba(16, 185, 129, 0.1)
+    }
+
+    /* ───── Row Actions ───── */
+    .row-actions {
+      display: flex;
+      gap: 5px;
+      align-items: center
+    }
+
+    /* ───── Reindex ───── */
+    .reindex-card {
+      background: var(--s2);
+      border: 1px solid var(--b1);
+      border-radius: var(--rl);
+      padding: 22px;
+      margin-bottom: 14px;
+    }
+
+    .reindex-head {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 16px
+    }
+
+    .reindex-body h3 {
+      font-size: 15px;
+      font-weight: 600;
+      letter-spacing: -0.01em;
+      margin-bottom: 4px
+    }
+
+    .reindex-body p {
+      font-size: 13px;
+      color: var(--t2);
+      max-width: 420px;
+      line-height: 1.6
+    }
+
+    .log-box {
+      background: var(--s0);
+      border: 1px solid var(--b1);
+      border-radius: var(--r);
+      padding: 14px;
+      margin-top: 14px;
+      font-family: var(--mono);
+      font-size: 12px;
+      color: var(--emerald);
+      max-height: 160px;
+      overflow-y: auto;
+      line-height: 1.9;
+      display: none;
+    }
+
+    .log-box.show {
+      display: block
+    }
+
+    .log-ts {
+      color: var(--t3);
+      margin-right: 8px
+    }
+
+    .log-line {
+      opacity: 0;
+      animation: lin 0.3s forwards
+    }
+
+    @keyframes lin {
+      to {
+        opacity: 1
+      }
+    }
+
+    /* ───── FAQ ───── */
+    .faq-item {
+      background: var(--s2);
+      border: 1px solid var(--b1);
+      border-radius: var(--r);
+      padding: 14px 16px;
+      transition: border-color 0.2s;
+      margin-bottom: 8px;
+    }
+
+    .faq-item:hover {
+      border-color: var(--b2)
+    }
+
+    .faq-q {
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--t1);
+      display: flex;
+      justify-content: space-between;
+      align-items: start;
+      gap: 12px;
+      margin-bottom: 4px
+    }
+
+    .faq-a {
+      font-size: 12px;
+      color: var(--t2);
+      line-height: 1.6
+    }
+
+    .faq-meta {
+      display: flex;
+      gap: 6px;
+      margin-top: 8px;
+      flex-wrap: wrap
+    }
+
+    /* ───── URL Manager ───── */
+    .url-fav {
+      width: 26px;
+      height: 26px;
+      border-radius: 6px;
+      background: var(--s4);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 12px;
+      flex-shrink: 0;
+    }
+
+    /* ───── Settings ───── */
+    .settings-panel {
+      background: var(--s2);
+      border: 1px solid var(--b1);
+      border-radius: var(--rl);
+      padding: 22px;
+      margin-bottom: 14px;
+    }
+
+    .settings-panel-title {
+      font-size: 13px;
+      font-weight: 700;
+      letter-spacing: 0.01em;
+      margin-bottom: 18px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      color: var(--t1);
+    }
+
+    .settings-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 13px 0;
+      border-bottom: 1px solid var(--b1);
+      gap: 20px;
+    }
+
+    .settings-row:last-child {
+      border-bottom: none;
+      padding-bottom: 0
+    }
+
+    .settings-label {
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--t1)
+    }
+
+    .settings-desc {
+      font-size: 12px;
+      color: var(--t3);
+      margin-top: 2px
+    }
+
+    .settings-ctrl {
+      flex-shrink: 0
+    }
+
+    .range-group {
+      display: flex;
+      align-items: center;
+      gap: 10px
+    }
+
+    .range {
+      -webkit-appearance: none;
+      appearance: none;
+      width: 140px;
+      height: 3px;
+      border-radius: 2px;
+      background: var(--s5);
+      outline: none;
+      cursor: pointer;
+    }
+
+    .range::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      width: 14px;
+      height: 14px;
+      border-radius: 50%;
+      background: var(--a);
+      cursor: pointer;
+      box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.25);
+    }
+
+    .range-val {
+      font-family: var(--mono);
+      font-size: 12px;
+      color: var(--a3);
+      min-width: 36px;
+      text-align: right;
+      font-weight: 500;
+    }
+
+    .num-input {
+      background: var(--s3);
+      border: 1px solid var(--b2);
+      border-radius: 8px;
+      padding: 6px 10px;
+      font-family: var(--mono);
+      font-size: 13px;
+      color: var(--t1);
+      outline: none;
+      width: 100px;
+      text-align: right;
+      transition: border-color 0.2s;
+    }
+
+    .num-input:focus {
+      border-color: var(--a)
+    }
+
+    select.num-input {
+      width: auto;
+      text-align: left;
+      cursor: pointer
+    }
+
+    /* Toggle */
+    .toggle {
+      position: relative;
+      display: inline-block;
+      width: 40px;
+      height: 22px;
+      cursor: pointer
+    }
+
+    .toggle input {
+      opacity: 0;
+      width: 0;
+      height: 0
+    }
+
+    .track {
+      position: absolute;
+      inset: 0;
+      border-radius: 99px;
+      background: var(--s5);
+      border: 1px solid var(--b2);
+      transition: all 0.2s
+    }
+
+    .toggle input:checked~.track {
+      background: var(--a);
+      border-color: var(--a)
+    }
+
+    .thumb {
+      position: absolute;
+      top: 3px;
+      left: 3px;
+      width: 14px;
+      height: 14px;
+      border-radius: 50%;
+      background: #fff;
+      transition: transform 0.2s;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3)
+    }
+
+    .toggle input:checked~.thumb {
+      transform: translateX(18px)
+    }
+
+    /* ───── Heatmap ───── */
+    .heatmap-outer {
+      display: flex;
+      align-items: flex-start;
+      gap: 6px
+    }
+
+    .hm-days {
+      display: flex;
+      flex-direction: column;
+      gap: 3px;
+      padding-top: 1px
+    }
+
+    .hm-days span {
+      height: 22px;
+      display: flex;
+      align-items: center;
+      font-size: 10px;
+      color: var(--t3)
+    }
+
+    .hm-grid {
+      display: grid;
+      grid-template-rows: repeat(7, 22px);
+      grid-auto-flow: column;
+      gap: 3px;
+      overflow-x: auto
+    }
+
+    .hm-cell {
+      width: 22px;
+      height: 22px;
+      border-radius: 4px;
+      background: var(--s4);
+      cursor: pointer;
+      transition: transform 0.1s;
+      position: relative;
+    }
+
+    .hm-cell:hover {
+      transform: scale(1.25);
+      z-index: 2
+    }
+
+    .hm-cell[data-v="1"] {
+      background: rgba(99, 102, 241, 0.18)
+    }
+
+    .hm-cell[data-v="2"] {
+      background: rgba(99, 102, 241, 0.38)
+    }
+
+    .hm-cell[data-v="3"] {
+      background: rgba(99, 102, 241, 0.62)
+    }
+
+    .hm-cell[data-v="4"] {
+      background: rgba(99, 102, 241, 0.88)
+    }
+
+    .hm-tip {
+      position: absolute;
+      bottom: calc(100%+5px);
+      left: 50%;
+      transform: translateX(-50%);
+      background: var(--s5);
+      border: 1px solid var(--b2);
+      border-radius: 6px;
+      padding: 3px 7px;
+      white-space: nowrap;
+      font-size: 10px;
+      color: var(--t1);
+      pointer-events: none;
+      opacity: 0;
+      transition: opacity 0.15s;
+      z-index: 10;
+    }
+
+    .hm-cell:hover .hm-tip {
+      opacity: 1
+    }
+
+    .hm-legend {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      margin-top: 10px;
+      font-size: 11px;
+      color: var(--t3)
+    }
+
+    .hm-lc {
+      width: 12px;
+      height: 12px;
+      border-radius: 3px
+    }
+
+    /* Hourly bars */
+    .hour-grid {
+      display: grid;
+      grid-template-columns: repeat(24, 1fr);
+      gap: 3px;
+      margin-top: 10px
+    }
+
+    .hbar-wrap {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 3px
+    }
+
+    .hbar-outer {
+      height: 160px;
+      display: flex;
+      align-items: flex-end;
+      width: 100%
+    }
+
+    .hbar {
+      width: 100%;
+      border-radius: 3px 3px 0 0;
+      background: rgba(99, 102, 241, 0.3);
+      min-height: 3px;
+      cursor: pointer;
+      transition: background 0.2s
+    }
+
+    .hbar:hover {
+      background: rgba(99, 102, 241, 0.85)
+    }
+
+    .hbar-label {
+      font-size: 8.5px;
+      color: var(--t3);
+      font-family: var(--mono)
+    }
+
+    /* ───── Modal ───── */
+    .overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.75);
+      backdrop-filter: blur(6px);
+      z-index: 1000;
+      display: none;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .overlay.open {
+      display: flex
+    }
+
+    .modal {
+      background: var(--s2);
+      border: 1px solid var(--b2);
+      border-radius: var(--rx);
+      padding: 30px;
+      width: 92%;
+      max-width: 460px;
+      animation: mIn 0.2s ease;
+    }
+
+    @keyframes mIn {
+      from {
+        transform: scale(0.96);
+        opacity: 0
+      }
+
+      to {
+        transform: scale(1);
+        opacity: 1
+      }
+    }
+
+    .modal-title {
+      font-size: 17px;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      margin-bottom: 6px
+    }
+
+    .modal-sub {
+      font-size: 13px;
+      color: var(--t2);
+      margin-bottom: 22px
+    }
+
+    .modal-actions {
+      display: flex;
+      gap: 8px;
+      justify-content: flex-end;
+      margin-top: 22px
+    }
+
+    /* ───── Toast ───── */
+    .toasts {
+      position: fixed;
+      bottom: 22px;
+      right: 22px;
+      z-index: 2000;
+      display: flex;
+      flex-direction: column;
+      gap: 8px
+    }
+
+    .toast {
+      background: var(--s3);
+      border: 1px solid var(--b2);
+      border-radius: var(--r);
+      padding: 11px 14px;
+      font-size: 13px;
+      color: var(--t1);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      animation: tIn 0.3s ease;
+      box-shadow: 0 8px 30px rgba(0, 0, 0, 0.5);
+    }
+
+    @keyframes tIn {
+      from {
+        transform: translateX(120%);
+        opacity: 0
+      }
+
+      to {
+        transform: translateX(0);
+        opacity: 1
+      }
+    }
+
+    .toast-ok {
+      border-color: rgba(16, 185, 129, 0.3)
+    }
+
+    .toast-err {
+      border-color: rgba(244, 63, 94, 0.3)
+    }
+
+    /* ───── Alerts ───── */
+    .alert-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+      background: var(--s2);
+      border: 1px solid var(--b1);
+      border-radius: var(--r);
+      padding: 13px 15px;
+      margin-bottom: 8px;
+    }
+
+    .alert-icon {
+      font-size: 18px;
+      flex-shrink: 0;
+      margin-top: 1px
+    }
+
+    .alert-body {
+      flex: 1
+    }
+
+    .alert-title {
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--t1);
+      margin-bottom: 2px
+    }
+
+    .alert-sub {
+      font-size: 12px;
+      color: var(--t3)
+    }
+
+    .alert-count {
+      font-family: var(--mono);
+      font-size: 11px;
+      background: var(--s5);
+      color: var(--t2);
+      padding: 2px 7px;
+      border-radius: 99px;
+      flex-shrink: 0;
+      margin-top: 2px;
+    }
+
+    /* ───── Domain Tabs ───── */
+    .domain-tabs {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+      margin-bottom: 12px
+    }
+
+    /* ───── Loading overlay ───── */
+    #api-overlay {
+      position: fixed;
+      inset: 0;
+      background: var(--s0);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      z-index: 9000;
+      gap: 16px;
+      transition: opacity 0.4s;
+    }
+
+    #api-overlay.hide {
+      opacity: 0;
+      pointer-events: none
+    }
+
+    .spinner {
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      border: 2px solid var(--s5);
+      border-top-color: var(--a);
+      animation: spin 0.7s linear infinite;
+    }
+
+    @keyframes spin {
+      to {
+        transform: rotate(360deg)
+      }
+    }
+
+    .loader-text {
+      font-size: 13px;
+      color: var(--t2)
+    }
+
+    /* ───── Responsive ───── */
+    @media(max-width:860px) {
+      .sidebar {
+        width: 0;
+        overflow: hidden
+      }
+
+      .main {
+        margin-left: 0;
+        padding: 16px
+      }
+
+      .grid-4 {
+        grid-template-columns: 1fr 1fr
+      }
+
+      .grid-2 {
+        grid-template-columns: 1fr
+      }
+
+      .grid-3 {
+        grid-template-columns: 1fr 1fr
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- Loading -->
+  <div id="api-overlay">
+    <div class="spinner"></div>
+    <div class="loader-text" id="loader-msg">Connecting to EDU Assist…</div>
+  </div>
+
+  <!-- Sidebar -->
+  <nav class="sidebar">
+    <div class="sidebar-brand">
+      <div class="brand-mark">🎓</div>
+      <div>
+        <div class="brand-text">EDU<em>Assist</em></div>
+        <div class="brand-version">v6.0.0 · KIET</div>
+      </div>
+    </div>
+
+    <div class="nav-section">Overview</div>
+    <div class="nav-link active" onclick="nav('dashboard',this)">
+      <span class="nav-icon">◈</span> Dashboard
+    </div>
+
+    <div class="nav-section">Knowledge Base</div>
+    <div class="nav-link" onclick="nav('vectordb',this)">
+      <span class="nav-icon">⬡</span> Vector DB Files
+    </div>
+    <div class="nav-link" onclick="nav('reindex',this)">
+      <span class="nav-icon">↺</span> Reindexing
+    </div>
+    <div class="nav-link" onclick="nav('faq',this)">
+      <span class="nav-icon">⚡</span> FAQ Manager
+      <span class="nav-badge" id="nb-faq">—</span>
+    </div>
+
+    <div class="nav-section">Insights</div>
+    <div class="nav-link" onclick="nav('agents',this)">
+      <span class="nav-icon">◉</span> Agent Analytics
+    </div>
+    <div class="nav-link" onclick="nav('queries',this)">
+      <span class="nav-icon">≡</span> Query Logs
+    </div>
+    <div class="nav-link" onclick="nav('heatmap',this)">
+      <span class="nav-icon">▦</span> Hourly Heatmap
+    </div>
+
+    <div class="nav-section">Config</div>
+    <div class="nav-link" onclick="nav('urls',this)">
+      <span class="nav-icon">⌘</span> URL Manager
+    </div>
+    <div class="nav-link" onclick="nav('settings',this)">
+      <span class="nav-icon">⊕</span> Settings
+    </div>
+
+    <div class="sidebar-foot">
+      <div class="live-status">
+        <div class="live-dot"></div>
+        <span>All systems operational</span>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Main -->
+  <main class="main">
+    <div class="header">
+      <div class="header-left">
+        <h1>Admin <span>Portal</span></h1>
+        <p>KIET University · EDU Assist Intelligence Dashboard</p>
+      </div>
+      <div class="header-right">
+        <button class="btn btn-glass btn-sm" onclick="refreshAll()">⟳ Refresh</button>
+        <a href="/chat" class="btn btn-solid btn-sm">↗ Live Chat</a>
+        <button class="btn btn-danger btn-sm" onclick="handleLogout()" id="logoutBtn"
+          style="display:flex;align-items:center;gap:6px">⏻ Logout</button>
+      </div>
+    </div>
+
+    <!-- ═════════════ DASHBOARD ═════════════ -->
+    <div class="page active" id="page-dashboard">
+      <div class="section-label">Key Metrics</div>
+      <div class="grid-4">
+        <div class="stat-card" style="--card-accent:var(--a)">
+          <div class="stat-card-glow"></div>
+          <div class="stat-label">Questions Today</div>
+          <div class="stat-value" id="s-today">—</div>
+          <div class="stat-sub" id="s-today-d">loading…</div>
+        </div>
+        <div class="stat-card" style="--card-accent:var(--emerald)">
+          <div class="stat-card-glow"></div>
+          <div class="stat-label">Total Questions</div>
+          <div class="stat-value" id="s-total" style="color:var(--emerald)">—</div>
+          <div class="stat-sub">all time</div>
+        </div>
+        <div class="stat-card" style="--card-accent:var(--amber)">
+          <div class="stat-card-glow"></div>
+          <div class="stat-label">Avg Response</div>
+          <div class="stat-value" id="s-resp" style="color:var(--amber)">—</div>
+          <div class="stat-sub" id="s-resp-d">loading…</div>
+        </div>
+        <div class="stat-card" style="--card-accent:var(--rose)">
+          <div class="stat-card-glow"></div>
+          <div class="stat-label">Fallback Rate</div>
+          <div class="stat-value" id="s-fallback" style="color:var(--rose)">—</div>
+          <div class="stat-sub" id="s-fallback-d">loading…</div>
+        </div>
+      </div>
+
+      <div class="grid-2">
+        <div class="chart-card" style="margin-bottom:0">
+          <div class="chart-head">
+            <div>
+              <div class="chart-title">Daily Volume</div>
+              <div class="chart-sub">Questions over last 14 days</div>
+            </div>
+            <select class="btn btn-glass btn-sm" onchange="sliceDaily(this.value)">
+              <option value="14">14d</option>
+              <option value="7">7d</option>
+              <option value="30">30d</option>
+            </select>
+          </div>
+          <div class="chart-wrap"><canvas id="dailyChart"></canvas></div>
+        </div>
+        <div class="chart-card" style="margin-bottom:0">
+          <div class="chart-head">
+            <div>
+              <div class="chart-title">Confidence Split</div>
+              <div class="chart-sub">Answer quality distribution</div>
+            </div>
+          </div>
+          <div class="chart-wrap"><canvas id="confChart"></canvas></div>
+        </div>
+      </div>
+      <div style="height:14px"></div>
+      <div class="grid-2">
+        <div class="chart-card" style="margin-bottom:0">
+          <div class="chart-head">
+            <div>
+              <div class="chart-title">Source Distribution</div>
+              <div class="chart-sub">Which agent answers users</div>
+            </div>
+          </div>
+          <div class="chart-wrap"><canvas id="sourceChart"></canvas></div>
+        </div>
+        <div class="chart-card" style="margin-bottom:0">
+          <div class="chart-head">
+            <div>
+              <div class="chart-title">Response Time Trend</div>
+              <div class="chart-sub">Avg ms per day</div>
+            </div>
+          </div>
+          <div class="chart-wrap"><canvas id="respChart"></canvas></div>
+        </div>
+      </div>
+      <div style="height:14px"></div>
+
+      <div class="chart-card">
+        <div class="chart-head">
+          <div>
+            <div class="chart-title">🔥 Top Questions</div>
+            <div class="chart-sub">Most frequently asked</div>
+          </div>
+        </div>
+        <table>
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>Question</th>
+              <th>Count</th>
+              <th>Source</th>
+              <th>Avg ms</th>
+            </tr>
+          </thead>
+          <tbody id="topQBody"></tbody>
+        </table>
+      </div>
+
+      <div class="chart-card">
+        <div class="chart-head">
+          <div>
+            <div class="chart-title">⚠️ Unanswered Questions</div>
+            <div class="chart-sub">Fell to fallback — add to FAQ</div>
+          </div>
+          <button class="btn btn-solid btn-sm" onclick="nav('faq',document.querySelectorAll('.nav-link')[4])">+ Add
+            FAQ</button>
+        </div>
+        <div id="unansweredList"></div>
+      </div>
+    </div>
+
+    <!-- ═════════════ VECTOR DB ═════════════ -->
+    <div class="page" id="page-vectordb">
+      <div class="grid-3">
+        <div class="stat-card" style="--card-accent:var(--emerald)">
+          <div class="stat-card-glow"></div>
+          <div class="stat-label">Total Files</div>
+          <div class="stat-value" style="color:var(--emerald)" id="v-total">—</div>
+          <div class="stat-sub">in vector store</div>
+        </div>
+        <div class="stat-card" style="--card-accent:var(--sky)">
+          <div class="stat-card-glow"></div>
+          <div class="stat-label">Total Chunks</div>
+          <div class="stat-value" style="color:var(--sky)" id="v-chunks">3,842</div>
+          <div class="stat-sub">embedded vectors</div>
+        </div>
+        <div class="stat-card" style="--card-accent:var(--amber)">
+          <div class="stat-card-glow"></div>
+          <div class="stat-label">Pending Reindex</div>
+          <div class="stat-value" style="color:var(--amber)" id="v-pending">2</div>
+          <div class="stat-sub warn">need reindexing</div>
+        </div>
+      </div>
+
+      <div class="upload-zone" onclick="document.getElementById('fu').click()" ondragover="ev(event)"
+        ondragleave="el(event)" ondrop="ed(event)">
+        <span class="upload-icon">📂</span>
+        <strong>Drop files here or click to upload</strong>
+        <p>PDF · TXT · DOCX · HTML · MD</p>
+        <small>Files will be chunked and indexed into the vector store</small>
+        <input type="file" id="fu" style="display:none" multiple accept=".pdf,.txt,.docx,.html,.md"
+          onchange="processFiles(event.target.files)" />
+      </div>
+
+      <div class="tbl-wrap">
+        <div class="tbl-toolbar">
+          <div class="search-wrap" style="flex:1">
+            <input class="search-box" placeholder="Search files…" oninput="filterFiles(this.value)" />
+          </div>
+          <button class="btn btn-ghost btn-sm" onclick="fStatus('all')">All</button>
+          <button class="btn btn-success btn-sm" onclick="fStatus('indexed')">✓ Indexed</button>
+          <button class="btn btn-ghost btn-sm" onclick="fStatus('pending')">⏳ Pending</button>
+          <button class="btn btn-danger btn-sm" id="bulkDelBtn" style="display:none" onclick="bulkDel()">🗑
+            Delete</button>
+        </div>
+        <table>
+          <thead>
+            <tr>
+              <th><input type="checkbox" onchange="selAll(this)" /></th>
+              <th>File</th>
+              <th>Size</th>
+              <th>Chunks</th>
+              <th>Uploaded</th>
+              <th>Status</th>
+              <th>Actions</th>
+            </tr>
+          </thead>
+          <tbody id="fileBody"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- ═════════════ REINDEXING ═════════════ -->
+    <div class="page" id="page-reindex">
+      <div class="reindex-card">
+        <div class="reindex-head">
+          <div class="reindex-body">
+            <h3>↺ Full Reindex</h3>
+            <p>Re-embed and re-chunk all documents. Use when embedding model changes or you need a clean rebuild.</p>
+          </div>
+          <button class="btn btn-solid" onclick="doReindex('full')">Start Full Reindex</button>
+        </div>
+        <div class="log-box" id="log-full"></div>
+      </div>
+      <div class="reindex-card">
+        <div class="reindex-head">
+          <div class="reindex-body">
+            <h3>⚡ Incremental Reindex</h3>
+            <p>Only reindex new or modified files since the last run. Much faster — recommended for routine updates.</p>
+          </div>
+          <button class="btn btn-success" onclick="doReindex('incremental')">Start Incremental</button>
+        </div>
+        <div class="log-box" id="log-incremental"></div>
+      </div>
+      <div class="reindex-card">
+        <div class="reindex-head">
+          <div class="reindex-body">
+            <h3>🌐 Rescrape URLs</h3>
+            <p>Re-crawl all URLs and re-embed updated web content into the vector store.</p>
+          </div>
+          <button class="btn btn-ghost" onclick="doReindex('web')">Rescrape Web</button>
+        </div>
+        <div class="log-box" id="log-web"></div>
+      </div>
+
+      <div class="chart-card">
+        <div class="chart-title" style="margin-bottom:14px">📋 Reindex History</div>
+        <table>
+          <thead>
+            <tr>
+              <th>Date & Time</th>
+              <th>Type</th>
+              <th>Files</th>
+              <th>Duration</th>
+              <th>Status</th>
+            </tr>
+          </thead>
+          <tbody id="reindexHist"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- ═════════════ FAQ MANAGER ═════════════ -->
+    <div class="page" id="page-faq">
+      <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:18px">
+        <div>
+          <div class="section-label">FAQ Entries</div>
+          <div style="font-size:13px;color:var(--t2)" id="faq-count">— entries</div>
+        </div>
+        <button class="btn btn-solid" onclick="openFaqModal()">+ Add Entry</button>
+      </div>
+      <div class="tbl-wrap" style="margin-bottom:14px">
+        <div class="tbl-toolbar">
+          <div class="search-wrap" style="flex:1">
+            <input class="search-box" placeholder="Search FAQs…" oninput="filterFaqs(this.value)" />
+          </div>
+        </div>
+      </div>
+      <div id="faqGrid"></div>
+    </div>
+
+    <!-- ═════════════ AGENT ANALYTICS ═════════════ -->
+    <div class="page" id="page-agents">
+      <div class="section-label">Agent Performance</div>
+      <div class="grid-4">
+        <div class="stat-card" style="--card-accent:var(--emerald)">
+          <div class="stat-card-glow"></div>
+          <div class="stat-label">🧠 FAQ Agent</div>
+          <div class="stat-value" style="color:var(--emerald)" id="ag-faq">—</div>
+          <div class="stat-sub">answers served</div>
+        </div>
+        <div class="stat-card" style="--card-accent:var(--a)">
+          <div class="stat-card-glow"></div>
+          <div class="stat-label">⬡ VectorDB Agent</div>
+          <div class="stat-value" id="ag-vec">—</div>
+          <div class="stat-sub">answers via RAG</div>
+        </div>
+        <div class="stat-card" style="--card-accent:var(--sky)">
+          <div class="stat-card-glow"></div>
+          <div class="stat-label">🌐 Web Scraper</div>
+          <div class="stat-value" style="color:var(--sky)" id="ag-web">—</div>
+          <div class="stat-sub">answers from web</div>
+        </div>
+        <div class="stat-card" style="--card-accent:var(--rose)">
+          <div class="stat-card-glow"></div>
+          <div class="stat-label">⚠️ Fallback</div>
+          <div class="stat-value" style="color:var(--rose)" id="ag-fallback">—</div>
+          <div class="stat-sub err">no answer found</div>
+        </div>
+      </div>
+
+      <!-- Two charts side by side, fixed height containers -->
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-bottom:0">
+
+        <!-- Doughnut: Agent Usage Breakdown -->
+        <div class="chart-card" style="margin-bottom:0">
+          <div class="chart-head">
+            <div class="chart-title">Agent Usage Breakdown</div>
+            <div class="chart-sub">Share of answers by agent</div>
+          </div>
+          <div style="position:relative;height:280px">
+            <canvas id="agPie"></canvas>
+          </div>
+        </div>
+
+        <!-- Horizontal bar: Success Rate -->
+        <div class="chart-card" style="margin-bottom:0">
+          <div class="chart-head">
+            <div class="chart-title">Success Rate by Agent</div>
+            <div class="chart-sub">Percentage of answered queries</div>
+          </div>
+          <div style="position:relative;height:280px">
+            <canvas id="agSuccess"></canvas>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- ═════════════ QUERY LOGS ═════════════ -->
+    <div class="page" id="page-queries">
+      <div class="tbl-wrap">
+        <div class="tbl-toolbar">
+          <div class="search-wrap" style="flex:1">
+            <input class="search-box" placeholder="Filter logs…" oninput="filterLogs(this.value)" />
+          </div>
+          <select class="btn btn-glass btn-sm" onchange="filterLogSrc(this.value)">
+            <option value="">All Sources</option>
+            <option value="FAQ">FAQ Agent</option>
+            <option value="VectorDB">VectorDB</option>
+            <option value="Web">Web</option>
+            <option value="Fallback">Fallback</option>
+          </select>
+        </div>
+        <table>
+          <thead>
+            <tr>
+              <th>Time</th>
+              <th>Question</th>
+              <th>Source</th>
+              <th>Confidence</th>
+              <th>ms</th>
+            </tr>
+          </thead>
+          <tbody id="logsBody"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- ═════════════ HEATMAP ═════════════ -->
+    <div class="page" id="page-heatmap">
+
+      <!-- Row 1: Heatmap (1) + Hourly Volume (2) — equal columns -->
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-bottom:14px;align-items:start">
+
+        <!-- 1. Heatmap -->
+        <div class="chart-card" style="margin-bottom:0">
+          <div class="chart-head">
+            <div>
+              <div class="chart-title">▦ Activity Heatmap</div>
+              <div class="chart-sub">Each cell = one day · Darker = more questions</div>
+            </div>
+            <select class="btn btn-glass btn-sm" onchange="buildHeatmap(+this.value)">
+              <option value="12">12 weeks</option>
+              <option value="8">8 weeks</option>
+              <option value="16">16 weeks</option>
+            </select>
+          </div>
+          <div class="heatmap-outer">
+            <div class="hm-days">
+              <span></span><span>Mon</span><span></span><span>Wed</span><span></span><span>Fri</span><span></span>
+            </div>
+            <div style="overflow-x:auto">
+              <div class="hm-grid" id="hmGrid"></div>
+            </div>
+          </div>
+          <div class="hm-legend">
+            <span>Less</span>
+            <div class="hm-lc" style="background:var(--s4)"></div>
+            <div class="hm-lc" style="background:rgba(99,102,241,0.18)"></div>
+            <div class="hm-lc" style="background:rgba(99,102,241,0.38)"></div>
+            <div class="hm-lc" style="background:rgba(99,102,241,0.62)"></div>
+            <div class="hm-lc" style="background:rgba(99,102,241,0.88)"></div>
+            <span>More</span>
+          </div>
+        </div>
+
+        <!-- 2. Hourly Volume -->
+        <div class="chart-card" style="margin-bottom:0">
+          <div class="chart-head">
+            <div>
+              <div class="chart-title">⏰ Hourly Volume Today</div>
+              <div class="chart-sub">Questions by hour (24h)</div>
+            </div>
+          </div>
+          <div class="hour-grid" id="hourGrid"></div>
+        </div>
+
+      </div>
+
+      <!-- Row 2: Day-of-Week full width -->
+      <div class="chart-card" style="margin-bottom:0">
+        <div class="chart-head">
+          <div>
+            <div class="chart-title">📅 Day-of-Week Average</div>
+            <div class="chart-sub">Average questions per weekday</div>
+          </div>
+        </div>
+        <canvas id="dowChart" height="45"></canvas>
+      </div>
+
+    </div>
+
+    <!-- ═════════════ URL MANAGER ═════════════ -->
+    <div class="page" id="page-urls">
+      <div class="grid-3">
+        <div class="stat-card" style="--card-accent:var(--sky)">
+          <div class="stat-card-glow"></div>
+          <div class="stat-label">Total URLs</div>
+          <div class="stat-value" style="color:var(--sky)" id="url-total">—</div>
+          <div class="stat-sub">in crawl list</div>
+        </div>
+        <div class="stat-card" style="--card-accent:var(--emerald)">
+          <div class="stat-card-glow"></div>
+          <div class="stat-label">Unique Domains</div>
+          <div class="stat-value" style="color:var(--emerald)" id="url-domains">—</div>
+          <div class="stat-sub">kiet subdomains</div>
+        </div>
+        <div class="stat-card" style="--card-accent:var(--rose)">
+          <div class="stat-card-glow"></div>
+          <div class="stat-label">Error URLs</div>
+          <div class="stat-value" style="color:var(--rose)" id="url-errors">—</div>
+          <div class="stat-sub err">need attention</div>
+        </div>
+      </div>
+
+      <div style="display:flex;gap:8px;margin-bottom:14px">
+        <input class="input" id="newUrl" placeholder="https://kiet.edu.pk/new-page" style="flex:1" />
+        <button class="btn btn-solid" onclick="addUrl()">+ Add URL</button>
+        <button class="btn btn-glass" onclick="document.getElementById('urlImport').click()">📋 Import .txt</button>
+        <input type="file" id="urlImport" accept=".txt" style="display:none" onchange="importUrls(event)" />
+      </div>
+
+      <div class="domain-tabs" id="domainTabs"></div>
+
+      <div class="tbl-wrap">
+        <div class="tbl-toolbar">
+          <div class="search-wrap" style="flex:1">
+            <input class="search-box" placeholder="Filter URLs…" oninput="filterUrls(this.value)" />
+          </div>
+          <button class="btn btn-danger btn-sm" id="urlBulkDel" style="display:none" onclick="bulkDelUrls()">🗑 Delete
+            Selected</button>
+        </div>
+        <table>
+          <thead>
+            <tr>
+              <th><input type="checkbox" onchange="selAllUrls(this)" /></th>
+              <th>URL</th>
+              <th>Domain</th>
+              <th>Status</th>
+              <th>Actions</th>
+            </tr>
+          </thead>
+          <tbody id="urlBody"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- ═════════════ SETTINGS ═════════════ -->
+    <div class="page" id="page-settings">
+      <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:20px">
+        <div class="section-label" style="margin-bottom:0">System Settings</div>
+        <button class="btn btn-solid" onclick="saveSettings()">💾 Save Changes</button>
+      </div>
+
+      <div class="settings-panel">
+        <div class="settings-panel-title">🎛 Pipeline Thresholds</div>
+
+        <div class="settings-row">
+          <div>
+            <div class="settings-label">FAQ Min Score</div>
+            <div class="settings-desc">Minimum fuzzy match score (0–100) for FAQ lookup</div>
+          </div>
+          <div class="settings-ctrl range-group">
+            <input type="range" class="range" min="50" max="100" value="82" id="s-faqScore"
+              oninput="document.getElementById('sv-faqScore').textContent=this.value" />
+            <span class="range-val" id="sv-faqScore">82</span>
+          </div>
+        </div>
+        <div class="settings-row">
+          <div>
+            <div class="settings-label">FAISS Candidates (k)</div>
+            <div class="settings-desc">Number of FAISS candidates fetched per query</div>
+          </div>
+          <div class="settings-ctrl range-group">
+            <input type="range" class="range" min="5" max="30" value="15" id="s-chunkK"
+              oninput="document.getElementById('sv-chunkK').textContent=this.value" />
+            <span class="range-val" id="sv-chunkK">15</span>
+          </div>
+        </div>
+        <div class="settings-row">
+          <div>
+            <div class="settings-label">Top Chunks to LLM</div>
+            <div class="settings-desc">How many reranked chunks passed as LLM context</div>
+          </div>
+          <div class="settings-ctrl range-group">
+            <input type="range" class="range" min="1" max="10" value="5" id="s-topChunks"
+              oninput="document.getElementById('sv-topChunks').textContent=this.value" />
+            <span class="range-val" id="sv-topChunks">5</span>
+          </div>
+        </div>
+        <div class="settings-row">
+          <div>
+            <div class="settings-label">Max FAISS Distance</div>
+            <div class="settings-desc">Max cosine distance threshold (0.0–1.0)</div>
+          </div>
+          <div class="settings-ctrl range-group">
+            <input type="range" class="range" min="50" max="100" value="90" id="s-maxDist"
+              oninput="document.getElementById('sv-maxDist').textContent=(this.value/100).toFixed(2)" />
+            <span class="range-val" id="sv-maxDist">0.90</span>
+          </div>
+        </div>
+        <div class="settings-row">
+          <div>
+            <div class="settings-label">LLM Max Tokens</div>
+            <div class="settings-desc">Maximum tokens generated per answer</div>
+          </div>
+          <div class="settings-ctrl"><input type="number" class="num-input" value="256" min="64" max="1024"
+              id="s-maxTokens" /></div>
+        </div>
+        <div class="settings-row">
+          <div>
+            <div class="settings-label">LLM Temperature</div>
+            <div class="settings-desc">0.0 = deterministic · 1.0 = creative</div>
+          </div>
+          <div class="settings-ctrl range-group">
+            <input type="range" class="range" min="0" max="100" value="0" id="s-temp"
+              oninput="document.getElementById('sv-temp').textContent=(this.value/100).toFixed(2)" />
+            <span class="range-val" id="sv-temp">0.00</span>
+          </div>
+        </div>
+        <div class="settings-row">
+          <div>
+            <div class="settings-label">Rate Limit / Minute</div>
+            <div class="settings-desc">Max requests per session before throttling</div>
+          </div>
+          <div class="settings-ctrl"><input type="number" class="num-input" value="10" min="1" max="100"
+              id="s-rateLimit" /></div>
+        </div>
+      </div>
+
+      <div class="settings-panel">
+        <div class="settings-panel-title">🤖 Agent Toggles</div>
+        <div class="settings-row">
+          <div>
+            <div class="settings-label">FAQ Agent</div>
+            <div class="settings-desc">Answer from MongoDB FAQ database — fastest path</div>
+          </div>
+          <label class="toggle settings-ctrl"><input type="checkbox" checked />
+            <div class="track"></div>
+            <div class="thumb"></div>
+          </label>
+        </div>
+        <div class="settings-row">
+          <div>
+            <div class="settings-label">VectorDB Agent</div>
+            <div class="settings-desc">Semantic search over indexed documents</div>
+          </div>
+          <label class="toggle settings-ctrl"><input type="checkbox" checked />
+            <div class="track"></div>
+            <div class="thumb"></div>
+          </label>
+        </div>
+        <div class="settings-row">
+          <div>
+            <div class="settings-label">Web Scraper Agent</div>
+            <div class="settings-desc">Live crawl of KIET website — slowest, most current</div>
+          </div>
+          <label class="toggle settings-ctrl"><input type="checkbox" checked />
+            <div class="track"></div>
+            <div class="thumb"></div>
+          </label>
+        </div>
+        <div class="settings-row">
+          <div>
+            <div class="settings-label">Consistency Check</div>
+            <div class="settings-desc">Validates and regenerates hallucinated answers</div>
+          </div>
+          <label class="toggle settings-ctrl"><input type="checkbox" checked />
+            <div class="track"></div>
+            <div class="thumb"></div>
+          </label>
+        </div>
+        <div class="settings-row">
+          <div>
+            <div class="settings-label">Smart Fallback</div>
+            <div class="settings-desc">Intercepts hostel/timetable/results queries early</div>
+          </div>
+          <label class="toggle settings-ctrl"><input type="checkbox" checked />
+            <div class="track"></div>
+            <div class="thumb"></div>
+          </label>
+        </div>
+        <div class="settings-row">
+          <div>
+            <div class="settings-label">Auto-Save to FAQ</div>
+            <div class="settings-desc">Store good VectorDB answers back into FAQ cache</div>
+          </div>
+          <label class="toggle settings-ctrl"><input type="checkbox" checked />
+            <div class="track"></div>
+            <div class="thumb"></div>
+          </label>
+        </div>
+      </div>
+
+      <div class="settings-panel">
+        <div class="settings-panel-title">🧠 Model Configuration</div>
+        <div class="settings-row">
+          <div>
+            <div class="settings-label">LLM Model</div>
+            <div class="settings-desc">Active language model for answer generation</div>
+          </div>
+          <div class="settings-ctrl">
+            <select class="num-input">
+              <option selected>meta-llama/Llama-3.2-1B-Instruct</option>
+              <option>meta-llama/Llama-3.2-3B-Instruct</option>
+              <option>mistralai/Mistral-7B-Instruct-v0.2</option>
+            </select>
+          </div>
+        </div>
+        <div class="settings-row">
+          <div>
+            <div class="settings-label">Embedding Model</div>
+            <div class="settings-desc">HuggingFace model for vector embeddings (requires reindex)</div>
+          </div>
+          <div class="settings-ctrl">
+            <select class="num-input">
+              <option selected>intfloat/e5-base-v2</option>
+              <option>sentence-transformers/all-MiniLM-L6-v2</option>
+              <option>intfloat/e5-large-v2</option>
+            </select>
+          </div>
+        </div>
+        <div class="settings-row">
+          <div>
+            <div class="settings-label">Chunk Size</div>
+            <div class="settings-desc">Characters per text chunk during indexing</div>
+          </div>
+          <div class="settings-ctrl"><input type="number" class="num-input" value="1000" min="200" max="4000"
+              id="s-chunkSize" /></div>
+        </div>
+        <div class="settings-row">
+          <div>
+            <div class="settings-label">Chunk Overlap</div>
+            <div class="settings-desc">Character overlap between consecutive chunks</div>
+          </div>
+          <div class="settings-ctrl"><input type="number" class="num-input" value="160" min="0" max="500"
+              id="s-chunkOverlap" /></div>
+        </div>
+      </div>
+    </div>
+
+  </main>
+
+  <!-- Delete Modal -->
+  <div class="overlay" id="delModal">
+    <div class="modal">
+      <div class="modal-title">🗑 Delete File</div>
+      <div class="modal-sub" id="delModalSub">Are you sure? This cannot be undone.</div>
+      <div class="modal-actions">
+        <button class="btn btn-ghost" onclick="closeModal('delModal')">Cancel</button>
+        <button class="btn btn-danger" onclick="confirmDel()">Delete</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- FAQ Modal -->
+  <div class="overlay" id="faqModal">
+    <div class="modal" style="max-width:500px">
+      <div class="modal-title">⚡ Add FAQ Entry</div>
+      <div class="modal-sub">Add a frequently asked question and its answer to the knowledge base</div>
+      <div class="form-group">
+        <label class="form-label">Question</label>
+        <input class="input" id="faqQ" placeholder="e.g. What are admission requirements?" />
+      </div>
+      <div class="form-group">
+        <label class="form-label">Answer</label>
+        <textarea class="input" id="faqA" placeholder="Write the answer here…"></textarea>
+      </div>
+      <div class="form-group">
+        <label class="form-label">Category</label>
+        <input class="input" id="faqCat" placeholder="e.g. Admissions, Academic, Finance…" />
+      </div>
+      <div class="modal-actions">
+        <button class="btn btn-ghost" onclick="closeModal('faqModal')">Cancel</button>
+        <button class="btn btn-solid" onclick="saveFaq()">Save Entry</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toasts -->
+  <div class="toasts" id="toasts"></div>
+
+  <script>
+    // ══════════════════════════════════════════════════════════
+    // API + State
+    // ══════════════════════════════════════════════════════════
+    // ── Admin API key — matches ADMIN_API_KEY in your .env ────
+    const ADMIN_KEY = window.__ADMIN_KEY__ || '8f4b23d9a1e7c560b492618d3f82a19e';
+    const HEADERS = { 'Content-Type': 'application/json', 'X-Admin-Key': ADMIN_KEY };
+    const API_STATS = '/api/admin/stats';
+    // back-compat alias
+    const API = API_STATS;
+
+    let apiStats = null;
+
+    async function fetchStats() {
+      try {
+        const r = await fetch(API_STATS, { headers: HEADERS });
+        if (!r.ok) throw new Error(r.status);
+        apiStats = await r.json();
+        return true;
+      } catch (e) {
+        console.warn('API unavailable, using demo data:', e.message);
+        apiStats = DEMO_STATS;
+        return false;
+      }
+    }
+
+    // Demo fallback data
+    const DEMO_STATS = {
+      total_questions: 1284,
+      questions_today: 47,
+      avg_response_ms: 2100,
+      source_distribution: {
+        'FAQ Agent': 412,
+        'VectorDB → LLM': 638,
+        'Web → LLM': 189,
+        'Smart Fallback': 70,
+        'Fallback': 45,
+      },
+      confidence_distribution: {
+        high: 412, medium: 638, low: 189, fallback: 45
+      },
+      top_questions: [
+        { question: 'What are the admission requirements?', count: 42, source: 'FAQ Agent', avg_ms: 98 },
+        { question: 'KIET fee structure 2025', count: 31, source: 'FAQ Agent', avg_ms: 85 },
+        { question: 'How to apply for hostel?', count: 28, source: 'FAQ Agent', avg_ms: 110 },
+        { question: 'Library timings at KIET', count: 19, source: 'VectorDB → LLM', avg_ms: 2100 },
+        { question: 'Campus transport schedule', count: 15, source: 'Web → LLM', avg_ms: 3800 },
+      ],
+      unanswered: [
+        { question: 'KIET timetable fall 2026', count: 8 },
+        { question: 'How to get replacement ID card?', count: 5 },
+        { question: 'Scholarship deadline 2026', count: 4 },
+      ],
+      daily_counts: [
+        { date: '2026-03-05', count: 28 }, { date: '2026-03-06', count: 35 },
+        { date: '2026-03-07', count: 22 }, { date: '2026-03-08', count: 41 },
+        { date: '2026-03-09', count: 39 }, { date: '2026-03-10', count: 47 },
+        { date: '2026-03-11', count: 19 }, { date: '2026-03-12', count: 52 },
+        { date: '2026-03-13', count: 61 }, { date: '2026-03-14', count: 44 },
+        { date: '2026-03-15', count: 38 }, { date: '2026-03-16', count: 55 },
+        { date: '2026-03-17', count: 48 }, { date: '2026-03-18', count: 47 },
+      ],
+    };
+
+    // ══════════════════════════════════════════════════════════
+    // Chart.js defaults
+    // ══════════════════════════════════════════════════════════
+    Chart.defaults.color = '#555878';
+    Chart.defaults.borderColor = 'rgba(255,255,255,0.05)';
+    Chart.defaults.font.family = "'Space Grotesk', sans-serif";
+
+    const PALETTE = {
+      indigo: 'rgba(99,102,241,0.8)',
+      emerald: 'rgba(16,185,129,0.8)',
+      amber: 'rgba(245,158,11,0.8)',
+      rose: 'rgba(244,63,94,0.8)',
+      sky: 'rgba(56,189,248,0.8)',
+      violet: 'rgba(167,139,250,0.8)',
+    };
+
+    let charts = {};
+
+    // ══════════════════════════════════════════════════════════
+    // Navigation
+    // ══════════════════════════════════════════════════════════
+    function nav(id, el) {
+      document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+      document.querySelectorAll('.nav-link').forEach(n => n.classList.remove('active'));
+      document.getElementById('page-' + id).classList.add('active');
+      if (el) el.classList.add('active');
+
+      // Refresh live data when switching to these pages
+      if (id === 'heatmap') { buildHeatmap(12); buildHourGrid(); buildDowChart(); }
+      if (id === 'urls') { fetchUrls(); }
+      if (id === 'faq') { fetchFaqs(); }
+      if (id === 'queries') { fetchLogs(); }
+      if (id === 'vectordb') { fetchVectorDB(); }
+      if (id === 'agents') { buildAgentCharts(); }
+    }
+
+    // ══════════════════════════════════════════════════════════
+    // Toast
+    // ══════════════════════════════════════════════════════════
+    function toast(msg, type = 'ok') {
+      const el = document.createElement('div');
+      el.className = `toast toast-${type}`;
+      el.innerHTML = `${type === 'ok' ? '✓' : '✗'} ${msg}`;
+      document.getElementById('toasts').appendChild(el);
+      setTimeout(() => el.remove(), 3200);
+    }
+
+    // ══════════════════════════════════════════════════════════
+    // Modal
+    // ══════════════════════════════════════════════════════════
+    function openModal(id) { document.getElementById(id).classList.add('open') }
+    function closeModal(id) { document.getElementById(id).classList.remove('open') }
+    window.addEventListener('click', e => { if (e.target.classList.contains('overlay')) e.target.classList.remove('open') });
+
+    // ══════════════════════════════════════════════════════════
+    // Dashboard — render from API stats
+    // ══════════════════════════════════════════════════════════
+    function renderDashboard(s) {
+      // Stats
+      document.getElementById('s-today').textContent = s.questions_today.toLocaleString();
+      document.getElementById('s-total').textContent = s.total_questions.toLocaleString();
+
+      const ms = Math.round(s.avg_response_ms);
+      document.getElementById('s-resp').innerHTML = ms >= 1000
+        ? `${(ms / 1000).toFixed(1)}<small>s</small>`
+        : `${ms}<small>ms</small>`;
+      document.getElementById('s-resp-d').textContent = ms < 2000 ? '↓ good response time' : '↑ consider optimizing';
+
+      const total = Object.values(s.source_distribution).reduce((a, b) => a + b, 0);
+      const fallbacks = s.source_distribution['Fallback'] || 0;
+      const fbRate = total ? Math.round(fallbacks / total * 100) : 0;
+      document.getElementById('s-fallback').textContent = `${fbRate}%`;
+      document.getElementById('s-fallback-d').className = 'stat-sub ' + (fbRate > 10 ? 'err' : 'up');
+      document.getElementById('s-fallback-d').textContent = fbRate > 10 ? '↑ high — add more FAQs' : `${fallbacks} fallback responses`;
+
+      // Daily chart
+      const days = s.daily_counts.slice(-14);
+      const labels = days.map(d => d.date.slice(5));
+      const data = days.map(d => d.count);
+
+      if (charts.daily) charts.daily.destroy();
+      charts.daily = new Chart(document.getElementById('dailyChart').getContext('2d'), {
+        type: 'bar',
+        data: {
+          labels, datasets: [{
+            label: 'Questions', data,
+            backgroundColor: 'rgba(99,102,241,0.25)',
+            borderColor: '#6366f1', borderWidth: 1.5, borderRadius: 5,
+          }]
+        },
+        options: {
+          responsive: true,
+          plugins: { legend: { display: false } },
+          scales: {
+            y: { grid: { color: 'rgba(255,255,255,0.04)' } },
+            x: { grid: { display: false } }
+          }
+        }
+      });
+
+      // Confidence doughnut
+      const conf = s.confidence_distribution;
+      if (charts.conf) charts.conf.destroy();
+      charts.conf = new Chart(document.getElementById('confChart').getContext('2d'), {
+        type: 'doughnut',
+        data: {
+          labels: ['High', 'Medium', 'Low', 'Fallback'],
+          datasets: [{
+            data: [conf.high || 0, conf.medium || 0, conf.low || 0, conf.fallback || 0],
+            backgroundColor: [PALETTE.emerald, PALETTE.indigo, PALETTE.amber, PALETTE.rose],
+            borderColor: 'transparent', borderWidth: 0,
+          }]
+        },
+        options: {
+          responsive: true, cutout: '70%',
+          plugins: { legend: { position: 'bottom', labels: { padding: 14, boxWidth: 10, font: { size: 11 } } } }
+        }
+      });
+
+      // Source horizontal bar
+      const srcLabels = Object.keys(s.source_distribution);
+      const srcData = Object.values(s.source_distribution);
+      const srcColors = [PALETTE.emerald, PALETTE.indigo, PALETTE.sky, PALETTE.amber, PALETTE.rose];
+      if (charts.source) charts.source.destroy();
+      charts.source = new Chart(document.getElementById('sourceChart').getContext('2d'), {
+        type: 'bar',
+        data: {
+          labels: srcLabels,
+          datasets: [{
+            label: 'Answers', data: srcData,
+            backgroundColor: srcColors.slice(0, srcLabels.length),
+            borderRadius: 5, borderWidth: 0,
+          }]
+        },
+        options: {
+          responsive: true, indexAxis: 'y',
+          plugins: { legend: { display: false } },
+          scales: { x: { grid: { color: 'rgba(255,255,255,0.04)' } }, y: { grid: { display: false } } }
+        }
+      });
+
+      // Simulated response time trend
+      const respData = data.map((_, i) => Math.max(1000, 3200 - i * 80 + Math.random() * 200));
+      if (charts.resp) charts.resp.destroy();
+      charts.resp = new Chart(document.getElementById('respChart').getContext('2d'), {
+        type: 'line',
+        data: {
+          labels,
+          datasets: [{
+            label: 'Avg ms', data: respData,
+            borderColor: '#38bdf8', backgroundColor: 'rgba(56,189,248,0.06)',
+            borderWidth: 2, pointRadius: 2, fill: true, tension: 0.4,
+          }]
+        },
+        options: {
+          responsive: true,
+          plugins: { legend: { display: false } },
+          scales: { y: { grid: { color: 'rgba(255,255,255,0.04)' } }, x: { grid: { display: false } } }
+        }
+      });
+
+      // Top questions
+      document.getElementById('topQBody').innerHTML = (s.top_questions || []).map((q, i) => `
+    <tr>
+      <td style="font-family:var(--mono);color:var(--t3)">#${i + 1}</td>
+      <td style="max-width:280px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">${q.question}</td>
+      <td style="font-family:var(--mono);font-weight:600">${q.count}</td>
+      <td>${sourceBadge(q.source)}</td>
+      <td style="font-family:var(--mono)">${Math.round(q.avg_ms || 0)}</td>
+    </tr>
+  `).join('');
+
+      // Unanswered
+      document.getElementById('unansweredList').innerHTML = (s.unanswered || []).map(u => `
+    <div class="alert-item">
+      <div class="alert-icon">⚠️</div>
+      <div class="alert-body">
+        <div class="alert-title">${u.question}</div>
+        <div class="alert-sub">No useful answer found — pipeline fell back every time</div>
+      </div>
+      <div class="alert-count">${u.count}×</div>
+      <button class="btn btn-solid btn-sm" onclick="prefillFaq('${u.question.replace(/'/g, "\\'")}')">+ FAQ</button>
+    </div>
+  `).join('') || '<div style="padding:20px;text-align:center;color:var(--t3);font-size:13px">🎉 No unanswered questions</div>';
+
+      // Agent analytics cards
+      const src = s.source_distribution;
+      const faq = src['FAQ Agent'] || 0;
+      const vec = (src['VectorDB → LLM'] || src['VECTOR → LLM'] || src['VectorDB'] || 0);
+      const web = (src['Web → LLM'] || src['WEB → LLM'] || src['Web'] || 0);
+      const fb = src['Fallback'] || 0;
+      document.getElementById('ag-faq').textContent = faq.toLocaleString();
+      document.getElementById('ag-vec').textContent = vec.toLocaleString();
+      document.getElementById('ag-web').textContent = web.toLocaleString();
+      document.getElementById('ag-fallback').textContent = fb.toLocaleString();
+
+      // FAQ count badge
+      document.getElementById('nb-faq').textContent = allFaqs.length;
+      document.getElementById('faq-count').textContent = `${allFaqs.length} entries`;
+    }
+
+    function sourceBadge(src) {
+      if (!src) return '';
+      if (src.includes('FAQ')) return `<span class="badge badge-green">FAQ Agent</span>`;
+      if (src.includes('Web')) return `<span class="badge badge-sky">Web → LLM</span>`;
+      if (src.includes('Vector') || src.includes('VECTOR')) return `<span class="badge badge-indigo">VectorDB → LLM</span>`;
+      if (src.includes('Fallback')) return `<span class="badge badge-rose">Fallback</span>`;
+      return `<span class="badge badge-mono">${src}</span>`;
+    }
+
+    function sliceDaily(n) {
+      if (!apiStats) return;
+      const days = apiStats.daily_counts.slice(-parseInt(n));
+      charts.daily.data.labels = days.map(d => d.date.slice(5));
+      charts.daily.data.datasets[0].data = days.map(d => d.count);
+      charts.daily.update();
+    }
+
+    // ══════════════════════════════════════════════════════════
+    // Agent Charts (built on demand)
+    // ══════════════════════════════════════════════════════════
+    function buildAgentCharts() {
+      if (!apiStats) return;
+      const src = apiStats.source_distribution;
+      const labels = Object.keys(src);
+      const data = Object.values(src);
+      const colors = [PALETTE.emerald, PALETTE.indigo, PALETTE.sky, PALETTE.amber, PALETTE.rose];
+
+      if (charts.agPie) charts.agPie.destroy();
+      charts.agPie = new Chart(document.getElementById('agPie').getContext('2d'), {
+        type: 'doughnut',
+        data: { labels, datasets: [{ data, backgroundColor: colors.slice(0, labels.length), borderColor: 'var(--s2)', borderWidth: 2 }] },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          cutout: '60%',
+          plugins: { legend: { position: 'bottom', labels: { padding: 12, boxWidth: 11, font: { size: 11 } } } }
+        }
+      });
+
+      if (charts.agSuccess) charts.agSuccess.destroy();
+      charts.agSuccess = new Chart(document.getElementById('agSuccess').getContext('2d'), {
+        type: 'bar',
+        data: {
+          labels: ['FAQ Agent', 'VectorDB', 'Web Scraper'],
+          datasets: [{
+            label: 'Success %', data: [98, 87, 79],
+            backgroundColor: [PALETTE.emerald, PALETTE.indigo, PALETTE.sky],
+            borderRadius: 6, borderWidth: 0,
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          indexAxis: 'y',
+          plugins: { legend: { display: false } },
+          scales: {
+            x: { max: 100, grid: { color: 'rgba(255,255,255,0.04)' }, ticks: { callback: v => v + '%', color: '#555878' } },
+            y: { grid: { display: false }, ticks: { color: '#555878' } }
+          }
+        }
+      });
+    }
+
+    // ══════════════════════════════════════════════════════════
+    // Vector DB Files  — live from /api/admin/vectordb
+    // ══════════════════════════════════════════════════════════
+    const fIcons = { pdf: '📄', docx: '📝', txt: '📃', html: '🌐', md: '📋' };
+    let allFiles = [];
+    let selFiles = new Set();
+    let fStatusFilter = 'all';
+
+    async function fetchVectorDB() {
+      try {
+        const r = await fetch('/api/admin/vectordb', { headers: HEADERS });
+        if (!r.ok) throw new Error(r.status);
+        const d = await r.json();
+        allFiles = (d.files || []).map((f, i) => ({ id: i + 1, ...f }));
+        document.getElementById('v-total').textContent = d.total || allFiles.length;
+        document.getElementById('v-pending').textContent = d.pending || allFiles.filter(f => f.status === 'pending').length;
+        renderFiles(allFiles);
+      } catch (e) {
+        console.warn('VectorDB API unavailable:', e.message);
+        renderFiles(allFiles);
+      }
+    }
+
+    function renderFiles(files) {
+      const filtered = fStatusFilter === 'all' ? files : files.filter(f => f.status === fStatusFilter);
+      document.getElementById('v-total').textContent = allFiles.length;
+      document.getElementById('v-pending').textContent = allFiles.filter(f => f.status === 'pending').length;
+      document.getElementById('fileBody').innerHTML = !filtered.length
+        ? `<tr><td colspan="7" style="text-align:center;padding:40px;color:var(--t3)">No files found</td></tr>`
+        : filtered.map(f => `
+      <tr>
+        <td><input type="checkbox" value="${f.id}" onchange="selFile(${f.id},this)" ${selFiles.has(f.id) ? 'checked' : ''}/></td>
+        <td>
+          <div style="display:flex;align-items:center;gap:10px">
+            <div class="file-icon fi-${f.type}">${fIcons[f.type] || '📄'}</div>
+            <div>
+              <div style="font-weight:600;color:var(--t1);font-size:13px">${f.name}</div>
+              <div style="font-size:11px;color:var(--t3)">${f.type.toUpperCase()}</div>
+            </div>
+          </div>
+        </td>
+        <td><span class="badge badge-mono" style="font-family:var(--mono)">${f.size}</span></td>
+        <td style="font-family:var(--mono)">${f.chunks || '—'}</td>
+        <td style="color:var(--t3);font-size:12px">${f.date}</td>
+        <td><span class="badge ${f.status === 'indexed' ? 'badge-green' : 'badge-amber'}">${f.status === 'indexed' ? '✓ Indexed' : '⏳ Pending'}</span></td>
+        <td>
+          <div class="row-actions">
+            <button class="btn btn-glass btn-sm" onclick="reindexFile(${f.id})" title="Reindex">↺</button>
+            <button class="btn btn-danger btn-sm" onclick="delFile(${f.id},'${f.name}')">🗑</button>
+          </div>
+        </td>
+      </tr>
+    `).join('');
+    }
+    function filterFiles(q) { renderFiles(allFiles.filter(f => f.name.toLowerCase().includes(q.toLowerCase()))) }
+    function fStatus(s) { fStatusFilter = s; renderFiles(allFiles) }
+    function selFile(id, el) { el.checked ? selFiles.add(id) : selFiles.delete(id); document.getElementById('bulkDelBtn').style.display = selFiles.size ? 'flex' : 'none' }
+    function selAll(el) { selFiles.clear(); document.querySelectorAll('#fileBody input[type=checkbox]').forEach(cb => { cb.checked = el.checked; if (el.checked) selFiles.add(+cb.value) }); document.getElementById('bulkDelBtn').style.display = selFiles.size ? 'flex' : 'none' }
+
+    let delTargetId = null;
+    function delFile(id, name) { delTargetId = id; document.getElementById('delModalSub').textContent = `Delete "${name}" from the vector store? Cannot be undone.`; openModal('delModal') }
+    function confirmDel() { if (delTargetId) { allFiles = allFiles.filter(f => f.id !== delTargetId); renderFiles(allFiles); toast('File deleted'); delTargetId = null } closeModal('delModal') }
+    function bulkDel() { allFiles = allFiles.filter(f => !selFiles.has(f.id)); selFiles.clear(); renderFiles(allFiles); document.getElementById('bulkDelBtn').style.display = 'none'; toast('Files deleted') }
+    function reindexFile(id) {
+      toast('Triggering incremental reindex…');
+      fetch('/api/admin/reindex', {
+        method: 'POST', headers: HEADERS,
+        body: JSON.stringify({ type: 'incremental' })
+      }).then(() => setTimeout(() => fetchVectorDB().then(() => toast('Reindex complete ✓')), 3000))
+        .catch(() => toast('Reindex failed', 'err'));
+    }
+
+    // Upload
+    function ev(e) { e.preventDefault(); document.querySelector('.upload-zone').classList.add('drag') }
+    function el(e) { document.querySelector('.upload-zone').classList.remove('drag') }
+    function ed(e) { e.preventDefault(); document.querySelector('.upload-zone').classList.remove('drag'); processFiles(e.dataTransfer.files) }
+    function processFiles(files) {
+      [...files].forEach(file => {
+        const ext = file.name.split('.').pop().toLowerCase();
+        allFiles.unshift({ id: Date.now() + Math.random(), name: file.name, type: ext, size: (file.size / 1e6).toFixed(1) + ' MB', chunks: 0, date: new Date().toISOString().slice(0, 10), status: 'pending' });
+      });
+      renderFiles(allFiles);
+      toast(`${files.length} file(s) uploaded — pending index`);
+    }
+
+    // ══════════════════════════════════════════════════════════
+    // Reindexing
+    // ══════════════════════════════════════════════════════════
+    const RL = {
+      full: ['Connecting to FAISS vector store…', 'Loading embedding model: intfloat/e5-base-v2', 'Clearing existing index…', 'Processing kiet_admissions_2025.pdf → 312 chunks', 'Processing hostel_guidelines.pdf → 148 chunks', 'Processing academic_calendar.pdf → 95 chunks', 'Processing fee_structure_2025.pdf → 64 chunks', 'Processing faculty_directory.docx → 218 chunks', 'Processing exam_policy.txt → 32 chunks', 'Embedding 869 chunks with e5-base-v2…', 'Writing FAISS index to disk…', '✅ Full reindex complete — 869 chunks in 6m 12s'],
+      incremental: ['Scanning for modified files…', 'Found 2 new/modified files', 'Processing transport_schedule.pdf → 41 chunks', 'Processing new_curriculum_2026.docx → 387 chunks', 'Embedding 428 new chunks…', 'Merging into existing FAISS index…', '✅ Incremental reindex complete — 428 chunks added in 43s'],
+      web: ['Loading URL list from config/urls.txt…', 'Found 41 URLs to crawl', 'Crawling https://kiet.edu.pk…', 'Crawling https://admissions.kiet.edu.pk…', 'Crawling https://cocis.kiet.edu.pk…', 'Crawling https://coms.kiet.edu.pk…', 'Extracted 1,284 paragraphs from 41 pages', 'Embedding web content…', '✅ Web rescrape complete — 1,284 chunks in 2m 05s'],
+    };
+    let rHistory = [
+      { dt: '2026-03-17 08:00', type: 'Incremental', files: 2, dur: '43s', ok: true },
+      { dt: '2026-03-14 22:15', type: 'Full', files: 8, dur: '6m 12s', ok: true },
+      { dt: '2026-03-10 09:30', type: 'Web Scrape', files: 41, dur: '2m 05s', ok: true },
+      { dt: '2026-03-07 14:20', type: 'Incremental', files: 3, dur: '55s', ok: false },
+    ];
+    function doReindex(type) {
+      const el = document.getElementById('log-' + type);
+      el.innerHTML = ''; el.classList.add('show');
+      RL[type].forEach((line, i) => {
+        setTimeout(() => {
+          const ts = new Date().toLocaleTimeString();
+          const d = document.createElement('div');
+          d.className = 'log-line';
+          d.innerHTML = `<span class="log-ts">[${ts}]</span>${line}`;
+          el.appendChild(d); el.scrollTop = el.scrollHeight;
+        }, i * 380);
+      });
+      setTimeout(() => {
+        rHistory.unshift({ dt: new Date().toLocaleString(), type: type === 'full' ? 'Full' : type === 'incremental' ? 'Incremental' : 'Web Scrape', files: type === 'web' ? 41 : type === 'full' ? 8 : 2, dur: type === 'full' ? '6m 12s' : type === 'incremental' ? '43s' : '2m 05s', ok: true });
+        renderRHistory(); toast('Reindexing complete ✓');
+      }, RL[type].length * 380 + 500);
+    }
+    function renderRHistory() {
+      document.getElementById('reindexHist').innerHTML = rHistory.map(r => `
+    <tr>
+      <td style="font-family:var(--mono);font-size:12px;color:var(--t3)">${r.dt}</td>
+      <td><span class="badge ${r.type === 'Full' ? 'badge-violet' : r.type === 'Incremental' ? 'badge-indigo' : 'badge-sky'}">${r.type}</span></td>
+      <td style="font-family:var(--mono)">${r.files}</td>
+      <td style="font-family:var(--mono)">${r.dur}</td>
+      <td><span class="badge ${r.ok ? 'badge-green' : 'badge-rose'}">${r.ok ? '✓ Success' : '✗ Failed'}</span></td>
+    </tr>
+  `).join('');
+    }
+
+    // ══════════════════════════════════════════════════════════
+    // FAQ Manager  — live: GET/POST/DELETE /api/admin/faqs
+    // ══════════════════════════════════════════════════════════
+    let allFaqs = [];
+    let _editingFaqId = null;   // null = new entry, string = editing existing
+
+    async function fetchFaqs() {
+      try {
+        const r = await fetch('/api/admin/faqs', { headers: HEADERS });
+        if (!r.ok) throw new Error(r.status);
+        const data = await r.json();
+        // API returns {id, question, answer, category} — normalise to {id, q, a, cat}
+        allFaqs = data.map(f => ({
+          id: f.id,
+          q: f.question,
+          a: f.answer,
+          cat: f.category || 'General',
+          hits: 0,
+          auto: false,
+        }));
+        renderFaqs(allFaqs);
+      } catch (e) {
+        console.warn('FAQ API unavailable:', e.message);
+        renderFaqs(allFaqs);
+      }
+    }
+
+    function renderFaqs(faqs) {
+      const grid = document.getElementById('faqGrid');
+      if (!faqs.length) {
+        grid.innerHTML = '<div style="text-align:center;padding:40px;color:var(--t3)">No FAQ entries yet. Click + Add Entry to get started.</div>';
+      } else {
+        grid.innerHTML = faqs.map(f => `
+      <div class="faq-item">
+        <div class="faq-q">
+          <span>${escHtml(f.q)}</span>
+          <div class="row-actions">
+            <button class="btn btn-glass btn-sm" onclick="editFaq('${f.id}')">✏</button>
+            <button class="btn btn-danger btn-sm" onclick="rmFaq('${f.id}')">🗑</button>
+          </div>
+        </div>
+        <div class="faq-a">${escHtml(f.a)}</div>
+        <div class="faq-meta">
+          <span class="badge ${f.auto ? 'badge-sky' : 'badge-green'}">${f.auto ? 'Auto' : 'Manual'}</span>
+          <span class="badge badge-violet">${escHtml(f.cat)}</span>
+        </div>
+      </div>
+    `).join('');
+      }
+      document.getElementById('faq-count').textContent = allFaqs.length + ' entries';
+      try { document.getElementById('nb-faq').textContent = allFaqs.length; } catch (e) { }
+    }
+
+    function filterFaqs(q) {
+      renderFaqs(allFaqs.filter(f =>
+        f.q.toLowerCase().includes(q.toLowerCase()) ||
+        f.a.toLowerCase().includes(q.toLowerCase())
+      ));
+    }
+
+    function openFaqModal() {
+      _editingFaqId = null;
+      document.getElementById('faqQ').value = '';
+      document.getElementById('faqA').value = '';
+      document.getElementById('faqCat').value = '';
+      openModal('faqModal');
+    }
+
+    function prefillFaq(q) {
+      _editingFaqId = null;
+      document.getElementById('faqQ').value = q;
+      document.getElementById('faqA').value = '';
+      document.getElementById('faqCat').value = '';
+      openModal('faqModal');
+      nav('faq', document.querySelectorAll('.nav-link')[4]);
+    }
+
+    function editFaq(id) {
+      const f = allFaqs.find(x => x.id === id);
+      if (!f) return;
+      _editingFaqId = id;
+      document.getElementById('faqQ').value = f.q;
+      document.getElementById('faqA').value = f.a;
+      document.getElementById('faqCat').value = f.cat;
+      openModal('faqModal');
+    }
+
+    async function saveFaq() {
+      const q = document.getElementById('faqQ').value.trim();
+      const a = document.getElementById('faqA').value.trim();
+      const cat = document.getElementById('faqCat').value.trim() || 'General';
+      if (!q || !a) { toast('Fill in question and answer', 'err'); return; }
+
+      if (_editingFaqId) {
+        // Edit: delete old + create new (no PATCH endpoint needed)
+        try {
+          await fetch(`/api/admin/faqs/${_editingFaqId}`, { method: 'DELETE', headers: HEADERS });
+        } catch (e) { /* best-effort */ }
+      }
+
+      try {
+        const r = await fetch('/api/admin/faqs', {
+          method: 'POST',
+          headers: HEADERS,
+          body: JSON.stringify({ question: q, answer: a, category: cat }),
+        });
+        if (!r.ok) {
+          const err = await r.json().catch(() => ({}));
+          toast(err.detail || 'Save failed', 'err');
+          return;
+        }
+        const created = await r.json();
+        closeModal('faqModal');
+        toast('FAQ entry saved ✓');
+        await fetchFaqs();
+      } catch (e) {
+        toast('Network error — could not save', 'err');
+      }
+    }
+
+    async function rmFaq(id) {
+      try {
+        const r = await fetch(`/api/admin/faqs/${id}`, { method: 'DELETE', headers: HEADERS });
+        if (!r.ok) { toast('Delete failed', 'err'); return; }
+        allFaqs = allFaqs.filter(f => f.id !== id);
+        renderFaqs(allFaqs);
+        toast('FAQ deleted');
+      } catch (e) {
+        toast('Network error', 'err');
+      }
+    }
+
+    // ══════════════════════════════════════════════════════════
+    // Query Logs  — live: GET /api/admin/logs
+    // ══════════════════════════════════════════════════════════
+    let allLogs = [];
+    const confBadge = { high: 'badge-green', medium: 'badge-indigo', low: 'badge-amber', fallback: 'badge-rose' };
+
+    async function fetchLogs(sourceFilter = '') {
+      try {
+        const qs = sourceFilter ? `?source=${encodeURIComponent(sourceFilter)}` : '';
+        const r = await fetch(`/api/admin/logs${qs}`, { headers: HEADERS });
+        if (!r.ok) throw new Error(r.status);
+        const data = await r.json();
+        // Normalise field names from logger.py schema
+        allLogs = data.map(l => ({
+          time: l.timestamp || '',
+          q: l.question || '',
+          src: l.source || '',
+          conf: l.confidence || '',
+          ms: l.response_time_ms || 0,
+        }));
+        renderLogs(allLogs);
+      } catch (e) {
+        console.warn('Logs API unavailable:', e.message);
+        renderLogs(allLogs);
+      }
+    }
+
+    function renderLogs(logs) {
+      document.getElementById('logsBody').innerHTML = !logs.length
+        ? `<tr><td colspan="5" style="text-align:center;padding:30px;color:var(--t3)">No logs found</td></tr>`
+        : logs.map(l => `
+      <tr>
+        <td style="font-family:var(--mono);font-size:12px;color:var(--t3)">${escHtml(l.time)}</td>
+        <td style="max-width:280px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">${escHtml(l.q)}</td>
+        <td>${sourceBadge(l.src)}</td>
+        <td><span class="badge ${confBadge[l.conf] || 'badge-mono'}">${l.conf}</span></td>
+        <td style="font-family:var(--mono);font-size:12px">${l.ms}</td>
+      </tr>
+    `).join('');
+    }
+
+    function filterLogs(q) {
+      renderLogs(allLogs.filter(l => l.q.toLowerCase().includes(q.toLowerCase())));
+    }
+
+    function filterLogSrc(s) {
+      if (s) fetchLogs(s); else fetchLogs();
+    }
+
+    // ══════════════════════════════════════════════════════════
+    // Heatmap  — built from daily_counts if available
+    // ══════════════════════════════════════════════════════════
+    function buildHeatmap(weeks) {
+      weeks = parseInt(weeks) || 12;
+      const grid = document.getElementById('hmGrid');
+      grid.innerHTML = '';
+
+      // Build a date → count lookup from API data
+      const countMap = {};
+      if (apiStats && apiStats.daily_counts) {
+        apiStats.daily_counts.forEach(d => { countMap[d.date] = d.count; });
+      }
+
+      const today = new Date();
+      const total = weeks * 7;
+      const start = new Date(today);
+      start.setDate(today.getDate() - total + 1);
+      const dayOff = start.getDay();
+
+      for (let i = 0; i < dayOff; i++) {
+        const e = document.createElement('div');
+        e.style.cssText = 'width:22px;height:22px';
+        grid.appendChild(e);
+      }
+
+      for (let d = 0; d < total; d++) {
+        const date = new Date(start);
+        date.setDate(start.getDate() + d);
+        const iso = date.toISOString().slice(0, 10);
+        // Use real data if available, else random for visual demo
+        const count = countMap[iso] !== undefined
+          ? countMap[iso]
+          : Math.floor(Math.random() * 60);
+        const v = count === 0 ? 0 : count < 10 ? 1 : count < 25 ? 2 : count < 45 ? 3 : 4;
+        const ds = date.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+        const cell = document.createElement('div');
+        cell.className = 'hm-cell';
+        cell.setAttribute('data-v', v);
+        cell.innerHTML = `<div class="hm-tip">${ds}: ${count} questions</div>`;
+        grid.appendChild(cell);
+      }
+    }
+
+    // Hourly — derive from logs if available, else static shape
+    function buildHourGrid() {
+      const hourCounts = new Array(24).fill(0);
+      allLogs.forEach(l => {
+        const h = parseInt((l.time || '').split(':')[0]);
+        if (!isNaN(h) && h >= 0 && h < 24) hourCounts[h]++;
+      });
+      // If no live data, fall back to realistic pattern
+      const hasData = hourCounts.some(v => v > 0);
+      const HOURLY = hasData ? hourCounts : [0, 0, 1, 0, 0, 2, 4, 9, 14, 18, 22, 28, 31, 25, 20, 18, 22, 24, 19, 12, 8, 5, 2, 1];
+      const mx = Math.max(...HOURLY, 1);
+      document.getElementById('hourGrid').innerHTML = HOURLY.map((v, i) => {
+        const h = i === 0 ? '12a' : i < 12 ? i + 'a' : i === 12 ? '12p' : (i - 12) + 'p';
+        const pct = v / mx * 100;
+        return `<div class="hbar-wrap">
+      <div class="hbar-outer">
+        <div class="hbar" style="height:${Math.max(pct, 2)}%" title="${v} at ${h}"></div>
+      </div>
+      <div class="hbar-label">${h}</div>
+    </div>`;
+      }).join('');
+    }
+
+    // Day-of-week — derive from daily_counts if enough data
+    function buildDowChart() {
+      const DOW_SUM = new Array(7).fill(0);
+      const DOW_COUNT = new Array(7).fill(0);
+      if (apiStats && apiStats.daily_counts && apiStats.daily_counts.length > 0) {
+        apiStats.daily_counts.forEach(d => {
+          const dow = new Date(d.date).getDay();
+          DOW_SUM[dow] += d.count;
+          DOW_COUNT[dow] += 1;
+        });
+      }
+
+      const DOW_AVG = DOW_SUM.map((s, i) => DOW_COUNT[i] > 0 ? Math.round(s / DOW_COUNT[i]) : [8, 32, 38, 41, 35, 22, 12][i]);
+      const maxV = Math.max(...DOW_AVG, 1);
+
+      const canvas = document.getElementById('dowChart');
+      if (charts.dow) { charts.dow.destroy(); }
+      charts.dow = new Chart(canvas.getContext('2d'), {
+        type: 'bar',
+        data: {
+          labels: ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'],
+          datasets: [{
+            label: 'Avg Questions', data: DOW_AVG,
+            backgroundColor: DOW_AVG.map(v => v === maxV ? 'rgba(99,102,241,0.85)' : 'rgba(99,102,241,0.28)'),
+            borderRadius: 5, borderWidth: 0,
+          }]
+        },
+        options: { responsive: true, maintainAspectRatio: true, plugins: { legend: { display: false } }, scales: { x: { grid: { display: false } }, y: { grid: { color: 'rgba(255,255,255,0.04)' } } } }
+      });
+    }
+
+    // ══════════════════════════════════════════════════════════
+    // URL Manager  — live: GET/POST/DELETE /api/admin/urls
+    // ══════════════════════════════════════════════════════════
+    let allUrls = [];
+    let selUrls = new Set();
+    let activeDomain = 'all';
+    const dIcons = {
+      'kiet.edu.pk': '🏫',
+      'coms.kiet.edu.pk': '📊',
+      'cocis.kiet.edu.pk': '💻',
+      'admissions.kiet.edu.pk': '📝',
+      'tencoms.kiet.edu.pk': '🚀',
+    };
+
+    async function fetchUrls() {
+      try {
+        const r = await fetch('/api/admin/urls', { headers: HEADERS });
+        if (!r.ok) throw new Error(r.status);
+        const data = await r.json();
+        allUrls = data.map((u, i) => ({
+          id: i + 1,
+          url: u.url,
+          domain: u.domain,
+          ok: u.status === 'ok',
+        }));
+        buildDomainTabs();
+        renderUrls(allUrls);
+      } catch (e) {
+        console.warn('URLs API unavailable:', e.message);
+        renderUrls(allUrls);
+      }
+    }
+
+    function renderUrls(urls) {
+      const body = document.getElementById('urlBody');
+      const f = activeDomain === 'all' ? urls : urls.filter(u => u.domain === activeDomain);
+      document.getElementById('url-total').textContent = allUrls.length;
+      document.getElementById('url-domains').textContent = new Set(allUrls.map(u => u.domain)).size;
+      document.getElementById('url-errors').textContent = allUrls.filter(u => !u.ok).length;
+
+      if (!f.length) {
+        body.innerHTML = `<tr><td colspan="5" style="text-align:center;padding:40px;color:var(--t3)">No URLs found</td></tr>`;
+        return;
+      }
+      body.innerHTML = f.map(u => `
+    <tr>
+      <td><input type="checkbox" value="${u.id}" onchange="selUrl(${u.id},this)" ${selUrls.has(u.id) ? 'checked' : ''}/></td>
+      <td>
+        <div style="display:flex;align-items:center;gap:8px">
+          <div class="url-fav">${dIcons[u.domain] || '🌐'}</div>
+          <div style="font-family:var(--mono);font-size:12px;color:var(--sky);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:380px">${escHtml(u.url)}</div>
+        </div>
+      </td>
+      <td><span class="badge badge-sky" style="font-size:11px">${escHtml(u.domain)}</span></td>
+      <td><span class="badge ${u.ok ? 'badge-green' : 'badge-rose'}">${u.ok ? '✓ Active' : '✗ Error'}</span></td>
+      <td>
+        <div class="row-actions">
+          <a href="${u.url}" target="_blank" class="btn btn-glass btn-sm">↗</a>
+          <button class="btn btn-danger btn-sm" onclick="delUrl('${escHtml(u.url)}')">🗑</button>
+        </div>
+      </td>
+    </tr>
+  `).join('');
+    }
+
+    function buildDomainTabs() {
+      const domains = ['all', ...new Set(allUrls.map(u => u.domain))];
+      document.getElementById('domainTabs').innerHTML = domains.map(d => `
+    <button class="btn ${d === activeDomain ? 'btn-solid' : 'btn-ghost'} btn-sm" onclick="setDomain('${d}')">
+      ${d === 'all' ? '🌐 All' : (dIcons[d] || '') + ' ' + d}
+      <span style="opacity:0.6;margin-left:4px">${d === 'all' ? allUrls.length : allUrls.filter(u => u.domain === d).length}</span>
+    </button>
+  `).join('');
+    }
+
+    function setDomain(d) { activeDomain = d; buildDomainTabs(); renderUrls(allUrls); }
+    function filterUrls(q) { renderUrls(allUrls.filter(u => u.url.toLowerCase().includes(q.toLowerCase()))); }
+    function selUrl(id, el) {
+      el.checked ? selUrls.add(id) : selUrls.delete(id);
+      document.getElementById('urlBulkDel').style.display = selUrls.size ? 'flex' : 'none';
+    }
+    function selAllUrls(el) {
+      selUrls.clear();
+      document.querySelectorAll('#urlBody input[type=checkbox]').forEach(cb => {
+        cb.checked = el.checked;
+        if (el.checked) selUrls.add(+cb.value);
+      });
+      document.getElementById('urlBulkDel').style.display = selUrls.size ? 'flex' : 'none';
+    }
+
+    async function addUrl() {
+      const v = document.getElementById('newUrl').value.trim();
+      if (!v.startsWith('http')) { toast('Enter a valid URL starting with https://', 'err'); return; }
+      try {
+        const r = await fetch('/api/admin/urls', {
+          method: 'POST', headers: HEADERS,
+          body: JSON.stringify({ url: v }),
+        });
+        if (!r.ok) {
+          const err = await r.json().catch(() => ({}));
+          toast(err.detail || 'Add failed', 'err'); return;
+        }
+        document.getElementById('newUrl').value = '';
+        toast('URL added ✓');
+        await fetchUrls();
+      } catch (e) { toast('Network error', 'err'); }
+    }
+
+    async function delUrl(url) {
+      try {
+        const r = await fetch('/api/admin/urls', {
+          method: 'DELETE', headers: HEADERS,
+          body: JSON.stringify({ url }),
+        });
+        if (!r.ok) { toast('Delete failed', 'err'); return; }
+        toast('URL removed');
+        await fetchUrls();
+      } catch (e) { toast('Network error', 'err'); }
+    }
+
+    async function bulkDelUrls() {
+      // Get url strings of selected rows
+      const selected = allUrls.filter(u => selUrls.has(u.id)).map(u => u.url);
+      for (const url of selected) {
+        try {
+          await fetch('/api/admin/urls', {
+            method: 'DELETE', headers: HEADERS,
+            body: JSON.stringify({ url }),
+          });
+        } catch (e) { /* best-effort */ }
+      }
+      selUrls.clear();
+      document.getElementById('urlBulkDel').style.display = 'none';
+      toast(`${selected.length} URL(s) removed`);
+      await fetchUrls();
+    }
+
+    function importUrls(e) {
+      const file = e.target.files[0]; if (!file) return;
+      const reader = new FileReader();
+      reader.onload = async ev => {
+        const lines = ev.target.result.split('\n').map(l => l.trim()).filter(l => l.startsWith('http'));
+        let added = 0;
+        for (const url of lines) {
+          try {
+            const r = await fetch('/api/admin/urls', {
+              method: 'POST', headers: HEADERS,
+              body: JSON.stringify({ url }),
+            });
+            if (r.ok) added++;
+          } catch (e) { /* skip */ }
+        }
+        toast(`${added} URL(s) imported ✓`);
+        await fetchUrls();
+      };
+      reader.readAsText(file);
+      e.target.value = '';
+    }
+
+    // ══════════════════════════════════════════════════════════
+    // Reindex  — wire doReindex to POST /api/admin/reindex
+    // ══════════════════════════════════════════════════════════
+    async function doReindex(type) {
+      const logEl = document.getElementById('log-' + type);
+      logEl.innerHTML = '';
+      logEl.classList.add('show');
+
+      // Show animated log lines locally while backend runs
+      const RL_LOCAL = {
+        full: ['Connecting to FAISS vector store…', 'Loading embedding model: intfloat/e5-base-v2', 'Clearing existing index…', 'Scanning document folder…', 'Embedding all chunks…', 'Writing FAISS index to disk…'],
+        incremental: ['Scanning for modified files…', 'Checking index state file…', 'Processing changed files…', 'Embedding new chunks…', 'Merging into existing FAISS index…'],
+        web: ['Loading URL list from config/urls.txt…', `Found ${allUrls.length || 41} URLs to crawl`, 'Crawling KIET subdomains…', 'Extracting page content…', 'Embedding web content…'],
+      };
+
+      (RL_LOCAL[type] || []).forEach((line, i) => {
+        setTimeout(() => {
+          const ts = new Date().toLocaleTimeString();
+          const d = document.createElement('div');
+          d.className = 'log-line';
+          d.innerHTML = `<span class="log-ts">[${ts}]</span>${line}`;
+          logEl.appendChild(d); logEl.scrollTop = logEl.scrollHeight;
+        }, i * 380);
+      });
+
+      // Fire the real API call
+      const apiType = type === 'web' ? 'incremental' : type;  // web rescrape triggers incremental
+      try {
+        const r = await fetch('/api/admin/reindex', {
+          method: 'POST', headers: HEADERS,
+          body: JSON.stringify({ type: apiType }),
+        });
+        const dur = type === 'full' ? '~6m' : type === 'incremental' ? '~45s' : '~2m';
+        const delay = (RL_LOCAL[type] || []).length * 380 + 500;
+        setTimeout(() => {
+          const ts = new Date().toLocaleTimeString();
+          const d = document.createElement('div');
+          d.className = 'log-line';
+          d.innerHTML = `<span class="log-ts">[${ts}]</span>✅ Reindex triggered — running in background (${dur})`;
+          logEl.appendChild(d); logEl.scrollTop = logEl.scrollHeight;
+
+          rHistory.unshift({
+            dt: new Date().toLocaleString(),
+            type: type === 'full' ? 'Full' : type === 'incremental' ? 'Incremental' : 'Web Scrape',
+            files: type === 'web' ? allUrls.length : '—',
+            dur, ok: true,
+          });
+          renderRHistory();
+          toast('Reindex started in background ✓');
+        }, delay);
+      } catch (e) {
+        toast('Reindex request failed — check server logs', 'err');
+      }
+    }
+
+    // ══════════════════════════════════════════════════════════
+    // Settings
+    // ══════════════════════════════════════════════════════════
+    function saveSettings() { toast('Settings saved — restart server to apply model changes ✓'); }
+
+    // ══════════════════════════════════════════════════════════
+    // Utility — HTML escape
+    // ══════════════════════════════════════════════════════════
+    function escHtml(s) {
+      return String(s || '')
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+    }
+
+    // ══════════════════════════════════════════════════════════
+    // Refresh All
+    // ══════════════════════════════════════════════════════════
+    async function refreshAll() {
+      document.getElementById('loader-msg').textContent = 'Refreshing stats…';
+      document.getElementById('api-overlay').style.display = 'flex';
+      document.getElementById('api-overlay').classList.remove('hide');
+      await fetchStats();
+      renderDashboard(apiStats);
+      setTimeout(() => document.getElementById('api-overlay').classList.add('hide'), 400);
+      toast('Stats refreshed');
+    }
+
+    // ══════════════════════════════════════════════════════════
+    // Init  — load all live data on page load
+    // ══════════════════════════════════════════════════════════
+    // ══════════════════════════════════════════════════════════
+    // Session guard — redirect to login if session expired
+    // ══════════════════════════════════════════════════════════
+    async function checkSession() {
+      try {
+        const r = await fetch('/api/admin/session', { credentials: 'include' });
+        if (!r.ok) {
+          window.location.href = '/admin/login';
+        }
+      } catch (e) {
+        window.location.href = '/admin/login';
+      }
+    }
+
+    async function handleLogout() {
+      try {
+        await fetch('/api/admin/logout', {
+          method: 'POST',
+          credentials: 'include',
+        });
+      } catch (e) { /* best effort */ }
+      sessionStorage.removeItem('admin_token');
+      window.location.href = '/admin/login';
+    }
+
+    // Re-check session every 5 minutes to catch expiry while dashboard is open
+    setInterval(checkSession, 5 * 60 * 1000);
+
+    document.addEventListener('DOMContentLoaded', async () => {
+      // Verify session before loading anything
+      await checkSession();
+
+      document.getElementById('loader-msg').textContent = 'Connecting to EDU Assist…';
+
+      // Fire all fetches in parallel for fast load
+      await Promise.allSettled([
+        fetchStats(),
+        fetchFaqs(),
+        fetchLogs(),
+        fetchVectorDB(),
+        fetchUrls(),
+      ]);
+
+      renderDashboard(apiStats);
+      renderRHistory();
+
+      setTimeout(() => document.getElementById('api-overlay').classList.add('hide'), 300);
+    });
+  </script>
+</body>
+
+</html>

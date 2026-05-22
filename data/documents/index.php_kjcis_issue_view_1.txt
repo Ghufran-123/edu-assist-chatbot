@@ -1,0 +1,42 @@
+ Source URL: https://kjcisjournal.kiet.edu.pk/index.php/kjcis/issue/view/1
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Vol. 1 No. 1 (2018): Volume 1 | Issue 1 | July - Dec | 2018
+DOI:
+https://doi.org/10.51153/kjcis.v1i1
+Published:
+2018-07-02
+Full Issue
+Requires Subscription
+Volume 1 |  Issue 1 |  July - De
+Articles
+Fault Prediction in Self-Healing Telecommunication Systems
+Ahmad S. Kazmi
+PDF
+Heart Diseases Prediction using Data Mining and its Techniques- A Survey
+Muhammad Fahad, Sadiq Ur Rehman, Aqeel-ur-Rehman, Muhammad Kashif Alam
+PDF
+IoT: Protocols, challenges, and opportunities with agriculture perspective
+Muhammad Azeem Abbas, Sharifullah Khan, Mushhad Gillani, Yaser Hafeez
+PDF
+Optimizing Energy Consumption using Fuzzy Logic for HEMS in a Smart Grid
+Qurat-ul-Ain, Sohail Iqbal, Nadeem Javaid
+PDF
+Performance Evaluation of Unmanned Aerial Vehicles for video based Surveillance Applications
+Muhammad Naveed, Sameer Qazi
+PDF
+Practices for Achieving Accuracy in Software Costing and Estimation
+Muhammad Ayub Latif, Muhammad Yaseen Khan, Kashif Bashir
+PDF
+Transfer Learning Techniques for Image Recognition: A Systematic Literature Review
+Tariq Mahmood, Aleenah Khan, Salma Tajuddin
+PDF
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---
+https://kjcisjournal.kiet.edu.pk/index.php/kjcis/issue/view/1/2

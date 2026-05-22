@@ -1,0 +1,30 @@
+ Source URL: https://kiet.edu.pk/degree-verification/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Degree Verification
+Click here to Verify Your Degree
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+>>> OCR: dv.jpg <<<
+Transcript / Degree Verification
+
+To verify Transcript / Degree, please enter student's registration code
+which is printed on backside of Degree and on top of Transcript.
+
+e.g BE-1-12-4367
+
+In case of any query please contact MIS department at
+
+mis @kiet.edu pk or Ims@kiet.edu.pk
+
+Enter Reg. Code you wanttoverify[
+--------------------
+
+
+ --- LINKS FOUND ---
+https://lms.kiet.edu.pk/kietlms/my/Degree_verification/

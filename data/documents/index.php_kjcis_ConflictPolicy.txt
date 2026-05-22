@@ -1,0 +1,37 @@
+ Source URL: https://kjcisjournal.kiet.edu.pk/index.php/kjcis/ConflictPolicy
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Conflict of Interest Policy
+A conflict of interest (COI) arises when personal, financial, or professional relationships could influence — or appear to influence — the work submitted for publication or the peer-review and editorial processes.
+Conflicts of Interest — Authors
+Authors must disclose all potential conflicts, including:
+Financial interests (grants, funding, paid consultancies)
+Institutional or organizational affiliations
+Personal or professional relationships that may bias the research
+Competing research or industry involvement
+All disclosures must be included in a dedicated “Conflict of Interest” section within the manuscript. If there are no conflicts, authors must explicitly state:
+“The authors declare no conflict of interest.”
+Conflicts of Interest — Reviewers
+Reviewers must decline review if they recognize a conflict (e.g., personal relationship, competitive research, shared affiliation).
+Reviewers must not use information from the manuscript for personal advantage or research gain.
+Conflicts of Interest — Editors
+Editors must recuse themselves from manuscripts where a conflict exists.
+Members of the editorial team cannot handle submissions in which they are authors.
+The Editor-in-Chief may assign independent editors in cases of potential conflicts.
+Institutional Responsibility
+In cases where COI disclosure is unclear or suspected, the editorial office may seek clarification from authors or reviewers and consult respective institutions if required.
+Corrective Actions
+Failure to disclose conflicts may lead to:
+Editorial rejection
+Retraction of published articles
+Notification to author institutions or funders
+Conflict of Interest Statement
+All manuscripts must include a COI statement according to journal policy before acceptance.
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

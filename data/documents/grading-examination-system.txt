@@ -1,0 +1,105 @@
+ Source URL: https://admissions.kiet.edu.pk/grading-examination-system/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+GRADING & EXAMINATION SYSTEM
+GRADING & EXAMINATION SYSTEM:
+In Spring and Fall semesters, students are required to take three exams followed by a final exam for each course. For Summer semester, a mid term exam is held, followed by a final exam. In addition, students have to take quizzes and write term reports.
+Typical Marks Break-up:
+Grades:
+Grade Point Average (GPA) is calculated as the sum of the products of grade points and credit hours for each course divided by the total number of credit hours completed at the Institute. A student must obtain minimum ‘C’ grade to pass a course.
+Degree Requirements
+Minimum passing grade in a course is “C” (2.0 points). However, a student must attain at least 2.5 GPA (C+) on aggregate, in order to graduate. Other requirements for the award of degree include:
+Probation and Dropout
+If the cumulative GPA of a student falls below 2.5, a warning is issued to remind the student regarding the minimum GPA requirements for the award of a KIET degree. If the GPA falls below 2.0, the student is placed on probation. In the event of failure to improve the grade in the next semester to the minimum level of 2.0, the student is dropped from the roll of the Institute.
+Comprehensive Exam
+Comprehensive exam is a mandatory requirement for the award of degree in all degree programs.
+The objective is to:
+Comprehensive Exam tests the essential knowledge in areas related to the degree program. Students are required to attempt their section(s) of specialisation (Graphics, Animation, Media Production) in addition to general questions about English, Psychology and Marketing.
+Examination System
+Students are  required to take a mid term exam, followed by a final exam. In addition, students have to take quizzes and write term reports.
+Grades
+Grade Point Average (GPA) is calculated as the sum of the products of grade points and credit hours for each course divided by the total number of credit hours completed at the Institute. A student must obtained minimum ‘C’ grade to pass a course.
+Marks
+Grade
+Grade Points
+87-100
+4.0
+78-86
+3.5
+72-77
+3.0
+66-71
+2.5
+60-65
+50-59
+1.5
+CoE Grading Policy
+The Academic council has approved “D” grade for CoE.
+The Policy has been finalized for the students of CoE only. The other Colleges will continue following previous Policy of Grading and Marks. In case student of CoMS and CoCIS are registered at CoE for any course, then grading system will be that of CoMS/CoCIS and not that of CoE.
+To facilitate students of CoMS and CoCIS following has been decided
+(a) Classs IDs of CoCIS & CoMS be increased to facilitate the students.
+(b) In case number of students of CoMS & CoCIS is more than the required class strength then another class ID of same subject may be created and students be accommodated accordingly.
+(c) CoMS and CoCIS are following same grading system, therefore students of CoCIS and CoMS can attend one class of a similar subject. However, this will be done with permission of their College Directors.
+(d) The students of CoMS and CoCIS, who are enrolled at CoE for any subject, the grading system of their parent College will be applicable to them. Grading system of CoE will not be applied on them. It will be responsible of R&E department to trace such students and get grading system of CoMS & CoCIS implemented accordingly.
+Revised grading system would be effective from spring 2015 term.
+REVISED GRADING SYSTEM
+Marks
+Grade
+Grade Point
+78-86
+3.5
+72-77
+66-71
+2.5
+60-65
+59-50
+1.5
+Instruction Methodology:
+The method of instruction consists of lectures, tutorials, presentations, projects, surveys, article sessions, assignments, term reports, web search, supplementary text readings and practical lab sessions. Modern training aids are extensively employed to support the learning process. The Institute believes in maintaining a continuous pressure through a regular stream of assignments, monthly exams, quizzes, project presentations and other deadlines that should keep the student busy every week of the semester. This produces a competitive environment that develops goal-oriented approach and ability to work under pressure. The students also get numerous opportunities for releasing the academic pressure through extracurricular activities.
+Remedial Programs:
+Students passing the overall aptitude test but deemed weak in English or Mathematics may be asked to undertake remedial classes in English or Mathematics. Objective of these programs is to ensure that the students with deficiencies are pulled up to meet the foundational requirements for professional degree programs and courses evaluation of the quality and system of education at KIET.
+Probation and Dropout:
+If the cumulative GPA of a student falls below 2.5, a warning is issued to remind the student regarding the minimum GPA requirements for the award of a KIET degree. If the GPA falls below 2.0, the student is placed on probation. In the event of failure to improve the grade in the next semester, to the minimum level of 2.0, the student is dropped from the roll of the Institute.
+North Nazimabad Campus:
+At North Nazimabad campus, admissions in MBA (Week-end program) and in all Bachelor programs of Business Management and Computer Science are available twice a year in Fall and Spring semesters.
+Degree Requirements
+Minimum passing grade in a course is “C” with (2.0 points).  However, a student must attain at least 2.0 CGPA for qualifying the undergraduate degree program, and at least 2.5 CGPA for qualifying the graduate degree program. Other requirements for the award of degree include:-
+Completion of all required courses.
+Internship(s) (for full time students only).
+Projects(s).
+Comprehensive examination.
+Comprehensive Exam:
+Comprehensive exam is a mandatory requirement for the award of degree in all degree programs.
+The objective is to:
+• Refresh students’ concepts in major areas of their discipline before entering the job market.
+• Establish a final output quality control.
+• Standardize the graduating level of students.
+Comprehensive Exam tests the essential knowledge in areas related to the degree program.
+BCS/BS/MCS
+1. Networking & OS
+2. Software Engineering
+3. System Analysis & Design
+4. MIS and DBMS
+5. Automata Theory, Data Structures
+6. English Proficiency (compulsory)
+Electronics
+Telecommunication and Networking
+General Engineering
+Computer Engineering
+Quantitative
+English Proficiency (compulsory)
+BBA/MBA
+1. Finance
+2. Marketing
+3. Management/HRM
+4. Accounting
+5. Case Study
+6. English Proficiency (compulsory)
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

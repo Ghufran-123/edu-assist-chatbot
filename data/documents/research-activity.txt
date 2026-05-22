@@ -1,0 +1,20 @@
+ Source URL: https://kiet.edu.pk/research-activity/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Research Activity
+KIET has long been endeavoring to promote research activities in all areas of studies. In this regard, management offers lucrative incentives to all its faculty members involved in research. To cover various areas of research of Engineering & Computer Science, nine (09) research groups have been established and funds from HEC and
+Ignite – National Technology Fund
+(Formerly ICT R&D) have been acquired for various projects undertaken at KIET.
+One of the Research Group
+named “Electronics Devices & Circuits Analysis Systems (EDCAS)”, headed by Dr Arsalan Jawaid, has undertaken a project of “Integrated Circuit (IC) Design and Manufacturing”, funded by Ignite National Technology Fund. EDCAS Group recently procured a Perpetual License of an industry standard IC Design Suite from CADENCE Design Systems, Ireland. This is one of the only two globally available complete IDEs with both front-end and back-end support. The commercial licenses of these tools can be as expensive as a few million USD and their fully-functional educational bundles are highly subsidized but still range in tens-of-thousands of USD. These tools have been installed on a powerful HP Linux Server. This gives
+KIET
+, a unique distinction amongst universities in Pakistan, to have the necessary academic, research, monetary and infrastructure support to procure a perpetual license of such an extensive tool suite.
+Cheers for EDCAS Group.
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

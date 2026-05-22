@@ -1,0 +1,43 @@
+ Source URL: https://kjcisjournal.kiet.edu.pk/index.php/kjcis/issue/view/9
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Vol. 5 No. 2 (2022): Volume 5 | Issue 2 | July - Dec | 2022
+DOI:
+https://doi.org/10.51153/kjcis.v5i2
+Published:
+2022-07-07
+Full Issue
+Requires Subscription
+PDF
+Articles
+An intuitive Architecture for DIY IoT Application Composition as Business Process Model
+Muhammad sohail Khan, DoHyeun  Kim, Faiza  Tila
+PDF
+The Impact of Mitigation Strategies on Geographical Distance Issues in GSD: An Empirical Evaluation
+Nadia Ka e nat, Uzair Iqbal janjua, Tahir Mustafa madni, Atta ur Rahman
+PDF
+Comparative Analysis of Machine Learning Technique  to Improve Software Defect Prediction
+Comparative Analysis of Machine Learning Technique  to Improve Software Defect Prediction
+Muhammad  Azam, Muhammad Nouman,  Ahsan Rehman Gill
+PDF
+Statistical Analysis for the Traffic Police Activity: Nashville, Tennessee, USA
+Muhammad Yousuf Tufail, S Gul
+PDF
+An Assessment for Understanding Student Behaviour by Applying  Machine Learning Technique
+Syeda Kainat   Ahmed, Syed Mushhad Gilani, Sidra  Sultan , Abdur Rehman  Riaz , Muhammad Wasim Abbas  Ashraf
+PDF
+Enhanced Accessibility of Facebook Messenger for Blind Users
+Mamoona Atif Swati, Dr. Mustafa  Madni, Dr. Uzair Iqbal  Janjua, Dr. Iftikhar Ahmed  Khan
+PDF
+Automatic Speech Recognition on Non-Pathological Dataset of Urdu Language
+Anoshia  Imtiaz, Munaf Rashid, Sidra Abid Syed, Hira Zahid, Muzzaffar  Iqbal, Akhtar Ali  Khan
+PDF
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---
+https://kjcisjournal.kiet.edu.pk/index.php/kjcis/issue/view/9/10

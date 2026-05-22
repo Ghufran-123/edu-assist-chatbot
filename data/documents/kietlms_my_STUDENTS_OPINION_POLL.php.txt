@@ -1,0 +1,14 @@
+ Source URL: http://lms.kiet.edu.pk/kietlms/my/STUDENTS_OPINION_POLL.php
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+This page should automatically redirect. If nothing is happening please use the continue link below.
+Continue
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---
+http://lms.kiet.edu.pk/kietlms/my/STUDENTS_OPINION_POLL.php#maincontent

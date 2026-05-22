@@ -1,0 +1,40 @@
+ Source URL: https://kjcisjournal.kiet.edu.pk/index.php/kjcis/SubmissionProcess
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Submission Process
+Overview
+KJCIS uses an Online Journal System (OJS) to manage submissions. Authors should prepare their manuscripts using the KJCIS template and follow the step-by-step submission instructions below.
+1. Prepare your manuscript
+Use the KJCIS template (DOCX or LaTeX) and ensure compliance with the Author Guidelines.
+Include a title page with author details (for editorial use only) and a blinded manuscript file for double-blind review.
+Prepare separate figure files, table files, and supplementary materials.
+2. Register / Login
+Create or log in to your OJS account on the KJCIS submission portal. Complete your profile and ORCID identifier if available.
+3. Complete submission form
+Provide: manuscript title, abstract, keywords, subject classifications, author list (entered in the title page only), and a cover letter summarizing novelty and relevance.
+4. Upload files
+Main blinded manuscript file (DOCX or PDF).
+Title page (separate file with author details).
+Figures and tables as separate high-resolution files.
+Supplementary files (datasets, code) as separate uploads.
+Cover letter and declarations (conflict of interest, funding, ethics approvals).
+Cover letter (recommended content)
+Briefly describe the novelty and contribution of the manuscript, the preferred category (research article, review, short communication), statement of originality, and confirmation that the manuscript is not under consideration elsewhere. Optionally suggest potential reviewers and note any conflicts of interest.
+5. Acknowledgement & tracking
+After submission, the system provides an automatic acknowledgement with a unique submission ID. Use this ID to track the manuscript through the review and production process.
+6. Editorial triage
+The editorial office conducts an initial check for scope, format, and plagiarism. Manuscripts that pass triage are assigned to the Editor or Associate Editor and sent for peer review.
+7. Peer review & decisions
+KJCIS follows a double-blind peer-review process. After reviewers submit reports, the Editor issues a decision: Accept, Minor revision, Major revision, or Reject. Authors will receive reviewer comments and may be asked to submit a revised manuscript with a point-by-point response.
+8. After acceptance
+Accepted manuscripts proceed to copyediting, typesetting, proofing, DOI assignment, and online publication. Corresponding authors will receive proofs for final approval and are expected to respond promptly.
+Contact for submission queries
+For submission problems, contact the editorial office by email (use the journal contact page).
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

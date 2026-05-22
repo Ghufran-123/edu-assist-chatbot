@@ -1,0 +1,185 @@
+ Source URL: https://cocis.kiet.edu.pk/bs-cyber-security/#yeartwo
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Bachelor of Science in Cyber Security (BS-CYSEC)
+Rapid growth of I.T. infrastructure in local and foreign organizations has increased the demand for computer professionals. Specialization can be done through 5 elective courses in selected area. The program meets the HEC and international standards for a full-length 4-year bachelor’s degree.
+Year 1
+C-Code
+Course Title
+Cr-H
+CS102
+Programming Fundamentals
+3+1
+CS101
+Introduction to Info. & Communication Technologies
+2+1
+SS313
+Pakistan and Islamic Studies
+3+0
+MKT417
+Visionary Leadership & Motivation
+2+0
+QT104
+Physical Education I
+3+0
+COM131
+English-I (Proficiency Development)
+2+0
+QT104
+Algebra & Trigonometry
+3+0
+MAN102
+Principles of Management
+3+0
+SE201
+Object Oriented Programming
+3+1
+ACT103
+Financial Accounting
+3+0
+Year 2
+Cr-H
+COM132
+English-II (Public Speaking)
+3+0
+CS102
+Data Structures & Algorithms
+3+1
+SE302
+Basic Electronics
+2+1
+QT104
+Calculus & Analytical Geometry
+3+0
+QT106
+Discrete Mathematics
+3+0
+COM233
+English-III (Official Communication)
+3+0
+QT105
+Differential Equations & Multivariable Calculus
+3+0
+CS202
+Operating Systems
+3+1
+CE204
+Artificial Intelligence
+3+1
+CS201
+Database Management Systems
+3+1
+Year 3
+Cr-H
+QT303
+Introduction to Cyber Security
+3+0
+CS301
+Data Communications and Networks
+3+1
+NW301
+Advanced Networks
+3+0
+NW301
+Digital Logic & Design
+3+1
+IPT307
+Internship-I
+1+0
+QT203
+Probability & Statistics
+3+0
+CS204
+Digital Forensics
+2+1
+CS204
+Secure Software Design and Development
+2+1
+MKT423
+Cryptography
+3+0
+CS204
+Wireless and Mobile Security
+3+0
+IPT407
+Internship II
+0+1
+NW302
+Computer Organization & Assembly Language
+3+1
+Year 4
+Cr-H
+SE410
+Information Assurances
+3+0
+CS402
+Vulnerability Assessment & Reverse Engineering
+2+1
+ELE
+Parallel & Distributed Computing Systems
+2+1
+ELE
+Computer Architecture
+2+1
+CS401
+Software Engineering
+3+0
+CS400
+Final Project-I
+0+3
+IPT695
+Cyber Law & Cyber Crime (Cyber Warfare
+3+0
+WN401
+Design and Analysis of Algorithm
+3+0
+IPT407
+Network Security
+2+1
+IPT695
+Final Project-II
+0+3
+IPT695
+Physical Education II
+2+0
+Curriculum Structure
+Area
+Cr Hr
+Area
+Cr Hr
+Computer Science
+Networks
+Software Engineering
+Social Sciences
+Quantitative
+Management
+Computer Engineering
+Internship
+Accounting
+Project
+Information Systems/ERP
+Sports
+Degree Structure
+Durations
+4 Years
+Courses
+Projects
+Internships
+Sports
+Course Cr. Hrs.
+125 + 6 + 2 + 4
+Eligibility
+Intermediate 50% minimum or
+equivalent A levels
+Year 1
+Year 2
+Year 3
+Year 4
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

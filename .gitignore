@@ -1,0 +1,34 @@
+# ===========================
+# EDU Assist — .gitignore
+# ===========================
+
+# ✅ NEVER commit secrets
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# FAISS index (large binary, regenerated from docs)
+data/vectorstore/
+
+# Pipeline metadata
+data/vectorstore/.index_meta.json
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/

@@ -1,0 +1,45 @@
+ Source URL: https://kjcisjournal.kiet.edu.pk/index.php/kjcis/issue/view/8
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Vol. 5 No. 1 (2022): Volume 5 | Issue 1 | Jan - June | 2022
+DOI:
+https://doi.org/10.51153/kjcis.v5i1
+Published:
+2022-02-10
+Full Issue
+Requires Subscription
+pdf
+Articles
+An efficient Image Processing Technique to Measure and Align Vehicle Wheel Cylinder with Cloud Management System
+Dr. Shoaib Zaidi, Muhammad Wasim, Dr. Lubaid Ahmed, Nauman Ahmed, Mahad Ahmed Khan, Muhammad Usman
+1-14
+pdf
+Automatic Taxonomy Generation and Incremental Evolution on Apache Spark Parallelization Framework
+Kanwal Aalijah , Rabia  Irfan, Umara Umar, Sanam Nayab
+15-36
+pdf
+An Ontology Based Approach to Search Woman Clothing from Pakistan’s  Top Clothing Brands
+Sabinas, Adnan Ahmed Siddiqui, Muhammad Wasim
+37-47
+pdf
+Risk Assessment Approach for Software Development using Cause and Effect Analysis
+Abdur Rehman  Riaz , Syed Mushhad Gilani
+48-61
+pdf
+Facial Expression Recognition Using Weighted Distance Transform
+Dr. Shahzad Nasim
+62-74
+pdf
+EEG-Based BCI for Attention Assessment in E-Learning Environment using SVM
+Muhammad Bilal, Muhammad Marouf, Safdar Rizvi, Fatima Bashir, Muhammad Shahzad, Jawad Ahmed Bhutta
+75-90
+pdf
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---
+https://kjcisjournal.kiet.edu.pk/index.php/kjcis/issue/view/8/9

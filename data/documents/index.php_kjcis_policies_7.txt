@@ -1,0 +1,131 @@
+ Source URL: https://kjcisjournal.kiet.edu.pk/index.php/kjcis/policies#aims-scope
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Policies
+KJCIS Policies & Procedures
+Aims and Scope
+Author Guidelines
+Editorial Board
+Copyright Notice
+Privacy Statement
+Peer Review Method and Policy
+Plagiarism Policy
+Subscription Policy
+Ethical Guidelines for Authors
+Ethical Responsibility of the Publisher
+Author Agreement Form
+Duration of Paper Submission
+Review, Acceptance, and Publication of Manuscripts
+Timelines for Publication of Issues
+Steps Involved from Receipt to Publication
+Article Processing / Publication Fee
+Disclosure and Conflict of Interest
+Correction and Retraction of Research Articles
+Aims and Scope
+KIET Journal of Computing and Information Sciences (KJCIS) is the bi-annual, multidisciplinary research journal published by the College of Computing & Information Sciences (CoCIS) at Karachi Institute of Economics and Technology (KIET), Karachi, Pakistan.
+KJCIS aims to provide a panoramic view of the state-of-the-art development in the field of computing and information sciences at global level. It provides a premier interdisciplinary platform to researchers, scientists and practitioners from the field of computing and information sciences to share their findings and contribute to the knowledge domain at global level. The journal also fills the gap between the academician and industrial research community.
+Author Guidelines
+KJCIS, Online Journal System is used for the paper submission. Submitted manuscripts are initially screened by the editorial board and shortlisted for a double-blind review process. All processes are monitored by the advisory and review board of the journal.
+KJCIS is a multidisciplinary journal that publishes original research papers and letters of various domains mentioned above. KJCIS does not charge any article processing fees from the authors.
+Authors are requested to submit manuscripts as per the following guidelines:
+Certify that the paper is original and is not under consideration for publication in any other journal. Please mention so in case it has been submitted elsewhere.
+Adhere to normal rules of business or research writing. Font size should be 12 points and paper length should be between 3000 to 5000 words.
+Illustrations, tables or figures should be numbered consecutively in Arabic numerals and inserted appropriately within the text.
+The title page must contain the Title, Name(s), Email address(es), Institutional affiliation(s), and an abstract of not more than 200 words.
+A footnote on the title page should give a short profile of the author(s).
+Full references or website links should follow APA citation style and be listed as a separate section at the end of the paper. References should not exceed 50.
+All manuscripts are subjected to plagiarism tests before peer-review.
+All manuscripts undergo double-blind peer review.
+The Journal has no article processing or publication charges.
+Submit your manuscript in KJCIS format. We look forward to receiving manuscripts for the upcoming issues of KJCIS through the online journal system (OJS) at http://kjcis.kiet.edu.pk
+Editorial Board
+KJCIS
+College of Computing and Information Sciences
+Karachi Institute of Economics & Technology
+Copyright Notice
+All rights reserved. No part of this publication may be reproduced, translated, stored in a retrieval system, or transmitted in any form or by any means—electronic, mechanical, photocopying, or otherwise—without prior permission of the publication authorities.
+Privacy Statement
+The personal data and research papers entered or uploaded on this journal site will be used exclusively for the stated purposes of this journal. This information is not available for any other purpose or to any other party.
+Peer Review Method and Policy
+The authors are required to submit/upload their manuscripts on the KJCIS Online Journal System (OJS). Initially, the editorial office assesses the manuscript for appropriateness, quality, concern domain, and plagiarism.
+If the manuscript is not appropriate for publication in terms of quality and content, it is editorially desk-rejected.
+If the manuscript does not conform to the journal's plagiarism criteria, it is returned to the authors with advice to reduce the similarity index before re-submission.
+Manuscripts of required quality and acceptable similarity index are sent for double-blind peer review to two domain expert reviewers. Reviewers may suggest major/minor changes or reject the manuscript.
+Upon receiving reviewers' comments, the editorial office either rejects the manuscript or sends comments to the corresponding author for revisions. The revised manuscript is then processed further.
+The final authority to accept or reject a manuscript lies with the editorial office.
+Plagiarism Policy
+The journal has a zero-tolerance policy toward plagiarism. All manuscripts are screened using Turnitin. As per HEC guidelines, all manuscripts should have a similarity index of less than 19%.
+Subscription Policy
+KJCIS is an open-access journal and does not require payment of any subscription fee. All published papers are freely available for download from the journal website. Hard copies are sent to major private and public sector universities and selected business entities free of cost.
+Ethical Guidelines for Authors
+The authors must declare that the submitted manuscript has not been published elsewhere.
+Authors must not submit the manuscript to any other journal while it is under review at KJCIS.
+Authors must declare that they have no conflict of interest.
+The corresponding author must ensure that all authors contributed to the submitted article and have agreed to the author sequence.
+The manuscript must contain full names, email addresses, designations, and affiliations of all authors.
+If authors received funds for the submitted work, they must clearly state this at the end of the manuscript.
+Copyright remains with the authors; content can be used with proper citation.
+Ethical Responsibility of the Publisher
+The journal does not publish research papers submitted by editorial board members.
+Advisory board members may submit but are not encouraged.
+Review board members are discouraged from submitting; their manuscripts are never reviewed by themselves.
+KJCIS does not accept manuscripts from KIET’s management (President, Dean, Associate Deans, Directors).
+A maximum of one self-publication by KIET’s faculty, staff, or students is allowed.
+Author Agreement Form
+Most manuscripts have multiple authors from different locations, including foreign countries. It becomes inconvenient for all authors to sign one agreement form, which may delay timely publication.
+Like many international journals, KJCIS sends the final draft for proofreading to all authors. Authors are advised to thoroughly check the manuscript content, author names, designations, and institutional affiliations before publication.
+Authors are informed that if no response is received within one week, the journal will assume everything is correct, including authorship order, affiliations, and consent of all authors.
+Duration of Paper Submission
+The journal’s call for papers is posted routinely on the website, LinkedIn, and other social media platforms.
+When an author uploads a manuscript through the OJS system, an automated acknowledgement is generated with a unique tracking code.
+The editorial team processes only those manuscripts submitted via the KJCIS OJS system.
+Review, Acceptance, and Publication of Manuscripts
+KJCIS publishes a limited number of manuscripts per issue. The editorial office processes manuscripts strictly on a first-come, first-served basis.
+Articles that meet desired quality and similarity criteria are sent for double-blind peer review. The review process follows the steps outlined in the section "Steps Involved from Receipt to Publication."
+Timelines for Publication of Issues
+KJCIS is a bi-annual research journal published regularly in June and December each year.
+Steps Involved from the Date of Receipt of Research Article Till Publication
+The editorial office initially reviews submitted manuscripts on a first-come, first-served basis for quality and plagiarism.
+If the manuscript is not of the desired quality, it is rejected and the corresponding author is informed.
+If the manuscript meets quality and similarity requirements, it is sent for double-blind review to two domain experts from reputable institutions.
+Reviewers’ comments are communicated to the corresponding author. Comments generally result in: rejection, major revisions, or minor revisions.
+After receiving the revised manuscripts, the editorial office proofreads them and sends them to the printer for preparation of the first dummy copy.
+The first dummy copy is sent to all authors to confirm:
+authorship approval,
+correctness of names,
+author order,
+institutional affiliations.
+Authors are informed that if no response is received within one week, it will be assumed that all authors approve the dummy copy.
+The editorial office then sends the corrected dummy copy to the publisher for final formatting.
+After the final dummy copy is received, the editorial office proofreads it and uploads manuscripts on OJS to generate DOI.
+The DOI is sent to the publisher, who prints it on each article, prepares final copies for the website, and sends hard copies for printing.
+The entire process typically takes six months to one year depending on the volume of manuscripts in the queue.
+Article Processing / Publication Fee
+KJCIS is an open-access journal. Authors are not required to pay any article processing or publication fees.
+All published papers are freely downloadable from the journal website. The editorial team sends hard copies of the journal to selected major private and public sector universities and business organizations free of cost. There are no subscription charges.
+Disclosure and Conflict of Interest
+At the time of publication, corresponding authors must declare that none of the authors have any conflict of interest related to the publication in KJCIS or any personal or business interests associated with the manuscript.
+Correction and Retraction of Research Articles
+KJCIS follows the guidelines suggested by COPE for Retraction Policy.
+Correction by Authors
+After uploading the articles, authors may make corrections during the revision stage when reviewer comments are provided.
+Authors may also edit the first dummy copy sent by the editorial office.
+In exceptional cases, minor corrections may be allowed after the manuscript is uploaded on the KJCIS webpage but before printing hard copies.
+Retraction by Authors
+Authors may retract their articles anytime from submission until final publication.
+KJCIS may consider post-publication retractions only in special cases where serious ethical issues are reported. A committee will be formed to investigate such cases.
+Retraction by the Publisher (KJCIS)
+The editorial team may retract a published article if irrefutable evidence indicates unreliable findings due to:
+miscalculation or experimental error,
+fabricated data,
+falsified images or manipulated results.
+If plagiarism increases over time due to authors reusing the same article in another journal, retraction may be considered depending on the situation.
+Articles may also be retracted if authors’ disclosures were incorrect or if copyright infringement is identified.
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

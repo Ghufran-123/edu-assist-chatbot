@@ -1,0 +1,17 @@
+ Source URL: https://tencoms.kiet.edu.pk/wp-login.php?redirect_to=https%3A%2F%2Ftencoms.kiet.edu.pk%2Fevents%2F
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Log In
+Powered by WordPress
+Lost your password?
+← Go to
+Notifications
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---
+https://tencoms.kiet.edu.pk/wp-login.php?action=lostpassword

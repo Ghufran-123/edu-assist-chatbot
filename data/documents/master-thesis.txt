@@ -1,0 +1,217 @@
+ Source URL: https://cocis.kiet.edu.pk/master-thesis/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Master Thesis
+RegNo
+Name
+Advisor
+Title
+50188
+Kashif Bashir
+Khalid Khan
+Modification in Kerberos Assisted Authentication in Mobile Ad-hoc Networks
+Download
+50606
+Mina Almas malik
+Dr. Irfan Hyder
+Automatic Generation of Data Warehouse
+Download
+51121
+Muhammad Ahmed
+Khalid Khan
+XML Based Mediated Query Re-writing Framework (XMQR)
+Download
+51131
+Muhammad Sajid Farooq
+Khalid Khan
+MODEL BASED WEB APPLICATION BACKEND TESTING USING REQUIREMENT SPECIFICATION TABLE
+Download
+51168
+Farhan Shafiq
+Khalid Khan
+A Statistical approach for the Assessment of Quality of Service in Grid Computing Environment
+Download
+51279
+Asif Mahmood
+Seema Ansari
+Gain Management Scheme for EDFA in Optical Communication Systems
+Download
+51362
+S.Fariha Hasnain
+Farhan Yousufi
+N-ACK Implementation in WiMAX
+Download
+51372
+Arshi Khan
+Seema Ansari
+Efficiency Enhancement through Dynamic Allocation of Switching Path in All-Optical Networks
+Download
+51485
+Muhammad Nawaz
+Dr. Irfan Hyder
+E-government Services Maturity Model with Automated E- services Evaluation/Verification tools
+Download
+51551
+Shahid Shehzad Bajwa
+Khalid Khan
+Grouped Black hole Attacks Security Model (GBHASM) for Wireless Ad hoc Networks
+Download
+51620
+Salman Younas
+Seema Ansari
+Adaptive TCP for Diverse Wireless Interfering and Impaired Channel Characteristics during VHO for Global Seamless Mobility
+Download
+51780
+Pir Khurram Rashdi
+Dr. Irfan Hyder
+ASPECT-ORIENTED APPROACH FOR DISCOVERING DESIGN PATTERNS FROM JAVA-BASED CODE
+Download
+51858
+Muhammad Akber Farooqui
+Farhan Yousufi
+Protocol Design Issues in WLAN
+Download
+51876
+Iftikhar Ahmed Khan
+Seema Ansari
+A Power and Rate Control Scheme for Efficient Radio Bearer Selection in MBMS Framework of UMTS
+Download
+51924
+Waleej Haider
+Seema Ansair
+Efficient Allocation of Walsh Codes in a CDMA Cellular System
+Download
+52302
+Uzma Mahmood
+Dr. Irfan Hyder
+Metadata Management
+Download
+52524
+Asia Samreen
+Dr. Irfan Hyder
+Trust Management for P2P Networks
+Download
+52565
+Uzma Afzal
+Dr. Irfan Hyder
+Collaborative Configuration Management
+Download
+50393
+Aamra Naqvi
+Dr Irfan Hyder
+End-to-End Requirement Traceability Through Contribution Structures and Requirements Traceability Matrices
+Download
+50153
+Abdul Samiah
+Dr. Irfan Hyder
+Secure Framework for Wireless LAN by Using AES-CCMP
+Download
+50234
+Amina Khalfe
+Dr. Irfan Hyder
+Derivation of Initial Data Warehouse Structure By Mapping Operational Database On Transaction Patterns
+Download
+50111
+Amir Akhtar Jamili
+Dr. Irfan Hyder
+Software Requirement Reliability Metrics for Risk Assessment
+Download
+50114
+Hafiz Mansab Ali
+Khalid Khan
+An Impairment Sensitive and Reliable SR-ARQ (RSRARQ) Mechanism for Unreliable Feedback in GPRS
+Download
+50114
+Hafiz Mansab Ali
+Khalid Khan
+An Impairment Sensitive and Reliable SR-ARQ (RSRARQ) Mechanism for Unreliable Feedback in GPRS
+Download
+50596
+Imran Farooqui
+Khalid Khan
+Incorporating .Active Certificates. in Public Key enabled Kerberos scheme
+Download
+50321
+Imran Sarwar Bajwa
+Dr. Irfan Hyder
+Cloud Classification Using PCA
+Download
+51142
+Khurram Shahid
+Farhan Yousufi
+Master Device Selection in Wireless Personal Area Networks
+Download
+50152
+Maqsood Razi
+Dr. Irfan Hyder
+Seniority Bared Secure Distributed Authentication Service in Ad Hoc Wireless Networks
+Download
+50592
+Maria Mahar Sheikh
+Dr. Irfan Hyder
+Transmission of Video with Caching with Retransmission of I-Frame
+Download
+2028
+Muhammed Asif Inam
+Dr. Irfan Hyder
+AN INTERVENTION BASED EMPIRICAL MODEL TO DEVELOP CORE VALUES OF TQM IN TEAMS
+Download
+50255
+Nasir Hussain
+Khalid Khan
+A Centralized Searching System for SCORM-based Learning Objects
+Download
+50887
+Shams ul Arfeen
+Dr. Irfan Hyder
+Performance Evaluation of MANET Routing Protocols Using Scenario-Based Mobility Models
+Download
+50369
+Shazia Batool
+Dr. Irfan Hyder
+RT-Gaia: Extending Gaia Methodology to Employ Requirement Traceability
+Download
+50125
+Shiraz Ali Bhatti
+Dr. Irfan Hyder
+Extend the Range of Blueooth Piconets by Tunneling Communications over IP Networks
+Download
+50191
+Sohail Imran
+Dr. Irfan Hyder
+Planning object database security using Zachman framework
+Download
+50117
+Tahir Ali
+Dr. Irfan Hyder
+Enhancement in PPP-MP for Improving QoS in UMTS ALL IP Architecture
+Download
+51135
+Moin uddin balkhi
+Dr. Irfan Hyder
+Enterprise Application Integration Controller
+Download
+50116
+Arsalan Qaiser
+Dr. Irfan Hyder
+A High Availability Clustering Protocol
+Download
+50576
+Naveed Hassan
+Dr. Irfan Hyder
+hanThroughput Evaluation of IEEE 802.11a,b,g by Measuring the Impact of Multi-rate Shifting and Delays in a Large Multi-hop Wireless Network
+Download
+51260
+Muhammad Raza
+Dr. Irfan Hyder
+A Hidden Routing Path Model for Reducing PDoS Attacks in Wireless Sensor Network
+Download
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---
+http://www.kiet.edu.pk/LinkClick.aspx?fileticket=fQ5AgVNnSGI%3d&tabid=577&mid=2012

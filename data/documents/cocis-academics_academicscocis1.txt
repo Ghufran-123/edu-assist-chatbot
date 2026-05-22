@@ -1,0 +1,20 @@
+ Source URL: https://cocis.kiet.edu.pk/cocis-academics/academicscocis1/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+ACADEMIC COCIS
+Graduates from College of Computing & Information Sciences take up challenging careers in software houses, networking solution providers, telecom companies, internet service providers,
+ERP Consultancy Firms and I.T. departments of public and private sector companies including multinationals and banks.
+Programs Offer
+Degree-Programs Overview
+BSCS and MCS Programs
+Bachelor and Master Programs in Computer Science  enable the graduates to fulfill job market requirements in the software industry. We are in close coordination with software industry and offer market based elective courses in areas such as Mobile Application Development, Web Engineering, Content Management Systems, Game Development, Cloud Computing etc. There are numerous career opportunities in the industry for our graduates that include but are not limited to Software Engineer, System Analyst, Database Administrator and Project Managers.
+Enterprise Resource Planning (BS, PGD, MSc)
+BS, PGD and MSc Programs in Enterprise Resource Planning  are designed to integrate the area of Computer Sciences and Management Sciences with more than 10 hands-on Enterprise Resource Planning courses using leading ERP solution such as SAP, Oracle and Microsoft Dynamics. Students acquire the right blend of managerial skills coupled with the hands on experience of implementing and managing ERPs in areas, such as finance, manufacturing & production, sales & marketing, human resource etc.
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

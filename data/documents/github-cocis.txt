@@ -1,0 +1,15 @@
+ Source URL: https://kiet.edu.pk/github-cocis/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+GitHub CoCIS
+Git and GitHub Workshop
+GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. GDSC-KIET conducted a workshop on GitHub at KIET main Campus on 23-Nov-23.
+The session mainly talked about the basics of Github, the typical workflow, with some basic instructions and uses that might help you gain exposure to use code repositories available on the Internet. The session also focused on the significance of open source contributions.
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

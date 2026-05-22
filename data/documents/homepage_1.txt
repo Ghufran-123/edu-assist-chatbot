@@ -1,0 +1,5414 @@
+ Source URL: https://coe.kiet.edu.pk/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Undergraduate
+B.E. in Electrical Engineering, Software Engineering, Avionics Engineering, Mechatronics Engineering with strong fundamentals and practical exposure.
+Outcome‑based education
+Industry projects & internships
+Modern labs & workshops
+Learn more
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+>>> OCR: about.jpg <<<
+omputing Technologies
+
+hal!
+
+a
+
+a
+--------------------
+
+
+>>> OCR: Electrical.pdf <<<
+1. Introduction
+1.1 Scope of this Document
+This document provides the description of BE (Electrical) program offered by College of Engineering
+at Karachi Institute of Economics and Technology. This includes the program introduction, program
+structure, scheme of studies and description of courses taught in the program.
+1.2 Program Objectives
+The objectives of BE (Electrical Engineering) program are to prepare electrical engineers:
+1. With a sound knowledge of principles of mathematics, science, fundamentals of engineering design and
+analysis, and professional ethics
+2. Who are able to work in a global and diversified society
+3. Who meet the needs of industry for electrical engineering or to pursue graduate studies.
+4. Who are able to communicate clearly in written and oral formats.
+5.
+1.3 Program Composition
+Electrical Engineering Department has come up with a comprehensive curriculum covering not only the
+areas of engineering and sciences but also incorporating courses in humanities, social sciences and
+management sciences. This is because Dept of EE wants to make visionary engineers with high ethical and
+moral values working to serve the humanity.
+BE (Electrical) is a 137 credit hours program. Courses have been classified as non-engineering and
+engineering courses as shown in the table below.
+Number of Courses Credit Hours
+Non – Engineering 15 41
+Engineering 29*/30 96
+Total 43*/44 137
+* For specialization in computer engineering
+1
+The curriculum has been designed to provide the student basic knowledge in the broader area of electrical
+engineering. The course of study is focused on the fundamental concepts enabling the students to pursue a
+career in any area from research and development to sales. In addition to the laboratory work that get the
+student familiar with electrical, electronic and computing equipment and with experimental techniques,
+course projects in almost every course help the student to learn how theoretical knowledge can be converted
+into working projects.
+The curriculum is designed in a way that the first three to four semesters cover the courses of general interest
+(Engineering Foundation). This is followed by covering the electrical engineering breadth in the third year.
+The final year include elective courses allowing the student to specialize either in Electronic Engineering,
+Telecommunication Engineering or Computer Systems Engineering. A two-semester senior design project
+usually involving industrial collaboration provides students with valuable experience in applying their
+knowledge and skills for solution of real-world problems.
+2
+2. Program Structure
+2.1 Non-Engineering Courses
+Knowledge Subject Course Theory Practical Credit Number Total
+Area Area Contact Contact Hours of Credi
+Hours Hours Courses t
+Hours
+Humanities English English I 2 0 2 3 7
+(Proficiency
+Development)
+English II 2 0 2
+(Public Speaking)
+English III ( Official 3 0 3
+Communication and
+Report Writing)
+Culture Islam and Pakistan 3 0 3 1 3
+Studies
+Social Professional and 2 0 2 2 3
+Sciences Social Ethics
+Leadership and 1 0 1
+Motivation
+Management Engineering Project 3 0 3 2 6
+Sciences Management
+Technology 3 0 3
+Entrepreneurship
+Natural Math Calculus 3 0 3 5 15
+Sciences
+Linear Algebra 3 0 3
+Differential 3 0 3
+Equations and
+Transforms
+Complex Variables 3 0 3
+and Multivariable
+Calculus
+Numerical Methods 3 0 3
+Physics Engineering Physics 3 3 4 1 4
+Subtotal (Non-Engineering) 37 3 38 14 38
+3
+2.2 Engineering Courses (Major Electronics)
+Knowledge Course Theory Practical Credit Number of Total
+Area Contact Contact Hours Courses Credit
+Hours Hours Hours
+Computing Introduction to Computing 1 3
+2
+Introduction to Computer Programming 2 3 3 3 8
+Algorithms and Data Structures 2 3 3
+Foundation Workshop Technology 0 3 1 10 31
+Engineering Drawing 0 3 1
+Linear Circuit Analysis 3 3 4
+Electrical Network Analysis 3 3 4
+Fundamentals of Electronics 3 3 4
+Digital Logic Fundamentals 3 3 4
+Signals and systems 3 3 4
+Electromagnetic Fields Theory 3 0 3
+Computer Architecture and Organization 2 3 3
+Probability Methods in Engineering 3 0 3
+Communication Systems 3 3 4
+Breadth 8 30
+Introduction to Embedded Systems 3 3 4
+Electrical Machines 3 3 4
+2 3 3
+Linear Integrated Circuits and Applications
+3 3 4
+Power Electronics
+Electronic Circuit Design 3 3 4
+3 3 4
+Linear Control Systems
+2 3 3
+Artificial Intelligence and Neural Networks
+Interdisciplin 3 0 3 6
+ary Engineering Mechanics 2
+3 0 3
+Fundamentals of Thermal Sciences
+2 3 3
+Depth (Elective I) 5 17
+3 3 4
+(Elective II)
+2 3 3
+(Elective III)
+3 0 3
+(Elective IV)
+3 3 4
+(Elective V)
+0 9 3 6
+Project Senior Design Project I 2
+0 9 3
+Senior Design Project II
+Total (Engineering) 30 98
+4
+2.3 Engineering Courses (Major Computer Systems)
+Knowledge Area Course Theory Practical Credit Number of Total
+Contact Contact Hours Courses Credit
+Hours Hours Hours
+Computing Introduction to Computing 1 3 2 4 11
+Introduction to Computer Programming 2 3 3
+Algorithms and Data Structures 2 3 3
+Object Oriented Programming 2 3 3
+Foundation Workshop Technology 0 3 1 10 32
+Engineering Drawing 0 3 1
+Linear Circuit Analysis 3 3 4
+Signals and Systems 3 3 4
+Electrical Network Analysis 3 3 4
+Fundamentals of Electronics 3 3 4
+Electronic Circuit Design 3 3 4
+Digital Logic Fundamentals 3 3 4
+Electromagnetic Field Theory 3 0 3
+Probability Methods in Engineering 3 0 3
+Computer Architecture and Organization 2 3 3
+Breadth 7 26
+Operating System 3 3 4
+Communication Systems 3 3 4
+Introduction to Embedded Systems 3 3 4
+3 3 4
+Database Management Systems
+3 0 3
+Software Engineering
+3 3 4
+Computer Communication Network
+3 0 3 6
+Interdisciplinary Engineering Mechanics 2
+Artificial Intelligence and Neural 2 1 3
+Networks
+3 3 4
+Depth (Elective I) 5 17
+3 0 3
+(Elective II)
+3 3 4
+(Elective III)
+2 3 3
+(Elective IV)
+3 0 3
+(Elective V)
+0 9 3 6
+Project Senior Design Project I 2
+0 9 3
+Senior Design Project II
+Total (Engineering) 29 98
+5
+2.4 Engineering Courses (Major Telecom)
+Knowledge Course Theory Practical Credit Number of Total Credit
+Area Contact Contact Hours Courses Hours
+Hours Hours
+Computing Introduction to Computing 1 3 2
+Introduction to Computer Programming 2 3 3 3 8
+Algorithms and Data Structures 2 3 3
+Foundation Workshop Technology 0 3 1 10 31
+Engineering Drawing 0 3 1
+Linear Circuit Analysis 3 3 4
+Electrical Network Analysis 3 3 4
+Fundamentals of Electronics 3 3 4
+Digital Logic Fundamentals 3 3 4
+Signals and systems 3 3 4
+Electromagnetic Fields Theory 3 0 3
+Computer Architecture and 2 3 3
+Organization
+Probability Methods in Engineering 3 0 3
+Communication Systems 3 3 4
+Breadth 8 30
+Introduction to Embedded Systems 3 3 4
+Electrical Machines 3 3 4
+Electronic Circuit Design 3 3 4
+2 3 3
+Linear Integrated Circuits and
+Applications
+3 3 4
+Computer Comm. Networks
+3 3 4
+Linear Control Systems
+Artificial Intelligence and Neural 2 3 3
+Networks
+Interdisciplinar 3 0 3 6
+y Engineering Mechanics 2
+3 0 3
+Fundamentals of Thermal Sciences
+3 0 3
+Depth (Elective I) 5 17
+3 3 4
+(Elective II)
+3 3 4
+(Elective III)
+3 0 3
+(Elective IV)
+3 0 3
+(Elective V)
+0 9 3 6
+Project Senior Design Project I 2
+0 9 3
+Senior Design Project II
+Total (Engineering) 30 98
+6
+2.5 Depth Courses (Electronics Major)
+2.6 Depth Courses (Telecom Major)
+S. No. Course Title Credit Hours
+Instrumentation and Measurement 2+1
+1.
+Industrial Control and Automation 2+1
+2.
+Digital Signal Processing 3+1
+3.
+FPGA based System Design/Computer Communication 3+1
+4.
+Networks/ Robotics
+Digital Image Processing 3+0
+5.
+S. No. Course Title Credit Hours
+Wireless and Mobile Communication 3+0
+1.
+Digital Signal Processing 3+1
+2.
+Transmission and Switching Systems 3+1
+3.
+Digital Communication 3+0
+4.
+Digital Image Processing 3+0
+5.
+7
+2.7 Depth Courses (Computer Systems Major)
+S. No. Course Title Credit Hours
+Linear Control Systems 3+1
+1.
+Internet of Things 3+0
+2.
+Digital Signal Processing/ FPGA based System Design 3+1
+3.
+Cloud Computing 2+1
+4.
+Digital Image Processing 3+0
+5.
+8
+3. Scheme of Studies Electrical Engineering (Electronics,
+Telecom and Computer Systems)
+3.1 Effective for Intake of Fall 2023
+Specialization in Electronics
+YEAR 1 CR-H
+Semester I
+CS1201 Introduction to Computing 1+1
+EE1401 Linear Circuit Analysis 3+1
+MS1303 Calculus 3+0
+MS1401 Engineering Physics 3+1
+HS1303 English I (Proficiency Development) 2+0
+Total 15
+Semester II
+CS1301 Introduction to Computer Programming 2+1
+ME1201 Engineering Drawing 0+1
+MS1302 Linear Algebra 3+0
+EE2403 Fundamentals of Electronics 3+1
+ME1303 Engineering Mechanics 3+0
+ME1102 Workshop Technology 0+1
+HS2304 English II (Public Speaking) 2+0
+Total 17
+CR-H
+9
+YEAR 2
+Semester III
+MS1304 Differential Equations and Transforms 3+0
+EE1407 Digital Logic Fundamentals 3+1
+EE2303 Electrical Network Analysis 3+1
+CS2301 Algorithms and Data Structures 2+1
+EE2404 Electronic Circuit Design 3+1
+Total 18
+Semester IV
+MS2305 Complex Variables and Multivariable Calculus 3+0
+EE2431 Signals and Systems 3+1
+EE3403 Linear ICs and Applications 2+1
+EE2425 Electrical Machines 3+1
+EE2309 Computer Architecture and Organization 2+1
+HS1101 Leadership and Motivation 1+0
+Total 18
+YEAR 3 CR-H
+Semester V
+EE3411 Linear Control Systems 3+1
+EE3132 Introduction to Embedded Systems 3+1
+EE2319 Electromagnetic Field Theory 3+0
+EE3327 Power Electronics 3+1
+ME3306 Fundamentals of Thermal Sciences 3+0
+Total 18
+Semester VI
+EE3410 Communication Systems 3+1
+EE3306 (Elective-1) Instrumentation and Measurements 2+1
+MG3301 Engineering Project Management 3+0
+MS3306 Probability Methods in Engineering 3+0
+(Elective-2) Digital Signal Processing 3+1
+EE3416
+Total 17
+10
+YEAR 4 CR-H
+Semester VII
+2+0
+HS4206 Professional and Social Ethics
+Numerical Methods 3+0
+MS4307
+EE4321 (Elective-3) Industrial Control Automation 2+1
+EE4325 (Elective-4)Digital Image Processing 3+0
+CS3304 Artificial Intelligence and Neural Networks 2+1
+DP4301 SDP-1 0+3
+Total 17
+Semester VIII
+MG4302 Technology Entrepreneurship 3+0
+English III-Official Communication and Report Writing
+HS3305 3+0
+Pakistan and Islamic Studies
+HS4306 3+0
+EE4423/
+EE4414 (Elective-5)FPGA Based Digital System Design /Computer Communication Networks 3+1
+SDP-2
+DP4302 0+3
+Total
+16
+11
+Specialization in Computer Systems
+YEAR 1 CR-H
+Semester I
+CS1201 Introduction to Computing 1+1
+EE1401 Linear Circuit Analysis 3+1
+MS1303 Calculus 3+0
+MS1401 Engineering Physics 3+1
+HS1303 English I (Proficiency Development) 2+0
+Total 15
+Semester II
+CS1301 Introduction to Computer Programming 2+1
+ME1201 Engineering Drawing 0+1
+MS1302 Linear Algebra 3+0
+EE2403 Fundamentals of Electronics 3+1
+ME1303 Engineering Mechanics 3+0
+ME1102 Workshop Technology 0+1
+HS2304 English II (Public Speaking) 2+0
+Total 17
+YEAR 2 CR-H
+Semester III
+MS1304 Differential Equations and Transforms 3+0
+EE1407 Digital Logic Fundamentals 3+1
+EE2303 Electrical Network Analysis 3+1
+CS2301 Algorithms and Data Structures 2+1
+EE2404 Electronic Circuit Design 3+1
+Total 18
+Semester IV
+EE2309 Computer Architecture and Organization 2+1
+EE2431 Signals and Systems 3+1
+MS2305 Complex Variables and Multivariable Calculus 3+0
+HS1101 Leadership and Motivation 1+0
+CS2403 Database Mangement System 3+1
+SE201 Object Oriented Concepts & Programming 2+1
+Total 18
+12
+YEAR 3 CR-H
+Semester V
+MS3306 Probability Methods in Engineering 3+0
+EE3132 Introduction to Embedded System 3+1
+CS3411 Software Engineering 3+0
+EE2319 Electromagnetic Field Theory 3+0
+EE3411 (Elective-1) Linear Control Systems 3+1
+Total 17
+Semester VI
+EE3410 Communication Systems 3+1
+CS3301 Operating Systems 3+1
+EE3418 (Elective-2)Internet of things 3+0
+Engineering Project Management
+MG3301 3+0
+EE4414 Computer Communication & Networks 3+1
+Total 18
+YEAR 4 CR-H
+Semester VII
+MS4307 Numerical Methods 3+0
+HS4206 Professional and Social Ethics 2+0
+EE3416/EE4423 (Elective-3) Digital Signal Processing/FPGA Based Digital System Design 3+1
+CS2302 (Elective 4), Cloud Computing 2+1
+SDP-1
+DP4301 0+3
+CS3304 Artificial Intelligence and Neural Networks 2+1
+Total 18
+Semester VIII
+EE4325 (Elective 5), Digital Image Processing 3+0
+English III (Official Communication and Report Writing)
+HS3305 3+0
+HS4306 Pakistan and Islamic Studies 3+0
+MG4302 Technology Entrepreneurship 3+0
+DP4302 SDP-2 0+3
+Total
+15
+13
+Specialization in Telecommunications
+YEAR 1 CR-H
+Semester I
+CS1201 Introduction to Computing 1+1
+EE1401 Linear Circuit Analysis 3+1
+MS1303 Calculus 3+0
+MS1401 Engineering Physics 3+1
+HS1303 English I (Proficiency Development) 2+0
+Total 15
+Semester II
+CS1301 Introduction to Computer Programming 2+1
+ME1201 Engineering Drawing 0+1
+MS1302 Linear Algebra 3+0
+EE2403 Fundamentals of Electronics 3+1
+ME1303 Engineering Mechanics 3+0
+ME1102 Workshop Technology 0+1
+HS2304 English II (Public Speaking) 2+0
+Total 17
+YEAR 2 CR-H
+Semester III
+MS1304 Differential Equations and Transforms 3+0
+EE1407 Digital Logic Fundamentals 3+1
+EE2303 Electrical Network Analysis 3+1
+CS2301 Algorithms and Data Structures 2+1
+EE2404 Electronic Circuit Design 3+1
+Total 18
+Semester IV
+MS2305 Complex Variables and Multivariable Calculus 3+0
+EE2431 Signals and Systems 3+1
+EE3403 Linear ICs and Applications 2+1
+EE2425 Electrical Machines 3+1
+EE2309 Computer Architecture and Organization 2+1
+HS1101 Leadership and Motivation 1+0
+Total 18
+14
+YEAR 3 CR-H
+Semester V
+EE3411 Linear Control Systems 3+1
+EE3132 Introduction to Embedded Systems 3+1
+EE2319 Electromagnetic Field Theory 3+0
+EE4414 Computer Communication Networks 3+1
+ME3306 Fundamentals of Thermal Sciences 3+0
+Total 18
+Semester VI
+EE3410 Communication Systems 3+1
+EE4313 (Elective-1) Wireless and Mobile Communication 3+0
+MG3301 Engineering Project Management 3+0
+MS3306 Probability Methods in Engineering 3+0
+EE3416 (Elective-2) Digital Signal Processing 3+1
+Total 17
+YEAR 4 CR-H
+Semester VII
+HS4206 Professional and Social Ethics 2+0
+MS4307 Numerical Methods 3+0
+EE4415 (Elective-3) Transmission and Switching Systems 3+1
+EE4312 (Elective-4)Digital Communication 3+0
+CS3304 Artificial Intelligence and Neural Networks 2+1
+DP4301 SDP-1 0+3
+Total 18
+Semester VIII
+MG4302 Technology Entrepreneurship 3+0
+HS3305 English III-Official Communication and Report Writing 3+0
+HS4306 Pakistan and Islamic Studies 3+0
+EE4427 (Elective-5)Digital Image Processing 3+0
+DP4302 SDP-2 0+3
+Total 15
+15
+3.2 Effective for Intake of Fall 2022
+Specialization in Electronics
+YEAR 1 CR-H
+Semester I
+CS1201 Introduction to Computing 1+1
+EE1401 Linear Circuit Analysis 3+1
+MS1303 Calculus 3+0
+MS1401 Engineering Physics 3+1
+HS1303 English I (Proficiency Development) 2+0
+Total 15
+Semester II
+CS1301 Introduction to Computer Programming 2+1
+ME2201 Engineering Drawing 1+1
+MS1302 Linear Algebra 3+0
+EE2403 Fundamentals of Electronics 3+1
+ME1303 Engineering Mechanics 3+0
+ME1102 Workshop Technology 0+1
+HS2304 English II (Public Speaking) 2+0
+Total 18
+CR-H
+16
+YEAR 2
+Semester III
+MS1304 Differential Equations and Transforms 3+0
+EE1407 Digital Logic Fundamentals 3+1
+EE2303 Electrical Network Analysis 3+1
+CS2301 Algorithms and Data Structures 2+1
+EE2404 Electronic Circuit Design 3+1
+Total 18
+Semester IV
+MS2305 Complex Variables and Multivariable Calculus 3+0
+EE2431 Signals and Systems 3+1
+EE3403 Linear ICs and Applications 2+1
+EE2425 Electrical Machines 3+1
+EE2308 Computer Architecture and Organization 3+0
+Total 17
+YEAR 3 CR-H
+Semester V
+EE3411 Linear Control Systems 3+1
+EE3132 Introduction to Embedded Systems 3+1
+EE2319 Electromagnetic Field Theory 3+0
+EE3327 Power Electronics 3+1
+ME3306 Fundamentals of Thermal Sciences 3+0
+Total 18
+Semester VI
+EE3410 Communication Systems 3+1
+EE3306 (Elective-1) Instrumentation and Measurements 2+1
+MG3301 Engineering Project Management 3+0
+MS3306 Probability Methods in Engineering 3+0
+(Elective-2) Digital Signal Processing 3+1
+EE3416
+HS1101 Leadership and Motivation 1+0
+Total 18
+17
+YEAR 4 CR-H
+Semester VII
+2+0
+HS4206 Professional and Social Ethics
+Numerical Methods 3+0
+MS4307
+EE4321 (Elective-3) Industrial Control Automation 2+1
+EE4325 (Elective-4)Digital Image Processing 3+0
+CS3304 Artificial Intelligence and Neural Networks 2+1
+DP4301 SDP-1 0+3
+Total 17
+Semester VIII
+MG4302 Technology Entrepreneurship 3+0
+English III-Official Communication and Report Writing
+HS3305 3+0
+Pakistan and Islamic Studies
+HS4306 3+0
+EE4423/EE441
+4 (Elective-5)FPGA Based Digital System Design /Computer Communication Networks 3+1
+SDP-2
+DP4302 0+3
+Total
+16
+18
+3.3 Effective for Intake of Spring 2022
+Specialization in Electronics
+YEAR 1 CR-H
+Semester I
+CS1201 Introduction to Computing 1+1
+EE1401 Linear Circuit Analysis 3+1
+MS1303 Calculus 3+0
+MS1401 Engineering Physics 3+1
+HS1303 English I (Proficiency Development) 2+0
+HS1102 Community Service 0+1
+Total 16
+Semester II
+CS1301 Introduction to Computer Programming 2+1
+ME2201 Engineering Drawing 1+1
+MS1302 Linear Algebra 3+0
+EE2403 Fundamentals of Electronics 3+1
+ME1303 Engineering Mechanics 3+0
+ME1102 Workshop Technology 0+1
+HS2304 English II (Public Speaking) 2+0
+Total 18
+CR-H
+19
+YEAR 2
+Semester III
+MS1304 Differential Equations and Transforms 3+0
+EE2303 Electrical Network Analysis 3+1
+CS2301 Algorithms and Data Structures 2+1
+EE2404 Electronic Circuit Design 3+1
+EE1407 Digital Logic Fundamentals 3+1
+Total 18
+Semester IV
+MS2305 Complex Variables and Multivariable Calculus 3+0
+EE2431 Signals and Systems 3+1
+EE3403 Linear ICs and Applications 2+1
+EE2425 Electrical Machines 3+1
+EE2308 Computer Architecture and Organization 3+0
+Total 17
+YEAR 3 CR-H
+Semester V
+EE3411 Linear Control Systems 3+1
+EE-3132 Introduction to Embedded Systems 3+1
+EE2319 Electromagnetic Field Theory 3+0
+EE3327 Power Electronics 3+1
+ME3306 Fundamentals of Thermal Sciences 3+0
+Total 18
+Semester VI
+EE3410 Communication Systems 3+1
+EE3306 (Elective-1) Instrumentation and Measurements 2+1
+MG3301 Project Management 3+0
+Probability Methods in Engineering
+MS3306 3+0
+(Elective-2) Digital Signal Processing 3+1
+EE3416
+HS1101 Leadership and Motivation 1+0
+Total 18
+20
+YEAR 4 CR-H
+Semester VII
+2+0
+HS4206 Professional and Social Ethics
+Numerical Methods 3+0
+MS4307
+(Elective-3) Industrial Control Automation / Integrated Digital Electronics
+EE4321 2+1
+EE4324/
+(Elective-4) Embedded System Design/ Digital Image Processing) 3+0
+EE4325
+CS3304 Artificial Intelligence and Neural Networks
+2+1
+DP4301 SDP-1 0+3
+Total 17
+Semester VIII
+MG4302 Technology Entrepreneurship 3+0
+English III (Official Communication and Report Writing)
+HS3305 3+0
+Pakistan and Islamic Studies
+HS4306 3+0
+EE4423/EE44
+Elective-5 (FPGA/Introduction to Robotics/Computer Communication Networks) 3+1
+22/EE4414
+SDP-2
+DP4302 0+3
+Total
+16
+21
+Specialization in Computer Systems
+YEAR 1 (Computer Systems Engineering) CR-H
+Semester I
+CS1201 Introduction to Computing 1+1
+EE1401 Linear Circuit Analysis 3+1
+MS1303 Calculus 3+0
+MS1401 Engineering Physics 3+1
+HS1303 English I (Proficiency Development) 2+0
+Total 15
+Semester II
+CS1301 Introduction to Computer Programming 2+1
+ME2201 Engineering Drawing 1+1
+MS1302 Linear Algebra 3+0
+EE2403 Fundamentals of Electronics 3+1
+ME1303 Engineering Mechanics 3+0
+ME1102 Workshop Technology 0+1
+HS2304 English II (Public Speaking) 2+0
+Total 18
+YEAR 2 CR-H
+Semester III
+MS1304 Differential Equations and Transforms 3+0
+HS1102 Community Service 0+1
+EE2302 Electrical Network Analysis 3+0
+CS2302 Algorithms and Data Structures 2+1
+EE2404 Electronic Circuit Design 3+1
+EE1407 Digital Logic Fundamentals 3+1
+Total 18
+Semester IV
+CS3411 Software Engineering 3+1
+EE2308 Computer Architecture and Organization 3+1
+EE2309 Signals and Systems 3+0
+MS2305 Complex Variables and Multivariable Calculus 3+0
+CS3212 Artificial Intelligence 2+1
+Total 17
+22
+YEAR 3 CR-H
+Semester V
+CS2403 Database Management System 3+1
+EE3417 Microprocessor based Systems 3+1
+SE201 Object Oriented Programming 2+1
+CS3301 Operating System 3+1
+HS4206 Professional and Social Ethics 2+0
+HS1101 Leadership and Motivation 1+0
+Total 18
+Semester VI
+MS3306 Probability Methods in Engineering 3+0
+EE3410 Communication Systems 3+1
+EE3416 Elective-1 Digital Signal Processing 3+1
+Elective 2, Emerging Technologies / Automata Theory and Formal
+EE3416/ 3+1
+languages
+CS3302
+MG3301 Project Management 3+0
+Total 18
+YEAR 4 CR-H
+Semester VII
+MS4307 Numerical Methods 3+0
+EE4414 Computer Communication Networks 3+1
+EE4324/EE4325 Elective-3 (Embedded/ Digital Image Processing) 3+0
+Elective 4, Linear Control Systems / Computer Graphics / Advanced
+EE3411 Computer Architecture / Parallel Processing 3+1
+SDP-1
+DP4301 0+3
+Total 17
+Semester VIII
+CS4401/EE4423 Elective-5 (FPGA/Robotics) 3+1
+HS3305 English III (Official Communication and Report Writing) 3+0
+HS4306 Pakistan and Islamic Studies 3+0
+MG4302 Technology Entrepreneurship 3+0
+DP4302 SDP-2 0+3
+Total 16
+23
+Specialization in Telecommunications
+YEAR 1 CR-H
+Semester I
+CS1201 Introduction to Computing 1+1
+EE1401 Linear Circuit Analysis 3+1
+MS1303 Calculus 3+0
+MS1401 Engineering Physics 3+1
+HS1303 English I (Proficiency Development) 2+0
+Total 15
+Semester II
+CS1301 Introduction to Computer Programming 2+1
+ME2201 Engineering Drawing 1+1
+MS1302 Linear Algebra 3+0
+EE2403 Fundamentals of Electronics 3+1
+ME1303 Engineering Mechanics 3+0
+ME1102 Workshop Technology 0+1
+HS2304 English II (Public Speaking) 2+0
+Total 18
+YEAR 2 CR-H
+Semester III
+MS1304 Differential Equations and Transforms 3+0
+HS1102 Community Service 0+1
+EE2302 Electrical Network Analysis 3+0
+CS2302 Algorithms and Data Structures 2+1
+EE2404 Electronic Circuit Design 3+1
+EE1407 Digital Logic Fundamentals 3+1
+Total 18
+Semester IV
+MS2305 Complex Variables and Multivariable Calculus 3+0
+EE2309 Signals and Systems 3+0
+EE3405 Linear ICs and Applications 3+1
+EE2425 Electrical Machines 3+1
+EE2308 Computer Architecture and Organization 3+0
+Total 17
+24
+YEAR 3 CR-H
+Semester V
+EE3411 Linear Control Systems 3+1
+EE3417 Microprocessor based Systems 3+1
+EE2319 Electromagnetic Field Theory 3+0
+EE3306 Instrumentation and Measurement 2+1
+ME3306 Fundamentals of Thermal Sciences 3+0
+HS1101 Leadership and Motivation 1+0
+Total 18
+Semester VI
+EE3410 Communication Systems 3+1
+EE3320 Microwave and Antennas 2+1
+MG3301 Project Management 3+0
+MS3306 Probability Methods in Engineering 3+0
+EE3416 (Elective-1) Digital Signal Processing 3+1
+Total 17
+YEAR 4 CR-H
+Semester VII
+EE4313 (Elective-2) Wireless and Mobile Communication 3+0
+EE4312 (Elective-3) Digital Communication 3+0
+EE4414 (Elective-4) Computer Communication Networks 3+1
+MS4307 Numerical Methods 3+0
+HS4206 Professional and Social Ethics 2+0
+DP4301 SDP-1 0+3
+Total 18
+Semester VIII
+EE4415 (Elective-5) Transmission and Switching Systems 3+1
+MG4302 Technology Entrepreneurship 3+0
+HS3305 English III (Official Communication and Report Writing) 3+0
+HS4306 Pakistan and Islamic Studies 3+0
+DP4302 SDP-2 0+3
+Total 16
+25
+3.3 Effective for Intakes of Spring 2018-21
+Year 1
+Semester I
+Course Code Course Title Theory Practical Total
+CS1201 Introduction to Computing 1 1 2
+EE1401 Linear Circuit Analysis 3 1 4
+MS1303 Calculus 3 0 3
+MS1401 Engineering Physics 3 1 4
+HS1101 Leadership and Motivation 1 0 1
+HS1303 English I (Proficiency Development) 2 0 2
+Total 13 3 16
+Semester II
+Course Code Course Title Theory Practical Total
+CS1301 Introduction to Computer Programming 2 1 3
+ME2201 Engineering Drawing 1 1 2
+MS1302 Linear Algebra 3 0 3
+EE2403 Fundamentals of Electronics 3 1 4
+ME1303 Engineering Mechanics 3 0 3
+ME1102 Workshop Technology 0 1 1
+HS2304 English II (Public Speaking) 2 0 2
+Total 14 4 18
+26
+Year 2
+Semester III
+Course Code Course Title Theory Practical Total
+MS1304 Differential Equations and Transforms 3 0 3
+HS1102 Community Service 0 1 1
+EE2302 Electrical Network Analysis 3 0 3
+CS2302 Algorithms and Data Structures 2 1 3
+EE2404 Electronic Circuit Design 3 1 4
+EE1407 Digital Logic Fundamentals 3 1 4
+Total 14 4 18
+Semester IV Major in Electronics / Telecommunication
+Course Code Course Title Theory Practical Total
+Complex Variables and Multivariable
+MS2305 Calculus 3 0 3
+EE2309 Signals and Systems 3 0 3
+EE3405 Linear ICs and Applications 3 1 4
+EE2425 Electrical Machines 3 1 4
+Computer Architecture and
+EE2308 Organization 3 0 3
+Total 15 2 17
+Semester IV Major in Computer Systems
+Course Code Course Title Theory Practical Total
+CS2403 Database Management System 3 1 4
+Computer Architecture and
+EE2408 Organization 3 1 4
+Object Oriented Programming 2 1 3
+Complex Variables and Multivariable
+MS2305 Calculus 3 0 3
+CS3212 Artificial Intelligence 2 1 3
+Total 14 4 17
+27
+Year 3
+Semester V Major in Electronics / Telecommunication
+Course Code Course Title Theory Practical Total
+EE3411 Linear Control Systems 3 1 4
+EE3417 Microprocessor based Systems 3 1 4
+EE2319 Electromagnetic Field Theory 3 0 3
+EE3306 Instrumentation and Measurement 2 1 3
+ME3306 Fundamentals of Thermal Sciences 3 0 3
+Total 14 3 17
+Semester V Major in Computer Systems
+Course Code Course Title Theory Practical Total
+Elective I, Linear Control Systems /
+Computer Graphics / Advanced
+Computer Architecture / Parallel
+EE3411 / CS3401 Processing 3 1 4
+MS3306 Probability Methods in Engineering
+3 0 3
+EE3417 Microprocessor based Systems 3 1 4
+EE2309 Signals and Systems 3 0 3
+CS3301 Operating System 3 1 4
+Total 15 3 18
+28
+Semester VI Major in Electronics
+Course Code Course Title Theory Practical Total
+EE3410 Communication Systems 3 1 4
+EE4427 (Elective-1) Power Electronics 3 1 4
+MG3301 Project Management 3 0 3
+MS3306 Probability Methods in Engineering 3 0 3
+EE3416 (Elective-2) Digital Signal Processing 3 1 4
+Total 15 3 18
+Semester VI Major in Telecom
+Course Code Course Title Theory Practical Total
+EE3410 Communication Systems 3 1 4
+EE3320 Microwave and Antennas 2 1 3
+MG3301 Project Management 3 0 3
+MS3306 Probability Methods in Engineering 3 0 3
+EE3416 (Elective-1) Digital Signal Processing 3 1 4
+Total 14 3 17
+Semester VI Major in Computer Systems
+Course Code Course Title Theory Practical Total
+CS3411 Software Engineering
+3 1 4
+EE3410 Communication Systems
+3 1 4
+CSxxxx Elective II, Emerging Technologies
+3 1 4
+MS4307 Numerical Methods
+3 0 3
+MG3301 Project Management
+3 0 3
+Total 15 3 18
+29
+Year 4
+Semester VII Major in Electronics
+Course Code Course Title Theory Practical Total
+HS4206 Professional and Social Ethics 2 0 2
+MS4307 Numerical Methods 3 0 3
+(Elective-3) Industrial Control and
+Automation / Integrated Digital
+EE4321 Electronics (3+0) 2 1 3
+(Elective-4) Embedded System Design /
+EE Digital Image Processing 3 0 3
+EE3320 Microwave and Antennas 2 1 3
+DP4301 SDP I 0 3 3
+Total 12 5 17
+Semester VII Major in Telecom
+Course Code Course Title Theory Practical Total
+(Elective-2) Wireless and Mobile
+EE4313 Communication 3 0 3
+EE4312 (Elective-3) Digital Communication 3 0 3
+(Elective-4) Computer Communication
+EE4414 Networks 3 1 4
+HS4206 Professional and Social Ethics 2 0 2
+MS4307 Numerical Methods 3 0 3
+DP4301 SDP I 0 3 3
+Total 14 4 18
+Semester VII Major in Computer Systems
+Course Code Course Title Theory Practical Total
+Elective III, FPGA based Systems
+CS4401 / EE4423 Design / Introduction to Robotics
+/ EE4422 3 1 4
+SDP-1
+DP4301 0 3 3
+HS4206 Professional and Social Ethics
+2 0 2
+EE4414 Computer Communication Networks
+3 1 4
+EE3416 Elective-IV, Digital Signal Processing 3 1 4
+30
+Total 11 6 17
+Semester VIII Major in Electronics
+Course Code Course Title Theory Practical Total
+MG4302 Technology Entrepreneurship 3 0 3
+English III (Official Communication
+HS3305 and Report Writing) 3 0 3
+HS4306 Pakistan and Islamic Studies 3 0 3
+(Elective-5) FPGA-Based System
+Design / Introduction to Robotics /
+EE4423 Computer Communication Networks 3 1 4
+DP4302 SDP II 0 3 3
+Total 12 4 16
+Semester VIII Major in Telecom
+Course Code Course Title Theory Practical Total
+(Elective-5) Transmission and Switching
+EE4415 Systems 3 1 4
+MG4302 Technology Entrepreneurship 3 0 3
+English III (Official Communication
+HS3305 and Report Writing) 3 0 3
+HS4306 Pakistan and Islamic Studies 3 0 3
+DP4302 SDP II 0 3 3
+Total 12 4 16
+Semester VIII Major in Computer Systems
+Course Code Course Title Theory Practical Total
+EE4325 / EE4324 Elective V, Digital Image Processing /
+/ EE4313 Embedded Systems / Wireless and
+Mobile Communication
+3 0 3
+DP4302 SDP-2
+0 3 3
+HS3305 English III (Official Communication
+and Report Writing)
+3 0 3
+HS4306 Pakistan and Islamic Studies
+3 0 3
+MG4302 Technology Entrepreneurship
+3 0 3
+Total 12 3 15
+31
+3.4 Effective from Spring 2017
+Year 1
+Semester I
+Course Code Course Title Theory Practical Total
+EE1401 Linear Circuit Analysis 3 1 4
+MS1303 Calculus 3 0 3
+MS1401 Engineering Physics 3 1 4
+ME1102 Workshop Technology 0 1 1
+EE1407 Digital Logic Fundamentals 3 1 4
+Total 12 4 16
+Semester II
+Course Code Course Title Theory Practical Total
+CS1301 Introduction to Computer Programming 2 1 3
+HS1102 Community Service 0 1 1
+MS1302 Linear Algebra 3 0 3
+EE2403 Fundamentals of Electronics 3 1 4
+HS1303 English I (Proficiency Development) 3 0 3
+ME1303 Engineering Mechanics 3 0 3
+HS1101 Leadership and Motivation 1 0 1
+Total 15 3 18
+32
+Year 2
+Semester III
+Course Code Course Title Theory Practical Total
+MS1304 Differential Equations and Transforms 3 0 3
+EE2302 Electrical Network Analysis 3 0 3
+CS2302 Algorithms and Data Structures 2 1 3
+EE2404 Electronic Circuit Design 3 1 4
+HS2304 English II (Public Speaking) 3 0 3
+ME2201 Engineering Drawing 1 1 2
+Total 15 3 18
+Semester IV
+Course Code Course Title Theory Practical Total
+Complex Variables and Multivariable
+MS2305 Calculus 3 0 3
+EE2309 Signals and Systems 3 0 3
+EE3405 Linear ICs and Applications 3 1 4
+EE2425 Electrical Machines 3 1 4
+Computer Architecture and
+EE2308 Organization 3 0 3
+Total 15 2 17
+33
+Year 3
+Semester V
+Course Code Course Title Theory Practical Total
+EE3411 Linear Control Systems 3 1 4
+EE3417 Microprocessor based Systems 3 1 4
+EE2319 Electromagnetic Field Theory 3 0 3
+EE3306 Instrumentation and Measurement 2 1 3
+ME3306 Fundamentals of Thermal Sciences 3 0 3
+Total 14 3 17
+Semester VI Major in Electronics
+Course Code Course Title Theory Practical Total
+EE3410 Communication Systems 3 1 4
+EE4427 Power Electronics 3 1 4
+EE3320 Microwave and Antennas 2 1 3
+MG3301 Project Management 3 0 3
+MS3306 Probability Methods in Engineering 3 0 3
+EE3416 Digital Signal Processing 3 1 4
+Total 17 4 21
+Semester VI Major in Telecom
+Course Code Course Title Theory Practical Total
+EE3410 Communication Systems 3 1 4
+EE3320 Microwave and Antennas 2 1 3
+MG3301 Project Management 3 0 3
+MS3306 Probability Methods in Engineering 3 0 3
+EE3416 Digital Signal Processing 3 1 4
+Total 14 3 17
+34
+Year 4
+Semester VII Major in Electronics
+Course Code Course Title Theory Practical Total
+HS4206 Professional and Social Ethics 2 0 2
+MS4307 Numerical Methods 3 0 3
+Industrial Control and Automation /
+EE4321 Integrated Digital Electronics (3+0) 2 1 3
+Embedded System Design / Digital
+EE Image Processing 3 0 3
+DP4301 SDP I 0 3 3
+Total 10 4 14
+Semester VII Major in Telecom
+Course Code Course Title Theory Practical Total
+EE4313 Wireless and Mobile Communication 3 0 3
+EE4312 Digital Communication 3 0 3
+EE4414 Computer Communication Networks 3 1 4
+HS4206 Professional and Social Ethics 2 0 2
+MS4307 Numerical Methods 3 0 3
+DP4301 SDP I 0 3 3
+Total 14 4 18
+35
+Semester VIII Major in Electronics
+Course Code Course Title Theory Practical Total
+MG4302 Technology Entrepreneurship 3 0 3
+English III (Official Communication
+HS3305 and Report Writing) 3 0 3
+HS4306 Pakistan and Islamic Studies 3 0 3
+FPGA-Based System Design /
+Introduction to Robotics / Computer
+EE4423 Communication Networks 3 1 4
+DP4302 SDP II 0 3 3
+Total 12 4 16
+Semester VIII Major in Telecom
+Course Code Course Title Theory Practical Total
+EE4415 Transmission and Switching Systems 3 1 4
+MG4302 Technology Entrepreneurship 3 0 3
+English III (Official Communication
+HS3305 and Report Writing) 3 0 3
+HS4306 Pakistan and Islamic Studies 3 0 3
+DP4302 SDP II 0 3 3
+Total 12 4 16
+36
+3.5 Scheme of Studies Electrical Engineering (Computer Systems Engineering)
+Effective from Spring 2017
+Year 1
+Semester I
+Course Code Course Title Theory Practical Total
+CS1201 Introduction to Computing 1 1 2
+EE1401 Linear Circuit Analysis 3 1 4
+HS1101 Leadership and Motivation 1 0 1
+MS1303 Calculus 3 0 3
+HS1102 Community Service 0 1 1
+EE1407 Digital Logic Fundamentals 3 1 4
+Total 11 4 15
+Semester II
+Course Code Course Title Theory Practical Total
+EE2403 Fundamentals of Electronics 3 1 4
+CS1301 Object oriented Programming 2 1 3
+HS1303 English I (Proficiency Development) 3 0 3
+MS1302 Linear Algebra 3 0 3
+MS1401 Engineering Physics 3 1 4
+ME1102 Workshop Technology 0 1 1
+Total 14 4 18
+37
+Year 2
+Semester III
+Course Code Course Title Theory Practical Total
+EE2302 Electrical Network Analysis 3 0 3
+CS2402 Algorithms and Data Structures 3 1 4
+ME2201 Engineering Drawing 1 1 2
+HS2304 English II (Public Speaking) 3 0 3
+MS1304 Differential Equations and Transforms 3 0 3
+ME1303 Engineering Mechanics 3 0 3
+Total 16 2 18
+Semester IV
+Course Code Course Title Theory Practical Total
+CS2403 Database Management System 3 1 4
+Computer Architecture and
+EE2408 Organization 3 1 4
+EE2404 Electronic Circuit Design 3 1 4
+Complex Variables and Multivariable
+MS2305 Calculus 3 0 3
+CS3301 Operating System 3 0 3
+Total 15 3 18
+38
+Year 3
+Semester V
+Course Code Course Title Theory Practical Total
+Elective I, Linear Control Systems /
+Computer Graphics / Advanced
+Computer Architecture / Parallel
+EE3411 / CS3401 Processing 3 1 4
+MS3306 Probability Methods in Engineering
+3 0 3
+EE3417 Microprocessor based Systems 3 1 4
+EE2309 Signals and Systems 3 0 3
+ME3306 Fundamentals of Thermal Sciences 3 0 3
+Total 15 2 17
+Semester VI
+Course Code Course Title Theory Practical Total
+CS3411 Software Engineering
+3 1 4
+EE3410 Communication Systems
+3 1 4
+EE3416 Elective II, Digital Signal Processing
+3 1 4
+MS4307 Numerical Methods
+3 0 3
+MG3301 Project Management
+3 0 3
+Total 15 3 18
+39
+Year 4
+Semester VII
+Course Code Course Title Theory Practical Total
+Elective III, Artificial Intelligence /
+FPGA based Systems Design /
+CS4401 / EE4423 Introduction to Robotics
+/ EE4422 3 1 4
+SDP-1
+DP4301 0 3 3
+HS4206 Professional and Social Ethics
+2 0 2
+EE4414 Computer Communication Networks
+3 1 4
+CSxxxx Elective-IV, Emerging Technologies 3 1 4
+Total 11 6 17
+Semester VIII
+Course Code Course Title Theory Practical Total
+EE4325 / EE4324 Elective V, Digital Image Processing /
+/ EE4313 Embedded Systems / Wireless and
+Mobile Communication
+3 0 3
+DP4302 SDP-2
+0 3 3
+HS3305 English III (Official Communication
+and Report Writing)
+3 0 3
+HS4306 Pakistan and Islamic Studies
+3 0 3
+MG4302 Technology Entrepreneurship
+3 0 3
+Total 12 3 15
+40
+3.6 Scheme of Studies Electrical Engineering (Electronics & Telecom)
+Effective from Spring 2016
+Year 1
+Semester I
+Course Code Course Title Theory Practical Total
+EE1401 Linear Circuit Analysis 3 1 4
+MS1303 Calculus 3 0 3
+MS1401 Engineering Physics 3 1 4
+ME1102 Workshop Technology 0 1 1
+HS1101 Leadership and Motivation 1 0 1
+EE1407 Digital Logic Fundamentals 3 1 4
+Total 13 4 17
+Semester II
+Course Code Course Title Theory Practical Total
+CS1301 Introduction to Computer Programming 2 1 3
+HS1102 Community Service 0 1 1
+MS1302 Linear Algebra 3 0 3
+EE2403 Fundamentals of Electronics 3 1 4
+HS1303 English I (Proficiency Development) 3 0 3
+ME1303 Engineering Mechanics 3 0 3
+Total 14 3 17
+41
+Year 2
+Semester III
+Course Code Course Title Theory Practical Total
+MS1304 Differential Equations and Transforms 3 0 3
+EE2302 Electrical Network Analysis 3 0 3
+CS2302 Algorithms and Data Structures 2 1 3
+EE2404 Electronic Circuit Design 3 1 4
+HS2304 English II (Public Speaking) 3 0 3
+ME2201 Engineering Drawing 1 1 2
+Total 15 3 18
+Semester IV
+Course Code Course Title Theory Practical Total
+Complex Variables and Multivariable
+MS2305 Calculus 3 0 3
+EE2309 Signals and Systems 3 0 3
+EE3405 Linear ICs and Applications 3 1 4
+EE2425 Electrical Machines 3 1 4
+Computer Architecture and
+EE2308 Organization 3 0 3
+Total 15 2 17
+42
+Year 3
+Semester V
+Course Code Course Title Theory Practical Total
+EE3411 Linear Control Systems 3 1 4
+EE3417 Microprocessor based Systems 3 1 4
+EE2319 Electromagnetic Field Theory 3 0 3
+EE3306 Instrumentation and Measurement 2 1 3
+ME3306 Fundamentals of Thermal Sciences 3 0 3
+Total 14 3 17
+Semester VI
+Course Code Course Title Theory Practical Total
+EE3410 Communication Systems 3 1 4
+EE4427 Power Electronics 3 1 4
+EE3320 Microwave and Antennas 2 1 3
+MG3301 Project Management 3 0 3
+MS3306 Probability Methods in Engineering 3 0 3
+EE3416 Digital Signal Processing 3 0 3
+Total 17 3 20
+43
+Year 4
+Semester VII
+Course Code Course Title Theory Practical Total
+EE4313 Wireless and Mobile Communication 3 0 3
+EE4312 Digital Communication 3 0 3
+EE4414 Computer Communication Networks 3 1 4
+HS4206 Professional and Social Ethics 2 0 2
+MS4307 Numerical Methods 3 0 3
+EE4321 Industrial Control and Automation 2 1 3
+EE Embedded System Design 3 0 3
+Total 19 2 21
+Semester VIII
+Course Code Course Title Theory Practical Total
+EE4415 Transmission and Switching Systems 3 1 4
+MG4302 Technology Entrepreneurship 3 0 3
+English III (Official Communication
+HS3305 and Report Writing) 3 0 3
+HS4306 Pakistan and Islamic Studies 3 0 3
+EE4423 FPGA-Based System Design 3 1 4
+EE4422 Introduction to Robotics 3 0 3
+DP4301/4302 SDP I/ II 0 6 6
+Total 18 8 26
+44
+3.7 Effective from Spring 2015
+Year 1
+Semester I
+Course Code Course Title Theory Practical Total
+EE1401 Linear Circuit Analysis 3 1 4
+MS1303 Calculus 3 0 3
+MS1401 Engineering Physics 3 1 4
+CS1301 Introduction to Computer Programming 2 1 3
+ME1102 Workshop Technology 0 1 1
+HS1102 Community Service 0 1 1
+Total 11 5 16
+Semester II
+Course Code Course Title Theory Practical Total
+HS1101 Leadership and Motivation 1 0 1
+MS1302 Linear Algebra 3 0 3
+EE2403 Fundamentals of Electronics 3 1 4
+EE1407 Digital Logic Fundamentals 3 1 4
+HS1303 English I (Proficiency Development) 3 0 3
+ME1303 Engineering Mechanics 3 0 3
+Total 16 2 18
+45
+Year 2
+Semester III
+Course Code Course Title Theory Practical Total
+MS1304 Differential Equations and Transforms 3 0 3
+EE2302 Electrical Network Analysis 3 0 3
+CS2302 Algorithms and Data Structures 2 1 3
+EE2404 Electronic Circuit Design 3 1 4
+HS2304 English II (Public Speaking) 3 0 3
+ME2201 Engineering Drawing 1 1 2
+Total 15 3 18
+Semester IV
+Course Code Course Title Theory Practical Total
+Complex Variables and Multivariable
+MS2305 Calculus 3 0 3
+EE2309 Signals and Systems 3 0 3
+EE3405 Linear ICs and Applications 3 1 4
+EE2425 Electrical Machines 3 1 4
+Computer Architecture and
+EE2308 Organization 3 0 3
+Total 15 2 17
+46
+Year 3
+Semester V
+Course Code Course Title Theory Practical Total
+EE3411 Linear Control Systems 3 1 4
+EE3417 Microprocessor based Systems 3 1 4
+EE2319 Electromagnetic Field Theory 3 0 3
+EE3306 Instrumentation and Measurement 2 1 3
+ME3306 Engineering Thermodynamics 3 0 3
+Total 14 3 17
+Semester VI Major in Telecom
+Course Code Course Title Theory Practical Total
+EE3410 Communication Systems 3 1 4
+EE3416 Digital Signal Processing 3 1 4
+EE3320 Microwave and Antennas 2 1 3
+MG3301 Project Management 3 0 3
+MS3306 Probability Methods in Engineering 3 0 3
+Total 14 3 17
+Semester VI Major in Electronics
+Course Code Course Title Theory Practical Total
+EE3410 Communication Systems 3 1 4
+EE4427 Power Electronics 3 1 4
+EE3320 Microwave and Antennas 2 1 3
+MG3301 Project Management 3 0 3
+MS3306 Probability Methods in Engineering 3 0 3
+Total 14 3 17
+47
+Year 4 (Major in Telecom)
+Semester VII
+Course Code Course Title Theory Practical Total
+EE4313 Wireless and Mobile Communication 3 0 3
+EE4312 Digital Communication 3 0 3
+EE4414 Computer Communication Networks 3 1 4
+HS4206 Professional and Social Ethics 2 0 2
+MS4307 Numerical Methods 3 0 3
+DP4301 SDP I 0 3 3
+Total 14 4 18
+Semester VIII
+Course Code Course Title Theory Practical Total
+EE4415 Transmission and Switching Systems 3 1 4
+MG4302 Technology Entrepreneurship 3 0 3
+DP4302 SDP II 0 3 3
+English III (Official Communication
+HS3305 and Report Writing) 3 0 3
+HS4306 Pakistan and Islamic Studies 3 0 3
+Total 12 4 16
+48
+Year 4 (Major in Electronics)
+Semester VII Electronics Major
+Course Code Course Title Theory Practical Total
+EE4416 Digital Signal Processing 3 1 4
+EE4321 Industrial Control and Automation 2 1 3
+EE4324 Embedded Systems Design 2 1 3
+HS4206 Professional and Social Ethics 2 0 2
+MS4307 Numerical Methods 3 0 3
+DP4301 SDP I 0 3 3
+Total 12 6 18
+Semester VIII Electronics Major
+Course Code Course Title Theory Practical Total
+FPGA-Based System Design/
+Computer Communication Networks/
+EE4423/14/22 Robotics 3 1 4
+MG4302 Technology Entrepreneurship 3 0 3
+DP4302 SDP II 0 3 3
+English III (Official Communication
+HS3305 and Report Writing) 3 0 3
+HS4306 Pakistan and Islamic Studies 3 0 3
+Total 12 4 16
+49
+3.8 Effective for the Intakes of Fall 2013 and Spring 2014
+Year 1
+Semester I
+Course Code Course Title Theory Practical Total
+MS1302 Linear Algebra 3 0 3
+MS1303 Calculus 3 0 3
+MS1401 Engineering Physics 3 1 4
+CS1301 Introduction to Computer Programming 2 1 3
+HS1101 Leadership and Motivation 1 0 1
+HS1102 Community Service 0 1 1
+Total 12 3 15
+Semester II
+Course Code Course Title Theory Practical Total
+MS1304 Differential Equations and Transforms 3 0 3
+EE1401 Linear Circuit Analysis 3 1 4
+EE1407 Digital Logic Fundamentals 3 1 4
+ME1102 Workshop Technology 0 1 1
+HS1303 English I (Proficiency Development) 3 0 3
+ME1303 Engineering Mechanics 3 0 3
+Total 15 3 18
+50
+Year 2
+Semester III
+Course Code Course Title Theory Practical Total
+MS2305 Complex Variables and Multivariable Calculus 3 0 3
+EE2302 Electrical Network Analysis 3 0 3
+CS2302 Algorithms and Data Structures 2 1 3
+EE2403 Fundamentals of Electronics 3 1 4
+HS2304 English II (Public Speaking) 3 0 3
+ME2201 Engineering Drawing 1 1 2
+Total 15 3 18
+Semester IV
+Course Code Course Title Theory Practical Total
+EE2319 Electromagnetic Field Theory 3 0 3
+EE2309 Signals and Systems 3 0 3
+EE2404 Electronic Circuit Design 3 1 4
+EE2425 Electrical Machines 3 1 4
+EE2308 Computer Architecture and Organization 3 0 3
+Total 15 2 17
+51
+Year 3
+Semester V
+Course Code Course Title Theory Practical Total
+EE3411 Linear Control Systems 3 1 4
+EE3417 Microprocessor based Systems 3 1 4
+EE3320 Microwave and Antennas 3 0 3
+EE3405 Linear ICs and Applications 3 1 4
+ME3306 Engineering Thermodynamics 3 0 3
+Total 15 3 18
+Semester VI Major in Telecom
+Course Code Course Title Theory Practical Total
+EE3410 Communication Systems 3 1 4
+EE3416 Digital Signal Processing 3 1 4
+EE3306 Instrumentation and Measurement 2 1 3
+MG3301 Project Management 3 0 3
+MS3306 Probability Methods in Engineering 3 0 3
+Total 14 3 17
+Semester VI Major in Electronics
+Course Code Course Title Theory Practical Total
+EE3410 Communication Systems 3 1 4
+EE4427 Power Electronics 3 1 4
+EE3306 Instrumentation and Measurement 2 1 3
+MG3301 Project Management 3 0 3
+MS3306 Probability Methods in Engineering 3 0 3
+Total 14 3 17
+52
+Year 4 (Major in Telecom)
+Semester VII
+Course Code Course Title Theory Practical Total
+EE4313 Wireless and Mobile Communication 3 0 3
+EE4312 Digital Communication 3 0 3
+EE4414 Computer Communication Networks 3 1 4
+HS4206 Professional and Social Ethics 2 0 2
+MS4307 Numerical Methods 3 0 3
+DP4301 SDP I 0 3 3
+Total 14 4 18
+Semester VIII
+Course Code Course Title Theory Practical Total
+EE4415 Transmission and Switching Systems 3 1 4
+MG4302 Technology Entrepreneurship 3 0 3
+DP4302 SDP II 0 3 3
+English III (Official Communication and
+HS3305 3 0 3
+Report Writing)
+HS4306 Pakistan and Islamic Studies 3 0 3
+Total 12 4 16
+53
+Year 4 (Major in Electronics)
+Semester VII Electronics Major
+Course Code Course Title Theory Practical Total
+EE4416 Digital Signal Processing 3 1 4
+Industrial Control and Automation /
+EE4321 2 / 3 1 / 0 3
+Integrated Digital Electronics
+Embedded Systems Design / Digital Image
+EE4324 2 / 3 1 / 0 3
+Processing
+HS4206 Professional and Social Ethics 2 0 2
+MS4307 Numerical Methods 3 0 3
+DP4301 SDP I 0 3 3
+Total 12 6 18
+Semester VIII Electronics Major
+Course Code Course Title Theory Practical Total
+FPGA-Based System Design/ Computer
+EE4423/14/22 3 1 4
+Communication Networks/ Robotics
+MG4302 Technology Entrepreneurship 3 0 3
+DP4302 SDP II 0 3 3
+English III (Official Communication and
+HS3305 3 0 3
+Report Writing)
+HS4306 Pakistan and Islamic Studies 3 0 3
+Total 12 4 16
+112 25 137
+54
+--------------------
+
+
+>>> OCR: Avionics.pdf <<<
+1. Scope of this Document
+This document provides the description of BE (Avionics) program offered by College of Engineering at
+Karachi Institute of Economics and Technology. This includes the program introduction, program
+structure, scheme of studies and description of courses taught in the program.
+2. Introduction
+Program Objectives
+The objectives of BE (Avionic Engineering) program are to prepare avionic engineers:
+1. With a sound knowledge of principles of mathematics, science, fundamentals of engineering design
+and analysis, and professional ethics
+2. Who are able to work in a global and diversified society
+3. Who meet the needs of industry for Avionic Engineering or to pursue graduate studies?
+4. And who are also able to communicate clearly in written and oral formats.
+Program Composition
+CoE has come up with a comprehensive curriculum covering not only the areas of engineering and sciences
+but also incorporating courses in humanities, social sciences and management sciences. This is because
+CoE wants to make visionary engineers with high ethical and moral values working to serve the humanity.
+BE (Avionics) is a 134 credit hours program excluding the 6 credit hours of Sports and Internships. Courses
+have been classified as non-engineering and engineering courses as shown in the table below.
+Number of Courses Credit Hours
+Non – Engineering 16 41
+Engineering 30 93
+Total 46 134
+1
+The curriculum has been designed to provide the student basic knowledge in the broader area of Electrical
+Engineering which is followed by focused courses related to Avionic Engineering. The course of study is
+focused on the fundamental concepts enabling the students to pursue a career in any area from research
+and development to sales. In addition to the laboratory work that get the student familiar with electrical,
+electronic and computing equipment and with experimental techniques, course projects in almost every
+course help the student to learn how theoretical knowledge can be converted into working projects.
+The curriculum is designed in a way that the first three to four semesters cover the courses of general
+interest (Engineering Foundation). This is followed by covering the Avionic Engineering breadth starting
+from the third year and extending into fifth and sixth semesters. The senior semesters from fifth till eighth
+semester include depth courses allowing the student to specialize in Avionic Engineering. A two-semester
+senior design project usually involving industrial collaboration provides students with valuable experience
+in applying their knowledge and skills for solution of real-world problems.
+2
+3. Program Structure
+Non-Engineering Courses
+Knowledge Subject Course Theory Practical Credit Number Total
+Area Area Contact Contact Hours of Credit
+Hours Hours Courses Hours
+Humanities English English I 2 0 2 3 7
+(Proficiency
+Development)
+English II 2 0 2
+(Public Speaking)
+English III ( Official 3 0 3
+Communication and
+Report Writing)
+Culture Pakistan and Islamic 3 0 3 1 3
+Studies
+Social Professional and 2 0 2 3 4
+Sciences Social Ethics
+Leadership and 1 0 1
+Motivation
+Community Service 0 3 1
+Management Engineering Project 2 0 2 2 5
+Sciences Management
+Technology 3 0 3
+Entrepreneurship
+Natural Math Calculus 3 0 3 6 18
+Sciences
+Linear Algebra 3 0 3
+Differential 3 0 3
+Equations and
+Transforms
+Complex Variables 3 0 3
+and Multivariable
+Calculus
+Probability Methods 3 0 3
+in Engineering
+Numerical Methods 3 0 3
+Physics Engineering Physics 3 3 4 1 4
+Subtotal (Non-Engineering) 39 6 41 16 41
+3
+Engineering Courses
+Knowledge Area Course Theory Practical Credit Number Total
+Contact Contact Hours of Credit
+Hours Hours Courses Hours
+Computing Introduction to Computer 2 3 3 2 6
+Programming
+Algorithms and Data Structures 2 3 3
+Foundation Engineering Drawing 1 3 2 9 29
+Linear Circuit Analysis 3 3 4
+Electrical Network Analysis 3 3 4
+Digital Logic Fundamentals 3 3 4
+Electronic Device and Circuit 3 3 4
+Electromagnetic Fields Theory 3 0 3
+Signals and Systems 3 3 4
+Instrumentation and Measurement 2 3 3
+Workshop Technology 0 3 1
+Breadth Linear Control Systems 3 3 4 8 27
+Linear Integrated Circuits and 3 3 4
+Applications
+Microcontroller based systems 3 3 4
+Communication Systems 3 3 4
+Electrical Machines 3 3 4
+Engineering Statics 2 0 2
+Engineering Dynamics 2 0 2
+Microwave and Antennas 2 3 3
+Interdisciplinary Fundamentals of Thermal Sciences 2 0 2 3 5
+Applied Aerodynamics 2 0 2
+Occupational Health 1 0 1
+and Safety
+Depth Radar Systems Engineering 3 3 4 6 20
+Flight Control Systems 3 3 4
+Navigation Guidance and Control 2 3 3
+Avionic Systems Design 2 6 4
+FPGA/Digital Signal Processing 3 3 4
+Emerging Aviation Technologies 1 0 1
+Senior Design Senior Design Project – I 0 9 3 2 6
+Project
+Senior Design Project - II 0 9 3
+Industrial Training (Summer) 0 0 0 0
+Subtotal (Engineering) 65 84 93 30 93
+4
+4. Scheme of Studies
+Semester I
+Course Code Course Title Theory Practical Total
+EE1401 Linear Circuit Analysis 3 1 4
+MS1303 Calculus 3 0 3
+MS1401 Engineering Physics 3 1 4
+CS1301 Introduction to Computer Programming 2 1 3
+ME1102 Workshop Technology 0 1 1
+HS1102 Community Service 0 1 1
+Total 11 5 16
+Semester II
+Course Code Course Title Theory Practical Total
+MS1302 Linear Algebra 3 0 3
+EE2404 Electronic Device and circuits 3 1 4
+EE1407 Digital Logic Fundamentals 3 1 4
+ME2102 Occupational Health and Safety 1 0 1
+HS1303 English I (Proficiency Development) 2 0 2
+ME1204 Engineering Statics 2 0 2
+HS4206 Professional and Social Ethics 2 0 2
+Total 16 2 18
+Semester III
+Course Code Course Title Theory Practical Total
+MS1304 Differential Equations and Transforms 3 0 3
+EE2302 Electrical Network Analysis 3 1 4
+ME2205 Engineering Dynamics 2 0 2
+CS2302 Algorithms and Data Structures 2 1 3
+EE3417 Microcontroller based Systems 3 1 4
+ME2201 Engineering Drawing 1 1 2
+Total 14 4 18
+5
+Semester IV
+Course Code Course Title Theory Practical Total
+Complex Variables and Multivariable
+MS2305 Calculus 3 0 3
+EE2309 Signals and Systems 3 1 4
+EE3405 Linear ICs and Applications 3 1 4
+EE2425 Electrical Machines 3 1 4
+HS1101 Leadership and Motivation 1 0 1
+AE3201 Applied Aerodynamics 2 0 2
+Total 15 3 18
+Semester V
+Course Code Course Title Theory Practical Total
+EE3411 Linear Control Systems 3 1 4
+HS2304 English II (Public Speaking) 2 0 2
+EE2319 Electromagnetic Fields Theory 3 0 3
+EE3306 Instrumentation and Measurement 2 1 3
+ME3306 Fundamentals of Thermal Sciences 2 0 3
+Probability Methods in Engineering
+MS3306 3 0 3
+Total 15 2 17
+Semester VI
+Course Code Course Title Theory Practical Total
+EE3410 Communication Systems 3 1 4
+EE4423/3416 Elective - I: FPGA/DSP
+3 1 4
+MG3301 Project Management 2 0 2
+Elective – II: Navigation Guidance and
+AE3306 Control 2 1 3
+EE3320 Elective – III: MnA 2 1 3
+Total 12 4 16
+6
+Semester VII
+Course Code Course Title Theory Practical Total
+AE3302 Elective – IV: Radar Systems Engineering 3 1 4
+AE4304 Elective – V: Flight Control Systems 3 1 4
+MG4302 Technology Entrepreneurship 3 0 3
+MS4307 Numerical Methods 3 0 3
+DP4301 SDP I 0 3 3
+Total 12 5 17
+Semester VIII
+Course Code Course Title Theory Practical Total
+AE4305 Elective – VI: Avionic System design 2 2 4
+DP4302 SDP II 0 3 3
+English III (Official Communication and Report
+HS3305 Writing) 3 0 3
+HS4306 Pakistan and Islamic Studies 3 0 3
+AE4102 Elective – VII: Emerging Aviation technologies 1 0 1
+Total 9 5 14
+Electives
+Course Code Course Title Theory Practical Total
+ME2201 Engineering Drawing 1 1 2
+EE3416/EE4423 Elective - I : FPGA/DSP 2 1 3
+Elective – II: Navigation Guidance and
+AE3306 Control 2 1 3
+EE3320 Elective – III: MnA 2 1 3
+AE3302 Elective – IV: Radar Systems Engineering 3 1 4
+AE4304 Elective – V: Flight Control Systems 3 1 4
+AE4305 Elective – VI: Avionic System design 2 2 4
+Elective – VII: Emerging Aviation
+AE4102 technologies 1 0 1
+7
+--------------------
+
+
+>>> OCR: Mechatronics.pdf <<<
+Introduction
+1
+1.1 Vision Statement:
+“We envision to be a center of excellence in Mechatronics engineering where highest quality
+education produces ethical and visionary professionals at national and global levels with a focus
+on research and entrepreneurship”.
+1.2 Mission Statement:
+“To empower future leaders in Mechatronics Engineering by equipping students with the technical,
+teamwork, and entrepreneurial skills needed to excel in industry and academia”.
+1.3 Program Educational Objectives
+The objectives of BE (Mechatronic Engineering) program is to prepare Mechatronic engineers
+1. Apply engineering knowledge and problem-solving skills to solve real-world challenges in
+mechatronics, potentially pursuing entrepreneurial ventures
+2. Design, develop, and improve innovative mechatronic systems while considering societal,
+environmental and ethical aspects to drive industry advancement
+3. Continuously analyze and investigate complex mechatronic problems using modern
+engineering tools
+4. Lead and collaborate effectively in teams through strong communication skills
+5. Uphold a culture of lifelong learning for continuous adaptation in mechatronics
+1.4 Program Composition
+CoE has come up with a comprehensive curriculum covering not only the areas of engineering and
+sciences but also incorporating courses in humanities, social sciences and management sciences.
+This is because CoE wants to make visionary engineers with high ethical and moral values working
+to serve humanity.
+Starting Fall 2023, BE (Mechatronic) is a 136 credit hours program. Courses have been classified
+as non-engineering and engineering courses as shown in the table below.
+SPRING -2014 Number of Courses Credit Hours
+Non – Engineering 16 44
+Engineering, 29 95
+Total 45 139
+Page 1 of 647
+SPRING -2015 Number of Courses Credit Hours
+Non – Engineering 16 44
+Engineering, 29 96
+Total 45 140
+SPRING -2016 Number of Courses Credit Hours
+Non – Engineering 16 44
+Engineering, 29 95
+Total 45 139
+SPRING -2017 Number of Courses Credit Hours
+Non – Engineering 16 44
+Engineering, 29 94
+Total 45 138
+Spring 2018 Number of Courses Credit Hours
+Non – Engineering 15 40
+Engineering, 30 99
+Total 45 139
+P age 2 | 647
+SPRING -2019 Number of Courses Credit Hours
+Non – Engineering 15 40
+Engineering, 30 100
+Total 45 140
+SPRING -2022 Number of Courses Credit Hours
+Non – Engineering 15 40
+Engineering, 31 101
+Total 46 141
+FALL -2022 Number of Courses Credit Hours
+Non – Engineering 15 40
+Engineering, 31 101
+Total 46 141
+FALL -2023 Number of Courses Credit Hours
+Non – Engineering 15 38
+Engineering, 29 88
+Flexible Engineering/ Non- 3 10
+Engineering
+Total 47 136
+P age 3 | 647
+The curriculum has been designed to provide the student basic knowledge in the broad area of
+Mechatronic engineering. The course of study is focused on the fundamental concepts enabling
+the students to pursue a career in any area from research and development to sales. In addition to
+the laboratory work that makes the student familiar with electrical, electronic and computing
+equipment and with experimental techniques, course projects, in almost every course, help the
+student to learn how theoretical knowledge can be converted into working projects.
+The curriculum is designed in a way that the first three to four semesters cover the courses of
+general interest (Engineering Foundation). This is followed by covering the electrical engineering
+breadth in the third year. The final year includes elective courses allowing the student to specialize
+Mechatronic Engineering. A two-semester senior design project usually involving industrial
+collaboration provides students with valuable experience in applying their knowledge and skills
+for solution of real-world problems.
+P age 4 | 647
+Program Structures
+2
+2.1 Program Structure (SP 14)
+2.1.1 Non-Engineering Courses
+Knowledge Subject Course Theory Practica Credit Number Total
+Area Area Contac l Hours of Credi
+t Contact Courses t
+Hours Hours Hour
+s
+Humanities English English I 3 0 3 3 9
+(Proficiency
+Development)
+English II 3 0 3
+(Public Speaking)
+English III ( 3 0 3
+Official
+Communication
+and Report
+Writing)
+Culture Islam and Pakistan 3 0 3 1 3
+Studies
+Social Professional and 2 0 2 3 4
+Sciences Social Ethics
+Leadership and 1 0 1
+Motivation
+Community 0 3 1
+Service
+Manageme Engineering 3 0 3 2 6
+nt Sciences Project
+Management
+Technology 3 0 3
+Entrepreneurship
+Natural Math Calculus 3 0 3 6 18
+Sciences
+Linear Algebra 3 0 3
+Differential 3 0 3
+Equations and
+Transforms
+Complex 3 0 3
+Variables and
+P age 5 | 647
+Multivariable
+Calculus
+Numerical 3 0 3
+Methods
+Probability 3 0 3
+Methods in
+Engineering
+Physics Engineering 3 3 4 1 4
+Physics
+Subtotal (Non-Engineering) 42 6 44 16 44
+2.1.2 Engineering Courses:
+Knowledge Course Theory Practical Credit Number Total
+Area Contact Contact Hours of Credit
+Hours Hours Courses Hours
+Computing Introduction to Computer 2 3 3 2 7
+Programming
+Digital Logic 3 3 4
+Fundamentals
+Foundation Engineering Drawing 1 3 2 11 32
+Workshop Technology 0 3 1
+Engineering Statics 2 0 2
+Engineering Dynamics 2 0 2
+Linear Circuit Analysis 3 3 4
+Electrical Machines 3 3 4
+Fundamentals of
+Electronics 3 3 4
+Fluid Mechanics 3 3 4
+Mechanics of Materials 3 0 3
+Material and 3
+Manufacturing Processes 3 0
+Linear Systems Modeling 3 0 3
+Fundamentals of Thermal 3 3 4
+Breadth Sciences 8 29
+Theory of Machines 3 0 3
+Electrical Network 3 0 3
+Analysis
+Electronic Circuit Design 3 3 4
+Linear Integrated Circuits
+and Applications 3 3 4
+Microcontroller based 3 3 4
+systems
+P age 6 | 647
+Instrumentation 2 3 3
+&Measurement
+Linear Control Systems 3 3 4
+Sensors and Actuators
+Depth (Elec 1) 3 3 4 6 21
+Robotics 3 3 4
+Power Electronics (Elec
+2) 3 3 4
+Machine Design 3 0 3
+Mechatronic System
+Design 3 0 3
+Industrial Control and
+Automation 2 3 3
+Senior Senior Design Project - I 0 9 3 2 6
+Design Senior Design Project - II
+Project 0 9 3
+Industrial Training
+(Summer) 0 0 0 0 0
+Subtotal (Engineering) 29 95
+2.1.3 Comparison Matrix with HEC (SP 14)
+HEC/PEC KIET
+Domain Knowledge Area Subject Area
+Cr
+Courses Courses Cr Hrs
+Hrs
+Engineering Drawing
+Workshop Technology
+Engineering Statics
+Engineering Dynamics
+Linear Circuit Analysis
+Engineering Electrical Machines
+11 32 11 32
+Foundation Fundamentals of Electronics
+Fluid Mechanics
+Mechanics of Materials
+Engineering Material and Manufacturing
+Processes
+Linear Systems Modeling
+Fundamentals of Thermal
+Sciences
+Theory of Machines
+Major Based
+Electrical Network Analysis 8 28 8 29
+Core (Breadth)
+Electronic Circuit Design
+Linear Integrated Circuits and
+Applications
+P age 7 | 647
+Microcontroller based systems
+Instrumentation & Measurement
+Linear Control Systems
+Major Based
+Mechatronic Electives 7 22 6 21
+Core (Depth)
+Computer Programming
+3 10 2 7
+Sciences Design
+Final Year
+Senior Design Project 2 6 2 6
+Project
+Sub Total 31 98 29 95
+English, Culture,
+Humanities 6 12 7 16
+Social Sciences
+Management Engineering Project Management
+2 6 2 6
+Sciences Technology Entrepreneurship
+Mathematics
+Natural Sciences Electives 7 21 7 22
+Engineering Physics
+Non- Sub Total 15 39 16 44
+Engineering Total 46 137 45 139
+Industrial
+Training
+Internship I & II 2
+(Summer
+Internships)
+Physical Trg&
+Education Sports 4
+(Sports)
+Sub Total 6
+Program Total 145
+P age 8 | 647
+2.2 Program Structure (SP 15)
+2.2.1 Non-Engineering Courses
+Knowledge Subject Course Theory Practica Credit Number Total
+Area Area Contac l Hours of Credi
+t Contact Courses t
+Hours Hours Hour
+s
+Humanities English English I 3 0 3 3 9
+(Proficiency
+Development)
+English II 3 0 3
+(Public Speaking)
+English III ( 3 0 3
+Official
+Communication
+and Report
+Writing)
+Culture Islam and Pakistan 3 0 3 1 3
+Studies
+Social Professional and 2 0 2 3 4
+Sciences Social Ethics
+Leadership and 1 0 1
+Motivation
+Community 0 3 1
+Service
+Manageme Engineering 3 0 3 2 6
+nt Sciences Project
+Management
+Technology 3 0 3
+Entrepreneurship
+Natural Math Calculus 3 0 3 6 18
+Sciences
+Linear Algebra 3 0 3
+Differential 3 0 3
+Equations and
+Transforms
+Complex 3 0 3
+Variables and
+Multivariable
+Calculus
+Numerical 3 0 3
+Methods
+P age 9 | 647
+Probability 3 0 3
+Methods in
+Engineering
+Physics Engineering 3 3 4 1 4
+Physics
+Subtotal (Non-Engineering) 42 6 44 16 44
+2.2.2 Engineering Courses:
+Knowledge Course Theory Practical Credit Number Total
+Area Contact Contact Hours of Credit
+Hours Hours Courses Hours
+Computing Introduction to Computer 2 3 3 2 7
+Programming
+Digital Logic 3 3 4
+Fundamentals
+Foundation Engineering Drawing 1 3 2 11 32
+Workshop Technology 0 3 1
+Engineering Statics 2 0 2
+Engineering Dynamics 2 0 2
+Linear Circuit Analysis 3 3 4
+Electrical Machines 3 3 4
+Fundamentals of
+Electronics 3 3 4
+Fluid Mechanics 3 3 4
+Mechanics of Materials 3 0 3
+Material and 3
+Manufacturing Processes 3 0
+Linear Systems Modeling 3 0 3
+Fundamentals of Thermal 3 3 4
+Breadth Sciences 8 29
+Theory of Machines 3 0 3
+Electrical Network 3 0 3
+Analysis
+Electronic Circuit Design 3 3 4
+Linear Integrated Circuits
+and Applications 3 3 4
+Microcontroller based 3 3 4
+systems
+Instrumentation 2 3 3
+&Measurement
+Linear Control Systems 3 3 4
+Sensors and Actuators
+Depth (Elec 1) 3 3 4 6 22
+P age 10 | 647
+Robotics 3 3 4
+Power Electronics (Elec
+2) 3 3 4
+Machine Design 3 0 3
+Mechatronic System
+Design 2 6 4
+Industrial Control and
+Automation 2 3 3
+Senior Senior Design Project - I 0 9 3 2 6
+Design Senior Design Project - II
+Project 0 9 3
+Industrial Training
+(Summer) 0 0 0 0 0
+Subtotal (Engineering) 29 96
+2.2.3 Comparison Matrix with HEC (SP15)
+HEC/PEC KIET
+Domain Knowledge Area Subject Area
+Cr
+Courses Courses Cr Hrs
+Hrs
+Engineering Drawing
+Workshop Technology
+Engineering Statics
+Engineering Dynamics
+Linear Circuit Analysis
+Engineering Electrical Machines
+11 32 11 32
+Foundation Fundamentals of Electronics
+Fluid Mechanics
+Mechanics of Materials
+Material and Manufacturing
+Processes
+Linear Systems Modeling
+Engineering
+Fundamentals of Thermal
+Sciences
+Theory of Machines
+Electrical Network Analysis
+Major Based Electronic Circuit Design
+8 28 8 29
+Core (Breadth) Linear Integrated Circuits and
+Applications
+Microcontroller based systems
+Instrumentation & Measurement
+Linear Control Systems
+Major Based
+Mechatronic Electives 7 22 6 22
+Core (Depth)
+P age 11 | 647
+Computer Programming
+3 10 2 7
+Sciences Design
+Final Year
+Senior Design Project 2 6 2 6
+Project
+Sub Total 31 98 29 96
+English, Culture,
+Humanities 6 12 7 16
+Social Sciences
+Management Engineering Project Management
+2 6 2 6
+Sciences Technology Entrepreneurship
+Mathematics
+Natural Sciences Electives 7 21 7 22
+Engineering Physics
+Non- Sub Total 15 39 16 44
+Engineering Total 46 137 45 140
+Industrial
+Training
+Internship I & II 2
+(Summer
+Internships)
+Physical Trg&
+Education Sports 4
+(Sports)
+Sub Total 6
+Program Total 146
+P age 12 | 647
+2.3 Program Structure (SP16)
+2.3.1 Non-Engineering Courses
+Knowledge Subject Course Theory Practica Credit Number Total
+Area Area Contac l Hours of Credi
+t Contact Courses t
+Hours Hours Hour
+s
+Humanities English English I 3 0 3 3 9
+(Proficiency
+Development)
+English II 3 0 3
+(Public Speaking)
+English III ( 3 0 3
+Official
+Communication
+and Report
+Writing)
+Culture Islam and Pakistan 3 0 3 1 3
+Studies
+Social Professional and 2 0 2 3 4
+Sciences Social Ethics
+Leadership and 1 0 1
+Motivation
+Community 0 3 1
+Service
+Manageme Engineering 3 0 3 2 6
+nt Sciences Project
+Management
+Technology 3 0 3
+Entrepreneurship
+Natural Math Calculus 3 0 3 6 18
+Sciences
+Linear Algebra 3 0 3
+Differential 3 0 3
+Equations and
+Transforms
+Complex 3 0 3
+Variables and
+Multivariable
+Calculus
+Numerical 3 0 3
+Methods
+P age 13 | 647
+Probability 3 0 3
+Methods in
+Engineering
+Physics Engineering 3 3 4 1 4
+Physics
+Subtotal (Non-Engineering) 42 6 44 16 44
+2.3.2 Engineering Courses:
+Knowledge Course Theory Practical Credit Number Total
+Area Contact Contact Hours of Credit
+Hours Hours Courses Hours
+Computing Introduction to Computer 2 3 3 2 7
+Programming
+Digital Logic 3 3 4
+Fundamentals
+Foundation Engineering Drawing 1 3 2 11 32
+Workshop Technology 0 3 1
+Engineering Statics 2 0 2
+Engineering Dynamics 2 0 2
+Linear Circuit Analysis 3 3 4
+Electrical Machines 3 3 4
+Fundamentals of
+Electronics 3 3 4
+Fluid Mechanics 3 3 4
+Mechanics of Materials 3 0 3
+Material and 3
+Manufacturing Processes 3 0
+Linear Systems Modeling 3 0 3
+Fundamentals of Thermal 3 3 4
+Breadth Sciences 8 29
+Theory of Machines 3 0 3
+Electrical Network 3 0 3
+Analysis
+Electronic Circuit Design 3 3 4
+Linear Integrated Circuits
+and Applications 3 3 4
+Microcontroller based 3 3 4
+systems
+Instrumentation 2 3 3
+&Measurement
+Linear Control Systems 3 3 4
+P age 14 | 647
+Sensors and Actuators
+Depth (Elec 1) 3 3 4 6 21
+Robotics 3 3 4
+Power Electronics (Elec
+2) 3 3 4
+Machine Design 3 0 3
+Mechatronic System
+Design 2 3 3
+Industrial Control and
+Automation 2 3 3
+Senior Senior Design Project - I 0 9 3 2 6
+Design Senior Design Project - II
+Project 0 9 3
+Industrial Training
+(Summer) 0 0 0 0 0
+Subtotal (Engineering) 29 95
+2.3.3 Comparison Matrix with HEC ( SP16)
+HEC/PEC KIET
+Domain Knowledge Area Subject Area
+Cr
+Courses Courses Cr Hrs
+Hrs
+Engineering Drawing
+Workshop Technology
+Engineering Statics
+Engineering Dynamics
+Linear Circuit Analysis
+Engineering Electrical Machines
+11 32 11 32
+Foundation Fundamentals of Electronics
+Fluid Mechanics
+Mechanics of Materials
+Material and Manufacturing
+Processes
+Engineering
+Linear Systems Modeling
+Fundamentals of Thermal
+Sciences
+Theory of Machines
+Electrical Network Analysis
+Major Based Electronic Circuit Design
+8 28 8 29
+Core (Breadth) Linear Integrated Circuits and
+Applications
+Microcontroller based systems
+Instrumentation & Measurement
+Linear Control Systems
+P age 15 | 647
+Major Based
+Mechatronic Electives 7 22 6 21
+Core (Depth)
+Computer Programming
+3 10 2 7
+Sciences Design
+Final Year
+Senior Design Project 2 6 2 6
+Project
+Sub Total 31 98 29 95
+English, Culture,
+Humanities 6 12 7 16
+Social Sciences
+Management Engineering Project Management
+2 6 2 6
+Sciences Technology Entrepreneurship
+Mathematics
+Natural Sciences Electives 7 21 7 22
+Engineering Physics
+Non- Sub Total 15 39 16 44
+Engineering Total 46 137 45 139
+Industrial
+Training
+Internship I & II 2
+(Summer
+Internships)
+Physical Trg&
+Education Sports 4
+(Sports)
+Sub Total 6
+Program Total 145
+P age 16 | 647
+2.4 Program Structure (SP17)
+2.4.1 Non-Engineering Courses
+Knowledge Subject Course Theory Practica Credi Numbe Total
+Area Area Contac l t r of Credi
+t Hours Contact Hours Courses t
+Hours Hours
+Humanities English English I 3 0 3 3 9
+(Proficiency
+Development)
+English II 3 0 3
+(Public
+Speaking)
+English III ( 3 0 3
+Official
+Communication
+and Report
+Writing)
+Culture Islam and 3 0 3 1 3
+Pakistan Studies
+Social Professional and 2 0 2 3 4
+Science Social Ethics
+s
+Leadership and 1 0 1
+Motivation
+Community 0 3 1
+Service
+Managemen Engineering 3 0 3 2 6
+t Sciences Project
+Management
+Technology 3 0 3
+Entrepreneurshi
+p
+Natural Math Calculus 3 0 3 6 18
+Sciences
+Linear Algebra 3 0 3
+Differential 3 0 3
+Equations and
+Transforms
+Complex 3 0 3
+Variables and
+Multivariable
+Calculus
+P age 17 | 647
+Numerical 3 0 3
+Methods
+Probability 3 0 3
+Methods in
+Engineering
+Physics Engineering 3 3 4 1 4
+Physics
+Subtotal (Non-Engineering) 42 6 44 16 44
+2.4.2 Engineering Courses:
+Knowledge Course Theory Practical Credit Number Total
+Area Contact Contact Hours of Credit
+Hours Hours Courses Hours
+Computing Introduction to Computer 2 3 3 2 7
+Programming
+Digital Logic 3 3 4
+Fundamentals
+Foundation Engineering Drawing 1 3 2 11 31
+Workshop Technology 0 3 1
+Engineering Statics 2 0 2
+Engineering Dynamics 2 0 2
+Linear Circuit Analysis 3 3 4
+Electrical Machines 3 3 4
+Fundamentals of
+Electronics 3 3 4
+Fluid Mechanics 3 3 4
+Mechanics of Materials 3 0 3
+Material and 3
+Manufacturing Processes 3 0
+Signals and Systems 2 0 2
+Fundamentals of Thermal 3 3 4
+Breadth Sciences 8 29
+Theory of Machines 3 0 3
+Electrical Network 3 0 3
+Analysis
+Electronic Circuit Design 3 3 4
+Linear Integrated Circuits
+and Applications 3 3 4
+Microcontroller based 3 3 4
+systems
+P age 18 | 647
+Instrumentation 2 3 3
+&Measurement
+Linear Control Systems 3 3 4
+Sensors and Actuators
+Depth (Elec 1) 3 3 4 6 21
+Robotics 3 3 4
+Power Electronics (Elec
+2) 3 3 4
+Machine Design 3 0 3
+Mechatronic System
+Design 2 3 3
+Industrial Control and
+Automation 2 3 3
+Senior Senior Design Project - I 0 9 3 2 6
+Design Senior Design Project - II
+Project 0 9 3
+Industrial Training
+(Summer) 0 0 0 0 0
+Subtotal (Engineering) 29 94
+2.4.3 Comparison Matrix with HEC (SP17)
+HEC/PEC KIET
+Domain Knowledge Area Subject Area
+Cr
+Courses Courses Cr Hrs
+Hrs
+Engineering Drawing
+Workshop Technology
+Engineering Statics
+Engineering Dynamics
+Linear Circuit Analysis
+Engineering Electrical Machines
+11 32 11 31
+Foundation Fundamentals of Electronics
+Fluid Mechanics
+Mechanics of Materials
+Engineering Material and Manufacturing
+Processes
+Signals and Systems
+Fundamentals of Thermal
+Sciences
+Theory of Machines
+Major Based
+Electrical Network Analysis 8 28 8 29
+Core (Breadth)
+Electronic Circuit Design
+Linear Integrated Circuits and
+Applications
+P age 19 | 647
+Microcontroller based systems
+Instrumentation & Measurement
+Linear Control Systems
+Major Based
+Mechatronic Electives 7 22 6 21
+Core (Depth)
+Computer Programming
+3 10 2 7
+Sciences Design
+Final Year
+Senior Design Project 2 6 2 6
+Project
+Sub Total 31 98 29 94
+English, Culture,
+Humanities 6 12 7 16
+Social Sciences
+Management Engineering Project Management
+2 6 2 6
+Sciences Technology Entrepreneurship
+Mathematics
+Natural Sciences Electives 7 21 7 22
+Engineering Physics
+Non- Sub Total 15 39 16 44
+Engineering Total 46 137 45 138
+Industrial
+Training
+Internship I & II 2
+(Summer
+Internships)
+Physical Trg&
+Education Sports 4
+(Sports)
+Sub Total 6
+Program Total 144
+P age 20 | 647
+2.5 Program Structure (SP 18)
+2.5.1 Non-Engineering Courses
+Knowledge Subject Course Theory Practica Credi Numbe Total
+Area Area Contac l t r of Credi
+t Hours Contact Hours Courses t
+Hours Hours
+Humanities English 2 0 2
+(Public
+Speaking)
+English English 3 0 3 2 5
+(Official
+Communication
+and Report
+Writing)
+Culture Islam and 3 0 3 1 3
+Pakistan Studies
+Social Professional and 2 0 2 3 4
+Science Social Ethics
+s
+Leadership and 1 0 1
+Motivation
+Community 0 3 1
+Service
+Managemen Engineering 3 0 3 2 6
+t Sciences Project
+Management
+Technology 3 0 3
+Entrepreneurshi
+p
+Natural Math Calculus 3 0 3 6 18
+Sciences
+Linear Algebra 3 0 3
+Differential 3 0 3
+Equations and
+Transforms
+Complex 3 0 3
+Variables and
+Multivariable
+Calculus
+Numerical 3 0 3
+Methods
+P age 21 | 647
+Probability 3 0 3
+Methods in
+Engineering
+Physics Engineering 3 3 4 1 4
+Physics
+Subtotal (Non-Engineering) 38 6 40 15 40
+2.5.2 Engineering Courses:
+Knowledge Course Theory Practical Credit Number Total
+Area Contact Contact Hours of Credit
+Hours Hours Courses Hours
+Computing Introduction to Computer 2 3 3 2 7
+Programming
+Digital Logic 3 3 4
+Fundamentals
+Foundation Engineering Drawing 0 6 2 11 33
+Workshop Technology 0 3 1
+Engineering Statics 3 0 3
+Engineering Dynamics 3 0 3
+Linear Circuit Analysis 3 3 4
+Electrical Machines 3 3 4
+Fundamentals of
+Electronics 3 3 4
+Fluid Mechanics 3 3 4
+Mechanics of Materials 3 0 3
+Material and 3
+Manufacturing Processes 3 0
+Signals and Systems 2 0 2
+Fundamentals of Thermal 3 3 4
+Breadth Sciences 8 29
+Theory of Machines 3 0 3
+Electrical Network 3 0 3
+Analysis
+Electronic Circuit Design 3 3 4
+Linear Integrated Circuits
+and Applications 3 3 4
+Microcontroller based 3 3 4
+systems
+Instrumentation 2 3 3
+&Measurement
+Linear Control Systems 3 3 4
+P age 22 | 647
+Sensors and Actuators
+Depth (Elec 1) 3 3 4 7 24
+Robotics 3 3 4
+Mobile Robotics (Elec 3) 3 0 3
+Power Electronics (Elec
+2) 3 3 4
+Machine Design 3 0 3
+Mechatronic System
+Design 2 3 3
+Industrial Control and
+Automation 2 3 3
+Senior Senior Design Project - I 0 9 3 2 6
+Design Senior Design Project - II
+Project 0 9 3
+Industrial Training
+(Summer) 0 0 0 0 0
+Subtotal (Engineering) 30 99
+2.5.3 Comparison Matrix with HEC (SP18)
+HEC/PEC KIET
+Domain Knowledge Area Subject Area
+Cr
+Courses Courses Cr Hrs
+Hrs
+Engineering Drawing
+Workshop Technology
+Engineering Statics
+Engineering Dynamics
+Linear Circuit Analysis
+Engineering Electrical Machines
+11 32 11 33
+Foundation Fundamentals of Electronics
+Fluid Mechanics
+Mechanics of Materials
+Material and Manufacturing
+Engineering Processes
+Signals and Systems
+Fundamentals of Thermal
+Sciences
+Theory of Machines
+Electrical Network Analysis
+Major Based
+Electronic Circuit Design 8 28 8 29
+Core (Breadth)
+Linear Integrated Circuits and
+Applications
+Microcontroller based systems
+Instrumentation & Measurement
+P age 23 | 647
+Linear Control Systems
+Major Based
+Mechatronic Electives 7 22 7 24
+Core (Depth)
+Computer Programming
+3 10 2 7
+Sciences Design
+Final Year
+Senior Design Project 2 6 2 6
+Project
+Sub Total 31 98 29 99
+English, Culture,
+Humanities 6 12 6 12
+Social Sciences
+Management Engineering Project Management
+2 6 2 6
+Sciences Technology Entrepreneurship
+Mathematics
+Natural Sciences Electives 7 21 7 22
+Engineering Physics
+Non- Sub Total 15 39 15 40
+Engineering Total 46 137 44 139
+Industrial
+Training
+Internship I & II 2
+(Summer
+Internships)
+Physical Trg&
+Education Sports 4
+(Sports)
+Sub Total 6
+Program Total 145
+P age 24 | 647
+2.6 Program Structure (SP 19 , SP 20, SP 21)
+2.6.1 Non-Engineering Courses
+Knowledge Subject Course Theory Practica Credi Numbe Total
+Area Area Contac l t r of Credi
+t Hours Contact Hours Courses t
+Hours Hours
+Humanities English 2 0 2
+(Public
+Speaking)
+English English ( 3 0 3 2 5
+Official
+Communication
+and Report
+Writing)
+Culture Islam and 3 0 3 1 3
+Pakistan Studies
+Social Professional and 2 0 2 3 4
+Science Social Ethics
+s
+Leadership and 1 0 1
+Motivation
+Community 0 3 1
+Service
+Managemen Engineering 3 0 3 2 6
+t Sciences Project
+Management
+Technology 3 0 3
+Entrepreneurshi
+p
+Natural Math Calculus 3 0 3 6 18
+Sciences
+Linear Algebra 3 0 3
+Differential 3 0 3
+Equations and
+Transforms
+Complex 3 0 3
+Variables and
+Multivariable
+Calculus
+Numerical 3 0 3
+Methods
+P age 25 | 647
+Probability 3 0 3
+Methods in
+Engineering
+Physics Engineering 3 3 4 1 4
+Physics
+Subtotal (Non-Engineering) 38 6 40 15 40
+2.6.2 Engineering Courses:
+Knowledge Course Theory Practical Credit Number Total
+Area Contact Contact Hours of Credit
+Hours Hours Courses Hours
+Computing Introduction to Computer 2 3 3 2 7
+Programming
+Digital Logic 3 3 4
+Fundamentals
+Foundation Engineering Drawing 0 6 2 11 34
+Workshop Technology 0 6 2
+Engineering Statics 3 0 3
+Engineering Dynamics 3 0 3
+Linear Circuit Analysis 3 3 4
+Electrical Machines 3 3 4
+Fundamentals of
+Electronics 3 3 4
+Fluid Mechanics 3 3 4
+Mechanics of Materials 3 0 3
+Material and
+3 0 3
+Manufacturing Processes
+Signals and Systems 2 0 2
+Fundamentals of Thermal 3 3 4
+Breadth Sciences 8 29
+Theory of Machines 3 0 3
+Electrical Network 3 0 3
+Analysis
+Electronic Circuit Design 3 3 4
+Linear Integrated Circuits
+and Applications 3 3 4
+Microcontroller based 3 3 4
+systems
+Instrumentation 2 3 3
+&Measurement
+Linear Control Systems 3 3 4
+P age 26 | 647
+Sensors and Actuators
+Depth (Elec 1) 3 3 4 7 24
+Robotics 3 3 4
+Mobile Robotics (Elec 3) 3 0 3
+Power Electronics (Elec
+2) 3 3 4
+Machine Design 3 0 3
+Mechatronic System
+Design 2 3 3
+Industrial Control and
+Automation 2 3 3
+Senior Senior Design Project - I 0 9 3 2 6
+Design Senior Design Project - II
+Project 0 9 3
+Industrial Training
+(Summer) 0 0 0 0 0
+Subtotal (Engineering) 30 100
+2.6.3 Comparison Matrix with HEC (SP19, SP20, SP21)
+HEC/PEC KIET
+Domain Knowledge Area Subject Area
+Cr
+Courses Courses Cr Hrs
+Hrs
+Engineering Drawing
+Workshop Technology
+Engineering Statics
+Engineering Dynamics
+Linear Circuit Analysis
+Engineering Electrical Machines
+11 32 11 34
+Foundation Fundamentals of Electronics
+Fluid Mechanics
+Mechanics of Materials
+Material and Manufacturing
+Engineering Processes
+Signals and Systems
+Fundamentals of Thermal
+Sciences
+Theory of Machines
+Electrical Network Analysis
+Major Based
+Electronic Circuit Design 8 28 8 29
+Core (Breadth)
+Linear Integrated Circuits and
+Applications
+Microcontroller based systems
+Instrumentation & Measurement
+P age 27 | 647
+Linear Control Systems
+Major Based
+Mechatronic Electives 7 22 7 24
+Core (Depth)
+Computer Programming
+3 10 2 7
+Sciences Design
+Final Year
+Senior Design Project 2 6 2 6
+Project
+Sub Total 31 98 29 100
+English, Culture,
+Humanities 6 12 6 12
+Social Sciences
+Management Engineering Project Management
+2 6 2 6
+Sciences Technology Entrepreneurship
+Mathematics
+Natural Sciences Electives 7 21 7 22
+Engineering Physics
+Non- Sub Total 15 39 15 40
+Engineering Total 46 137 44 140
+Industrial
+Training
+Internship I & II 2
+(Summer
+Internships)
+Physical Trg&
+Education Sports 4
+(Sports)
+Sub Total 6
+Program Total 146
+P age 28 | 647
+2.7 Program Structure (SP 22 and FA 22)
+2.7.1 Non-Engineering Courses
+Knowledge Subject Course Theory Practica Credit Number Total
+Area Area Contac l Hours of Credi
+t Contact Courses t
+Hours Hours Hour
+s
+Humanities English 2 0 2
+(Public Speaking)
+English English ( Official 3 0 3 2 5
+Communication
+and Report
+Writing)
+Culture Islam and Pakistan 3 0 3 1 3
+Studies
+Social Professional and 2 0 2 3 4
+Sciences Social Ethics
+Leadership and 1 0 1
+Motivation
+Community 0 3 1
+Service
+Manageme Engineering 3 0 3 2 6
+nt Sciences Project
+Management
+Technology 3 0 3
+Entrepreneurship
+Natural Math Calculus 3 0 3 6 18
+Sciences
+Linear Algebra 3 0 3
+Differential 3 0 3
+Equations and
+Transforms
+Complex 3 0 3
+Variables and
+Multivariable
+Calculus
+Numerical 3 0 3
+Methods
+Probability 3 0 3
+Methods in
+Engineering
+P age 29 | 647
+Physics Engineering 3 3 4 1 4
+Physics
+Subtotal (Non-Engineering) 38 6 40 15 40
+2.7.2 Engineering Courses:
+Knowledge Course Theory Practical Credit Number Total
+Area Contact Contact Hours of Credit
+Hours Hours Courses Hours
+Computing Introduction to Computer 2 3 3 3 11
+Programming
+Digital Logic 3 3 4
+Fundamentals
+Data Structure and Object 3 3 4
+Oriented Programming
+Foundation Workshop Technology 0 6 2 11 33
+Engineering Drawing 0 6 2
+Engineering Statics 3 0 3
+Engineering Dynamics 3 0 3
+Mechanics of Material 3 0 3
+Material and 3 0 3
+Manufacturing Processes
+Theory of Machines 3 0 3
+Fluid Mechanics 3 3 4
+Fundamentals of
+3 3 4
+Electronics
+Signals and Systems 2 0 2
+Sensors and Actuators 3 3 4
+Fundamentals of Thermal 3 3 4
+Breadth Sciences 8 27
+Linear Circuit Analysis 3 3 4
+Electrical Network 3 0 3
+Analysis
+Electronic Circuit Design 3 3 4
+Solid Modeling 0 3 1
+Microcontroller based 3 3 4
+systems
+Instrumentation 2 3 3
+&Measurement
+Linear Control Systems 3 3 4
+Depth Machine Design 3 0 3 7 24
+P age 30 | 647
+Industrial Control and
+Automation 2 3 3
+Mechatronic System
+Design 2 3 3
+Robotics 3 3 4
+Mobile Robotics (Elec 1) 3 0 3
+Power Electronics (Elec
+2) 3 3 4
+Electrical Machines
+(Elec 3) 3 3 4
+Senior Senior Design Project - I 0 9 3 2 6
+Design Senior Design Project - II
+Project 0 9 3
+Industrial Training
+(Summer) 0 0 0 0 0
+Subtotal (Engineering) 31 101
+2.7.3 Comparison Matrix with HEC (SP22)
+HEC/PEC KIET
+Domain Knowledge Area Subject Area
+Cr
+Courses Courses Cr Hrs
+Hrs
+Workshop Technology
+Engineering Drawing
+Engineering Statics
+Engineering Dynamics
+Mechanics of Material
+Engineering Material and Manufacturing
+11 32 11 33
+Foundation Processes
+Theory of Machines
+Fluid Mechanics
+Fundamentals of Electronics
+Signals and Systems
+Engineering
+Sensors and Actuators
+Fundamentals of Thermal Sciences
+Linear Circuit Analysis
+Electrical Network Analysis
+Major Based Core Electronic Circuit Design
+8 28 8 27
+(Breadth) Solid Modeling
+Microcontroller based systems
+Instrumentation &Measurement
+Linear Control Systems
+Major Based Core Machine Design
+7 22 7 24
+(Depth) Industrial Control and Automation
+P age 31 | 647
+Mechatronic System Design
+Robotics
+Mobile Robotics (Elec 1)
+Power Electronics (Elec 2)
+Electrical Machines (Elec 3)
+Programming
+Computer Sciences Data Structure and OOP 3 10 3 11
+Design
+Final Year Project Senior Design Project 2 6 2 6
+Sub Total 31 98 31 101
+English, Culture,
+Humanities 6 12 6 12
+Social Sciences
+Management Engineering Project Management
+2 6 2 6
+Sciences Technology Entrepreneurship
+Mathematics
+Natural Sciences Electives 7 21 7 22
+Non- Engineering Physics
+Engineering Sub Total 15 39 15 40
+Total 46 137 46 141
+Industrial Training
+(Summer Internship I & II 2
+Internships)
+Physical Trg&
+Sports 4
+Education (Sports)
+Sub Total 6
+Program Total 147
+P age 32 | 647
+2.8 Program Structure (FA 23)
+2.8.1 General Engineering/ Non-Engineering Courses
+Knowledge Credit Hours
+Profile Knowledge
+Sub Area Th Lab Total Total
+(WK-1 to Area Title of Course
+WK-9)
+General Education/ Non-Engineering Domain
+Public Speaking 2 0 2
+English 5
+English (Official Communication and Report 3 0 3
+Writing)
+Islamic Studies
+2 0 2
+Ideology And Constitution Of Pakistan
+2 0 2
+Culture 6
+Humanities Professional and Social Ethics 2 0 2
+WK-1/
+Leadership and Motivation
+1 0 1
+WK-5/ Social
+2
+Sciences Community Service 1 0 1
+WK-7/
+Management Professional Technology Entrepreneurship 3 0 3
+WK-9 6
+Sciences Practice Engineering Project Management 3 0 3
+Calculus
+3 0 3
+Complex Variables and Multivariable
+3 0 3
+Calculus
+Math 12
+Linear Algebra 3 0 3
+WK-1/
+Differential Equations and Transforms 3 0 3
+Natural
+WK-2 Sciences Physics Engineering Physics 3 1 4 4
+Numerical Methods
+Natural
+Science/
+3 0 3 3
+Math
+Elective
+Total (General Education/ Non-Engineering Domain) 37 1 38 38
+2.8.2 Engineering Courses:
+Knowledge Knowledge Sub Area Title of Course Credit Hours Total
+Profile Area
+(WK-1 to
+Th Lab Cr.
+WK-9)
+Hrs.
+Engineering Domain
+WK-2/ ICT/AI/ Introduction to Computer Programming 2 1 3
+Advance
+WK-4/ Computer Data Science/ Data Structures and Object-Oriented
+Programming
+WK-5/ Programming 2 1 3 6
+and
+Information
+P age 33 | 647
+Sciences
+WK-6
+Workshop Practice 0 2 2
+Engineering Drawing
+0 2 2
+Engineering Statics 3 0 3
+Engineering Dynamics
+3 0 3
+Mechanics of Materials
+3 0 3
+WK-2/ Foundation
+Engineering Fluid Mechanics 2 1 3 24
+WK-3 Courses
+Linear Circuit Analysis
+3 1 4
+Digital Logic Fundamentals 3 1 4
+Actuating Systems 3 1 4
+Electronic Circuits Design
+3 1 4
+Solid Modelling 0 1 1
+Microcontroller based Systems
+WK-1/
+3 1 4
+Core Breadth
+Instrumentation and Measurements
+WK-2/ of Engg 3 1 4 24
+Discipline
+Material and Manufacturing Processes
+WK-4
+3 0 3
+Linear Control Systems 3 1 4
+Machine Design
+3 0 3
+Industrial Control and Automation 2 1 3
+Mechatronics System Design
+2 1 3
+WK-5/ Core Depth Introduction to Robotics 3 1 4
+of Engg 22
+Technical Elective-I 3 0 3
+WK-6 Discipline
+Technical Elective–II 3 0 3
+Technical Elective-III 3 0 3
+WK-1/ Multi- Signals and Systems
+2 0 2
+Disciplinary
+WK-2/ Engineering
+Theory of Machines 3 0 3
+6
+WK-3/ Occupational Health and Safety
+1 0 1
+WK-4
+WK-6/ Final Year FYDP (Part-I)
+Industrial/
+Design 0 3 3
+Innovative/
+WK-7/ Project 6
+Creative
+(FYDP)/ FYDP (Part-II) 0 3 3
+Project
+WK-8 Capstone
+Total (Engineering Domain) 63 25 88 88
+P age 34 | 647
+2.8.3 Flexible Engineering/Non-Engineering Courses:
+WK-6/ Industrial 6 – 8 weeks Industrial Training (Non-
+Mandatory & Qualifying
+Training Credit)
+WK-7
+WK-1/ Flexible
+Fundamentals of Thermal Sciences 3 1 4
+Engineering/
+WK-2/
+Non-
+10
+WK-3/ Engineering Fundamentals of Electronics 3 1 4
+Courses
+WK-4
+Probability Methods in Engineering 2 0 2
+Total (Flexible Engineering/ Non-Engineering Courses) 8 2 10 10
+Innovative and Critical Thinking (under relevant courses):
+WK-2/ - Complex Problem Solving
+- Complex Engineering Activities
+WK-4/ - Semester Project
+WK-5/ - Case Studies
+WK-6/ - Open Ended Labs
+WK-7/ - Problem-based learning (PBL)
+WK-8 -Applications of AI
+Total (Credit Hours) 108 28 136 136
+2.8.4 Comparison Matrix with HEC UGE 2023/ PEC ECRDC 2024
+HEC/PEC KIET
+Domain Knowledge Area Subject Area
+Course Cours
+Cr Hrs Cr Hrs
+s es
+Advance Introduction to Computer
+Computer and Programming
+3 8 2 6
+Information Data Structures and Object Oriented
+Sciences Programming
+Workshop Technology
+Engineering Drawing
+Engineering Statics
+Foundation
+Engineering Dynamics
+Engineering 9 23 8 24
+Mechanics of Materials
+Courses
+Engineerin Fluid Mechanics
+g Linear Circuit Analysis
+Digital Logic Fundamentals
+Actuating Systems
+Sensors and Instrumentation
+Electronic Circuit Design
+Core Breadth of
+Solid Modeling
+Engineering 7 24 7 24
+Microcontroller based systems
+Discipline
+Material and Manufacturing
+Processes
+Linear Control Systems
+P age 35 | 647
+Machine Design
+Industrial Control and Automation
+Mechatronics System Design
+Introduction to Robotics
+*Technical Elective-I
+*Technical Elective-II
+*Technical Elective-III
+*To be offered from the following
+Core Depth of list:
+Engineering Power Electronics 7 23 7 22
+Discipline Artificial Intelligence
+Mobile Robotics
+Digital Signal Processing
+Introduction to Machine Learning
+Energy Resources and Management
+Power Plant Systems
+Data Communication and
+Networking
+Database Management System
+Signals and Systems
+Multi-Disciplinary
+Theory of Machines 3 6 3 6
+Engineering
+Occupational Health and Safety
+Final Year Design Senior Design Project-I
+2 6 2 6
+Project Senior Design Project-II
+Total (Engineering Domain) 31 90 29 88
+Flexible
+Fundamentals of Thermal Sciences
+Engineering/Non-
+Fundamentals of Electronics 2 6 3 10
+Engineering
+Probability and Statistics
+Courses
+Industrial Training
+Mandatory and Mandatory and
+(Summer Internship I & II
+Qualifying Qualifying (NC)
+Internships)
+Physical Training
+& Education Sports Nil NC
+(Sports)
+Subtotal (Flexible
+2 6 3 10
+Engineering/Non-Engineering)
+General English
+Engineerin Humanities Culture 7 16 7 13
+gNon- Social Sciences
+Engineerin Management Engineering Project Management
+2 4 2 6
+g Sciences Technology Entrepreneurship
+Computer Sciences Applications of ICT 1 3 Nil Nil
+Mathematics
+Natural Sciences Electives 6 17 6 19
+Engineering Physics
+Sub Total 16 40 15 38
+Program Total 49 136 47 136
+P age 36 | 647
+P age 37 | 647
+2.9 Program Structure (FA 24 and onwards)
+2.9.1 General Engineering/ Non-Engineering Courses
+Knowledge Credit Hours
+Profile Knowledge
+Sub Area Th Lab Total Total
+(WK-1 to Area Title of Course
+WK-9)
+General Education/ Non-Engineering Domain
+Public Speaking 2 0 2
+English 5
+English (Official Communication and Report 3 0 3
+Writing)
+Islamic Studies
+2 0 2
+Ideology And Constitution Of Pakistan
+2 0 2
+Culture 6
+Humanities Professional and Social Ethics 2 0 2
+WK-1/
+Leadership and Motivation
+1 0 1
+WK-5/ Social
+4
+Sciences Community Service 1 0 1
+WK-7/
+Engineering Economics
+2 0 2
+WK-9
+Management Professional Technology Entrepreneurship 2 0 2
+4
+Sciences Practice Engineering Project Management 2 0 2
+Computer Basic Applications of ICT 2 1 3 3
+Sciences Computing
+Calculus
+3 0 3
+Complex Variables and Multivariable
+3 0 3
+Calculus
+Math 12
+Linear Algebra 3 0 3
+WK-1/
+Differential Equations and Transforms 3 0 3
+Natural
+WK-2 Sciences Physics Engineering Physics 2 1 4 3
+Numerical Methods
+Natural
+Science/
+2 0 2 2
+Math
+Elective
+Total (General Education/ Non-Engineering Domain) 37 2 39 39
+P age 38 | 647
+2.9.2 Engineering Courses:
+Knowledge Knowledg Sub Area Title of Course Credit Hours Total
+Profile e Area
+(WK-1 to
+Th Lab Cr.
+WK-9)
+Hrs.
+Engineering Domain
+WK-2/ ICT/AI/ Introduction to Computer Programming 2 1 3
+Advance
+WK-4/ Computer Data Science/ Data Structures and Object-Oriented
+Programming
+WK-5/ Programming 2 1 3 8
+and
+WK-6 Information
+Introduction to Artificial Intelligence 1 1 2
+Sciences
+Workshop Practice 0 1 1
+Engineering Drawing
+0 2 2
+Engineering Statics 2 0 2
+Engineering Dynamics
+3 0 3
+Mechanics of Materials
+3 0 3
+WK-2/ Foundation
+Engineering Fluid Mechanics 2 1 3 23
+WK-3 Courses
+Linear Circuit Analysis
+3 1 4
+Digital Logic Fundamentals 2 1 3
+Probability Methods in Engineering 2 0 2
+Actuating Systems 3 1 4
+Electronic Circuits Design
+3 1 4
+Solid Modelling 0 1 1
+Microcontroller based Systems
+WK-1/
+3 1 4
+Core Breadth
+Instrumentation and Measurements
+WK-2/ of Engg 3 1 4 24
+Discipline
+Material and Manufacturing Processes
+WK-4
+3 0 3
+Linear Control Systems 3 1 4
+Machine Design
+3 0 3
+Industrial Control and Automation 2 1 3
+Mechatronics System Design
+2 1 3
+WK-5/ Core Depth Introduction to Robotics 3 1 4
+of Engg 22
+Technical Elective-I 3 0 3
+WK-6 Discipline
+Technical Elective–II 3 0 3
+Technical Elective-III 3 0 3
+P age 39 | 647
+WK-1/ Multi- M0odelling and Simulation
+2 1 3
+Disciplinary
+WK-2/ Engineering
+Theory of Machines 2 0 2
+6
+WK-3/ Occupational Health and Safety
+1 0 1
+WK-4
+WK-6/ Final Year SDP (Part-I)
+Industrial/
+Design 0 3 3
+Innovative/
+WK-7/ Project 6
+Creative
+(FYDP)/ SDP (Part-II) 0 3 3
+Project
+WK-8 Capstone
+Total (Engineering Domain) 63 25 88 89
+2.9.3 Flexible Engineering/Non-Engineering Courses:
+WK-6/ Industrial 6 – 8 weeks Industrial Training (Non-
+Mandatory & Qualifying
+Training Credit)
+WK-7
+WK-1/ Flexible
+Fundamentals of Thermal Sciences 3 1 4
+Engineering/
+WK-2/
+Non-
+8
+WK-3/ Engineering Fundamentals of Electronics 3 1 4
+Courses
+WK-4
+Total (Flexible Engineering/ Non-Engineering Courses) 6 2 8 8
+Innovative and Critical Thinking (under relevant courses):
+WK-2/ - Complex Problem Solving
+- Complex Engineering Activities
+WK-4/ - Semester Project
+WK-5/ - Case Studies
+WK-6/ - Open Ended Labs
+WK-7/ - Problem-based learning (PBL)
+WK-8 -Applications of AI
+Total (Credit Hours) 107 29 136 136
+2.9.4 Comparison Matrix with HEC UGE 2023/ PEC ECRDC 2024
+HEC/PEC KIET
+Domain Knowledge Area Subject Area
+Course Cours
+Cr Hrs Cr Hrs
+s es
+Advance Introduction to Computer
+Computer and Programming
+3 8 2 6
+Information Data Structures and Object Oriented
+Sciences Programming
+Engineerin Workshop Technology
+g Engineering Drawing
+Foundation
+Engineering Statics
+Engineering 9 23 9 23
+Engineering Dynamics
+Courses
+Mechanics of Materials
+Fluid Mechanics
+P age 40 | 647
+Linear Circuit Analysis
+Digital Logic Fundamentals
+Probability and Statistics
+Actuating Systems
+Sensors and Instrumentation
+Electronic Circuit Design
+Core Breadth of
+Solid Modeling
+Engineering 7 24 7 24
+Microcontroller based systems
+Discipline
+Material and Manufacturing
+Processes
+Linear Control Systems
+Machine Design
+Industrial Control and Automation
+Mechatronics System Design
+Introduction to Robotics
+*Technical Elective-I
+*Technical Elective-II
+*Technical Elective-III
+*To be offered from the following
+Core Depth of list:
+Engineering Power Electronics 7 23 7 22
+Discipline Artificial Intelligence
+Mobile Robotics
+Digital Signal Processing
+Introduction to Machine Learning
+Energy Resources and Management
+Power Plant Systems
+Data Communication and
+Networking
+Database Management System
+Modelling and Simulation
+Multi-Disciplinary
+Theory of Machines 3 6 3 6
+Engineering
+Occupational Health and Safety
+Final Year Design Senior Design Project-I
+2 6 2 6
+Project Senior Design Project-II
+Total (Engineering Domain) 31 90 29 89
+F0.lexible
+Fundamentals of Thermal Sciences
+Engineering/Non-
+Fundamentals of Electronics 2 6 2 8
+Engineering
+Courses
+Industrial Training
+Mandatory and Mandatory and
+(Summer Internship I & II
+Qualifying Qualifying (NC)
+Internships)
+Physical Training
+& Education Sports Nil NC
+(Sports)
+Subtotal (Flexible
+2 6 2 8
+Engineering/Non-Engineering)
+P age 41 | 647
+General English
+Engineerin Humanities Culture 7 16 7 13
+gNon- Social Sciences
+Engineerin Management Engineering Project Management
+2 4 2 6
+g Sciences Technology Entrepreneurship
+Computer Sciences Applications of ICT 1 3 Nil Nil
+Mathematics
+Natural Sciences Electives 6 17 6 19
+Engineering Physics
+Sub Total 16 40 15 39
+Program Total 49 136 47 136
+P age 42 | 647
+PLO Course Mapping Table
+3
+3.1 PLO-Course Mapping Table (Effective from Spring 2019)
+Semester Course 1 2 3 4 5 6 7 8 9 10 11 12
+Course Title
+No. Code
+X X
+EE1401 Linear Circuit Analysis
+X X X
+EE1401 Linear Circuit Analysis Lab
+X X
+MS1401 Engineering Physics
+X X
+MS1401 Engineering Physics Lab
+Introduction to Computer X X
+CS1301
+1 Programming
+Introduction to Computer X X X
+CS1301 Programming
+Lab
+X X X
+MS1302 Calculus
+X X
+ME1102 Workshop Technology
+X X X
+HS1102 Community Service
+X X X
+MS1303 Linear Algebra
+X X X
+EE2403 Fundamentals of Electronics
+Fundamentals of Electronics X X X
+EE2403
+Lab
+X X X
+HS1101 Leadership and Motivation
+2
+X X
+EE1407 Digital Logic Fundamentals
+Digital Logic Fundamentals X X X
+EE1407
+Lab
+X X
+ME1204 Engineering Statics
+X X
+ME2201 Engineering Drawing
+X X
+ME2205 Engineering Dynamics
+Differential Equations and X X X
+MS1304
+Transforms
+3
+X X
+EE2302 Electrical Network Analysis
+X X X
+EE2404 Electronic Circuit Design
+P age 43 | 647
+X X X
+EE2404 Electronic Circuit Design Lab
+X
+HS2304 English (Public Speaking)
+X
+ME2309 Mechanics of Materials
+Complex Variables and X X X
+MS2305
+Multivariable Calculus
+X X
+EE2209 Signals and Systems
+X X
+EE3405 Linear ICs and Applications
+Linear ICs and Applications X X
+EE3405
+Lab
+4
+X X X
+ME3408 Fluid Mechanics
+X X
+ME3408 Fluid Mechanics Lab
+X X
+EE2425 Electrical Machines
+X X X
+EE2425 Electrical Machines Lab
+Microcontroller based X X
+EE3417
+Systems
+Microcontroller based X X X
+EE3417
+Systems Lab
+X X X
+EE3411 Linear Control Systems
+X X X X
+EE3411 Linear Control Systems Lab
+X
+5 ME3326 Theory of Machines
+Instrumentation and X X
+EE3306
+Measurement
+Instrumentation and X X X
+EE3306
+Measurement Lab
+Fundamentals of Thermal X X
+ME3307
+Sciences
+Fundamentals of Thermal X
+ME3307
+Sciences Lab
+X X X
+HS4206 Professional and Social Ethics
+Materials and Manufacturing X
+ME2310
+Processes
+X X X
+ME3212 Machine Design
+X X X
+6 EE3327 Power Electronics
+X X
+EE3327 Power Electronics Lab
+X X X
+MG3301 Project Management
+Probability Methods in X X X
+MS3306
+Engineering
+P age 44 | 647
+MTE431 X X X
+Mechatronic System design
+4
+Mechatronic System design X X X
+ME4314
+Lab
+X X
+ME4320 Introduction to Robotics
+X X
+ME4320 Introduction to Robotics Lab
+Industrial Control and X X
+7 EE4321
+Automation
+Industrial Control and X X
+EE4321
+Automation Lab
+MTE431 X X
+Sensors and Actuators
+3
+X X X
+ME4313 Sensors and Actuators Lab
+X X X X X X X X X X X X
+DP4301 SDP-I
+X X X
+MG4302 Technology Entrepreneurship
+English (Official X
+HS3305 Communication and Report
+Writing)
+X
+8 HS3306 Pakistan and Islamic Studies
+X X X
+MS4307 Numerical Methods
+MTE432 X X X
+Mobile Robotics
+3
+DP4302 SDP-II X X X X X X X X X X X X
+P age 45 | 647
+3.2 PLO-Course Mapping Table (Effective from Fall 2019)
+Semester Course 1 2 3 4 5 6 7 8 9 10 11 12
+Course Title
+No. Code
+X X
+EE1401 Linear Circuit Analysis
+X X X
+EE1401 Linear Circuit Analysis Lab
+X X
+MS1401 Engineering Physics
+X X
+MS1401 Engineering Physics Lab
+Introduction to Computer X X
+CS1301
+1 Programming
+Introduction to Computer X X X
+CS1301 Programming
+Lab
+X X X
+MS1302 Calculus
+X X X X
+ME1102 Workshop Technology
+X X X
+HS1102 Community Service
+X X X
+MS1303 Linear Algebra
+X X X
+EE2403 Fundamentals of Electronics
+Fundamentals of Electronics X X X X X X X
+EE2403
+Lab
+X X X
+HS1101 Leadership and Motivation
+2
+X X
+EE1407 Digital Logic Fundamentals
+Digital Logic Fundamentals X X X
+EE1407
+Lab
+X
+ME1204 Engineering Statics
+X X
+ME2201 Engineering Drawing
+X X
+ME2205 Engineering Dynamics
+Differential Equations and X X X
+MS1304
+Transforms
+X X
+EE2302 Electrical Network Analysis
+3
+X X X
+EE2404 Electronic Circuit Design
+X X X X X X
+EE2404 Electronic Circuit Design Lab
+X
+HS2304 English (Public Speaking)
+P age 46 | 647
+X
+ME2309 Mechanics of Materials
+Complex Variables and X X X
+MS2305
+Multivariable Calculus
+X X
+EE2209 Signals and Systems
+X X
+EE3405 Linear ICs and Applications
+Linear ICs and Applications X X X X X X X
+EE3405
+Lab
+4
+X X
+ME3408 Fluid Mechanics
+X X X X X
+ME3408 Fluid Mechanics Lab
+X X
+EE2425 Electrical Machines
+X X X
+EE2425 Electrical Machines Lab
+Microcontroller based X X
+EE3417
+Systems
+Microcontroller based X X X
+EE3417
+Systems Lab
+X X X
+EE3411 Linear Control Systems
+X X X
+EE3411 Linear Control Systems Lab
+X
+5 ME3326 Theory of Machines
+Instrumentation and X X
+EE3306
+Measurement
+Instrumentation and X X X
+EE3306
+Measurement Lab
+Fundamentals of Thermal X X X
+ME3307
+Sciences
+Fundamentals of Thermal X X X X X
+ME3307
+Sciences Lab
+X X X
+HS4206 Professional and Social Ethics
+Materials and Manufacturing X
+ME2310
+Processes
+X X X
+ME3212 Machine Design
+X X X
+6 EE3327 Power Electronics
+X X
+EE3327 Power Electronics Lab
+X X X
+MG3301 Project Management
+Probability Methods in X X X
+MS3306
+Engineering
+MTE431 X X X
+Mechatronic System design
+4
+7
+Mechatronic System design X X X X X
+ME4314
+Lab
+P age 47 | 647
+X X
+ME4320 Introduction to Robotics
+X X
+ME4320 Introduction to Robotics Lab
+Industrial Control and X X
+EE4321
+Automation
+Industrial Control and X X X
+EE4321
+Automation Lab
+MTE431 X X
+Sensors and Actuators
+3
+X X X
+ME4313 Sensors and Actuators Lab
+X X X X X X X X X X X X
+DP4301 SDP-I
+X X X
+MG4302 Technology Entrepreneurship
+English (Official X
+HS3305 Communication and Report
+Writing)
+X
+8 HS3306 Pakistan and Islamic Studies
+X X X
+MS4307 Numerical Methods
+MTE432 X X X
+Mobile Robotics
+3
+DP4302 SDP-II X X X X X X X X X X X X
+P age 48 | 647
+3.3 PLO-Course Mapping Table (Effective from Spring 2020)
+Semester Course 1 2 3 4 5 6 7 8 9 10 11 12
+Course Title
+No. Code
+X X
+EE1401 Linear Circuit Analysis
+X X X X X X X
+EE1401 Linear Circuit Analysis Lab
+X X
+MS1401 Engineering Physics
+X X X X X
+MS1401 Engineering Physics Lab
+Introduction to Computer X X
+CS1301
+1 Programming
+Introduction to Computer X X X X X X
+CS1301 Programming
+Lab
+X X X
+MS1302 Calculus
+X X X X X
+ME1102 Workshop Technology
+X X X
+HS1102 Community Service
+X X X
+MS1303 Linear Algebra
+X X X
+EE2403 Fundamentals of Electronics
+Fundamentals of Electronics X X X X X X X
+EE2403
+Lab
+X X X
+HS1101 Leadership and Motivation
+2
+X X
+EE1407 Digital Logic Fundamentals
+Digital Logic Fundamentals X X X X X X X
+EE1407
+Lab
+X X
+ME1204 Engineering Statics
+X X
+ME2201 Engineering Drawing
+X X
+ME2205 Engineering Dynamics
+Differential Equations and X X X
+MS1304
+Transforms
+X X
+EE2302 Electrical Network Analysis
+3
+X X
+EE2404 Electronic Circuit Design
+X X X X X X
+EE2404 Electronic Circuit Design Lab
+X
+HS2304 English (Public Speaking)
+P age 49 | 647
+X X
+ME2309 Mechanics of Materials
+Complex Variables and X X X
+MS2305
+Multivariable Calculus
+X X
+EE2209 Signals and Systems
+X X
+EE3405 Linear ICs and Applications
+Linear ICs and Applications X X X X X X X
+EE3405
+Lab
+4
+X X
+ME3408 Fluid Mechanics
+X X X X X
+ME3408 Fluid Mechanics Lab
+X X
+EE2425 Electrical Machines
+X X X X X X X
+EE2425 Electrical Machines Lab
+Microcontroller based X X
+EE3417
+Systems
+Microcontroller based X X X X X X
+EE3417
+Systems Lab
+X X X
+EE3411 Linear Control Systems
+X X X X X X X
+EE3411 Linear Control Systems Lab
+X
+5 ME3326 Theory of Machines
+Instrumentation and X X
+EE3306
+Measurement
+Instrumentation and X X X X X X X
+EE3306
+Measurement Lab
+Fundamentals of Thermal X X X
+ME3307
+Sciences
+Fundamentals of Thermal X X X X X
+ME3307
+Sciences Lab
+X X X
+HS4206 Professional and Social Ethics
+Materials and Manufacturing X X
+ME2310
+Processes
+X X X
+ME3212 Machine Design
+X X X
+6 EE3327 Power Electronics
+X X X X X X
+EE3327 Power Electronics Lab
+X X X
+MG3301 Project Management
+Probability Methods in X X X
+MS3306
+Engineering
+X X X
+MTE4314 Mechatronic System design
+7
+Mechatronic System design X X X X X X X
+ME4314
+Lab
+P age 50 | 647
+X X
+ME4320 Introduction to Robotics
+X X X X X X X
+ME4320 Introduction to Robotics Lab
+Industrial Control and X X X
+EE4321
+Automation
+Industrial Control and X X X X X X
+EE4321
+Automation Lab
+X X
+MTE4313 Sensors and Actuators
+X X X X X X X
+ME4313 Sensors and Actuators Lab
+X X X X X X X X X X X X
+DP4301 SDP-I
+X X X
+MG4302 Technology Entrepreneurship
+English (Official X
+HS3305 Communication and Report
+Writing)
+X X
+8 HS3306 Pakistan and Islamic Studies
+X X X
+MS4307 Numerical Methods
+X X X
+MTE4323 Mobile Robotics
+DP4302 SDP-II X X X X X X X X X X X X
+P age 51 | 647
+3.4 PLO-Course Mapping Table (Effective from Spring 2022)
+Semester Course 1 2 3 4 5 6 7 8 9 10 11 12
+Course Title
+No. Code
+X X
+EE1401 Linear Circuit Analysis
+X X X X X X X
+EE1401 Linear Circuit Analysis Lab
+X X
+MS1401 Engineering Physics
+X X X X X
+MS1401 Engineering Physics Lab
+Introduction to Computer X X
+CS1301
+1 Programming
+Introduction to Computer X X X X X X
+CS1301 Programming
+Lab
+X X X
+MS1302 Calculus
+X X X X X
+ME1102 Workshop Technology
+X X X
+HS1102 Community Service
+X X X
+MS1303 Linear Algebra
+X X X
+EE2403 Fundamentals of Electronics
+Fundamentals of Electronics X X X X X X X
+EE2403
+Lab
+X X X
+HS1101 Leadership and Motivation
+2
+X X
+EE1407 Digital Logic Fundamentals
+Digital Logic Fundamentals X X X X X X X
+EE1407
+Lab
+X X
+ME1204 Engineering Statics
+X X
+ME2201 Engineering Drawing
+X X
+ME2205 Engineering Dynamics
+Differential Equations and X X X
+MS1304
+Transforms
+X X
+EE2302 Electrical Network Analysis
+3
+X X
+EE2404 Electronic Circuit Design
+X X X X X X
+EE2404 Electronic Circuit Design Lab
+X
+HS2304 English (Public Speaking)
+P age 52 | 647
+X X
+ME2309 Mechanics of Materials
+Complex Variables and X X X
+MS2305
+Multivariable Calculus
+X X
+EE2209 Signals and Systems
+Data Structures & Objected- X X
+CS2301
+Oriented Programming
+Data Structures & Objected- X X X X
+CS2301
+Oriented Programming Lab
+X X
+4 ME3408 Fluid Mechanics
+X X X X X
+ME3408 Fluid Mechanics Lab
+X X
+EE2425 Electrical Machines
+X X X X X X X
+EE2425 Electrical Machines Lab
+X X X
+ME2301 Solid Modelling
+Microcontroller based X X
+EE3417
+Systems
+Microcontroller based X X X X X X
+EE3417
+Systems Lab
+X X X
+EE3411 Linear Control Systems
+X X X X X X X
+EE3411 Linear Control Systems Lab
+X
+5 ME3326 Theory of Machines
+Instrumentation and X X
+EE3306
+Measurement
+Instrumentation and X X X X X X X
+EE3306
+Measurement Lab
+Fundamentals of Thermal X X X
+ME3307
+Sciences
+Fundamentals of Thermal X X X X X
+ME3307
+Sciences Lab
+X X X
+HS4206 Professional and Social Ethics
+Materials and Manufacturing X X
+ME2310
+Processes
+X X X
+ME3212 Machine Design
+X X X
+6 EE3327 Power Electronics
+X X X X X X
+EE3327 Power Electronics Lab
+X X X
+MG3301 Project Management
+Probability Methods in X X X
+MS3306
+Engineering
+7 X X X
+MTE4314 Mechatronic System design
+P age 53 | 647
+Mechatronic System design X X X X X X X
+ME4314
+Lab
+X X
+ME4320 Introduction to Robotics
+X X X X X X X
+ME4320 Introduction to Robotics Lab
+Industrial Control and X X X
+EE4321
+Automation
+Industrial Control and X X X X X X
+EE4321
+Automation Lab
+X X
+MTE4313 Sensors and Actuators
+X X X X X X X
+ME4313 Sensors and Actuators Lab
+X X X X X X X X X X X X
+DP4301 SDP-I
+X X X
+MG4302 Technology Entrepreneurship
+English (Official X
+HS3305 Communication and Report
+Writing)
+X X
+HS3306 Pakistan and Islamic Studies
+8
+X X X
+MS4307 Numerical Methods
+X X X
+MTE3321 Artificial Intelligence
+X X X X X
+MTE3321 Artificial Intelligence Lab
+DP4302 SDP-II X X X X X X X X X X X X
+P age 54 | 647
+3.5 PLO-Course Mapping Table (Effective from Fall 2023)
+Semester Course 1 2 3 4 5 6 7 8 9 10 11 12
+Course Title
+No. Code
+X X
+EE1401 Linear Circuit Analysis
+X X X X X X X
+EE1401 Linear Circuit Analysis Lab
+X X
+MS1401 Engineering Physics
+X X X X X
+MS1401 Engineering Physics Lab
+Introduction to Computer X X
+CS1301
+1 Programming
+Introduction to Computer X X X X X X
+CS1301 Programming
+Lab
+X X X
+MS1302 Calculus
+X X
+ME1102 Workshop Technology
+X X X
+HS1102 Community Service
+X X X
+MS1303 Linear Algebra
+X X X
+EE2403 Fundamentals of Electronics
+Fundamentals of Electronics X X X X
+EE2403
+Lab
+X X X
+HS1101 Leadership and Motivation
+2
+X X
+EE1407 Digital Logic Fundamentals
+Digital Logic Fundamentals X X X
+EE1407
+Lab
+X X
+ME1204 Engineering Statics
+X X
+ME2201 Engineering Drawing
+X X
+ME2205 Engineering Dynamics
+Differential Equations and X X X
+MS1304
+Transforms
+Occupational Health and X X X
+HS2101
+Safety
+3
+X X X
+EE2404 Electronic Circuit Design
+X X X
+EE2404 Electronic Circuit Design Lab
+X
+HS2304 English (Public Speaking)
+P age 55 | 647
+X X
+ME2309 Mechanics of Materials
+X X X
+ME2301 Solid Modelling
+Complex Variables and X X X
+MS2305
+Multivariable Calculus
+X X
+EE2209 Signals and Systems
+Data Structures & Objected- X X
+CS2302
+Oriented Programming
+Data Structures & Objected- X X X
+CS2302
+Oriented Programming Lab
+X
+4 ME3326 Theory Of Machines
+Materials and Manufacturing X X
+ME2310
+Processes
+X X X
+MTE2401 Sensors and Instrumentation
+Sensors and Instrumentation X X X
+MTE2401
+Lab
+Microcontroller based X x X
+EE3417
+Systems
+Microcontroller based X X X
+EE3417
+Systems Lab
+X X X
+MTE3402 Actuating Systems
+X X X
+MTE3402 Actuating Systems Lab
+5
+X X X
+MSXXX Probability and Statistics
+X X X
+ME3212 Machine Design
+Fundamentals of Thermal X X X
+ME3307
+Sciences
+Fundamentals of Thermal X X X
+ME3307
+Sciences Lab
+X X
+ME3408 Fluid Mechanics
+X X X
+ME3408 Fluid Mechanics Lab
+X X X
+EE3411 Linear Control Systems
+X X X X X X X
+EE3411 Linear Control Systems Lab
+6
+X X X
+HSXXXX Islamic Studies
+Power Electronics (Elective – X X X
+EE3327
+1)
+X X X
+MG3301 Project Management
+Probability Methods in X X X
+MS3306
+Engineering
+P age 56 | 647
+English (Official X
+HS3305 Communication and Report
+Writing)
+X X
+MTE4314 Mechatronic System design
+Mechatronic System design X X X
+ME4314
+Lab
+X X
+ME4320 Introduction to Robotics
+X X X
+ME4320 Introduction to Robotics Lab
+7
+X X X
+MS4307 Numerical Methods
+X X X
+MTE3321 Artificial Intelligence
+X X X
+MTE3321 Artificial Intelligence Lab
+X X X X X X X X X X X X
+DP4301 SDP-I
+X X X
+MG4302 Technology Entrepreneurship
+X X X
+HS4206 Professional and Social Ethics
+Industrial Control and X X X
+EE4321
+Automation
+8 Industrial Control and X X X X X X
+EE4321
+Automation Lab
+Ideology and Constitution of X X X
+HSXXXX
+Pakistan
+Introduction to Machine X X X
+MTE4322
+Learning
+DP4302 SDP-II X X X X X X X X X X X X
+P age 57 | 647
+Scheme of Studies (Mechatronics)
+4
+4.1 Effective from FA 2024
+4.1.1 Year 1
+Semester I
+Course Code Course Title Theory Practical Total
+CS1301 Introduction to Computer
+Programming 2 1 3
+ME1202 Workshop Technology 0 2 2
+EE1401 Linear Circuit Analysis 3 1 4
+MS1303 Calculus 3 0 3
+MS1401 Engineering Physics 3 1 4
+HS1102 Community Service 0 1 1
+Total 11 6 17
+Semester II
+Course Code Course Title Theory Practical Total
+ME1204 Engineering Statics 3 0 3
+ME2201 Engineering Drawing 0 2 2
+EE1407 Digital Logic Fundamentals 3 1 4
+EE2403 Fundamentals of Electronics 3 1 4
+MS1302 Linear Algebra 3 0 3
+HS1101 Leadership and Motivation 1 0 1
+Total 13 4 17
+4.1.2 Year 2
+Semester III
+Course Code Course Title Theory Practical Total
+ME2205 Engineering Dynamics
+3 0 3
+ME2309 Mechanics of Materials 3 0 3
+HS2101 Occupational Health and Safety 1 0 1
+EE2404 Electronic Circuit Design 3 1 4
+ME2301 Solid Modeling 0 1 1
+MS1304 Differential Equations and
+Transforms 3 0 3
+P age 58 | 647
+HS2304 English (Public Speaking) 2 0 2
+Total 15 2 17
+Semester IV
+Course Code Course Title Theory Practical Total
+CS2302 Data Structure and Object-Oriented
+Programming 2 1 3
+EE2209 Signals and Systems 2 0 2
+MTE2401 Sensors and Instrumentation 3 1 4
+ME2310 Materials and Manufacturing
+Processes 3 0 3
+ME3326 Theory of Machines 3 0 3
+MS2305 Complex Variables and
+Multivariable Calculus 3 0 3
+Total 16 2 18
+4.1.3 Year 3
+Semester V
+Course Code Course Title Theory Practical Total
+MS3306 Probability and Statistics 2 0 2
+ME3307 Fundamentals of Thermal Sciences 3 1 4
+MTE3312 Machine Design
+3 0 3
+MTE3402 Actuating Systems 3 1 4
+EE3417 Microcontroller based Systems
+3 1 4
+Total 14 3 17
+Semester VI
+Course Code Course Title Theory Practical Total
+MTE/EEXXXX Technical Elective I 3/2 0/1 3
+EE3411 Linear Control Systems 3 1 4
+MG3301 Engineering Project Management 3 0 3
+HS3305 English (official Communication
+and Report Writing) 3 0 3
+HS4306 Islamic Studies 2 0 2
+ME3508 Fluid Mechanics 2 1 3
+Total 16/15 2/3 18
+P age 59 | 647
+Semester VII
+Course Code Course Title Theory Practical Total
+MTE/EEXXXX Technical Elective II 3/2 0/1 3
+MS4307 Numerical Methods 3 0 3
+MTE4420 Introduction to Robotics 3 1 4
+MTE4314 Mechatronic System Design 2 1 3
+DP4301 SDP-I 0 3 3
+Total 11/10 5/6 16
+4.1.4 Year 4
+Semester VIII
+Course Code Course Title Theory Practical Total
+MTE/EEXXXX Technical Elective III 3/2 0/1 3
+EE4321 Industrial Control and Automation 2 1 3
+MG4302 Technology Entrepreneurship 3 0 3
+HS4206 Professional and Social Ethics 2 0 2
+Ideology and Constitution of 2 0 2
+HS4307
+Pakistan
+DP4302 SDP-II 0 3 3
+Total 12/11 4/5 16
+4.1.5 List of Technical Electives
+EE3327: Power Electronics (3+0)
+MTE3321: Artificial Intelligence (2+1)
+MTE4331: Digital Signal Processing (3+0)
+MTE4322: Introduction to Machine Learning (3+0)
+MTE4321: Mobile Robotics (3+0)
+P age 60 | 647
+4.2 Effective from FA 2023
+0
+Year 1
+Semester I
+Course Code Course Title Theory Practical Total
+CS1301 Introduction to Computer
+Programming 2 1 3
+ME1202 Workshop Technology 0 2 2
+EE1401 Linear Circuit Analysis 3 1 4
+MS1303 Calculus 3 0 3
+MS1401 Engineering Physics 3 1 4
+HS1102 Community Service 0 1 1
+Total 11 6 17
+Semester II
+Course Code Course Title Theory Practical Total
+ME1204 Engineering Statics 3 0 3
+ME2201 Engineering Drawing 0 2 2
+EE1407 Digital Logic Fundamentals 3 1 4
+EE2403 Fundamentals of Electronics 3 1 4
+MS1302 Linear Algebra 3 0 3
+HS1101 Leadership and Motivation 1 0 1
+Total 13 4 17
+4.2.1 Year 2
+Semester III
+Course Code Course Title Theory Practical Total
+ME2205 Engineering Dynamics
+3 0 3
+ME2309 Mechanics of Materials 3 0 3
+HS2101 Occupational Health and Safety 1 0 1
+EE2404 Electronic Circuit Design 3 1 4
+ME2301 Solid Modeling 0 1 1
+MS1304 Differential Equations and
+Transforms 3 0 3
+HS2304 English (Public Speaking) 2 0 2
+Total 15 2 17
+P age 61 | 647
+Semester IV
+Course Code Course Title Theory Practical Total
+CS2302 Data Structure and Object-Oriented
+Programming 2 1 3
+EE2209 Signals and Systems 2 0 2
+MTE2401 Sensors and Instrumentation 3 1 4
+ME2310 Materials and Manufacturing
+Processes 3 0 3
+ME3326 Theory of Machines 3 0 3
+MS2305 Complex Variables and
+Multivariable Calculus 3 0 3
+Total 16 2 18
+4.2.2 Year 3
+Semester V
+Course Code Course Title Theory Practical Total
+MS3306 Probability and Statistics 2 0 2
+ME3307 Fundamentals of Thermal Sciences 3 1 4
+MTE3312 Machine Design
+3 0 3
+MTE3402 Actuating Systems 3 1 4
+EE3417 Microcontroller based Systems
+3 1 4
+Total 14 3 17
+Semester VI
+Course Code Course Title Theory Practical Total
+MTE/EEXXXX Technical Elective I 3/2 0/1 3
+EE3411 Linear Control Systems 3 1 4
+MG3301 Engineering Project Management 3 0 3
+HS3305 English (official Communication
+and Report Writing) 3 0 3
+HS4306 Islamic Studies 2 0 2
+ME3508 Fluid Mechanics 2 1 3
+Total 16/15 2/3 18
+P age 62 | 647
+4.2.3 Year 4
+Semester VII
+Course Code Course Title Theory Practical Total
+MTE/EEXXXX Technical Elective II 3/2 0/1 3
+MS4307 Numerical Methods 3 0 3
+MTE4420 Introduction to Robotics 3 1 4
+MTE4314 Mechatronic System Design 2 1 3
+DP4301 SDP-I 0 3 3
+Total 11/10 5/6 16
+Semester VIII
+Course Code Course Title Theory Practical Total
+MTE/EEXXXX Technical Elective III 3/2 0/1 3
+EE4321 Industrial Control and Automation 2 1 3
+MG4302 Technology Entrepreneurship 3 0 3
+HS4206 Professional and Social Ethics 2 0 2
+Ideology and Constitution of 2 0 2
+HS4307
+Pakistan
+DP4302 SDP-II 0 3 3
+Total 12/11 4/5 16
+4.2.4 List of Technical Electives
+EE3327: Power Electronics (3+0)
+MTE3321: Artificial Intelligence (2+1)
+MTE4331: Digital Signal Processing (3+0)
+MTE4322: Introduction to Machine Learning (3+0)
+MTE4321: Mobile Robotics (3+0)
+P age 63 | 647
+4.3 Effective from Spring 2022
+4.3.1 Year 1
+Semester I
+Course Code Course Title Theory Practical Total
+EE1401 Linear Circuit Analysis 3 1 4
+MS1401 Engineering Physics 3 1 4
+Introduction to Computer
+CS1301 Programming 2 1 3
+MS1303 Calculus 3 0 3
+ME1202 Workshop Technology 0 2 2
+HS1102 Community Service 0 1 1
+Total 11 6 17
+Semester II
+Course Code Course Title Theory Practical Total
+MS1302 Linear Algebra 3 0 3
+EE2403 Fundamentals of Electronics 3 1 4
+HS1101 Leadership and Motivation 1 0 1
+EE1407 Digital Logic Fundamentals 3 1 4
+ME1204 Engineering Statics 3 0 3
+ME2201 Engineering Drawing 0 2 2
+Total 13 4 17
+4.3.2 Year 2
+Semester III
+Course Code Course Title Theory Practical Total
+ME2205 Engineering Dynamics 3 0 3
+Differential Equations and
+MS1304 Transforms 3 0 3
+EE2302 Electrical Network Analysis 3 0 3
+EE2404 Electronic Circuit Design 3 1 4
+HS2304 English (Public Speaking) 2 0 3
+ME2309 Mechanics of Materials 3 0 3
+Total 17 1 18
+P age 64 | 647
+Semester IV
+Course Code Course Title Theory Practical Total
+Complex Variables and
+MS2305 Multivariable Calculus 3 0 3
+EE2209 Signals and Systems 2 0 2
+Data Structure and Object Oriented
+CS2301 Programming 3 1 4
+ME3408 Fluid Mechanics 3 1 4
+EE2425 Electrical Machines 3 1 4
+ME2301 Solid Modeling 0 1 1
+Total 14 4 18
+4.3.3 Year 3
+Semester V
+Course Code Course Title Theory Practical Total
+EE3417 Microcontroller based Systems 3 1 4
+EE3411 Linear Control Systems 3 1 4
+ME3326 Theory of Machines 3 0 3
+EE3306 Instrumentation and Measurement 2 1 3
+ME3307 Fundamentals of Thermal Sciences 3 1 3
+Total 14 4 18
+Semester VI
+Course Code Course Title Theory Practical Total
+HS4206 Professional and Social Ethics 2 0 2
+Materials and Manufacturing
+ME2310 Processes 3 0 3
+MTE3312 Machine Design 3 0 3
+EE3327 Power Electronics 3 1 4
+MG3301 Project Management 3 0 3
+MS3306 Probability Methods in Engineering 3 0 3
+Total 17 1 18
+P age 65 | 647
+4.3.4 Year 4
+Semester VII
+Course Code Course Title Theory Practical Total
+MTE4314 Mechatronic System design 2 1 3
+MTE4420 Introduction to Robotics 3 1 4
+EE4321 Industrial Control and Automation 2 1 3
+MTE4413 Sensors and Actuators 3 1 4
+DP4301 SDP-I 0 3 3
+Total 10 7 17
+Semester VIII
+Course Code Course Title Theory Practical Total
+MG4302 Technology Entrepreneurship 3 0 3
+English (Official Communication
+HS3305 and Report Writing) 3 0 3
+HS3306 Pakistan and Islamic Studies 3 0 3
+MS4307 Numerical Methods 3 0 3
+MTE4321 Mobile Robotics 3 0 3
+DP4302 SDP-II 0 3 3
+Total 15 3 18
+P age 66 | 647
+4.4 Effective from Spring 2019
+4.4.1 Year 1
+Semester I
+Course Code Course Title Theory Practical Total
+EE1401 Linear Circuit Analysis 3 1 4
+MS1401 Engineering Physics 3 1 4
+Introduction to Computer
+CS1301 Programming 2 1 3
+MS1303 Calculus 3 0 3
+ME1202 Workshop Technology 0 2 2
+HS1102 Community Service 0 1 1
+Total 11 6 17
+Semester II
+Course Code Course Title Theory Practical Total
+MS1302 Linear Algebra 3 0 3
+EE2403 Fundamentals of Electronics 3 1 4
+HS1101 Leadership and Motivation 1 0 1
+EE1407 Digital Logic Fundamentals 3 1 4
+ME1204 Engineering Statics 3 0 3
+ME2201 Engineering Drawing 0 2 2
+Total 13 4 17
+P age 67 | 647
+4.4.2 Year 2
+Semester III
+Course Code Course Title Theory Practical Total
+ME2205 Engineering Dynamics 3 0 3
+Differential Equations and
+MS1304 Transforms 3 0 3
+EE2302 Electrical Network Analysis 3 0 3
+EE2404 Electronic Circuit Design 3 1 4
+HS2304 English (Public Speaking) 2 0 3
+ME2309 Mechanics of Materials 3 0 3
+Total 17 1 18
+Semester IV
+Course Code Course Title Theory Practical Total
+Complex Variables and
+MS2305 Multivariable Calculus 3 0 3
+EE2209 Signals and Systems 2 0 2
+EE3405 Linear ICs and Applications 3 1 4
+ME3408 Fluid Mechanics 3 1 4
+EE2425 Electrical Machines 3 1 4
+Total 14 3 17
+P age 68 | 647
+4.4.3 Year 3
+Semester V
+Course Code Course Title Theory Practical Total
+EE3417 Microcontroller based Systems 3 1 4
+EE3411 Linear Control Systems 3 1 4
+ME3326 Theory of Machines 3 0 3
+EE3306 Instrumentation and Measurement 2 1 3
+ME3307 Fundamentals of Thermal Sciences 3 1 3
+Total 14 4 18
+Semester VI
+Course Code Course Title Theory Practical Total
+HS4206 Professional and Social Ethics 2 0 2
+Materials and Manufacturing
+ME2310 Processes 3 0 3
+MTE3312 Machine Design 3 0 3
+EE3327 Power Electronics 3 1 4
+MG3301 Project Management 3 0 3
+MS3306 Probability Methods in Engineering 3 0 3
+Total 17 1 18
+P age 69 | 647
+4.4.4 Year 4
+Semester VII
+Course Code Course Title Theory Practical Total
+MTE4314 Mechatronic System design 2 1 3
+MTE4420 Introduction to Robotics 3 1 4
+EE4321 Industrial Control and Automation 2 1 3
+MTE4413 Sensors and Actuators 3 1 4
+DP4301 SDP-I 0 3 3
+Total 10 7 17
+Semester VIII
+Course Code Course Title Theory Practical Total
+MG4302 Technology Entrepreneurship 3 0 3
+English (Official Communication
+HS3305 and Report Writing) 3 0 3
+HS3306 Pakistan and Islamic Studies 3 0 3
+MS4307 Numerical Methods 3 0 3
+MTE4321 Mobile Robotics 3 0 3
+DP4302 SDP-II 0 3 3
+Total 15 3 18
+P age 70 | 647
+4.5 Effective from Spring 2018
+4.5.1 Year 1
+Semester I
+Course Code Course Title Theory Practical Total
+EE1401 Linear Circuit Analysis 3 1 4
+MS1401 Engineering Physics 3 1 4
+Introduction to Computer
+CS1301 Programming 2 1 3
+MS1303 Calculus 3 0 3
+ME1102 Workshop Technology 0 1 1
+HS1102 Community Service 0 1 1
+Total 11 5 16
+Semester II
+Course Code Course Title Theory Practical Total
+MS1302 Linear Algebra 3 0 3
+EE2403 Fundamentals of Electronics 3 1 4
+HS1101 Leadership and Motivation 1 0 1
+EE1407 Digital Logic Fundamentals 3 1 4
+ME1204 Engineering Statics 3 0 3
+ME2201 Engineering Drawing 0 2 2
+Total 13 4 17
+P age 71 | 647
+4.5.2 Year 2
+Semester III
+Course Code Course Title Theory Practical Total
+ME2205 Engineering Dynamics 3 0 3
+Differential Equations and
+MS1304 Transforms 3 0 3
+EE2302 Electrical Network Analysis 3 0 3
+EE2404 Electronic Circuit Design 3 1 4
+HS2304 English (Public Speaking) 2 0 2
+ME2309 Mechanics of Materials 3 0 3
+Total 17 1 18
+Semester IV
+Course Code Course Title Theory Practical Total
+Complex Variables and
+MS2305 Multivariable Calculus 3 0 3
+EE2209 Signals and Systems 2 0 2
+EE3405 Linear ICs and Applications 3 1 4
+ME3408 Fluid Mechanics 3 1 4
+EE2425 Electrical Machines 3 1 4
+Total 14 3 17
+P age 72 | 647
+4.5.3 Year 3
+Semester V
+Course Code Course Title Theory Practical Total
+EE3417 Microcontroller based Systems 3 1 4
+EE3411 Linear Control Systems 3 1 4
+ME3326 Theory of Machines 3 0 3
+EE3306 Instrumentation and Measurement 2 1 3
+ME3307 Fundamentals of Thermal Sciences 3 1 3
+Total 14 4 18
+Semester VI
+Course Code Course Title Theory Practical Total
+HS4206 Professional and Social Ethics 2 0 2
+Materials and Manufacturing
+ME2310 Processes 3 0 3
+MTE3312 Machine Design 3 0 3
+EE3327 Power Electronics 3 1 4
+MG3301 Project Management 3 0 3
+MS3306 Probability Methods in Engineering 3 0 3
+Total 17 1 18
+P age 73 | 647
+4.5.4 Year 4
+Semester VII
+Course Code Course Title Theory Practical Total
+MTE4314 Mechatronic System design 2 1 3
+MTE4420 Introduction to Robotics 3 1 4
+EE4321 Industrial Control and Automation 2 1 3
+MTE4413 Sensors and Actuators 3 1 4
+DP4301 SDP-I 0 3 3
+Total 10 7 17
+Semester VIII
+Course Code Course Title Theory Practical Total
+MG4302 Technology Entrepreneurship 3 0 3
+English (Official Communication
+HS3305 and Report Writing) 3 0 3
+HS3306 Pakistan and Islamic Studies 3 0 3
+MS4307 Numerical Methods 3 0 3
+MTE4321 Mobile Robotics 3 0 3
+DP4302 SDP-II 0 3 3
+Total 15 3 18
+P age 74 | 647
+4.6 Effective from Spring 2017
+4.6.1 Year 1
+Semester I
+Course Code Course Title Theory Practical Total
+EE1401 Linear Circuit Analysis 3 1 4
+MS1401 Engineering Physics 3 1 4
+Introduction to Computer
+CS1301 Programming 2 1 3
+ME1102 Workshop Technology 0 1 1
+HS1102 Community Service 0 1 1
+MS1302 Linear Algebra 3 0 3
+Total 11 5 16
+Semester II
+Course Code Course Title Theory Practical Total
+MS1303 Calculus 3 0 3
+HS1101 Leadership and Motivation 1 0 1
+EE2403 Fundamentals of Electronics 3 1 4
+EE1407 Digital Logic Fundamentals 3 1 4
+English I (Proficiency
+HS1303 Development) 3 0 3
+ME1204 Engineering Statics 2 0 2
+Total 15 2 17
+P age 75 | 647
+4.6.2 Year 2
+Semester III
+Course Code Course Title Theory Practical Total
+ME2205 Engineering Dynamics 2 0 2
+Differential Equations and
+MS1304 Transforms 3 0 3
+EE2302 Electrical Network Analysis 3 0 3
+EE2404 Electronic Circuit Design 3 1 4
+HS2304 English II (Public Speaking) 3 0 3
+ME2201 Engineering Drawing 1 1 2
+Total 15 2 17
+Semester IV
+Course Code Course Title Theory Practical Total
+Complex Variables and
+MS2305 Multivariable Calculus 3 0 3
+EE2209 Signals and Systems 2 0 2
+EE3405 Linear ICs and Applications 3 1 4
+ME3408 Fluid Mechanics 3 1 4
+EE2425 Electrical Machines 3 1 4
+Total 14 3 17
+P age 76 | 647
+4.6.3 Year 3
+Semester V
+Course Code Course Title Theory Practical Total
+EE3417 Microcontroller based Systems 3 1 4
+EE3411 Linear Control Systems 3 1 4
+ME3326 Theory of Machines 3 0 3
+ME2309 Mechanics of Materials 3 0 3
+ME3307 Fundamentals of Thermal Sciences 3 1 4
+Total 15 3 18
+Semester VI
+Course Code Course Title Theory Practical Total
+EE3306 Instrumentation and Measurement 2 1 3
+Materials and Manufacturing
+ME2310 Processes 3 0 3
+MTE3312 Machine Design 3 0 3
+EE3327 Power Electronics 3 1 4
+MG3301 Project Management 3 0 3
+MS3306 Probability Methods in Engineering 3 0 3
+Total 17 2 19
+P age 77 | 647
+4.6.4 Year 4
+Semester VII
+Course Code Course Title Theory Practical Total
+MTE4314 Mechatronic System design 2 1 3
+MS4307 Numerical Methods 3 0 3
+EE4321 Industrial Control and Automation 2 1 3
+MTE4420 Introduction to Robotics 3 1 4
+DP4301 SDP-I 0 3 3
+Total 10 6 16
+Semester VIII
+Course Code Course Title Theory Practical Total
+MG4302 Technology Entrepreneurship 3 0 3
+English III (Official Communication
+HS3305 and Report Writing) 3 0 3
+HS3306 Pakistan and Islamic Studies 3 0 3
+HS4206 Professional and Social Ethics 2 0 2
+MTE4413 Sensors and Actuators 3 1 4
+DP4302 SDP-II 0 3 3
+Total 14 4 18
+P age 78 | 647
+4.7 Effective from Spring 2016
+4.7.1 Year 1
+Semester I
+Course Code Course Title Theory Practical Total
+EE1401 Linear Circuit Analysis 3 1 4
+MS1401 Engineering Physics 3 1 4
+Introduction to Computer
+CS1301 Programming 2 1 3
+ME1102 Workshop Technology 0 1 1
+HS1102 Community Service 0 1 1
+MS1302 Linear Algebra 3 0 3
+Total 11 5 16
+Semester II
+Course Code Course Title Theory Practical Total
+MS1303 Calculus 3 0 3
+HS1101 Leadership and Motivation 1 0 1
+EE2403 Fundamentals of Electronics 3 1 4
+EE1407 Digital Logic Fundamentals 3 1 4
+English I (Proficiency
+HS1303 Development) 3 0 3
+ME1204 Engineering Statics 2 0 2
+Total 15 2 17
+P age 79 | 647
+4.7.2 Year 2
+Semester III
+Course Code Course Title Theory Practical Total
+ME2205 Engineering Dynamics 2 0 2
+Differential Equations and
+MS1304 Transforms 3 0 3
+EE2302 Electrical Network Analysis 3 0 3
+EE2404 Electronic Circuit Design 3 1 4
+HS2304 English II (Public Speaking) 3 0 3
+ME2201 Engineering Drawing 1 1 2
+Total 15 2 17
+Semester IV
+Course Code Course Title Theory Practical Total
+Complex Variables and
+MS2305 Multivariable Calculus 3 0 3
+ME2311 Linear Systems Modeling 3 0 3
+EE3405 Linear ICs and Applications 3 1 4
+Materials and Manufacturing
+ME2310 Processes 3 0 3
+EE2425 Electrical Machines 3 1 4
+Total 15 2 17
+P age 80 | 647
+4.7.3 Year 3
+Semester V
+Course Code Course Title Theory Practical Total
+EE3417 Microcontroller based Systems 3 1 4
+EE3411 Linear Control Systems 3 1 4
+ME3326 Theory of Machines 3 0 3
+ME2309 Mechanics of Materials 3 0 3
+ME3307 Fundamentals of Thermal Sciences 3 1 4
+Total 15 3 18
+Semester VI
+Course Code Course Title Theory Practical Total
+EE3306 Instrumentation and Measurement 2 1 3
+ME3408 Fluid Mechanics 3 1 4
+MTE3312 Machine Design 3 0 3
+EE3327 Power Electronics 3 1 4
+MG3301 Project Management 3 0 3
+MS3306 Probability Methods in Engineering 3 0 3
+Total 17 3 20
+P age 81 | 647
+4.7.4 Year 4
+Semester VII
+Course Code Course Title Theory Practical Total
+MTE4314 Mechatronic System design 2 1 3
+MS4307 Numerical Methods 3 0 3
+EE4321 Industrial Control and Automation 2 1 3
+MTE4420 Introduction to Robotics 3 1 4
+DP4301 SDP-I 0 3 3
+Total 10 6 16
+Semester VIII
+Course Code Course Title Theory Practical Total
+MG4302 Technology Entrepreneurship 3 0 3
+English III (Official Communication
+HS3305 and Report Writing) 3 0 3
+HS3306 Pakistan and Islamic Studies 3 0 3
+HS4206 Professional and Social Ethics 2 0 2
+MTE4413 Sensors and Actuators 3 1 4
+DP4302 SDP-II 0 3 3
+Total 14 4 18
+P age 82 | 647
+4.8 Effective from Spring 2015
+4.8.1 Year 1
+Semester I
+Course Code Course Title Theory Practical Total
+EE1401 Linear Circuit Analysis 3 1 4
+MS1401 Engineering Physics 3 1 4
+Introduction to Computer
+CS1301 Programming 2 1 3
+ME1102 Workshop Technology 0 1 1
+HS1102 Community Service 1 0 1
+MS1302 Calculus 3 0 3
+Total 12 4 16
+Semester II
+Course Code Course Title Theory Practical Total
+MS1303 Linear Algebra 3 0 3
+HS1101 Leadership and Motivation 1 0 1
+EE2403 Fundamentals of Electronics 3 1 4
+EE1407 Digital Logic Fundamentals 3 1 4
+English I (Proficiency
+HS1303 Development) 3 0 3
+ME1204 Engineering Statics 2 0 2
+Total 15 2 17
+P age 83 | 647
+4.8.2 Year 2
+Semester III
+Course Code Course Title Theory Practical Total
+ME2205 Engineering Dynamics 2 0 2
+Differential Equations and
+MS1304 Transforms 3 0 3
+EE2302 Electrical Network Analysis 3 0 3
+EE2404 Electronic Circuit Design 3 1 4
+HS2304 English II (Public Speaking) 3 0 3
+ME2201 Engineering Drawing 1 1 2
+Total 15 2 17
+Semester IV
+Course Code Course Title Theory Practical Total
+Complex Variables and
+MS2305 Multivariable Calculus 3 0 3
+ME2311 Linear Systems Modeling 3 0 3
+EE3405 Linear ICs and Applications 3 1 4
+Materials and Manufacturing
+ME2310 Processes 3 0 3
+EE2425 Electrical Machines 3 1 4
+Total 15 2 17
+P age 84 | 647
+4.8.3 Year 3
+Semester V
+Course Code Course Title Theory Practical Total
+EE3418 Microcontroller based Systems 3 1 4
+EE3411 Linear Control Systems 3 1 4
+ME3326 Theory of Machines 3 0 3
+ME2309 Mechanics of Materials 3 0 3
+ME3307 Fundamentals of Thermal Sciences 3 0 3
+Total 15 2 17
+Semester VI
+Course Code Course Title Theory Practical Total
+EE3306 Instrumentation and Measurement 2 1 3
+ME3408 Fluid Mechanics 3 1 4
+EE3327 Power Electronics 3 1 4
+MG3301 Project Management 3 0 3
+MS3306 Probability Methods in Engineering 3 0 3
+ME3212 Machine Design 3 0 3
+Total 17 3 20
+P age 85 | 647
+4.8.4 Year 4
+Semester VII
+Course Code Course Title Theory Practical Total
+ME4314 Mechatronic System design 2 2 4
+MS4307 Numerical Methods 3 0 3
+EE4321 Industrial Control and Automation 2 1 3
+ME4313 Sensors and Actuators 3 1 4
+DP4301 SDP-I 0 3 3
+Fundamentals of Thermal Sciences
+ME3307 Lab 0 1 1
+Total 10 8 18
+Semester VIII
+Course Code Course Title Theory Practical Total
+MG4302 Technology Entrepreneurship 3 0 3
+English III (Official Communication
+HS3305 and Report Writing) 3 0 3
+HS3306 Pakistan and Islamic Studies 3 0 3
+HS4206 Professional and Social Ethics 2 0 2
+MTE4420 Introduction to Robotics 3 1 4
+DP4302 SDP-II 0 3 3
+Total 14 4 18
+P age 86 | 647
+4.9 Effective from Spring 2014
+4.9.1 Year 1
+Semester I
+Course Code Course Title Theory Practical Total
+MS1302 Linear Algebra 3 0 3
+MS1303 Calculus 3 0 3
+MS1401 Engineering Physics 3 1 4
+CS1301 Introduction to Computer Programming 2 1 3
+HS1101 Leadership and Motivation 1 0 1
+HS1102 Community Service 1 0 1
+Total 13 2 15
+Semester II
+Course Code Course Title Theory Practical Total
+MS1304 Differential Equations and Transforms 3 0 3
+EE1401 Linear Circuit Analysis 3 1 4
+EE1407 Digital Logic Fundamentals 3 1 4
+ME1204 Engineering Statics 2 0 2
+ME1102 Workshop Technology 0 1 1
+HS1303 English I (Proficiency Development) 3 0 3
+Total 14 3 17
+P age 87 | 647
+4.9.2 Year 2
+Semester III
+Course Code Course Title Theory Practical Total
+Complex Variables and Multivariable
+MS2305 3 0 3
+Calculus
+EE2302 Electrical Network Analysis 3 0 3
+ME2205 Engineering Dynamics 2 0 2
+EE2403 Fundamentals of Electronics 3 1 4
+HS2304 English II (Public Speaking) 3 0 3
+ME2201 Engineering Drawing 1 1 2
+Total 15 2 17
+Semester IV
+Course Code Course Title Theory Practical Total
+ME2310 Materials and Manufacturing Processes 3 0 3
+ME2311 Linear Systems Modeling 3 0 3
+EE2404 Electronic Circuit Design 3 1 4
+EE2425 Electrical Machines 3 1 4
+ME2309 Mechanics of Materials 3 0 3
+Total 15 2 17
+P age 88 | 647
+4.9.3 Year 3
+Semester V
+Course Code Course Title Theory Practical Total
+EE3417 Microcontroller-based systems 3 1 4
+ME3307 Fundamentals of Thermal Sciences 3 0 3
+ME3326 Theory of Machines 3 0 3
+EE3405 Linear ICs and Applications 3 1 4
+EE3411 Linear Control Systems 3 1 4
+Total 15 3 18
+Semester VI
+Course Code Course Title Theory Practical Total
+ME3212 Machine Design 3 0 2
+EE3306 Instrumentation and Measurement 2 1 3
+MS3306 Probability Methods in Engineering 3 0 3
+ME3408 Fluid Mechanics 3 1 4
+EE 3327 Power Electronics and Drives 3 1 4
+MG3301 Engineering Project Management 3 0 3
+Total 17 3 20
+P age 89 | 647
+4.9.4 Year 4
+Semester VII
+Course Code Course Title Theory Practical Total
+ME4314 Mechatronic System Design 3 0 3
+EE4321 Industrial Control and Automation 2 1 3
+ME4313 Sensors and Actuators 3 1 4
+HS4206 Professional and Social Ethics 2 0 2
+MS4307 Numerical Methods 3 0 3
+DP4301 SDP I 0 3 3
+Total 13 5 18
+Semester VIII
+Course Code Course Title Theory Practical Total
+EE4422 Robotics 3 1 4
+MG4302 Technology Entrepreneurship 3 0 3
+DP4302 SDP II 0 3 3
+English III (Official Communication and
+HS3305 3 0 3
+Report Writing)
+HS3306 Islamic and Pakistan Studies 3 0 3
+ME3307 Fundamentals of Thermal Sciences Lab 0 1 1
+Total 12 4 17
+114 25 139
+P age 90 | 647
+--------------------
+
+
+>>> OCR: SoftwareEngineering.pdf <<<
+1. Introduction
+1.1. Scope of this Document
+This document provides the description of the BE (Software Engineering) program offered by the
+College of Engineering at Karachi Institute of Economics and Technology. This includes the program
+introduction, program structure, scheme of studies and description of courses taught in the program.
+1.2. Vision of Software Engineering Program
+The vision statement of the Software Engineering program is as follows
+“To impart highest quality engineering education with an aim to produce proficient, creative and
+ethical software engineers who can take the role of visionary leaders, entrepreneurs and researchers at
+national and global levels”
+The above vision was approved by the ACM held on 18th March, 2019
+1.3. Mission of Software Engineering Program
+The mission statement of the Software Engineering program is as follows
+“To educate students through highly qualified faculty to have strong theoretical and practical
+expertise, team-work, leadership qualities, ethical values and entrepreneurship skills. Establish and
+maintain state-of-the-art laboratories, latest curriculum and industrial linkages. Prepare graduates to
+pursue higher studies and undertake research at national and global levels. ”
+The above mission was approved by the ACM held on 18th March, 2019
+1.4. Program Education Objectives (PEOs)
+There are three Program Education objectives of BE (Software Engineering) program:
+1. PEO1: The graduates will be able to apply software engineering knowledge to critically
+analyze, investigate and design innovative solutions for complex technological problems.
+2. PEO2: The graduates will be able to demonstrate sustained career development through life
+long learning, ethical practices and effective communication skills.
+3. PEO3: The graduates will be able to use their skills by undertaking roles as entrepreneurs and
+project managers to undertake new technological projects for development of society.
+1.5. Program Composition BE Software Engineering
+College of Engineering (CoE) has come up with a comprehensive curriculum covering not only the
+areas of engineering and sciences but also incorporating courses in humanities, social sciences and
+1
+management sciences. This is because CoE wants to make visionary engineers with high ethical and
+moral values working to serve the humanity.
+BE (Software Engineering) is a 136 credit hours program. Courses have been classified as
+General/Supporting and Computing/Software engineering courses as shown in the table below.
+Number of Courses Credit Hours
+General/Supporting 16 40
+Computing 31 96
+Total 47 136
+Number of Courses Credit Hours
+Humanities 4 10
+Social Sciences 2 2
+Management Sciences 3 5
+Natural Sciences 7 23
+Computing 2 6
+Engineering Foundation 9 32
+Core Breath of Engineering 9 27
+Core Depth of Engineering 6 18
+Multi-disciplinary 3 7
+Final year project 2 6
+Total 47 136
+The curriculum has been designed to provide the student basic knowledge in the broader area of
+computing and software engineering. The course of study is focused on the fundamental concepts
+enabling the students to pursue a career in any area from research and development to sales. In
+addition to the laboratory work that get the student familiar with computing, software engineering and
+electronics related equipment and with experimental techniques, course projects in almost every
+course help the student to learn how theoretical knowledge can be converted into working projects.
+2
+A two-semester senior design project usually involving industrial collaboration provides students with
+valuable experience in applying their knowledge and skills for solution of real-world problems.
+3
+2. Program Structure
+Theory Practical Number Total
+Contact Contact of Credit
+Course Group Course Course
+Hours Hours Courses Hours
+Code
+Humanities HS1303 English Proficiency Development 2 0 2
+HS2304 English Public Speaking 2 0 2
+HS3305 Official English Communication and 3 0 3
+Report Writing
+HS4306 Islamic Studies 2 0 2
+HSxxxx Ideology and Constitution of Pakistan 2 0 2
+HS1402 Chinese Language – I, II, III (NC) 0 0 0
+HS2402
+HS3402
+Sub Total 5 11
+Social Sciences HS1206 Professional and Social Ethics 2 0 2
+HS1102 Community Service (NC) 0 0 0
+Sub Total 2 2
+Management MG4302 Technology Entrepreneurship 2 0 2
+Sciences
+HS1101 Leadership and Motivation 1 0 1
+MG4402 Engineering Economics 2 0 2
+Sub Total 3 5
+Natural MS1303 Calculus and Analytical Geometry 3 0 3
+Sciences
+MS3306 Probability and Statistics 3 0 3
+MS1302 Linear Algebra 3 0 3
+MS4307 Numerical Methods 3 0 3
+MS1401 Applied Physics 3 3 4
+MS1304 Differential Equations and Transforms 3 0 3
+EE2403 Fundamentals of Electronics 3 3 4
+Sub Total 7 23
+Computing CS1303 Introduction to Computing 2 3 3
+and
+CS1304 Programming Fundamentals 2 3 3
+Information
+Sciences
+Sub Total 2 6
+4
+Engineering CS1306 Discrete Structures 3 0 3
+Foundation
+CS1305 Object Oriented Concepts and 2 3 3
+Programming
+SE4302 Formal Methods in Software Engineering 3 0 3
+CS2401 Data Structures and Algorithms 3 3 4
+EE1407 Digital Logic Fundamentals 2 3 3
+EE2308 Computer Architecture and Organization 2 3 3
+CS2403 Database Management System 3 3 4
+CS3301 Operating System 3 3 4
+EE4414 Computer Communication and Networks 3 3 4
+Sub Total 9 31
+Core Breath of CS4403 Human Computer Interaction 3 0 3
+Engineering
+CS3411 Software Engineering 3 0 3
+SE2301 Software Construction and Development 2 3 3
+SE3301 Software Design and Architecture 2 3 3
+SE3302 Software Project Management 2 3 3
+SE4301 Software Quality Engineering 2 3 3
+CS2302 Cloud Computing 2 1 3
+CS2303 Information Security 3 0 3
+CS2304 Design and Analysis of Algorithms 3 0 3
+Sub Total 9 27
+Core Depth of CS3306 Mobile Application Development 2 3 3
+Engineering
+CS3303 Computer Graphics 2 3 3
+CS4301 Compiler Construction (Fixed Elective) 2 3 3
+(Electives)*
+CS3305 Data Science / Web Engineering / Cyber 2 3 3
+Security
+CS3304 Artificial Intelligence 2 3 3
+CS3302 Automata Theory and Formal Languages 3 0 3
+(Fixed Elective)
+Sub Total 6 18
+5
+Theory Practical Number Total
+Contact Contact of Credit
+Course Group Course
+Hours Hours Courses Hours
+Multi- EE3417 Embedded Systems Design 2 3 3
+Disciplinary
+EE3418 Internet of Things 3 0 3
+Engineering
+Courses
+HS2101 Occupational Health and Safety 1 0 1
+Sub Total 3 7
+Final Year DP4301 Senior Design Project SDP-1 0 9 3
+Project
+DP4302 Senior Design Project SDP-2 0 9 3
+Sub Total 2 6
+Total 46 136
+Industrial Training-I and II (NC) 0 0
+Sports (Outdoor and Indoor) I – VIII (NC) 0 0
+Grand Total 136
+Depth of Engineering (Electives) *
+New elective courses will be added in this domain. These courses may belong to the following domains.
+Artificial Intelligence
+1.
+Data Science
+2.
+Embedded Systems
+3.
+Cloud Computing
+4.
+Cyber Security
+5.
+6
+3. Scheme of Studies for BE Software
+Engineering
+Effective from Fall-2023
+Year 1
+Semester I
+Course Code Course Title Theory Practical Total
+CS1303 Introduction to Computing 2 1 3
+CS1304 Programming Fundamentals 2 1 3
+MS1303 Calculus and Analytical Geometry 3 0 3
+MS1401 Applied Physics 3 1 4
+HS1303 English Proficiency development 2 0 2
+HS1101 Leadership and Motivation 1 0 1
+HS1402 Chinese Language HSK-1 0 0 0
+Total 13 3 16
+Semester II
+Course Code Course Title Theory Practical Total
+CS1306 Discrete Structures 3 0 3
+Object Oriented Concepts and
+CS1305
+Programming 2 1 3
+CS3411 Software Engineering 3 0 3
+EE2403 Fundamentals of Electronics 3 1 4
+HS2304 English public speaking 2 0 2
+HS1206 Professional and Social Ethics 2 0 2
+HS2402 Chinese Language HSK-2 0 0 0
+Total 15 2 17
+7
+Year 2
+Semester III
+Course Code Course Title Theory Practical Total
+HS4306 Islamic Studies 2 0 2
+HSxxxx Ideology and Constitution of Pakistan 2 0 2
+CS2401 Data Structures and Algorithms 3 1 4
+EE1407 Digital Logic Fundamentals 2 1 3
+MS1304 Differential Equations and Transforms 3 0 3
+SE3301 Software Design and Architecture 2 1 3
+HS3402 Chinese Language HSK-3 0 0 0
+Total 14 3 17
+Semester IV
+Course Code Course Title Theory Practical Total
+CS2403 Database Management System 3 1 4
+Formal Methods in Software
+SE4302
+Engineering 3 0 3
+Computer Architecture and
+EE2308
+2 1 3
+Organization
+CS3301 Operating System 3 1 4
+MS1302 Linear Algebra 3 0 3
+HS1102 Community Service 0 0 0
+Total 14 3 17
+8
+Year 3
+Semester V
+Course Code Course Title Theory Practical Total
+SE3302 Software Project Management 2 1 3
+CS3302 Automata Theory and Formal
+Languages (Elective-1) 3 0 3
+EE3417 Embedded Systems Design 2 1 3
+MS3306 Probability and Statistics 3 0 3
+CS2304 Design and Analysis of Algorithms 3 0 3
+CS3304 Artificial Intelligence (Elective-2) 2 1 3
+Total 15 3 18
+Semester VI
+Course Code Course Title Theory Practical Total
+CS4403 Human Computer Interaction 3 0 3
+CS3306 Mobile Application Development /
+Web Engineering (Elective-3) 2 1 3
+HS3305 Official Communication and Report
+writing 3 0 3
+EE4414 Computer Communication and
+Networks 3 1 4
+CS4301 Compiler Construction (Elective-4) 2 1 3
+Engineering Economics 2 0 2
+Total 15 3 18
+9
+Year 4
+Semester VII
+Course Code Course Title Theory Practical Total
+EE3418 Internet of Things 2 1 3
+SE2301 Software Construction 2 1 3
+CS2303 Information Security 3 0 3
+HS2101 Occupational Health and Safety 1 0 1
+CS3303 Computer Graphics (Elective-5) 2 1 3
+DP4301 SDP-1 0 3 3
+Total 10 6 16
+Semester VIII
+Course Code Course Title Theory Practical Total
+Data Science and Applications/Cyber
+CS3305 2 1 3
+Security (Elective-6)
+CS2302 Cloud Computing 2 1 3
+SE4301 Software Quality Engineering 2 1 3
+Numerical Methods 3 0 3
+MG4302 Technology Entrepreneurship 2 0 2
+DP4302 SDP-2 0 3 3
+Total 11 6 17
+10
+Effective from Fall-2019
+Year 1
+Semester I
+Course Code Course Title Theory Practical Total
+CS1303 Introduction to Computing 2 1 3
+CS1304 Programming Fundamentals 2 1 3
+MS1303 Calculus and Analytical Geometry 3 0 3
+MS1401 Applied Physics 3 1 4
+HS1303 English-1 (Proficiency development) 2 0 2
+HS1101 Leadership and Motivation 1 0 1
+Total 13 3 16
+Semester II
+Course Code Course Title Theory Practical Total
+CS1306 Discrete Structures 3 0 3
+Object Oriented Concepts &
+CS1305
+Programming 2 1 3
+EE1401 Linear Circuit Analysis 3 1 4
+HS1102 Community Service 0 1 1
+HS2304 English-2 (Public speaking) 2 0 2
+HS4306 Pakistan and Islamic Studies 3 0 3
+Total 13 3 16
+11
+Year 2
+Semester III
+Course Code Course Title Theory Practical Total
+CS3411 Software Engineering 3 0 3
+Algorithm Analysis and Data
+CS2401 3 1 4
+Structures
+EE1407 Digital Logic Fundamentals 3 1 4
+MS1304 Differential Equations & Transforms 3 0 3
+EE2403 Fundamentals of Electronics 3 1 4
+Total 15 3 18
+Semester IV
+Course Code Course Title Theory Practical Total
+CS2403 Database Management System 3 1 4
+SE3301 Software Design and Architecture 2 1 3
+Computer Architecture and
+EE2308
+2 1 3
+Organization
+CS3301 Operating System 3 1 4
+MS1302 Linear Algebra 3 0 3
+Total 13 4 17
+12
+Year 3
+Semester V
+Course Code Course Title Theory Practical Total
+SE4302 Formal Methods in Software
+Engineering 3 0 3
+CS3302 Automata Theory & Formal
+Languages (Elective-1) 3 0 3
+HS3305 English-3 (Official Communication &
+Report writing) 3 0 3
+EE3417 Embedded Systems based Systems
+Design 2 1 3
+MS3306 Probability and Statistics 3 0 3
+CS2304 Design and Analysis of Algorithms 3 0 3
+Total 17 1 18
+Semester VI
+Course Code Course Title Theory Practical Total
+CS4403 Human Computer Interaction 3 0 3
+SE3302 Software Project Management 2 1 3
+CS3304 AI and Neural Networks (Elective-2) 2 1 3
+EE4414 Computer Communication &
+Networks 3 1 4
+CS2303 Information Security 3 0 3
+HS2101 Occupational Health and Safety 1 0 1
+Total 14 3 17
+13
+Year 4
+Semester VII
+Course Code Course Title Theory Practical Total
+EE3418 Internet of Things 3 0 3
+SE2301 Software Construction 2 1 3
+MG4302 Technology Entrepreneurship 3 0 3
+CS3306 Mobile Application Development
+(Elective-3) 2 1 3
+CS3303 Computer Graphics (Elective-4) 2 1 3
+DP4301 SDP-1 0 3 3
+Total 12 6 18
+Semester VIII
+Course Code Course Title Theory Practical Total
+Data Science and Applications
+CS3305 2 1 3
+(Elective-5)
+CS2302 Cloud Computing 3 0 3
+CS4301 Compiler Construction (Elective-6) 2 1 3
+SE4301 Software Quality Engineering 2 1 3
+Professional and Social Ethics /
+HS1206 2 0 2
+Sociology
+DP4302 SDP-2 0 3 3
+Total 11 6 17
+14
+--------------------
+
+
+ --- LINKS FOUND ---
+https://coe.kiet.edu.pk/#news
+https://coe.kiet.edu.pk/#events
+https://coe.kiet.edu.pk/#contact
+https://coe.kiet.edu.pk/#about
+https://coe.kiet.edu.pk/#programs
+https://coe.kiet.edu.pk/#departments
+https://coe.kiet.edu.pk/#research
+https://coe.kiet.edu.pk/#admissions
+https://coe.kiet.edu.pk/#apply

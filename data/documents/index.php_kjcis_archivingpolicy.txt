@@ -1,0 +1,30 @@
+ Source URL: https://kjcisjournal.kiet.edu.pk/index.php/kjcis/archivingpolicy
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Archiving Policy
+Purpose
+The KIET Journal of Computing and Information Sciences (KJCIS) is committed to ensuring the permanent availability, preservation, and accessibility of all published scholarly content in compliance with the Higher Education Commission (HEC) Pakistan journal recognition and indexing requirements.
+Scope
+This policy applies to all content published in KJCIS, including research articles, review papers, and editorials.
+Archiving Method
+KJCIS follows a web-based archiving policy. All published articles are permanently archived on the official KJCIS journal website. Each article is assigned a permanent URL to ensure persistent and reliable access.
+Version of Record
+Only the final, peer-reviewed, and accepted version of each article is archived and made publicly available as the official version of record.
+Data Backup and Security
+The journal website and its archived content are regularly backed up to protect against data loss due to technical failures, cyber incidents, or accidental deletion. Archived content is protected from unauthorized alteration.
+Long-Term Accessibility
+KJCIS ensures long-term accessibility of its published content. In case of website migration or journal discontinuation, archived content will continue to be hosted on the institutional server or an alternative designated platform to maintain uninterrupted access.
+Open Access
+All archived articles are freely and openly accessible without embargo, supporting HEC Pakistan and international open-access publishing principles.
+Author Self-Archiving
+Authors are permitted to self-archive the published version of their articles on personal or institutional repositories, provided proper citation and acknowledgment of KJCIS as the original publisher are maintained.
+Policy Review
+This archiving policy is periodically reviewed and updated by the KJCIS Editorial Board to ensure continued compliance with HEC Pakistan and international publishing standards.
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

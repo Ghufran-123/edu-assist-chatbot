@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>EDU Assist — KIET University</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@700;800&family=DM+Sans:wght@300;400;500&family=Manrope:wght@500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet"/>
+<link rel="stylesheet" href="/assets/style.css"/>
+<style>
+/* ── Home-specific ── */
+.home-wrap {
+  min-height: 100vh;
+  display: flex; flex-direction: column;
+  align-items: center; justify-content: center;
+  padding: 80px 24px 48px;
+  position: relative; overflow: hidden;
+  text-align: center;
+}
+
+/* Animated orbs */
+.orb {
+  position: absolute; border-radius: 50%;
+  filter: blur(90px); pointer-events: none; z-index: 0;
+}
+.orb1 { width:460px; height:460px; background:rgba(109,40,217,.18); top:-120px; left:-120px; animation:float1 9s ease-in-out infinite; }
+.orb2 { width:320px; height:320px; background:rgba(59,130,246,.10); bottom:40px;  right:-60px;  animation:float2 11s ease-in-out infinite; }
+.orb3 { width:220px; height:220px; background:rgba(16,185,129,.07); top:50%; left:50%; transform:translate(-50%,-50%); animation:float3 13s ease-in-out infinite; }
+@keyframes float1 { 0%,100%{transform:translate(0,0)} 50%{transform:translate(28px,18px)} }
+@keyframes float2 { 0%,100%{transform:translate(0,0)} 50%{transform:translate(-18px,-26px)} }
+@keyframes float3 { 0%,100%{transform:translate(-50%,-50%)} 50%{transform:translate(-44%,-56%)} }
+
+.home-content { position:relative; z-index:1; max-width:660px; }
+
+.eyebrow {
+  display:inline-flex; align-items:center; gap:7px;
+  background:rgba(139,92,246,.12); border:1px solid rgba(139,92,246,.25);
+  border-radius:99px; padding:5px 16px;
+  font-family:var(--font-data); font-size:12px; font-weight:500;
+  color:var(--purple); margin-bottom:28px; letter-spacing:.05em;
+}
+.eyebrow .pulse-dot {
+  width:7px; height:7px; border-radius:50%;
+  background:var(--green); animation:pulse 2s infinite;
+}
+@keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.35} }
+
+.hero-title {
+  font-family:var(--font-head);
+  font-size: clamp(44px, 6.5vw, 76px);
+  font-weight:800; line-height:1.04;
+  letter-spacing:-.025em;
+  color:var(--text); margin-bottom:20px;
+}
+.hero-title .accent { color:var(--purple); }
+
+.hero-sub {
+  font-family:var(--font-body); font-size:17px;
+  color:var(--text2); font-weight:300; line-height:1.75;
+  margin-bottom:40px; max-width:500px; margin-left:auto; margin-right:auto;
+}
+
+.cta-row { display:flex; gap:12px; justify-content:center; margin-bottom:40px; flex-wrap:wrap; }
+
+.btn-primary {
+  background:var(--purple); color:#fff; border:none;
+  border-radius:var(--radius); padding:13px 30px;
+  font-family:var(--font-card); font-size:14px; font-weight:600;
+  cursor:pointer; transition:all .2s; display:flex; align-items:center; gap:8px;
+  box-shadow:0 0 28px rgba(139,92,246,.35);
+  text-decoration:none;
+}
+.btn-primary:hover { background:#7c3aed; transform:translateY(-2px); box-shadow:0 0 36px rgba(139,92,246,.5); }
+
+.btn-secondary {
+  background:var(--bg3); color:var(--text); border:1px solid var(--border2);
+  border-radius:var(--radius); padding:13px 28px;
+  font-family:var(--font-card); font-size:14px; font-weight:500;
+  cursor:pointer; transition:all .2s; display:flex; align-items:center; gap:8px;
+  text-decoration:none;
+}
+.btn-secondary:hover { background:var(--bg4); border-color:rgba(255,255,255,.2); transform:translateY(-2px); }
+
+/* Feature pills */
+.pills { display:flex; flex-wrap:wrap; gap:10px; justify-content:center; }
+.pill {
+  background:var(--bg3); border:1px solid var(--border);
+  border-radius:99px; padding:7px 18px;
+  font-family:var(--font-data); font-size:12px; font-weight:500;
+  color:var(--text3); letter-spacing:.02em; transition:all .2s;
+}
+.pill:hover { border-color:rgba(139,92,246,.3); color:var(--text2); }
+</style>
+</head>
+<body>
+
+<!-- Nav -->
+<nav class="nav">
+  <div class="nav-logo">🤖 <span>EDU</span> Assist</div>
+  <div class="nav-links">
+    <a class="nav-link active" href="/">Home</a>
+    <a class="nav-link" href="/chat">Chat</a>
+    <a class="nav-link admin-link" href="/admin">🔐 Admin</a>
+  </div>
+</nav>
+
+<!-- Home -->
+<main class="home-wrap">
+  <div class="orb orb1"></div>
+  <div class="orb orb2"></div>
+  <div class="orb orb3"></div>
+
+  <div class="home-content">
+    <div class="eyebrow">
+      <span class="pulse-dot"></span>
+      KIET University · AI Chatbot · Iteration 6
+    </div>
+
+    <h1 class="hero-title">
+      Welcome to<br><span class="accent">EDU Assist</span>
+    </h1>
+
+    <p class="hero-sub">
+      Your intelligent academic assistant. Ask anything about admissions,
+      programs, fees, events, and more — answered instantly.
+    </p>
+
+    <div class="cta-row">
+      <a class="btn-primary" href="/chat">💬 Start Chatting →</a>
+      <a class="btn-secondary" href="/admin">🔐 Admin Portal</a>
+    </div>
+
+    <div class="pills">
+      <div class="pill">🧠 Multi-turn Memory</div>
+      <div class="pill">⚡ Instant Cache</div>
+      <div class="pill">📡 8 AI Agents</div>
+      <div class="pill">🔒 Admin Portal</div>
+    </div>
+  </div>
+</main>
+
+</body>
+</html>

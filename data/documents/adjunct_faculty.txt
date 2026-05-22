@@ -1,0 +1,217 @@
+ Source URL: https://cocis.kiet.edu.pk/adjunct_faculty/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Adjunct Faculty
+Dr. Tahir Ali
+Ph.D, Marketing (UoK);
+MCom, Marketing;
+MA, Economics (UoK)
+Work Experience:
+• Assistant Professor, University of Karachi since 1996
+• Head of Department, Commerce DA College from 1990 to 1996
+Research Interest:
+Marketing and Management, Organization Behavior
+Mr. Humayun Mazhar Qureshi
+BE (Electronics), Dawood Engineering College
+Work Experience:
+• CEO, Prislogix Karachi
+• Over 20 years of experience at IBM
+• It Consultant (Corporate Sector), Board of Revenue Sindh, Peoples Steel Mills Ltd., Pakistan SW Export Board, Zultec
+• Senior Lecturer, Manager Ind. Projects, KIIT
+• Visiting Faculty Member, Usman Institute of Technology
+• Visiting Faculty, University of Huddersfield, UK
+Research Interest:
+Machine Transection, Quality Process Management, System Analysis and Design, Software Engineering Practices CMM, Object Oriented Development, Data Modeling, Electronic Payment System and E-Technology
+Mr. Usman Waheed
+MSCS (SZABIST), BS (SSUET)
+Work Experience:
+• Faculty Member, Bahria University
+• Faculty Member, KIET
+• Teaching Experience, IBA (2 years)
+• Senior System Analyst, HK soft
+Research Interest:
+System Analysis and Design, Software Engineering Practices CMM, Object Oriented Development, Data Modeling, Electronic Payment System and E-Technology
+Mr. Maqsood Razi
+Enrolled in PhD (KIET), MSCS (KIET)
+Work Experience:
+• Faculty Member, Eelo American University, East Africa
+• Faculty Member, University of Hargeisa, East Africa
+• Faculty Member, Mercy Academy of Higher Education, East Africa
+• Visiting Faculty Member, MAJU, Pakistan
+• Faculty Member, TEC College( Affiliated KU), Pakistan
+• Faculty Member, Pak Naval Academy, Pakistan
+• Faculty Member, Balochistan Engineering University, Pakistan
+• Manager MIS, Datasoft Publishers, Pakistan
+• System Analyst, Datasoft Computer Systems, Pakistan/UAE
+Research Interest:
+Cryptography and Network Security, Information and Data Security, Software Engineering, Wireless Networks
+Mr. Muhammad Qasim Pasta
+Enrolled in PhD (KIET),
+MSCS (KIET),
+BSCS (UIT) Gold Medalist
+Work Experience:
+• Program Manager College of Computing & Information Sciences, KIET since 2011
+• CEO, Naveeta Enterprise
+• Permanent Faculty KIET since 2009
+• Technical Lead, OvrLod (Pvt.) Ltd.
+• Software Engineer, ITIM Systems (Pvt.) Ltd.
+• Jr. Software Engineer, Knowledge Management
+• Web Developer, Soft-Club
+• Honorary Manager, IT Infrastructure, Hassan Tayyab Academy
+Research Interest:
+Ubiquitous and Pervasive Computing, Mobile Computing, Location Based Services,
+Mr. Shahid Shahzad Bajwa
+MSCS (KIET);
+BSCS (Shah Abdul Latif University)
+Work Experience:
+• Assistant Manager Academics, KIET
+• Visiting Faculty member, DIHE
+Research Interest:
+Security and Management in Wireless Networks, Network Management
+Mr. Waqas Mahmood
+ME (NED)
+BE Electronics (SSUET)
+Work Experience:
+• Joint Director, State Bank of Pakistan
+• Manager, Atlas Bank
+• Senior Officer, ABN AMRO Bank
+• CEO, Softwebsrv
+• Faculty member, of IBA
+• Software Process Engineer, E-Patterns
+Research Interest:
+Grid Computing, CMM
+Mr. Tahir Khan
+MBA-MIS (KIET)
+Work Experience:
+More than 20 years of Industry Experience
+Heading the IT and ERP team at Shirazi Trading
+Research Interest:
+Data warehousing, Paper less office, cloud computing
+Mr. Abid Munif
+MS Software Project Management (FAST)
+Work Experience:
+• More than 12 years of Software Development and Quality Assurance experience
+• Worked at Contour Software Pvt. LTd/ 360Traning/ Knowledge Management/ TradeLink
+Research Interest:
+Software Quality Assurance, Software Project Management
+Mr. Muhammad Siddiq
+M.Sc – Supply Chain Mgmt. (Chalmers University of
+Technology – Sweden),
+B.E – Mechanical
+(NED UET – Karachi)
+Work Experience:
+• Sr. SAP Specialist, Indus Motors Company
+• Sr. Managing Consultant, Abacus Consulting
+• Remained involve in multiple end-to-end ERP implementations
+• Application Consultant at IFS
+• Assistant Supply Chain Manager, Peoples Steel Mills Ltd.
+Research Interest:
+Business Process optimization, Business Process Automation, Business Intelligence and Innovative Business Management Solutions
+Mr. Suhail Khaled
+MBA (IBA)
+MSIT (Hamdard University),
+BCS (FAST)
+Work Experience:
+• Project Manager, Wavetech (Pvt)Ltd.
+• Lecturer, Hamdard University
+• Senior System Analyst, KAPPS system (Pvt) Ltd.
+Research Interest:
+Artificial Intelligence, Algorithm Design, Project Management
+Mr. Najeeb Haider Zaidi
+M.Sc. (MICROWAVE), University of Surrey UK,
+BE (Electronics) SSUET
+Work Experience:
+• Business Development Manager, Lawrence Telecom Solutions
+• (Countrywide) Manager Security Projects, Standard Chartered Bank
+• Assistant Professor (visiting), KIET
+• Consultant, 3a Corporation
+• Chief Executive Officer, Elink System Pakistan
+• Marketing Consultant, Business Consultant Pakistan
+Research Interest:
+Advance Mobile Communication, Rfic & Mmic Design and Technology
+Mr Syed Salman Sarwat
+ACMA
+M.Com, DAIBP
+ACIS
+Work Experience:
+• Cost Officer, Pearl Continental hotel (1999-00)
+• Assistant Manager, Business Research, Prime Management Services (2000-02)
+• Financial Analyst, Enar Petro-Tech Services Pvt (Ltd.) (2002-03)
+• Manager Credits, National Bank of Pakistan (2003-07)
+• Assistant professor, Muhammad Ali Jinnah University (2007)
+Research interest:
+Finance, Islamic Banking
+Mr. Abbas Ali
+MBA (IOBM), BSCS(KIET), Project Management (SSUET)
+Work Experience:
+• Project Manager, Jaffer Brother’s Pvt. Ltd., since Oct-2008
+• Functional Consultant Lead, Jaffer Brother’s Pvt. Ltd., Jun-2007
+• Data/Reporting Analyst, SPlus Technologies, LLC., Feb-2005
+• Implementation Consultant, ePatterns Pvt. Ltd., Mar-2003
+Research Interest:
+Business Intelligence Solutions, Project Management and ERP Implementations.
+Mr. Faisal Hussain
+MCS (KU)
+Work Experience:
+• Head of Information Technology, Cupola Group since 2010
+• Visiting faculty, Karachi University & KIET
+• Manager Network and Infrastructure, NIB Bank
+• Member of Technical Committee for RTGS, State Bank of Pakistan
+• IT Consultancy assignment for various National and Multi National Organizations
+Research Interest:
+Security, Advance Routing, ERP and Next Generation Networks
+Mr. Imtiaz Ahmed Khan
+MSCS (SZABIST),
+MSIT (PIMSAT)
+Work Experience:
+• Manager Ip & Data, Satcomm Pvt Limited
+• Network & Project Manager, Employees’ Oldage Benefits Institution (Govt. of Pakistan)
+• Sr. System Consultant, Ants Consulting
+• System Engineer, New Institute of Data Processing
+Research Interest:
+Network Management and Security
+Mr. Ashraf Bana
+SAP Certified Consultant
+Work Experience:
+• More than 10 years of ERP Implementation experience
+• Worked at Indus Motor, Unilever Pakistan, Siemens (Pakistan) Engineering Co. Ltd
+Research Interest:
+ERP Implementation Methodology
+Mr. Adnan Fayyaz
+BSCS (PAF- KIET)
+Certified Ethical Hacker
+Work Experience:
+• Information Security Specialist at Primatics Solution
+• Three years of Technical and Operations management experience at CISCO academies
+• One year experience of Information Security & Penetration Testing
+Research Interest:
+ID Systems & Honeynet
+Mr. Abdul Rahman Qaim Khan
+BSCS (KIET)
+Gold Medalist
+Work Experience:
+• Software Engineer : Naveeta Enterprises Karachi
+• Software Engineer: Hasan Computing Systems Karachi
+• Faculty: Aptech Computer Education Pakistan Operations
+Research Interest:
+Volunteer Computing, Image Processing, Mobile Development, Software Engineering
+Mr. Ali Zaman
+MSCS (SZABIST) , BSc (KIIT)
+Work Experience:
+• Software Engineer, Next Generations Solutions
+Research Interest:
+Machine Learning, Optimization
+Miss Sidra Feroz
+BE Telecommunication (NED)
+Work Experience:
+Coordinator to CEO at Limitless Solutions
+Research Interest:
+Wireless & Mobile Communication
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

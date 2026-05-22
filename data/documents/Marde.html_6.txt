@@ -1,0 +1,18 @@
+ Source URL: https://iccis.kiet.edu.pk/Marde.html#Committee
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Dr. Mardé Helbig
+Dr. Mardé Helbig
+Talk Title:
+"Computational Intelligence Algorithms for Dynamic Multi-objective Optimization"
+"Most optimization problems in real-life have more than one objective, with at least two objectives in conflict with one another and with at least one objective and/or constraint changing over time. These kinds of optimization problems are referred to as dynamic multi-objective optimization (DMOO) problems. Instead of re-starting the optimization process after a change in the environment has occurred, previous knowledge is used and if the changes are small enough, this may lead to new solutions being found much quicker.
+This talk will introduce the participants to the field of DMOO and the traditional approaches that were used to solve DMOOP problems. The main categories of computational intelligence algorithms that have been proposed to solve DMOO are highlighted, as well as the advantages of using these algorithms. Challenges in the DMOO field that are not yet addressed are identified, such as incorporating a decision maker’s preference in DMOO and visualizing the behavior of DMOAs. Finally, emerging research fields (such as many-objective optimization and fitness landscape analysis) that provide interesting research opportunities in the field of DMOO are highlighted.
+Back
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

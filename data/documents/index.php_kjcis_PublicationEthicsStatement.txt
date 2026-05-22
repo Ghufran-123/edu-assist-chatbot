@@ -1,0 +1,41 @@
+ Source URL: https://kjcisjournal.kiet.edu.pk/index.php/kjcis/PublicationEthicsStatement
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Publication Ethics Statement
+The KIET Journal of Computing & Information Sciences (KJCIS) is committed to maintaining the highest standards of publication ethics. The journal follows internationally recognized guidelines for ethical publishing, including the principles of honesty, accuracy, transparency, and accountability. This statement applies to authors, reviewers, editors, and the publisher.
+Core Ethical Standards
+Manuscripts must present original work that has not been published or submitted elsewhere.
+All data, methods, and results must be reported accurately and without manipulation.
+All sources must be properly cited to avoid plagiarism.
+Authorship should reflect actual contributions and must be disclosed transparently.
+Conflicts of interest (financial, institutional, or personal) must be declared.
+Research involving humans or animals must include appropriate ethical approval and declarations.
+Editors and reviewers must maintain confidentiality and avoid bias.
+Responsibilities of Authors
+Submit only original work and avoid duplicate, fragmented, or redundant publications.
+Ensure accuracy of data, analysis, and interpretations.
+Provide ethical approval information for human/animal research where applicable.
+List only contributors who meet authorship criteria.
+Disclose funding sources and any competing interests.
+Responsibilities of Reviewers
+Provide fair, unbiased, and timely reviews.
+Maintain strict confidentiality of manuscript contents.
+Declare conflicts of interest and decline review if necessary.
+Identify ethical concerns, plagiarism, duplicated content, or data inconsistencies.
+Responsibilities of Editors
+Make editorial decisions based on scholarly merit and relevance.
+Ensure a fair and unbiased peer-review process.
+Investigate ethical concerns or allegations of misconduct.
+Maintain confidentiality and avoid conflicts of interest.
+Handling Allegations of Misconduct
+Allegations of plagiarism, data manipulation, unethical authorship, or other misconduct will be investigated following COPE guidelines. Actions may include rejection, correction, expression of concern, or retraction.
+Commitment to Transparency & Integrity
+KJCIS promotes ethical research practices by clearly publishing its editorial policies, peer-review processes, authorship criteria, and publication standards. The journal continually evaluates and updates its policies to align with global best practices.
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

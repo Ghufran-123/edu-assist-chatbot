@@ -1,0 +1,49 @@
+ Source URL: https://kjcisjournal.kiet.edu.pk/index.php/kjcis/issue/view/10
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Vol. 6 No. 1 (2023): Volume 6 | Issue 1 | Jan - June  | 2023
+DOI:
+https://doi.org/10.51153/kjcis.v6i1
+Published:
+2023-03-15
+Full Issue
+Requires Subscription
+PDF
+Articles
+Temporal Distance Issues and their Mitigation Strategies in GSD: An Empirical Study
+Atta ur Rahman Attaurrahman, Uzair Iqbal  Janjua, Adeel  Ahmed, Tahir Mustafa  Madani
+1-27
+PDF
+Road Accidents Investigation and Forecasting Using Data Mining Techniques
+Usama Fareed , Umair Khadam, Muhammad Munwar Iqbal , Muhammad Javed Iqbal
+28-49
+PDF
+A Smart Model for Categorization of GitHub Repositories
+Muhammad Muneeb Aslam, Muhammad Farhan, Sana Yaseen, Ahmad Raza, Muhammad Javed Iqbal, Muhammad Munwar Iqbal
+50-64
+PDF
+Nice PC Maker: An Online Interface to build Custom PCs
+Sameer  Khursheed, Muhammad Moiz  Khan, Lachman  Das,  Dr. Shazia  Usmani, Dr. Uzma Afzal
+65-81
+PDF
+An efficient Convolutional Neural Network (CNN) Based  Image Colorization Technique
+Muhammad Wasim, Lubaid  Ahmed, Muhammad Saad  Najib, Muhammad Talha  Khalil, Mohammad Waiz  Ali,  Ali Ahmed  Khan
+82-92
+PDF
+Evaluation of Image Support Resolution Deep Learning Technique based on PSNR Value
+Muhammad  Azam, Muhammad  Nouman
+93-122
+PDF
+Counterfeit Recognition of Pakistani Currency
+Syeda Aimen Naseem, Afifa Rehman, S. M. Zia Uddin, Dr. Babar Khan, Zeeshan  Mehmood, Mehr Un Nisa
+123-147
+PDF
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---
+https://kjcisjournal.kiet.edu.pk/index.php/kjcis/issue/view/10/11

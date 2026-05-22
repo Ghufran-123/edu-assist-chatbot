@@ -1,0 +1,179 @@
+ Source URL: https://kiet.edu.pk/main/imr/#tab-1474440541171-4-9
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Visit IMR Lab new website
+IMR LAB
+Home
+Project
+Research
+Deliverables
+Team
+Reports
+Contacts
+Research Publications
+News & Events
+Project Introduction
+Project Title: Design and development of Intelligent Mobile Robots (IMRs) for disaster mitigation and firefighting
+Principal Investigator: Dr. Muhammad Bilal Kadri (KIET)
+Co-Principal Investigator: Dr. Tariq Mairaj Rassol Khan (NUST-PNEC)
+Research Grant: Rs 14.6 million
+Funding Agency: National ICTR&D Fund Pakistan
+Introduction
+The aim of the project is to design and fabricate Intelligent Mobile Robots (IMRs) which are capable of fire fighting and disaster mitigation. The final product will be a small team of intelligent mobile robots with all the state of the art technologies embedded onto a single board. The board will be mounted on the mobile robots that will enable the robots to take intelligent decisions on the run and create an ad-hoc network at the disaster location.
+Objectives
+The scope of the project is to develop a group of intelligent cooperative fire fighting and disaster mitigation mobile robots which can perform critical operations in adverse circumstances and hazardous environments. Mobile robots will be developed that can be included as a work force in the fire fighting department. The IMRs will be built in-house and will also be available for local industries/hospitals/offices. The intelligent mobile robots will be able to execute a mission (e.g. object detection in a complex terrain, surveying, trajectory following etc) by incorporating intelligent techniques and robust control algorithms. The mobile robots will be equipped with all the modern sensing and communication devices with onboard computational capabilities.
+Executive Summary
+The past records indicate a high frequency of disasters of multiple nature and magnitudes as experienced by Pakistani nation. These disasters include industrial fires, terrorism, floods and earthquakes. This document is prepared to propose the development of intelligent mobile robots to mitigate such disasters.
+The industrial sector of Pakistan is huge and consist of myriad industrial units ranging fromcement manufacturing, dying units, steel, glass, paints and many others in which heavy machinery is utilized. Due to the ad-hoc nature of the industrial setup and absence of stringent rules and regulations governing the installation and commissioning of boilers, heaters and many other electro-mechanical equipments, accidents are frequent. In most of the cases the accidents no matter what the cause leads to fire. The fire fighting department, in most Pakistani cities is unable to provide immediate support for extinguishing the fire.
+Quick and effective rescue operation cannot be guaranteed due to many unavoidable reasons. Fire fighting is a dangerous job which in certain situations may lead to severe casualties of the work force involved. In case of disastrous situation where the fire fighters cannot move into the building without endangering their lives, mobile robots equipped with fire fighting equipments can be sent into the premises. The intelligent mobile robots (IMRS) can be equipped with various fire fighting equipments as well as debris removal gear.
+IMRs Application for ICT-Related Development and Research Grant Page 4 would be able to navigate within the building with the help of onboard cameras and intelligence built into them. The mobile robots can transmit images from the source of fire/hazard which can be utilized for better decision making in disaster management as well as post disaster analysis for determining the cause(s) of disaster. Pakistan is geographically situated on Earth’s fault lines.
+The country has a history of several earthquakes. The earthquakes inflicted severe loss of infrastructure as well as precious human lives. Destruction caused by earthquakes seriously impedes the immediate rescue efforts. Provision of immediate rescue efforts could only guarantee life safety to the effected. Terrorism threat in Pakistan is also very high. Loss of human life and property are obvious consequences of terrorism. Pakistan’s largest coal reserves are found in Sindh with approximately 184.623 billion tones. There are many coal mines spread in Lakhra, Sonda Thatta, Jherruck and Thar areas. In case of a coal mine disaster the rescue workers cannot penetrate deep in to the mines and perform a successful operation. There is a high probability that the rescuers can get poisoned in underground coal mines which is full of toxic gases. The rescue efforts are seriously hampered due to the presence of poisonous gases such as CO and CH4. Intelligent mobile robots (IMRs) can perform in such hazardous environment and can help in reducing the casualties.
+Intelligent Mobile Robots (IMRs) are extensively used nowadays in many applications and they are extremely helpful. They can be effectively utilized in life threatening missions as well as in harsh weathers for surveillance investigation, tracking, rescue operation and map generation. Use of sensor network based technologies can enhance the level of preparedness and the ability to handle consequences of the disaster. Applications which have human risks such as handling of nuclear waste, identification of location of explosives, etc., show the potential of use of mobile robots functioning as a group. IMR’s with all of the state of the art technologies built into it are very costly. Small scale IMRs are available in the market but all of them have manual control which is difficult to manage and even the experienced personnel cannot guarantee a successful mission. Formation movement i.e. multiple IMRs dedicated for a mission, which is required in many operations is quite challenging for human operators. Tracking or locating a specific target with built in intelligence is also not available in the ordinary IMRs available in the market. Programmable IMR’s that can be customized for certain missions are not available and those which are available have very limited capabilities.
+Intelligent mobile robots having the following features:
+Detection and extinguishing the fire
+Intelligent behavior such as object detection, target tracking, collision avoidance
+Formation movement of a group of robots
+Autonomous and manual control
+The aim of the project is to develop a small team of intelligent mobile robots with all the state of the art technologies embedded onto a single board. The board will be mounted on the mobile robots that will enable the robots to take decision on the run and create an ad-hoc network at the disaster location.
+Scope of the Project
+The scope of the project is to develop a group of intelligent cooperative fire fighting and disaster mitigation mobile robots which can perform critical operations in adverse circumstances and hazardous environments. Mobile robots will be developed that can be included as a work force in the fire fighting department. The IMRs will be built in-house and will also be available for local industries/hospitals/offices. The intelligent mobile robots will be able to execute a mission (e.g. object detection in a complex terrain, surveying, trajectory following etc) by incorporating intelligent techniques and robust control algorithms. The mobile robots will be equipped with all the modern sensing and communication devices with onboard computational capabilities.
+The IMR software will consist of the following modules
+a) Control Strategy:
+Control algorithm that will enable the mobile robots to track a certain trajectory will be the first module. This algorithm shall cater all the requirements of a control system such as set-point tracking, robust control performance. Since the environment in which the IMRs will be operating will have lot of uncertainty and should have a capability to adapt to the current environment, adaptive neuro-fuzzy controllers will be used. The neuro-fuzzy control architecture proposed by Tan and Dexter (2000). Kadri and Dexter (2009) will be incorporated. The model free neuro fuzzy controller is robust and has quick learning capability. The online algorithms that will be incorporated are computationally undemanding. The control algorithm will be developed and tested in Matlab/SIMULINK. After successful performance in the simulated environment the algorithms will be transformed on an embedded system. Maneuvering capabilities of the mobile robots along with the dynamics will be analyzed.The feed-forward controller develops an inverse plant model using feedback error learning and the adaptive algorithms. The adaptive algorithm used is Recursive Least Square (RLS). Feedback error learning is based on the concept of reinforcement learning.
+b) Networked Control and Mobile Sensor Network
+In nature many systems exist which move in swarms, schools and flocks. In all the system individual follow the leader. The agents must move in a rigid structure. The formation control can be either vision based formation control or communication based formation control. An ad-hoc network can be created in the disaster hit area which can be developed by group of mobile robots moving in the area. The IMRs will create a mobile sensor network. This module includes movement of the IMR in a formation. A group of robots can perform tasks such as multipoint surveillance, distributed localization, mapping and cooperative transport. Initially a group of two (02) mobile robots will be developed. Communication links need to be developed between the mobile robots such that all of them remain connected with one another as well as with the base station. The purpose of this module is to enable collaboration between the robots and to work as a team. Each robot will act an as agent and will work towards the accomplishment of a certain goal. Master/Slave or peer to peer collaboration for networked control will be simulated in Matlab/SIMULINK.
+c) Image processing module
+This includes data acquisition through on-board cameras. Image processing algorithms should run on chip and should be able to detect any obstructions. The mobile robots will be equipped with an onboard thermal imaging camera (TICs). The tracking capability involves intelligent behavior such as object recognition. Artificial Neural Networks (ANN) with image pre-processing will be utilized to recognize objects.
+d) Path Planning/ Obstacle Avoidance
+Covert Robotics have been proposed by Marzouqi & Jarvis (2003) and Marzouqi & Jarvis (2004). The robot is able to traverse a path using Discrete Transform (DT) path planning methodology in high risk fire front and low visibility environments. Simulation results demonstrating the efficiency of the DT algorithms have proved it to be a successful technology for robot path planning. (Two more strategies regarding path planning). A fire fighting mobile platform proposed by Khoon et. al (2012) ;limits the movement of robot only on a specified path. A guiding track is hard coded and the robot has no built in intelligence to search for the best path and change its trajectory based on the current situation.
+Hardware in the loop (HIL) simulation is an effective mechanism through which the performance of the control algorithms can be validated. HIL Simulations can be carried out in two modes. In the first case the actual plant is available and is interfaced with the desktop PC running the control (or any other) algorithm. The responses to and from the plant can be visualized on the PC using software such as Matlab or LabView. In the second mode the control algorithms are translated onto an embedded system such as FPGA/DSP Processor and a model of the plant is developed using the simulation tool such as SIMULINK/LABView etc. In this mode the objective is to compare the performance of the algorithms after they are converted into VHDL/Verilog to be synthesized on the embedded platform. Stewart et. al (2004) have demonstrated the performance of a fuzzy logic controller in hardware in the loop simulation. The parameters of the fuzzy logic controller were tuned online. The fuzzy logic controller was tested on DC motion control platform. Testing the flight performance of Unmanned Air Vehicle (UAV) in a real time scenario is a challenging and risky task. With the help of HIL simulations the robustness of the control algorithms can be tested on the actual UAV. Cai et.al (2009) have proposed a hardware in the loop framework for custom constructed unmanned air vehicle helicopter.
+Block Diagrams of The Project:
+Hardware Schematic ver 1.0:
+MFFAC Control Structure:
+Software Schematic ver 1.0:
+Milestones Chart with Deliverables
+Elapsed time from project start
+Milestones
+Deliverables
+3 months
+Hiring of personnel and development of basic control algorithms.A detailed literature survey will be carried out and efforts will be made to finalize the pseudo code for networked control of the IMRs, image processing module and path planning and obstacle avoidance.Software development platforms for all the algorithms to be developed will be acquired.
+1) A report containing the simulation results in Matlab/ Simulink of the control algorithms for IMRs.The report will contain details of the following four software modules:a ) Control Strategy
+b) Networked Control and Mobile Sensor Network
+c) Image Processing Module
+d) Path Planning/Obstacle Avoidance
+2) Website showcasing all the development stages of the IMR.
+6 months
+Development of the IMRs
+Purchase of equipment
+Adaptive Fuzzy Control    Algorithm development
+Design of robotic platform
+Integration of equipment according to design
+·   The basic mechanical structure of the IMR. All the electronic circuitry will be purchased.·   A basic prototype of the IMR. This will only consist of the mechanical structure. The mechanical structure will consist of slots for motors, electronic cards, camera and sensor. A complete fire proof casing will also be developed.·   A complete report containing the complete mechanical design of the IMR as well as the design of the electronic circuits.
+9 months
+Implementation of the image processing algorithm and translation of the control algorithms from Matlab to FPGA/ARM processor.
+Image processing algorithm will be implemented in Matlab.
+The code will be converted to Verilog and synthesized in an FPGA.
+Non-optimized code segments will be replaced to improve performance.
+Camera will be interfaced with the FPGA and the performance will be verified.
+Control algorithms will be developed and simulated in Matlab environment.
+Conversion from Matlab to synthesizable C/C++ code.
+The code will be tested on ARM processor.
+System integration of FPGA and ARM processor and testing of the overall performance
+Hardware in the loop testing of the developed system.
+1)A report containing the:·   Details of the image processing algorithm and its results in simulation.·   Implementation issues in converting the image processing algorithm from Matlab script to Verilog/ VHDL code.
+·   Details of the control algorithm and its results in simulation.
+·   simulation results of the Hardware in the loop  (HIL) simulation.
+·   A prototype of the IMR connected to the PC for simulation purpose.
+·   Simulation results of the image processing algorithm specifically for fire and smoke
+2) Demonstration of the prototype of IMR connected to PC will be given including simulation results of HIL, image processing algorithm for fire, smoke and integration of the FPGA & ARM processor testing results.
+3) First Research paper to be submitted in International conference.
+4) All the bottlenecks faced in the development of the algorithm will be reported.
+12 months
+Installation of all the electronic circuit on the hardware platform and interfacing of DC motors with the microcontrollers, FPGA and ARM processor.1.   DC motor assembly with the IMR wheels will be developed.2.   Motor controllers will connected to the motors as well as to the main controller.
+3.   Test PWM signal will be generated to test the DC motor performance and maneuvering of the IMR.
+4.   Initially the control algorithm will be tested with the DC motors.
+1) A report containing:·   All the details of the problems faced in interfacing the DC motor with the IMR.·   Test performance of the IMR in an artificial environment where some objects will be put on fire.
+·   Complete design of the IMR which is capable of performing basic fire fighting tasks.
+·   A prototype capable for initial testing.
+2) All the bottlenecks faced in the hardware interfacing will be reported.
+15 months
+1.   Design and development of a 3D simulation environment for testing the IMR.2.   Implementation of the simultaneous localization and mapping (SLAM) technique for the IMR. SLAM will be initially developed and tested in Matlab.
+1) The demonstration will include:·   Operation of IMRs in autonomous and remote controlled mode in 3D simulation environment.·   Software module that will run on the base station laptop.
+·   Temperature at the disaster location.
+·   Images of the affected areas.
+·   Any voice message from the victims.
+·   Map will be generated based on the IMR movement
+·   A 3D GUI platform in which the IMR will be tested along with the image processing and control algorithms.
+·   Testing of the IMR in artificially generated scenario
+2) A report containing the details of
+·   The 3D simulation environment.
+·   The test performance of 3D robot model with image processing and control algorithms.
+3) First Research paper to be submitted in International conference.
+18 months
+1.   Complete interfacing of all the IMR electronic and mechanical equipment and implementation of all the developed algorithms2.   Translation of the SLAM algorithm from Matlab environment to synthesizable C/C++ code or HDL.
+·   A working module of the IMR with a built in capability to traverse and unknown space and generate a map.·   A prototype IMR to be tested for path following, fire detection.·   The IMR will be tested for collision avoidance.
+·   All the bottlenecks faced in the development of the synthesizable Verilog code will be reported.
+21 months
+Testing of the IMR in a real time scenario.
+A report containing the performance results of the IMR.Final demonstration in a real time scenario of the complete IMR developed including all functionalities mentioned in the proposal.
+24 months
+·    Training sessions and final report·    Patent Filing·    Steps for Commercialization
+Reports of the training workshops and final report.The developed IMR will be patented and commercialization of the IMRs at low cost for industry will be pursued.Training sessions for the fire fighters and IMR operators to be conducted at KIET and fire fighting HQ.
+Principal Investigator
+Dr. Muhammad Bilal Kadri (KIET)
+Co-Principal Investigator
+Dr. Tariq Mairaj Rasool Khan (NUST-PNEC)
+Research Assistants
+1. Zaid Piwani (KIET)
+2. Maaz Mobin (KIET)
+3. Muhammad Zaid (NUST-PNEC)
+Project Team Lead
+Nssir Jumani (KIET)
+PhD Students
+1. Fahad Tanveer (KIET)
+2. Moez ul Hasan (NUST-PNEC)
+MS Students
+1. Sofia Yousuf (KIET)
+2. Waqar Hameed (KIET)
+3. Waleed bin Yousuf (NUST-PNEC)
+Secretary
+1. Adnan Ahmed (KIET)
+1) First Deliverable Report was Submitted to ICTRnD on 14th July 2016. Download by clicking
+here
+2) Second Deliverable Report was Submitted to ICTRnD on 15th October 2016. Download by clicking
+here
+3) Third Deliverable Report was Submitted to ICTRnD on 24th January 2017. Download by clicking
+here
+4) Fourth Deliverable Report was Submitted to ICTRnD on 15th April 2017. Download by clicking
+here
+3) Fifth Deliverable Report was Submitted to ICTRnD on 15th July 2017. Download by clicking
+here
+Dr. Muhammad Bilal Kadri
+Head of Mechatronics Department
+Associate Professor, College of Engineering
+Director IMR Lab
+KIET Korangi Creek, Karachi Pakistan
+Tel: +92(21)35091114-7, 35092324-30,
+Fax: (9221) 35091118 Cell: 0345-2217604
+Email: bilal.kadri@kiet.edu.pk
+LinkedIn
+Personal webpage
+1) Tanveer, F., Kadri, M.B., Jumani, N.,  Pirwani,N.,   “Fuzzy based tuning of a Sensor Fusion based Low Cost Attitude Estimator”, The 6th  International Conference on Innovative Computing Technology (INTECH  2016), 19th -21st September 2016, Islamabad, Pakistan.
+2)Raees,A. , Kadri, M.B., Jumani, N.,  Pirwani,N., “Inverse Fuzzy Modeling for the Cancellation of Nonlinearity in Unknown Hammerstein Model” , The 6th International Conference on Innovative Computing Technology (INTECH 2016), 19th -21st September 2016, Islamabad, Pakistan.
+3)Fahad Tanveer, Muhammad Bilal Kadri, “A Simulation Framework for Decentralized Formation Control of Non-holonomic Differential Drive Robots” 2016 IEEE Conference on Systems, Process and Control (ICSPC 2016) Melaka, Malaysia on 16-17 December 2016.
+4) Sofia Yousuf, Muhammad Bilal Kadri “Sensor Fusion of INS, Odometer  and GPS for Robot Localization” 2016 IEEE Conference on Systems, Process and Control (ICSPC 2016) Melaka, Malaysia on 16-17 December 2016.
+Empty section. Edit page to add content here.
+NEWS & EVENTS
+National ICTRnD Grant Approved for this project.
+04/11/16–ICT Funds has been released.
+04/11/16–IMR Lab has been setup in CoE Building, KIET Main Campus.
+Initial procument of items has been completed.
+A joint co-ordination of:
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

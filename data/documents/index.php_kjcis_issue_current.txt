@@ -1,0 +1,32 @@
+ Source URL: https://kjcisjournal.kiet.edu.pk/index.php/kjcis/issue/current
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Vol. 8 No. 1 (2025): KIET Journal of Computing & Information Sciences
+DOI:
+https://doi.org/10.51153/kjcis.v8i1
+Published:
+2025-09-01
+Full Issue
+Requires Subscription
+PDF
+Articles
+AI-Driven Multimodal Summarization: Generating Coherent Textual Summaries from Video Content using NLP Techniques
+Syed Muhammad Hassan, Usman Khan, Adnan Ansari, Imtiaz Hussain
+An ANN Based Intelligent System for  Measuring Customer Loyalty
+Muhammad Usman Javeed, Mubbara Sahar, Shafqat Maria Aslam, Munawar Iqbal, Han  Cao, Waheed Yousuf Ramay, Shiza Aslam
+A Enhanced Intrusion Detection Using CNN-LSTM with Advanced Evaluation Metrics
+Hybrid Approach By Deep Learning for Prediction of Network Intrusion
+ameer humza, Farwa Zainab, Farwa Raoof, Attiya Zahoor
+A Malicious JavaScript Code Detection using Deep Learning Approach on Imbalanced Dataset
+Amna Aftab, Gohar  Rehman, Asif Kabir, Jawad ur Rehman, Syed Mushhad Gilani
+A Study of Q-Learning in the Taxi-v3 Environment: Reinforcement Learning for Optimal Navigation through Hyperparameter Optimization
+Mirza Muhammad Abbas, Abdul Lahad, Areej Fatemah Meghji
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---
+https://kjcisjournal.kiet.edu.pk/index.php/kjcis/issue/view/16/16

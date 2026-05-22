@@ -1,0 +1,68 @@
+ Source URL: https://kjcisjournal.kiet.edu.pk/index.php/kjcis/AuthorGuidelines
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Author Guidelines
+Overview
+Thank you for considering the KIET Journal of Computing & Information Sciences (KJCIS) for your manuscript. The journal publishes original, peer-reviewed research across computing and information sciences. To ensure a smooth review and production process, please follow these guidelines carefully.
+Types of articles accepted
+Original research articles
+reporting novel and substantial contributions.
+Review articles
+(comprehensive and critical syntheses of established topics).
+Short communications/technical notes
+for timely or concise contributions.
+Manuscript length & format
+Typical length for full research articles:
+3,000 – 5,000 words
+. Reviews may be longer if justified.
+Use a standard, readable font (e.g., Times New Roman or Arial) at
+12 pt
+and 1.5 line spacing.
+Include: Title, Abstract (?200 words), Keywords (3–6), Introduction, Related Work (optional), Methods, Results, Discussion, Conclusion, Acknowledgements, and References.
+Number pages and include line numbers in the submission to facilitate review (preferred).
+Title page
+Title page should contain: full paper title; full names of all authors (first name, middle initial, last name); institutional affiliations and postal addresses; email address of corresponding author; ORCID iD for authors if available; a one-line short bio for the corresponding author (optional).
+Abstract & keywords
+Provide an informative structured abstract in English (maximum 200 words) summarizing objective(s), methods, principal results, and main conclusion. Provide 3–6 keywords reflecting the core topics.
+Figures, tables & multimedia
+Number figures and tables sequentially (Figure 1, Figure 2; Table 1, Table 2).
+Use descriptive captions. Provide high-resolution image files (TIFF, PNG, JPEG) as separate uploads.
+Where applicable, supply original data, code, or interactive materials as supplementary files or repository links.
+Mathematics, algorithms & reproducibility
+Number equations sequentially and define all symbols. Provide pseudocode or algorithm descriptions to ensure reproducibility. Supply code repositories (GitHub, GitLab, Zenodo) or archived artifacts where feasible.
+References & citation style
+Use
+APA citation style
+or the journal template provided.
+References should be complete and accurate; prefer peer-reviewed sources and canonical works. Use Roman script for titles and names.
+Limit references to a reasonable number (policy suggests up to 50 for typical articles).
+Data availability & supplementary material
+Authors must include a Data Availability Statement describing where the data, code, and materials can be accessed (public repository, DOI, or “available upon request”). Submit supplementary files via the OJS submission system as separate uploads.
+Ethical requirements
+Submission implies original work not under review elsewhere.
+For human or animal studies, include ethics approval and informed consent statements.
+All authors must declare conflicts of interest and funding sources in a dedicated section at the end of the manuscript.
+Plagiarism screening
+Manuscripts are screened with similarity detection software (Turnitin). The journal follows HEC guidelines for acceptable similarity levels (generally <19%). Authors are responsible for addressing any overlap before resubmission.
+Submission checklist (required items)
+Manuscript (main text) prepared according to guidelines.
+Title page with author details and corresponding author contact.
+Abstract and keywords.
+Figures and tables as separate high-resolution files.
+Supplementary files (datasets, code) or repository links, if applicable.
+Cover letter stating novelty, suggested reviewers (optional), and declarations.
+Completed conflict of interest and funding disclosure.
+Templates & templates download
+Use the KJCIS manuscript template available on the journal website. Provide formatted Word (DOCX) and LaTeX template files to help authors meet style requirements.
+Post-acceptance steps
+Accepted manuscripts undergo copy-editing, typesetting, proofing, DOI assignment, and online publication. Corresponding authors will receive proofs for final approval prior to publication.
+Contact
+For queries about manuscript preparation and author guidelines, contact the Editorial Office via the journal contact form or the designated editorial email.
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

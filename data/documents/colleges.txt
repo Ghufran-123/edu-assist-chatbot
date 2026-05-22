@@ -1,0 +1,66 @@
+ Source URL: https://kiet.edu.pk/colleges/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Colleges
+Colleges and Departments
+College of Engineering
+Explore CoE
+College of Computing & Information Sciences
+Explore CoCIS
+College of Management Sciences
+Explore CoMS
+College of Media & Arts
+Explore CMA
+Graduate School of Sciences & Technology
+Explore GSSE
+Professional Development Center
+Explore PDC
+English & Communication Skills
+Explore
+Humanities & Social Sciences
+Explore
+All Colleges & Department Albums
+Explore More
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+>>> OCR: science-and-technology.jpg <<<
+goer “SCENES S
+--------------------
+
+
+>>> OCR: College-of-Engineering1_56671359a4c089bb7b439bd00ca88ee9.jpg <<<
+COLLEGEOF =
+ENGINEERING
+--------------------
+
+
+>>> OCR: college-of-computing-and-information-sciences.png <<<
+CoCIS
+PEGEEEE
+
+College of Computing &
+Information Sciences
+--------------------
+
+
+>>> OCR: PDC.jpg <<<
+£X
+
+PDC
+--------------------
+
+
+>>> OCR: college-of-management-sciences.png <<<
+College of Management
+Science
+--------------------
+
+
+ --- LINKS FOUND ---
+https://kiet.edu.pk/academics-colleges/english-communication-skills/
+https://kiet.edu.pk/academics-colleges/humanities-sciences/

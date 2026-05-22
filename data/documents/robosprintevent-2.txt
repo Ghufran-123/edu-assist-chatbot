@@ -1,0 +1,22 @@
+ Source URL: https://kiet.edu.pk/robosprintevent-2/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+RoboMania’16
+ROBOTICS SUMMER CAMP (18-22 JULY 2016)
+KIET (Main campus) COE department had arranged Robotics workshop from 18-22 July 2016 .In this workshop the students made two Robots “Line following Robot” and “Obstacle avoiding Robot”. The purpose of this workshop was to interface hardware with software and build an autonomous Robot. Additionally the students learned to make sensors and used different sensors during workshop. On the last day of workshop we organized a Line following Robot competition and gave certificates to all students. The prize money for 1
+and 2
+position holders was sponsored by “
+smart
+electron”
+in order to promote them.
+ROBOMANIA
+Read More Details.
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---
+https://kiet.edu.pk/storage/2016/07/ROBOMANIA.docx

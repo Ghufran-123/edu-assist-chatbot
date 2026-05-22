@@ -1,0 +1,20 @@
+ Source URL: https://kjcisjournal.kiet.edu.pk/index.php/kjcis/repositorypolicy
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Repository Policy
+Dissemination and Preservation
+The KJCIS – KIET Journal of Computing and Information Sciences encourages the wide dissemination and long-term preservation of its published scholarly content. Authors are permitted to deposit the published version (Version of Record) of their articles in institutional repositories, subject-based repositories, and personal or departmental webpages, provided that proper citation to the original publication in KJCIS is given.
+Acknowledgement of Source
+All deposited copies must clearly acknowledge KJCIS as the original source of publication and include a link to the article on the journal’s official website.
+Relation to Archiving Policy
+This repository policy operates in conjunction with the journal’s Archiving Policy, which ensures the permanent availability and digital preservation of all published content.
+Open Access and Embargo
+KJCIS supports open access principles and allows repository use without embargo, in line with international best practices.
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

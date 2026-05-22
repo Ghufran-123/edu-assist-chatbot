@@ -1,0 +1,209 @@
+ Source URL: https://dasr.kiet.edu.pk/journals/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+RESEARCH
+PUBLICATIONS
+-Indexed
+2017
+S.No.
+Author
+Name
+Research
+paper
+Title
+Dr Imran Naseem
+Design of an Intelligent q‐LMS Algorithm for Tracking a Non ‐stationary channel
+0.865
+Dr Husain Parvez
+Exploring Shared SRAM Tables in FPGAs for Larger LUTs and
+Higher Degree of Sharing
+PVT‐tolerant Current Reference Generation using different PTAT currents
+0.31
+Dr Arsalan Javed
+1.32
+Ms. Saher Altaf
+An efficient haar Wavelet technique for the numerical solution of fractional Partial differential equations .
+1.365
+Dr Arsalan Javed
+A configurable 2‐Gbps LVDS transceiver in 150‐nm CMOS with pre‐emphasis, equalization, and slew rate control
+1.44
+Dr Bilal Kadri
+Model‐Free Fuzzy Adaptive Control for MIMO Systems
+0.865
+Dr Najam Amin
+60 GHz‐band low noise amplifier, accepted for publication by the Journal of Circuits, Systems and Computers
+0.25
+Dr Imran Naseem
+A novel fractional gradient‐based learning algorithm for recurrent neural networks
+1.178
+Cumulative
+7.593
+RESEARCH
+PUBLICATIONS HECRecognized/No IF : 2017
+S.No.
+Author
+Name
+Research
+paper
+Title
+Dr Maaz Bin Ahmed
+An Efficient Scheme for Real‐time Information Storage and Retrieval
+Systems: A Hybrid Approach
+Prediction Type Decision for Advanced Video Coding: A machine Learning
+Approach
+Agent‐Based Architecture for Enterprise‐Wide Data Integration
+Dr Maaz Bin Ahmed
+Dr Maaz Bin Ahmed
+Dr Khalid Khan
+Scheduling in desktop grid systems: theoretical evaluation of policies and
+frameworks
+Using predictive analytics for predicting host availability in desktop grids
+Dr Khalid Khan
+Dr Taha Jilani.
+Comparative Analysis of Wireless Technologies for Internet‐of‐Things Based
+Smart Farm
+Agent‐Based Architecture For Enterprise‐Wide Data Integration
+Dr Taha Jilani
+Dr Amir Shamsi
+Penetration of Life Insurance in Pakistan: A Conjectural Ecological
+Framework of Life Insurance Channels
+Un‐Banking In The Under‐Developing Economy.
+Dr Amir Shamsi
+Dr Tariq Jaleees
+Extending TRA Understanding Compulsive Buying Behavior
+Ms. Quratulain Kazmi
+Bricks in the Wall; Determining brand equity and its essentials in educational
+sector.
+Predicting Future Gold Rates using Machine Learning Approach
+Dr Khuram Junejo
+Dr Khuram Junejo
+Method of generating invariants for distributed attack detection
+ESEARCH
+PUBLICATIONS
+-Indexed
+2018
+S.No.
+Author
+Name
+Research
+paper
+Title
+Dr Sameer Qazi
+Revisiting Constraint Based Geolocation: Improving Accuracy through Removal of Outliers
+0.581
+Dr Bilal Kadri
+Two‐stage model free fuzzy adaptive controller for multiplicative disturbance rejection
+1.428
+Dr Maaz Bin Ahmed
+A Generalized Multi‐Layer Framework for Video Coding to Select Prediction Parameters
+3.557
+Dr Taha Jilani
+An Implementation of IoT‐based Microwave Sensing System
+1.163
+Dr Taha Jilani
+Pilot‐Based Time Domain SNR Estimation for Broadcasting OFDM Systems
+0.449
+Dr Affan Alim
+The most discriminant sub bands for face recognition: A novel information‐theoretic framework
+0.463
+Dr Abdullah
+The Effect of a Complex Ownership Structure and Judicial Efficiency on Leverage: Evidence from Pakistani Listed Companies, Emerging Markets Finance Trade
+0.826
+Dr Khuram Junejo
+Predicting Treatment Outcome of Tuberculosis: An Application of State‐Of‐Art Machine Learning Models
+1.38
+S.No.
+Author
+Name
+Research
+paper
+Title
+Dr Sameer Qazi
+A Novel Compressed Sensing Technique for Traffic Matrix Estimation of Software Defined Cloud Networks
+0.611
+Dr Sameer Qazi
+Wideband and High Gain Antenna Arrays for UAV‐to‐UAV and UAV‐to‐Ground Communication In Flying Ad‐Hoc Networks (FANETs)
+0.585
+Ms. Hira Beenish
+Data Prioritization Algorithms in Body Area Network
+1.2
+Dr Adil Loya
+The Implementation and Lateral Control Optimization of a UAV Based on Phase Lead Compensator and Signal Constraint Controller.
+0.75
+Dr Adil Loya
+Quantification of Aerodynamic Variables Using Analytical Technique and Computational Fluid Dynamics
+1.102
+Dr Tariq Jalees
+Testing and incorporating additional determinants of ethics in counterfeiting luxury research according to the theory of planned behavior
+0.61
+Dr Tariq Jalees
+Moral and Ethical Antecedents of Attitude Toward Counterfeit Luxury Products: Evidence from Pakistan
+0.82
+Dr Imran Naseem
+A Fractional Gradient Descent‐based RBF Neural Network
+1.69
+Dr Imran Naseem
+A novel fractional gradient‐based learning algorithm for recurrent neural networks
+1.69
+Cumulative
+19.166
+ESEARCH
+PUBLICATIONS
+Recognized/No
+2018
+S.No.
+Author
+Name
+Research
+paper
+Title
+Dr Maaz Bin Ahmed
+DoS/DDoS Detection for E‐Healthcare in Internet of Things
+Dr Maaz Bin Ahmed
+An Efficient Scheme for Real‐time Information Storage and Retrieval Systems: A Hybrid Approach
+Dr Usman Aleem
+Emotional Responses to Performance Appraisal Feedback: Implications for Organizations.
+Dr Usman Aleem
+Power of Training and Development on Employee Retention in Pharmaceutical Organization.
+Dr Usman Aleem
+Impact of HRM Practices on the Perceived Financial Performance of SMEs in Karachi.
+Dr Usman Aleem
+HR Practices and their Impact on the Nonfinancial Performance of Family Owned SME`s.
+Dr Amir Shamsi
+Measuring SHRM Vertical & Horizontal Fit: Scale Development & Validation
+Dr Usman Aleem
+Impact of Motivational Factors on Employee Retention and Jobs Satisfaction in Retail Organization
+Dr Khuram Junejo
+Integration of design and data centric approach to generate invariants for distributed attack detection
+Dr Arsalan Hashmi
+Dr Amir Shamsi
+Political connections, family firms and earnings quality
+How Memon, Delhi Saudagaran and Chinioti Entrepreneurs Create New Ventures
+Dr Tariq Jalees
+Role of Visual Merchandizing, Sensational Seeking, And Collectivism In Consumers’ Impulsive Buying Behavior At Shopping Malls
+ESEARCH
+PUBLICATIONS
+-Indexed
+2019
+S.No.
+Author
+Name
+Research
+paper
+Title
+Muhammad Tauseef Nasir
+Performance assessment and multi objective optimization of an Organic Rankine Cycle driven cooling air‐conditioning System
+4.457
+Alishba Sadiq
+Enhanced q‐Least Mean Square
+1.998
+Cumulative
+6.457
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

@@ -1,0 +1,46 @@
+ Source URL: https://kjcisjournal.kiet.edu.pk/index.php/kjcis/PlagiarismPolicy
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Plagiarism / Misconduct Policy
+KJCIS maintains a strict zero-tolerance policy toward plagiarism, data manipulation, unethical authorship practices, and all forms of research misconduct. All submissions are screened using similarity detection software before entering the peer-review process.
+Similarity Check
+Manuscripts are checked via Turnitin or equivalent tools.
+Similarity index must comply with national guidelines (e.g., <19% as per HEC standards).
+Excessive similarity or uncited overlap leads to immediate rejection or revision request.
+Forms of Plagiarism
+Direct plagiarism:
+Copying text without citation.
+Self-plagiarism:
+Reusing previously published work without disclosure.
+Patchwriting:
+Rewriting another’s text with minor modifications.
+Redundant or duplicate publication.
+Unattributed paraphrasing.
+Research Misconduct
+Fabrication or falsification of data.
+Manipulation of images, graphs, or results.
+Submitting the same article to multiple journals simultaneously.
+Unethical authorship practices (ghost, gift, or forged authorship).
+Compromised, fake, or manipulated peer-review.
+Handling Suspected Misconduct
+Initial investigation by editorial office.
+Request explanation or raw data from authors.
+Consultation with independent experts if needed.
+Decision based on evidence — correction, revision, rejection, or retraction.
+Serious cases may be referred to author institutions.
+Possible Outcomes
+Request for correction or revision.
+Editorial rejection at any stage.
+Retraction of published articles.
+Author ban (temporary or permanent).
+Notification to institutions or funders.
+Responsibilities of Authors, Reviewers & Editors
+All parties must adhere to ethical standards and avoid any behavior that compromises integrity. The journal follows COPE guidelines for ethical publication.
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

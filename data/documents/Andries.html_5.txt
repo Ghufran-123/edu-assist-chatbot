@@ -1,0 +1,17 @@
+ Source URL: https://iccis.kiet.edu.pk/Andries.html#importantdates
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Dr. Andries Engelbrecht
+Dr. Andries Engelbrecht
+Talk Title:
+"Large Scale Optimization using Particle Swarm Optimization"
+"It is known that standard particle swarm optimization (PSO) algorithms do not scale well to large-scale optimization problems. As the number of dimensions of the search landscape increases, the volume of the search space grows exponentially, and as a result, the performance of standard PSO algorithms deteriorates significantly. While several successful adaptations to the PSO have been developed to solve such large-scale optimization problems, these approaches have been developed without first gaining a clear understanding of the reasons why the PSO does not scale well. This presentation will analyze the scalability of standard PSO algorithms with the main goal to identify the reasons for their poor scalability. Several approaches will be discussed to explore how the curse of dimensionality can be addressed for the PSO."
+Back
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

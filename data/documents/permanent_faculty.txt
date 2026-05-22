@@ -1,0 +1,856 @@
+ Source URL: https://cocis.kiet.edu.pk/permanent_faculty/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Permanent Faculty
+Dr. Muhammad Khalid Khan
+Associate Dean & Director, COCIS
+Post Doc (Universiti Teknologi Petronas)
+Ph.D (KIET), MSCS (SZABIST), MCS (UoK), MBA (KIET)
+khalid.khan@kiet.edu.pk
+Work Experience:
+Professor/KIET
+Successfully launched BSERP, MScERP, BSTN, MTN, BSCS, BSAI, BSDS, BSSE, and BSCysSec programs at KIET
+Corporate Training assignments for various banks such as State Bank of Pakistan, UBL, HBL and ABL
+IT Consultancy assignment for Pakistan Steel Mills
+Supervising PhD & MS candidate at KIET
+Assistant Professor, Usman Institute of Technology
+Visiting Faculty, Center for Computer Studies, IBA
+Research Interest:
+Blockchain scalability & Trust Mechanisms, Desktop Grids & Decentralized clouds, IoT based Healthcare & Air Quality Monitoring, Business Intelligence & Predictive Analytics, Technology Startups & Emerging Software Development Practices.
+Dr. Salman A. Khan
+Head of Department, CoCIS
+Professor
+Ph.D. (University of Pretoria, South Africa),
+MSCE (KFUPM, Saudi Arabia),
+BSCE (KFUPM , Saudi Arabia)
+sakhan@kiet.edu.pk
+Work Experience:
+Professor, KIET (Oct 2019 – to date)
+Associate Professor, KIET (Sep 2018 – Sep 2019)
+Assistant Professor, Computer Engineering Department, University of Bahrain
+Extraordinary Senior Researcher, University of Pretoria, Pretoria, South Africa
+Lecturer, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia
+Research Assistant, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia
+Research Interest:
+Computer Networks Artificial Intelligence, with emphasis on Evolutionary Computation, Genetic Algorithms and other meta-heuristics for solving hard combinatorial optimization problems Nature-inspired Optimization Algorithms, Swarm Intelligence, Fuzzy Logic
+Multi-objective Optimization and Decision Making, Application of Optimization Techniques to Real-world Problems with emphasis on Network
+Design, Network Security, Cloud Computing, and Renewable Energy.
+Prof. Dr. Nasir Touheed
+Professor,  CoCIS (City Campus)
+Ph.D. in Computer Science(University of Leeds), UK
+M.S. in Operations Research(University of California), USA
+M.A. in Applied Mathematics (University of California), USA
+B.Sc. (Hons.) in Applied Mathematics ( University of Karachi), Karachi
+Email: noman.islam@kiet.edu.pk
+Work Experience:
+Professor, KIET (2023-Till date)
+Center for Computer Studies, Associate Sep. 06 – July 07 Advanced Num. Analysis
+Institute of Business Professor &Chief Coordinator Linear Algebra
+Administration, Karachi ICICT 2007
+Research Interest:
+Artificial intelligence and deep learning
+Cloud computing
+Wireless and ad hoc networks
+Prof. Dr. Maaz Bin Ahmad
+Professor
+Ph.D. (CASE, Islamabad),
+MSCN (CASE, Islamabad),
+MSC (Bahria University Islamabad),
+maaz@kiet.edu.pk
+Work Experience:
+Professor, KIET (2021 to date)
+Associate Professor, KIET
+Assistant Professor, MAJU Karachi (June 2015 to Jan 2016)
+Assistant Professor UIIT, PMAS University of Arid Agriculture Rawalpindi  Jun 2007- Jun 2015
+Research Interest:
+Insider threats Detection
+Risk Assessment & prevention
+Efficient Video Processing Techniques
+Cloud Computing
+Dr. Muhammad Arif Hussain
+Professor
+Ph.D. (FUUAST)
+MSC in Nuclear Engineering (QAU)
+MSC in Applied Mathematics (UOK)
+Arif.hussain@kiet.edu.pk
+Data analysis
+Stochastic techniques
+Work Experience:
+Professor, KIET (Feb 2024 to Date)
+Served PAEC as scientist, senior scientist, and principal scientist at Islamabad and Karachi.
+Supervised MPhil, MS students
+Supervising PhD student at FUUAST.
+Visiting faculty at NED University.
+Research Interest:
+Numerical computing
+Optimization techniques
+Dr. Muhammad Fahad
+Associate Professor/ HOD City Campus
+Ph.D. (Hamdard)
+MSCS (MAJU)
+BSCS (UoK)
+mfahad@kiet.edu.pk
+Work Experience:
+Associate Professor, KIET Jan 2024 till Date
+Assistant Professor, KIET Feb 2018 to Dec 2023
+Assistant Professor, Hamdard University September 2016 to January 2018
+Assistant Professor, KIET January 2016 to September 2016
+Lecturer, MAJU June 2015 to December 2015
+Senior Software Engineer, Contour Software June 2012 to June 2015
+Assistant Manager, Dawlance Pvt. Limited January 2011 to June 2012
+Software Developer, Seamnia Pvt. Limited August 2009 to May 2010
+Visiting Faculty, UBIT, UoK
+Research Interest:
+Big data
+Data mining
+Ontology
+Internet of Things
+Dr. Sohail Imran
+Assistant Professor
+Enrolled in Ph.D. (KIET),
+MSCS (KIET),
+sohail@kiet.edu.pk
+Work Experience:
+Assistant Professor/Program Manager, KIET
+Analyst Programmer, Trans Mobile Limited
+Database Administrator/Analyst Programmer, GoldSoft.
+Research Interest:
+Big Data Analytics, Data Mining, Date warehousing
+Mr. Kashif Bashir
+Assistant Prof
+Deputy Director (NN Campus)
+Enrolled in Ph.D. ,
+MSCS (KIET),
+MSc Applied Physics (UoK)
+kashif@kiet.edu.pk
+Work Experience:
+Deputy Director NN Campus.
+Senior fellow with the rank of Assistant Professor, KIET
+Senior Program Manager of CoCIS, KIET (2007 to 2024)
+Teaching courses in Basic Electronics, Digital Logic Design, Computer Architecture and Organization, Data Communication, Internet and Intranet Architecture and Wireless Communication
+Research Interest:
+Networking, Telecommunication and Wireless ad-hoc Networks
+Mr. Mohammad Ayub Latif
+Assistant Professor
+Enrolled in Ph.D. (KIET),
+MS(Mobile Comp. & Inf. System) (UIT),
+MS(Information Technology) (Hamdard University)
+malatif@kiet.edu.pk
+Work Experience:
+Assistant Professor, KIET. ( to date)
+Assistant Professor, Usman Institute of Technology (Hamdard University) and Head of Information Systems Group from August 2006 till December 2011.
+Project Coordinator and Lead Trainer IT with Tradesmen Consultancy Ethiopia.
+Research Interest:
+Software Engineering
+Use of software metrics for improving software processes
+Social network analysis
+Mr. Muhammad Zafer Iqbal Siddiqui
+Assistant Professor
+MSCS (SZABIST),
+MCS (UoK)
+zafer.iqbal@kiet.edu.pk
+Work Experience:
+Assistant Professor, KIET
+System Analyst & Software Engineer: Premiere Media, Dubai
+Research Interest:
+Software Design
+Software Testing
+Mr. Nadeem Qamar
+Assistant Professor
+Enrolled in Ph.D. (KIET),
+MSCS (FAST-NUCES),
+BSCE  (SSUE)
+nadeem.qamar@kiet.edu.pk
+Work Experience:
+Assistant Professor – KIET
+Supervisor of MS Thesis, MAJU
+Supervisor of BS Projects, MAJU
+Freelance Software development
+Assistant Professor – FAST-NUCES
+Lecturer – BIIT, MAJU
+Visiting Faculty – SZABIST
+Research Interest:
+Human Computer Interaction
+Artificial Intelligence
+Mr. Khalid Mahmood Dar
+Assistant Professor
+MSCS (SZABIST)
+Work Experience:
+Assistant Professor at Muhammad Ali Jinnah University from June 2009 to Aug 2019
+Controller Examination at Institute of Business & Technology from July 2006 to June 2007
+Full time faculty member at Karachi Institute of Economics & Technology from 2000 to 2006
+Research Interest:
+Networks
+MIS
+ERP
+Mr. Tariq Saeed Tanoli
+Assistant Professor
+Head of IT
+Ph.D. in Progress (Karachi Institute of Economics and Technology)
+MSCS (Karachi Institute of Economics and Technology)
+Email: Tariq@kiet.edu.pk
+Work Experience:
+Assistant Professor, KIET (Jan 2022 – till Date)
+Head of IT / Lecturer, KIET (Jan 2008-Dec 2021)
+System & Network Admin, Southern Electric Power Company Limited (SEPCO)
+Front Office Officer, Karachi Sheraton Hotel
+Research Interest:
+Networks Security
+Cloud Computing
+Wireless and ad hoc networks
+Ms. Saboohi Mahmood
+Assistant Professor
+Enrolled in Ph.D. ,
+M.S (S.E) Jinnah University for Women
+BS (C.S) Jinnah University for Women
+Sun Certified Java Programmer (SCJP)
+saboohi@kiet.edu.pk
+Work Experience:
+Assistant Professor,  Hamdard University (Feb 2016-Feb 2019)
+Assistant Professor, Jinnah University for Women (May 2013 – Feb 2016)
+Lecturer, Jinnah University for Women (Sep 2006 – April 2013)
+Software Engineer, E Dev Technologies (FEb 2005 -JUly 2006)
+Lecturer/ Teaching Assistant, Jinnah University for Women (Feb 2004 – Jan 2005)
+Research Interest:
+Machine Learning
+Big Data Analytics
+Applications of Data Mining
+Smart Agriculture
+Disease identification
+Mr. Usman Khan
+Assistant Professor and Head of FYP.
+Enrolled in Ph.D. (KIET),
+MSCS (IBA),
+MSc Applied Physics (UoK),
+BSc Physics (UoK)
+usman@kiet.edu.pk
+Work Experience:
+Assistant Professor, KIET (Jan 2022 – till Present)
+Lecturer, KIET (Jan 2018-Dec 2021)
+Visiting Faculty –IQRA University (Feb 2015 – till present)
+Visiting Faculty –FUUAST (Aug 2016 – till present)
+Full Time Cooperative Teacher –FUUAST (August 2015–DEC 2017)
+Visiting Faculty – MAJU (June 2015-Dec 2015)
+Visiting Faculty at Department of Computer Science –UoK (Aug 2014 –Dec 2014)
+Full Time Cooperative Teacher –UoK (From July 2012 – April 2015)
+Research Interest:
+Artificial Intelligence,
+Image Processing,
+Natural Language Processing,
+Machine Learning,
+Compiler Designs and Automata
+MAQSOOD RAZI
+Senior Lecturer
+Enrolled in Ph.D. (University of Malaga, Spain),
+MSCS (KIET),
+Maqsood.razi@kiet.edu.pk
+Work Experience:
+Working as Sr. Lecturer/Permanent Faculty Member in COCIS, KIET from Feb. 2024 to Till date
+Asst. Professor, ALPHA UNIVERSITY, EAST AFRICA from April 2020 to October 2023.
+Asst. Professor in Dept. of   ICT, ADMAS University Addis Ababa, EAST AFRICA (Hargeisa Campus) since Feb 2019 to March 2020
+Asst. Professor in Dept. of ICT, AMOUD University, Borma, EAST AFRICA since Nov. 2015 to January. 2019.
+Worked as Manager ERP dept. / Permanent Faculty in COCIS PAF-KIET from September 2011 to October 2015.
+Assistant Professor of Computer Science in EELO AMERICAN UNIVERSITY, EAST AFRICA.
+Worked as Faculty in University of Hargeisa. EAST AFRICA
+Worked in as Lecturer in Degree Level institutions MERCY ACADEMY OF HIGHER EDUCATION
+Worked as HEAD OF DEPATMENT of Computer Science / Sr. Lecturer in TEC COLLEGE (AFFILITED FROM KARACHI UNIVERSITY).
+Worked as Manager MIS & System Analyst in DATASOFT PUBLISHER
+Worked as System Analyst/Computer Programmer in DATASOFT COMPUTER SYSTEMS (a Software House PAKISTAN/UAE based)
+Worked as Permanent Faculty Member in NAVAL ACADEMY, PAKISTAN NAVY
+Worked as Permanent Faculty in BALOCHISTAN ENGINEERING UNIVERSITY, PAKISTAN
+Adjunct Faculty Member in MAJU, Karachi, KASBIT, Hamdard University (HIIT) Karachi Taught Master Programs in Computer Science
+Research Interest:
+Cryptography and Network Security, VANET, MANET
+Cryptography and Information data Security, Software Engineering, Artificial Intelligence and Algorithm Analysis
+Ms. Maleeha Shah
+Lecturer
+MSCS (MAJU),
+MCS (UoK)
+maleeha.shah@kiet.edu.pk
+Work Experience:
+Lecturer at KIET1 year experience in IBA as a lecturer
+4 years’ experience in DHA Suffa University as a CS Lab Instructor
+8 months experience in EUREKA Computer Education as a faculty member
+1.5 Year experience in Aptech Computer Education as a faculty member
+3 Year experience in Pak Grammar High School as a faculty member
+Research Interest:
+Data Science
+Machine Learning
+Natural Language Processing
+Data Structure
+Programming language
+Ms. Hira Beenish
+Lecturer
+PhD Candidate (Hamdard University)
+MSTN (BUKC),
+BS(Physics specialization in Telecommunication) (FUUAST)
+hira@kiet.edu.pk
+Work Experience:
+Lecturer at KIET
+Head of department at Bahria foundation college (Jan 2015 to August 2015)
+Lecturer of physics at Bahria foundation college (Jan 2014 to Jan 2015)
+Visiting Faculty at Iqra University (Jan 2016 till date)
+Research Interest:
+Networking
+IoT
+Communication
+Intelligent Systems
+Wireless Network
+Smart cities.
+Engr.Yumna Shahzad
+Lecturer
+MSCE (NED)
+BE (Electronics) (NED)
+yumna.shahzad@kiet.edu.pk
+Work Experience:
+Lecturer, PAF KIET
+Worked as lecturer in Indus University.
+Worked as Senior Faculty Member in APTECH Computer Education.
+Worked as Visiting Lecturer inNazeerHussain University.
+Worked as Lecturer in Usman Institute of Technology,
+Worked as Data Processing Engineer in EtilizePvt Limited.
+Worked as an intern in Electronics Department of N.E.D University.
+Worked as an intern in “Distribution and Maintenance department of KESC”.
+Research Interest:
+Image Processing
+Digital Logic Design
+Mr. Usman Saeed Arab
+Lecturer
+MSEE (Bahria University)
+M.Sc (Electronics), (UoK)
+B.Sc (Hons), UoK
+usmanarab@kiet.edu.pk
+Work Experience:
+Lecturer in KIET
+Appointed as Physics Lecturer in The City
+Full Time Cooperative Teacher in NED University
+Worked at PUMA Electro Dynamic Works Automation department. Karachi
+Worked at Applied Physics Computers & Information Center, PCSIR Labs, Karachi
+Research Interest:
+Digital Image Processing
+Internet of Things
+Renewable Energy
+Big Data Analysis
+Mr. Iftikhar UL Sami
+Lecturer
+Enrolled in Ph.D. (KIET)
+MSCS (KIET)
+MCS  (Mohiuddin Islamic University)
+Work Experience:
+Lecturer at Karachi Institute of Economics & Technology since August, 2019
+Visiting faculty at Karachi institute of economics and technology
+Faculty member at Fazaia Intermediate College
+Faculty member at Aptech Computer Education
+Research Interest:
+Image processing
+Digital systems
+Ms. Misbah Anwer
+Lecturer
+MSCS (Fast)
+MCS (UoK)
+Work Experience:
+Lecturer at Karachi Institute of Economics & Technology since Aug, 2019
+Lecturer and program coordinator at Indus University
+Lecturer and HOD (Computer Science Department) at Karachi Girls College.
+Lab Instructor at University of Karachi.
+Software Developer at McCormic Media Solution
+Research Interest:
+Artificial intelligence
+IOT
+Block Chain.
+Ms. Hira Anwar Khan
+Lecturer
+MSCS (IBA)
+MBA (IQRA)
+MCS (University of Karachi)
+BCS (University of Karachi)
+Work Experience
+Lecturer at KIET10 + years of academia experience in KIET, IBA, UOK, IQRA University.
+Research Interest:
+UI DESIGN
+HCI
+Text Analytics
+Mr. Muhammad Azam Khan
+Lecturer
+Enrolled in Ph.D. (KIET),
+MSSE (KIET),
+MCS (UoK)
+azamkhan15@kiet.edu.pk
+Work Experience:
+Lecturer, KIET
+Permanent Faculty, DIHE
+Visiting Faculty, UoK
+Visiting Faculty, Indus Institute of Higher Education
+Visiting Faculty, Bharia University
+Visiting Faculty, MAJU
+Visiting Faculty, Preston University
+Mr. Ali Babar
+Lecturer
+Enrolled in Ph.D. (KIET),
+MSSE (KIET)
+BSTN (KIET)
+ali.babar@kiet.edu.pk
+Work Experience:
+Lecturer at KIET
+Visiting Faculty at KIET since Fall 2019 to Present.
+Lab Instructor at KIET since Spring 2016 to Fall 2020 for the courses Basic Electronics, Digital Logic & Design, Data Communication & Network, Internet & Intranet Architecture.
+Teaching Assistant for the courses DCN and I&IA.
+Research Interest:
+Pervasive Computing/ Internet of Things
+Adhoc Network
+Network Security
+Agile Development
+Mr. Aziz Mehmood Farooqi
+Lecturer
+Enrolled in MSCS (MAJU)
+MCS (UoK)
+aziz.farooqi@kiet.edu.pk
+Work Experience:
+Lab Instructor, KIET since 2020
+Visiting Faculty, UOK (2018 – Present)
+Software(ERP) Consultancy supports for Mujtaba Textile Karachi (2012 – Present)
+Project Manager & Workshop Conducted at Data-Wisdom (Oct 2018 – Dec 2019)
+Senior Software Engineer, Trandts Software House, Karachi (Dec 2010–2015)
+Research Interest:
+Software Engineering
+Ontology
+Artificial Intelligence
+Data Sciences
+Quantum Computing
+Mr. Kazim Ali
+Lecturer
+MSCS (MAJU)
+kazim.ali@kiet.edu.pk
+Work Experience:
+Lecturer at KIETLab Instructure KIETJunior Lecturer, Computing Department, Indus University (7 March 2018  to 10 Jan, 2021Co-Supervisor of BSCS Projects, Indus University
+IT Instructor, SZABIST ZabTech ( 7 sep, 2017 – 6 March, 2018)
+Research Interest:
+Data Sciences
+Mubasher Yousuf
+Lecturer
+PhD Scholar (Mohammad Al Jinnah University)
+MSCS (MAJU)
+MCS (Ilma University)
+Bachelor of Technology (Hons) (NICE)
+Bachelor of Technology (Pass) (NICE)
+mubasher.yousuf@kiet.edu.pk
+Work Experience:
+Lecturer at KIETVisiting Lecturer at Department of Public Administration University of Karachi
+Visiting Lecturer at Department of Mathematics University of Karachi
+Lecturer/Trainer Cyber Security Mohammad Ali Jinnah University Karachi
+Lecturer cum Web Developer and SEO/ Newports Institute of Communications and Economics (NICE)
+Visiting Lecturer / Preston Institute of Management Science and Technology
+Visiting Lecturer / Federal Urdu University affiliated Indus Public College
+Software Quality Assurance Developer / Trainer S4B Technologies (pvt) Ltd.
+Freelance Web Developer / Department of Chemistry, University of Karachi
+SEO & SMM at
+https://www.hostamemory.com/
+Freelance Web Developer / Office of Research innovation and Commercialization (ORIC), University of Karachi
+Administrative Assistant / Office of Research Innovation and Commercialization (ORIC), University of Karachi
+Assistant Manager / Team Lead (South Region) IKAN Engineering Services (Pvt.) Ltd
+Research Interest:
+Natural Language Processing, Distributed Computing, Semantic Web, Educational Psychology, Technology Start-ups, Inclusive Education through Artificial Intelligence, Cyber Security, Ethical Hacking
+Muhammmad Ubaid Zaman
+Lecturer
+MSCS (Muhammad Ali Jinnah University)
+MCS (University of Karachi)
+Microsoft Office Specialist 2016 by Microsoft
+Microsoft Office Specialist 2016 by Microsoft
+ubaid.zaman@kiet.edu.pk
+Work Experience:
+Lecturer at KIETLab Instructor in KIET (9/2021 – 2/2022)Faculty member in Aptech Shahrah-e-faisal Campus (9/2018 – 9/2021)
+Research Interest:
+Data ScienceMachine LearningNatural Language ProcessingData StructureProgramming languageNumerical Computing
+Ms Aemon
+Lecturer
+MSCS (MAJU)
+aemon@kiet.edu.pk
+Work Experience:
+Lecturer at KIETUniversity of Karachi (Jan 2016 to May 2017)FAST university (Fall 2013 to Fall 2014)
+University of Karachi (2012 to 2013)
+Research Interest:
+Data Sciences
+Ms. Nazia Abrar
+Lecturer
+MSIS (NED),
+BSCS (KIET)
+Nazia.abrar@kiet.edu.pk
+Work Experience:
+Lab Instructor, KIET
+Faculty at Aptech (08/2019 – 02/2020),
+SAP Trainee at Lucky Cement ( 03/2019 – 06/2019),
+Cooperative Teacher at UBIT (01/2018 – 05/2018)
+Research Interest:
+System and network security, Hardware attacks and defenses, Digital forensic ,Internet of things, Artificial Intelligence
+Ms. Sarwat Fawwad
+Lecturer
+MS(Computer Networks) from UIT
+BE(Computer Engineering) from SSUET
+BSC(Economics) from KU
+sarwat.fawwad@kiet.edu.pk
+Work Experience:
+Lecturer, KIET.
+Lecturer, SSUET (from 2012 to 2021)
+Visiting Faculty at Bahria University (Mar 2008-Feb 2009)
+Research Interest:
+Research interest
+Cyber security
+Machine learning
+Data structure and algorithms
+Akram Hussain
+Lecturer, CoCIS
+PhD. (in progress), Shanghai Jiao Tong University (SJTU), Shanghai, China
+MSc. (SJTU, China),
+BE (Hamdard University, Karachi)
+Email:
+akram.hussain@kiet.edu.pk
+Work Experience:
+Lecturer, KIET (Dec. 2022 – to date)
+Lecturer, DHA Suffa University, Karachi (Nov. 2021 – Nov. 2022)
+Research Assistant, SJTU, China (Sep. 2018 – to date)
+Research Associate, Sukkur IBA University, Sukkur (June 2018 – August 2018)
+Lab Engineer, Hamdard University, Karachi (Sep. 2014 – August 2014)
+Research Interest:
+Research interest
+Machine Learning and Deep Learning,
+Information and Coding Theory,
+Statistical Learning,
+Privacy Aware Learning.
+Engr. Roohan Aziz
+Lecturer, CoCIS
+MSCS (Mohammad Ali Jinnah University Karachi)
+BSCE (Sir Syed University of Engineering and Technology)
+Email :
+roohan.aziz@kiet.edu.pk
+Work Experience:
+Lecturer in KIET at CoCIS (March 2023 – Present)
+Lecturer in IQRA University at Computer Science (July 2020 – February 2023)
+Lecturer in MAJU at Computer Science (June 2018 – June 2020)
+Freelance Software Developer (May 2017 – June 2018)
+Software Engineer in Edev Technologies at Instep Inc (May 2015 – April 2017)
+Software Engineer in Toyo Shoes at IT Department (March 2013 – May 2015)
+Research Interest:
+Image Processing
+Computer Vision
+Machine Learning
+Deep Learning
+Usman Khalil
+Lecturer, CoCIS
+Enrolled in Phd (UoK)
+MSCS (Hamdard University)
+Email:
+roohan.aziz@kiet.edu.pk
+Work Experience:
+Lecturer in KIET at CoCIS (Feb 2024 – Present)
+Lecturer in KASBIT (Mar 2023 – Feb 2024)
+Lecturer in DHA Suffa University (Aug 2016 – Mar 2023)
+Research Interest:
+Image Processing
+Computer Vision
+Machine Learning
+Deep Learning
+Ms Nida E Rub
+Lecturer, CoCISMSCS (FAST National University)BSCS (Indus University)
+Email:
+nida@kiet.edu.pk
+Work Experience:
+Lecturer KIET since Feb 20,2023Worked as Lecturer at “Indus University” (March 2021- Feb 2023)Worked as Teaching Assistant at “FAST National University”
+Research Interest:
+Data Science
+Machine Learning
+Muhammad Saad
+Managing Partner (Ingenious Digital Systems)
+Ph.D-CS (In Progress from KIET)
+MSSE (KIET)
+BSCS (Gold Medalist from KIET)
+Muhammad.saad@kiet.edu.pk
+Work Experience:
+Lecturer KIETVisiting/Adjunct Faculty, KIET (2017– DATE)
+Final Year Advisor, KIET (2017– 2023)
+Managing Partner, INGENIOUS DIGITAL SYSTEMS PRIVATE LIMITED (2019– DATE)
+Technology Consultant, FOXIT PRIVATE LIMITED (2023-DATE)
+Sr. Technical PROJECT MANAGER, XTREME SOLUTIONS (PVT) LTD. (2018– 2019)
+Team Lead Software Development, XTREME SOLUTIONS (PVT) LTD. (2015– 2018)
+Software Engineer, LIMTON INNOVATIVE SYSTEMS (2015– 2017)
+Microsoft Student Partner, MICROSOFT INNOVATION CENTER (2014 – 2016)
+Research Interest:
+Blockchain & Security
+Internet of Things
+Vehicular Ad hoc Networks
+Internet of Vehicles
+Artificial Intelligent
+Business Process Automation using Industrial IoT
+Ms. YAMNA AHMED
+Lecturer
+MSCS ( National University of Computer and Emerging Sciences (NUCES))
+yamna.ahmed@kiet.edu.pk
+Work Experience:
+Lecturer at KIETShe was a Visiting Lecturer in Computer Science Department of Iqra University.
+She was a Research Associate with the FAST School of Computing, NUCES.
+She worked as a Research & Teaching Associate in Salim Habib University
+Research Interest:
+Machine learning
+Deep learning
+Personalized learning
+Recommendation systems.
+Ms. Mizna Khalid
+Lecturer
+MS in Computer Networks & Security (NUCES)
+mizna.khalid@kiet.edu.pk
+Work Experience:
+Lecturer at KIETResearch Associate, NUCES (2022)
+Teaching Assistant, NUCES
+Research Interest:
+Computer Networks
+Information Security
+Ms. Qurat Ul Ain
+Lecturer
+PhD (ongoing) SSUETMSCE SSUET
+BSCE SSUETqurat.ulain@kiet.edu.pk
+Work Experience:
+Lecturer at KIETResearch Associate, NUCES (2022)
+Teaching Assistant, NUCES
+Research Interest:
+Computer Networks
+Information Security
+Muhammad Danish
+Lecturer
+MSSE (KIET)
+BSCS (KIET)
+danish@kiet.edu.pk
+Lecturer at Karachi Institute of Economics & Technology
+Visiting faculty at Karachi Institute of Economics and Technology
+Appointed as Chemistry and Math Teacher at The City School
+Worked as Systems and Network Engineer in PAF-KIET
+Research Interest:
+Network Administration
+Image Processing
+Machine Learning
+Block Chain.
+Ms Sana Ali Khan
+LecturerB.E (Electronics)M.E ( Electronics)
+Lecturer at Karachi Institute of Economics & TechnologyProcurement Engineer at SiemensSales Engineer at Techalik Pvt LtdVisitng faculty at KIET since 2020 till June 2023
+Research Interest:
+Micro System Design
+Nano System Design,
+Artificial Intelligence.
+Ayesha Anwer ul Haq
+Lecturer
+MSCS (BAHRIA UNIVERSITY)
+MCS (UBIT)
+BCS (UBIT)
+ayesha.anwar@kiet.edu.pk
+Lecturer KIET since Feb 12,2024Worked as Lecturer at “Indus University” (March 2021- Feb 2022)
+Research Interest:
+Artificial Intelligence
+Natural Language Processing
+Mr. Junaid Akhter
+Lab Instructor
+(Enrolled in MS)
+BSCS (KIET)
+junaid.akhter@kiet.edu.pk
+Work Experience:
+Lab Instructor, KIET
+1 year at KIET North Campus for IIA (TA)
+1 year at Aptech as Permanent Faculty Member
+Research Interest:
+Network
+Mr. Owais Ahmed
+Lab Instructor
+(Enrolled in MS)
+BS in Electronics Engineering ( Sir Syed University of Engineering and Technology)
+owais.ahmed@kiet.edu.pk
+Work Experience:
+Lab Instructor at KIETMehran commercial Enterprises, Pakistan (Jan 2021 – Sep 2021)Techno Pack Industry, Pakistan (Nov 2019 – Dec 2019)CERD Pakistan (June 2019 – Aug 2019)
+Research Interest:
+IoTPLC Ladder programmingPython programming
+Muhammad Azam
+Lab Instructor
+MSDS (FAST)
+BSCS (SALU)
+muhammad.azam@kiet.edu.pk
+Work Experience:
+Lab Instructor at KIET
+Research Interest:
+Data Science
+Machine Learning
+Artificial Intelligence
+Mr Daniyal Shafique
+BSCS (KIET)
+Advanced Diploma in Software Engineering (APTECH)
+ISC2 Certified  (CYBERSECURITY)
+Software Engineer
+Full Stack Developer
+Danyal.shafiq@kiet.edu.pk
+Work Experience:
+Lab Instructor at KIET
+Front End technologies development in
+IDA Solutions Software House
+React JS in
+MTECH Software House
+, Karachi
+PHP development in
+AvedaSoft Solutions
+, Karachi
+Research Interest:
+Backend Technologies
+Cyber security
+DevOps
+Networking
+Artificial Intelligence
+Dr Afsheen Maroof
+Assistant Professor
+PhD (CS) -MAJU Karachi
+MS(CS)-MAJU Karachi
+BS(CS)-UAJK
+Afsheen.maroof@kiet.edu.pk
+Work Experience
+Assistant Professor, KIET (AUG 2025 Till Date)
+Lecturer, KIET (Sep 2024-AUG 2025)
+Lecturer, DHA Suffa (Jan 2024-Sep2024)
+Lecturer, IOBM (Jan 2022-Jan 2024)
+Visiting Lecturer, University of Poonch AK  (2016-2019)
+Research Interest
+Natural Language Processing
+Sentiment Analysis
+Information Retrieval
+Deep Learning
+Generative AI
+Muhammad Talha
+PhD* (Computer Science) In Progress (Hamdard University)
+MSCS (Computer & Communication Networks) (Hamdard University)
+BSCS (Computer Science) (Usman Institute of Technology) UIT
+Work Experience:
+Lecturer, Karachi Institute of Economics & Technology (KIET) – Feb 25 to date.
+Lecturer, Iqra University (EDC Campus) IU – July 24 to Feb 25
+Lecturer, Hamdard University (Main Campus) HU – Nov. 22 to June 24.
+Research Interest:
+Wireless Sensor Networks
+Computer Networks
+Network Security
+Cloud Computing
+Malware Analysis & Detection
+Threat Detection
+Engr Muhammad Rayan Shaikh
+Lab Instructor
+BS Software Engineering (SSUET)
+mr.shaikh@kiet.edu.pk
+Work Experience:
+Asst IT Manager, JS Global Ltd. (June 2024 to December 2024)
+Lab Instructor KIET
+Research Interest:
+Artificial Intelligence, Machine Learning, Image Processing, Agentic AI
+Engr. Dr. Muzzaffar Mahmood(Professor)
+PhD(AE), CIT, UK
+M.Sc(AE), CIT, UK
+BE (Mechanical Engg.), NED)
+Work Experience:
+Dr Muzzaffar Mahmood has over 30 years experience in academics and industry.
+He retired as a Pro−Vice Chancellor and Professor from NED University of Engineering and Technology, Karachi. During his service, besides teaching and research he was responsible for the developmental work at the University, especially establishing new departments, notably Textile, Biomedical and Marine. He has supervised four PhD projects and has over 18 research publications.
+Research Interest:
+Applied Energy, Power Plants and Applied Statistics
+Jaweria Asif
+Lab Instructor
+MSCS (MAJU, in progress),
+BSCS (KIET),
+jaweria.asif@kiet.edu.pk
+Work experience:
+Lab instrcutor (feb 2025 – present)
+Computer science lecturer, guards public college korangi (aug 2022 to feb 2025)
+Computer science lecturer, ssat degree college (oc t 2021 to aug 2022)
+Communication assistant intern, taf foundation(june 2021 to aug 2021)
+Research intereset:
+Agentic A.I
+Natural Language Processing
+Computer Vision
+Explainable A.I
+Reinforcement Learning
+Syed Shahryar Jamil
+Lecturer at kiet 2024 sep till.
+Remote job ireland Altantic university technology as (RA) 22 jan to 2024 Aug
+Work Experience
+MSCS muhammad ali jinnah university ( 2022 to 2024 )
+BSCS sir syed university ( 2015 to 2019)
+Reserch Intrest :
+XAI
+Agentic AI
+Structure health monitoring
+Sustainable energy
+Health care
+Areej Shahbaz
+Lab Instructor
+BSCS (KIET),
+areej.shahbaz@kiet.edu.pk
+Work experience:
+Lab instructor (feb 2025 – present)
+Web Developer, Pakshost– Dubai, UAE    June 2022– May 2024
+Web Developer, GAOTek Inc.– Toronto, Ontario August 2024-October 2025
+Research interest
+Agentic A.I
+Natural Language Processing
+Computer Vision
+Explainable A.I
+Emaan Ayesha
+Lab Instructor
+MSDS (NED, in progress),
+BSCS (KIET),
+Eman.ayesha@kiet.edu.pk
+Work experience:
+Lab instrcutor, kiet (sep 2024 –current)
+Research intereset:
+Agentic A.I
+Natural Language Processing
+Computer Vision
+Time Series Forecasting
+Reinforcement Learning
+Muhammad Tayyab
+Lecturer
+MSCS (KIET)
+BSCS (KIET)
+Email:
+mt.tayyab@kiet.edu.pk
+Work Experience:
+Lecturer, KIET (Aug 2025 – Present)
+Lab Instructor, KIET (Feb 2024 – July 2025)
+Founder, Maventech (SMC-PVT) Ltd (Established May 2023)
+Technology Officer, EcoSol (SMC-PVT) Ltd (Nov 2021 – Jan 2023)
+Intern, Pakistan National Shipping Corporation (June 2021 – July 2021)
+Research Interests:
+Cyber Security Tools Development
+Pre-trained Transformer Models
+Cyber Security for AI Systems
+Swarm Intelligence
+Dr. Owais A. Hussain
+Associate Professor
+Ph.D. (KIET, Pakistan)
+MS-CS (KIET, Pakistan)
+MCS (KIET, Pakistan)
+owais.hussain@kiet.edu.pk
+www.linkedin.com/in/owaishussain
+Work Experience:
+CTO, TechThree.io (2024 to date)
+Acting CEO, Esquared Systems Pvt. Ltd. (2022 to 2024)
+Assistant Professor, KIET (2023)
+Research Areas:
+Complex Networks
+Graph Theory
+Applied Machine Learning in Healthcare
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+>>> OCR: DrNasirTouheed.jpg <<<
+LED
+--------------------
+
+
+>>> OCR: 1517823194148.jpeg <<<
+RL.
+) ww
+--------------------
+
+
+ --- LINKS FOUND ---

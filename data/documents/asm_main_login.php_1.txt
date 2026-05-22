@@ -1,0 +1,13 @@
+ Source URL: https://lms.kiet.edu.pk/asm/main_login.php#maincontent
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+This page should automatically redirect. If nothing is happening please use the continue link below.
+Continue
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

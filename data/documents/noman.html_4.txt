@@ -1,0 +1,17 @@
+ Source URL: https://iccis.kiet.edu.pk/noman.html#submissions
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Dr. Noman Islam
+Dr. Noman Islam
+Talk Title:
+"Load Balancing Solution For Cloud Computing Based On Deep Learning"
+"This work proposes a load balancing solution for cloud computing based on deep learning. Cloud computing has been a topic of intense research over the past few years. It is defined as the dynamic provision of services over the internet. The objective of this work is to address the load balancing challenge in cloud computing using deep learning. Load balancing attempts to maintain a uniform load on each of the hosts such that no machine is under or over-loaded. The load balancing will be performed based on a set of experiments using a convolutional and recurrent neural network. The recurrent neural network (RNN) and convolutional neural network (CNN) family of deep learning has been extensively used for modeling sequential data i.e. in situations where current data depends on historical data. It is hypothesized that the load on machines can be modeled as sequential/ time series data. Based on this hypothesis, long short-term memory (LSTM) and convolutional neural network (CNN) can be used to predict future load and possible faults on a host. Accordingly, a proactive load balancing solution can be devised that takes initiatives in advance to maintain load on hosts. The work will investigate a. An LSTM based model b. CNN-based model c. ensemble of LSTM and CNN, for modeling workload on cloud hosts. Finally, in order to determine the hyper-parameters of the model, swarm intelligence is proposed that can determine the optimal hyperparameters to be used for training the model.
+Back
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

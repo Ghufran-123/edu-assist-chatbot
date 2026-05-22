@@ -1,0 +1,27 @@
+ Source URL: https://dasr.kiet.edu.pk/conferences/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Conferences
+Conference and Journal Publications by research group
+Signal Processing
+Data Mining and Visual Analytics
+Software Engineering & Future Generation Computing
+Embedded Systems
+Smart Networks
+Molecular and Nanoelectronics
+Applied Controls and Power
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---
+https://sp.dasr.kiet.edu.pk/Publications
+https://dm.dasr.kiet.edu.pk/Publications
+https://se.dasr.kiet.edu.pk/Publications
+https://es.dasr.kiet.edu.pk/Publications
+https://sn.dasr.kiet.edu.pk/Publications
+https://mn.dasr.kiet.edu.pk/Publications
+https://acp.dasr.kiet.edu.pk/Publications

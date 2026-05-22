@@ -1,0 +1,32 @@
+ Source URL: https://kiet.edu.pk/spec-2022/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+SPEC 2022
+KIET College Of Engineering CoE presented a spectacular event on 6th January 2022 that is Student Project Exhibition & Competition SPEC which presented a complete package of Senior Design Project SDP, semester project exhibitions and competitions evaluated by industry externals including:
+-Semester project exhibition
+-Final year project exhibition
+-Code war
+-Poster competition
+-Algorithm designing and logic building
+-Counter strike
+-Speed wiring
+-Line Following Robot
+-Sumo
+-Remote Control car
+-Aero build and fly
+-Air combat with VR
+-Fun flying
+-DIY plane
+-Drone
+-Parachute modeling
+-FPV drone racing
+-4-DOF motion simulator
+Various universities also participated in different competitions according to their expertise.
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

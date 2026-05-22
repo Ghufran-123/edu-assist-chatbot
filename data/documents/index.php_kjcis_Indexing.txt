@@ -1,0 +1,37 @@
+ Source URL: https://kjcisjournal.kiet.edu.pk/index.php/kjcis/Indexing
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Abstracting and Indexing
+Current abstracting & indexing
+KJCIS is committed to ensuring the discoverability and long-term accessibility of published research. The journal is currently indexed and abstracted in national and international services, and metadata for all published articles is deposited with relevant indexing services.
+Indexing (examples included as journal policy statements):
+CrossRef (DOI registration and metadata deposition)
+WorldCat
+Directory of Research Journals
+EuroPub
+Ongoing indexing goals
+KJCIS actively pursues further indexing in major international databases, including DOAJ and Scopus. To meet the requirements of these services, the journal maintains transparent editorial policies, rigorous peer-review procedures, regular publication schedules, and consistent metadata practices.
+Metadata & discoverability
+All articles are assigned CrossRef DOIs with complete metadata submissions.
+Article pages include English titles, English abstracts, author affiliations, ORCID (when provided), and structured keywords.
+Machine-readable metadata (schema.org / Dublin Core) and an OAI-PMH endpoint are used to facilitate harvesting by aggregators.
+Indexing readiness & compliance
+The journal follows best practices required by major indexers:
+Clear aims and scope in English
+Full editorial board with institutional affiliations
+Detailed peer-review and ethics policies publicly available
+Timely publication and accessible archive of past issues
+Open access policy and transparent business model
+DOI registration and timely metadata deposits
+How to cite KJCIS articles
+Citation format includes Article Title, Author(s), KJCIS, Volume(Issue), Page range, Year, and DOI. Each article page provides citation export options (RIS / BibTeX).
+Indexing enquiries
+For enquiries about indexing, metadata, or deposit requests, contact the journal's editorial office. Provide the article DOI, issue details, and the indexing service targeted.
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

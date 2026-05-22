@@ -1,0 +1,25 @@
+ Source URL: http://lms.kiet.edu.pk/kietlms/my/pwemail/identify.php
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+We need some information to verify your ID
+This protects your account from unauthorized access
+Student ID
+Student Registration No. e.g. 1234
+Guardian Email
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+>>> OCR: lms_top.png <<<
+&) KIET
+
+LEARNING MANAGEMENT SYSTEM
+KIET
+--------------------
+
+
+ --- LINKS FOUND ---
+http://lms.kiet.edu.pk/kietlms/my/pwemail/reg/PasswordForgotton.php

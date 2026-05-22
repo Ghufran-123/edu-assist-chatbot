@@ -1,0 +1,41 @@
+ Source URL: https://kjcisjournal.kiet.edu.pk/index.php/kjcis/about
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+About the Journal
+About the Journal
+The
+KIET Journal of Computing & Information Sciences (KJCIS)
+is a bi-annual, peer-reviewed scholarly journal committed to advancing the discipline of computing and information sciences through the dissemination of high-quality, methodologically rigorous, and ethically sound research. Published by the
+College of Computing & Information Sciences (CoCIS)
+at the Karachi Institute of Economics & Technology (KIET), the journal serves as an academic platform for researchers, practitioners, and industry specialists from around the world.
+KJCIS provides an interdisciplinary outlet for emerging and established areas of computing, bridging theoretical foundations with practical implementations. The journal prioritizes research that introduces new methodologies, proposes innovative solutions, or presents significant empirical findings relevant to contemporary challenges in computer science and information technology.
+By upholding international publishing standards, adhering to strict ethical guidelines, and following a transparent double-blind peer review process, KJCIS supports global knowledge exchange and strengthens the academic ecosystem in Pakistan and beyond.
+Mission & Vision
+Vision
+To establish
+KJCIS
+as a distinguished, internationally recognized platform for high-impact computing research that drives scientific innovation, technological advancement, and sustainable digital transformation across academic and industrial domains.
+Mission
+Our mission is to:
+Publish rigorous, original, and ethically responsible research that contributes to the global computing body of knowledge.
+Promote innovation and scholarly excellence in computer science, information technology, and emerging interdisciplinary areas.
+Facilitate collaboration between academia, industry, policy-makers, and research institutions.
+Ensure equitable access through open-access publishing, enabling readers worldwide to benefit from published advancements.
+Support the professional development of authors, reviewers, and editorial members through quality peer-review and transparent publication processes.
+History
+The
+KIET Journal of Computing & Information Sciences (KJCIS)
+was established as a bi-annual scholarly publication under the
+College of Computing & Information Sciences (CoCIS)
+at the Karachi Institute of Economics & Technology. Its objective was to create a dedicated venue for disseminating impactful research in computer science and related fields.
+From its inception, the journal adopted a strong emphasis on academic integrity, peer-review quality, and global relevance. Over the years, KJCIS has expanded its editorial board to include national and international scholars, enhancing the journal’s scholarly credibility and international reach.
+By consistently publishing research aligned with global computing trends, including artificial intelligence, cyber security, big data, and software engineering, KJCIS has become a valuable knowledge resource for local and global audiences.
+Today, the journal continues to evolve by adopting modern editorial practices, introducing digital publishing workflows, and aligning its framework with Scopus and DOAJ requirements to ensure discoverability, transparency, and academic excellence.
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

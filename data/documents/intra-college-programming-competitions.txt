@@ -1,0 +1,94 @@
+ Source URL: https://cocis.kiet.edu.pk/intra-college-programming-competitions/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Intra College Programming Competitions
+CoCIS encourages students to participate in all the competitions held at various universities and fund their expenses. Student societies hold regular technical sessions and internal competitions for the preparation of such events. Following table summaries the performance of our students in the last two years:
+University
+Event
+Year
+Competition
+Position
+Fast University, Karachi
+ProCom
+2019
+Bilinguel Debate Competetion
+3rd Position
+Capital University, Islamabad
+Excite Cup
+2019
+Software Project Exhibition
+3rd Position
+IBA, Karachi
+Pro Battle
+2019
+Speed Programming
+Runner Up
+Sindh Madarsatul Islam
+Imagine Cup
+2019
+Project Exhibition
+Select for Final Exhibition held in
+HEC headquater islamabad
+Fast University Islamabad
+Daira
+2019
+Speed Programming, Gaming, Debate
+Runner up in some competitions
+NU Fast, Karachi
+ProCom
+2018
+Network Competition
+Winner
+NU Fast, Karachi
+ProCom
+2018
+Project Exhibition
+Winner
+NU Fast, Karachi
+ProCom
+2018
+Graphic Design, Speed Programming, Mobile App Development, Network Design
+Runner Up
+IBA, Karachi
+ProBattle
+2018
+Project Exhibition
+Winner
+IBA, Karachi
+ProBattle
+2018
+Speed Programming, Data Analysis, Network Design
+Runner Up
+UMT, Lahore
+ACM ICPC
+2017
+International Collegiate Programming Contest
+Secure 1st & 10th Position out of 97 teams from all over Pakistan, Also won 2 fastest problem solver gold medals and qualify for ICPC world final
+University of Karachi
+Karachi University Leadership Conference (KULC)
+2017
+Student performs in different activities & Competitions related to teamwork, Leadership & Personal Development
+KIET students got outstanding performance nomination. 200+ participants students from 20+ institute.
+IoBM, Karachi
+Zenith Leadership & Development Conference Karachi
+2017
+Unlock Game, Ice Breaker, Ad-Making, Cleaning Activity, Bridging, Indoor Activity
+Won best team award out of 20+ teams
+UMT, Lahore
+ACM ICPC
+2016
+International Collegiate Programming Contest
+11th In Asia Region
+UBIT, University of Karachi
+ProQuest
+2016
+Speed Programming, Algo Mania, Website Design, Network Design, Logo design, IQuest
+Won the General Trophy out of 300+ Participants
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

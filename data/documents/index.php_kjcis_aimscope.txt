@@ -1,0 +1,67 @@
+ Source URL: https://kjcisjournal.kiet.edu.pk/index.php/kjcis/aimscope
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Aim and Scope
+Aim
+KJCIS aims to provide a comprehensive, multidisciplinary platform for research that advances the theoretical foundations, applied methodologies, and practical applications of computing and information sciences. The journal seeks to:
+Disseminate high-quality, peer-reviewed research grounded in scientific rigor.
+Promote interdisciplinary collaboration across emerging domains of computing.
+Support innovation that contributes to societal growth, industrial development, and academic progress.
+Bridge the knowledge gap between academia, research institutions, and industry.
+Scope
+The scope of KJCIS includes a broad selection of contemporary and foundational research areas. Submissions may employ theoretical, experimental, computational, empirical, or hybrid methodologies. The journal welcomes contributions in (but not limited to) the following areas:
+Artificial Intelligence, Machine Learning & Deep Learning
+Supervised, unsupervised, and reinforcement learning
+Neural architectures, deep feature extraction, and optimization
+Explainable AI, responsible AI, and fairness in algorithms
+Intelligent autonomous systems
+Data Science, Big Data & Knowledge Engineering
+Big data processing frameworks and distributed datasets
+Data mining, clustering, classification, and pattern discovery
+Predictive analytics and statistical modeling
+Data governance, privacy, and ethical analytics
+Networks, Communication & Cyber Security
+Network architecture, protocols, and performance analysis
+Wireless, mobile, and sensor networks
+Cryptography, key management, and secure communication
+Cyber risk management and digital forensics
+Software Engineering & Quality Assurance
+Agile methodologies, DevOps pipelines, and CI/CD models
+Software testing, verification, and validation
+Model-driven engineering and software architecture
+Software project management and process maturity
+Distributed, Parallel & Cloud Computing
+Cloud orchestration, virtualization, and containerization
+Parallel algorithms and multi-core systems
+High-performance computing and GPU computation
+Blockchain systems and decentralized computing
+Internet of Things (IoT), Embedded Systems & Cyber-Physical Systems
+IoT device engineering and networked sensors
+Embedded software and real-time operating systems
+Smart cities, Industry 4.0, healthcare IoT
+Safety-critical CPS applications
+Computer Vision, Image Processing & Multimedia Systems
+Visual recognition, segmentation, tracking, and scene understanding
+Signal processing, compression, and reconstruction
+Augmented, virtual, and mixed reality systems
+Human–Computer Interaction & Natural Language Processing
+User experience engineering and usability studies
+Speech recognition, computational linguistics, and dialogue systems
+Multimodal interfaces and intelligent interaction design
+Database Systems & Knowledge Representation
+NoSQL, NewSQL, and distributed database models
+Semantic web technologies and ontologies
+Query optimization, indexing, and transaction processing
+Optimization, Algorithms & Formal Methods
+Metaheuristics, evolutionary algorithms, swarm intelligence
+Formal verification, correctness proofs, and specification languages
+Combinatorial optimization and graph algorithms
+The journal welcomes submissions from academic researchers, industry practitioners, postgraduate students, and multidisciplinary teams working on advanced computing challenges.
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

@@ -1,0 +1,20 @@
+ Source URL: https://kiet.edu.pk/portfolio_page/dr-syed-mubashir-ali/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Dr. Muhammad Saleheen Aftab
+Assistant Professor & HoD Mechatronics Engineering Department
+Educational Background:
+PhD (Automatic Control and Systems Engineering), The University of Sheffield, UK
+MSc (Electronic Instrumentation & Control Systems), Sultan Qaboos University, Oman
+BE (Electronics Engineering), NED University of Engineering and Technology, Pakistan
+Dr. Muhammad Saleheen Aftab has received a PhD in Automatic Control and Systems Engineering from The University of Sheffield, UK in 2022 where he developed improved, cost-effective, and computationally efficient model based predictive controllers to cater for a variety of industrial process control applications. Previously, he completed BE (Electronics) from NED University of Engineering & Technology, Karachi in 2009 before moving abroad to Sultan Qaboos University, Oman in 2013 for pursuing MSc in Electronic Instrumentation & Control Systems. He possesses nearly 10 years of experience in academia, including both national and international universities, where while attaining higher education, he actively participated in undergraduate teaching, and research activities. To date, he has published numerous articles in prestigious international conferences as well as reputed scientific journals.
+Research Interests:
+Model-based Predictive Control, Intelligent Control Systems, Robotics System Design
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

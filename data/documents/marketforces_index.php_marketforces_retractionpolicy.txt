@@ -1,0 +1,36 @@
+ Source URL: https://kiet.edu.pk/marketforces/index.php/marketforces/retractionpolicy
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Retraction Policy
+Retraction Policy (Adopted From COPE)
+Editors should consider retracting a publication:
+They have clear evidence that the findings are unreliable, either as a result of a major error (e.g., miscalculation or experimental error) or as a result of fabrication (e.g., of data) or falsification (e.g., image manipulation)
+It constitutes plagiarism.
+The findings have previously been published elsewhere without proper attribution to previous sources or disclosure to the editor, permission to republish, or justification (i.e., cases of redundant publication).
+It contains material or data without authorization for use.
+Copyright has been infringed, or other serious legal issues exist (e.g., libel, privacy).
+It reports unethical research.
+It has been published solely based on a compromised or manipulated peer review process
+The author(s) failed to disclose a major competing interest (a.k.a. conflict of interest) that, in the editor's view, would have unduly affected interpretations of the work or recommendations by editors and peer reviewers.
+Notices of retraction should:
+Be linked to the retracted article wherever possible (i.e., in all online versions).
+Clearly identify the retracted article (e.g., by including the title and authors in the retraction heading or citing the retracted article).
+Be identified as a retraction (i.e., distinct from other types of correction or comment)
+Be published promptly to minimize harmful effects.
+Be free to all readers (i.e., not behind access barriers or available only to subscribers).
+State who is retracting the article.
+State the reason(s) for retraction.
+Be objective and factual and avoid inflammatory language.
+Retractions are not usually appropriate if:
+The authorship is disputed, but there is no reason to doubt the validity of the findings
+The main findings of the work are still reliable, and corrections could sufficiently address errors or concerns
+An editor has inconclusive evidence to support retraction or is awaiting additional information, such as from an institutional investigation
+Author conflicts of interest have been reported to the journal after publication. Still, in the editor’s view, these are not likely to have influenced interpretations, recommendations, or the article's conclusions.
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

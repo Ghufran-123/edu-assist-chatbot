@@ -1,0 +1,94 @@
+ Source URL: https://dasr.kiet.edu.pk/ms-programs-eligibility-requirements/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+MS Programs/Eligibility/Requirements
+MS leading to PhD Programs Offered at dasr:
+College of Computing & Information Sciences
+MS Computer Science
+MS Telecommunication and Networks
+MS Software Engineering
+Specialized Research Groups:
+Visual Analytics
+Software Engineering and  Future Generation Computing
+College of Engineering
+MS Electronic Engineering
+Specialized Research Groups:
+Embedded Systems
+Molecular and Nano-Electronics
+Signal Processing
+Applied Control and Artificial Intelligence
+MS leading to PhD Program:
+Students who are committed to a PhD track have the option of designing their MS program in a way that facilitates and expedites the meeting of requirements for the PhD program.
+Students in this program meet all the requirements of the MS program including Thesis. However, Thesis of the MS leading to PhD program consists of a research survey that they are expected to publish in a recognized journal.  Their MS Thesis partially fulfills one of the major requirements of the PhD Proposal, namely, literature survey, and in this manner they are able to expedite the completion of their PhD program.
+Note, however, MS Leading to PhD students still have to meet all HEC requirements for PhD admission prior to being admitted in the PhD program.
+Eligibility:
+Graduates in Engineering (Electronics, Electrical or Telecommunication), Sciences or Mathematics from HEC recognized institutions that have;
+A minimum CGPA of 3.00 on a scale of 4.00 (or overall 60% marks) or equivalent
+A minimum of sixteen years of schooling or 4 years (130 credit hours) after FA / FSc in the relevant discipline from HEC recognized institutions. For engineering programs a Bacehlor’s degree in a relevant engineering field is required.
+National Testing Service GAT General test need to be cleared with minimum 50% cumulative score.
+Interview conducted by the Institute.
+Meet all HEC stipulated requirements.
+The Graduate School may stipulate prerequisite courses to be completed by applicants not meeting the four-year university level study requirements or not having the relevant background to bring them equivalent to the requisite HEC requirements.
+MS Degree Requirements
+MS degree program is an M.Phil level program consisting of 30 credit hours:
+18 credit hours or 6 courses from the specialized area.
+°   Two of these courses must be independent research courses.
+6 credit hours or 2 courses from non-specialized areas
+6 credit hours of MS Thesis / research work
+Students need to publish at least one research paper in an international conference or journal.
+Minimum passing grade for the MS degree program is B grade.
+MS course requirements (including independent research courses) typically take one year to complete. On completion of MS course requirements, MS students must register for thesis (6 credit hours) that can be completed in a semester by full-time students.
+Independent Study
+Objective of the supervised Independent Study (IS) courses is to enable students to transition from teacher-taught courses to self-study courses.
+To facilitate this transition, MS students meet their supervisors on a weekly basis to get guidance and discuss their progress.
+In an Independent Study, a student designs a self study program of research in the chosen area of interest in consultation with the assigned supervisor.
+The topic for such an Independent Study is chosen to support thesis/research work and a judicious selection can substantially reduce time required for thesis work.
+Final report of the independent study is submitted in a research paper format.
+Research methodology of the Independent Study courses is such as to enable students to routinely publish their research.
+Thesis
+Thesis is a challenging research effort that adds value to the MS degree and distinguishes the MS-with-Thesis graduates from ordinary course-based MS degree holders.
+Thesis component of this MS degree brings it at par with international research-based MS degrees offered in USA, and elsewhere and to the MPhil degrees offered in Pakistan.
+Thesis experience is different from any other academic activity that MS students may have undertaken as part of their undergraduate or course-based MS degree.
+The objective of thesis research work is to enable the MS students to join the international community of professional researchers. This is achieved with the publication of their thesis research.
+A successful thesis equips the MS student with tools and techniques of research that makes the student confident that he can undertake any research assignment for solving a problem for which there is no known solution.
+At the start of thesis, a supervisor is assigned to the student from the relevant research group.
+Thesis process is well-defined and consists of a list of deliverables on which the progress of student is measured during each meeting with the main supervisor.
+Thesis has to be successfully defended in front of the Thesis Committee to complete the MS requirements.
+Structured Thesis
+A novel structured thesis format for research has been designed to expedite the completion of a research thesis in well defined phases that are easily understood and monitored.
+Introduction of this structured mechanism has substantially expedited the thesis completion time.
+The structured format allocates 6 credit hours of thesis in the following two courses: (1) Research Proposal & Thesis Methodology, and (2) Thesis Implementation, Results and Defense.
+Thesis Defense
+On completion of Thesis, a student submits a request to dasr for the constitution of an Examining Committee on the recommendation of main supervisor and for a defense date.
+dasr constitutes an Examining Committee and announces a defense date.
+Examining Committee comprises three faculty members; the supervisor, an internal examiner and an external examiner.
+Student has to satisfy the Examining Committee in an open thesis defense.
+Related Links
+Semester-wise course offerings
+MS Program Details
+PhD Program Details
+External MS/PhD Students
+Research Collaborations
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---
+http://kiet.edu.pk/dasr/master-of-science-computer-science/
+http://kiet.edu.pk/dasr/mstn/
+http://kiet.edu.pk/dasr/msse/
+http://dm.dasr.kiet.edu.pk/
+http://se.dasr.kiet.edu.pk/
+http://kiet.edu.pk/dasr/master-of-science-electronic-engineering/
+http://es.dasr.kiet.edu.pk/
+http://mn.dasr.kiet.edu.pk/
+http://sp.dasr.kiet.edu.pk/
+http://acp.dasr.kiet.edu.pk/
+http://kiet.edu.pk/dasr/course-offered
+http://kiet.edu.pk/dasr/ms-programs-eligibility-requirements/
+http://kiet.edu.pk/dasr/phd/
+http://kiet.edu.pk/dasr/external-ms-phd-students/
+http://kiet.edu.pk/dasr/collaboration/

@@ -1,0 +1,339 @@
+ Source URL: https://kiet.edu.pk/academics-colleges/humanities-sciences/#tab-1530164003108-2-7
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Humanities & Sciences
+Home
+Course List
+Course Description
+Papers Published
+Faculty Profiles
+-Who We Are-
+The College of Humanities & Sciences is responsible to impart instructions in Humanities, English and  Mathematics  to undergraduate and postgraduate students of programs offered in Applied Sciences & Arts i.e  in Engineering , Computer and Information Sciences, Management Sciences and Media Arts at KIET.
+-Director’s Profile-
+Dr. Muhammad Amin
+MSc, Applied Math (PU)
+PhD, DIC Imperial College, London (UK)
+Dr. Muhammad Amin is a professor of Mathematics and Director of College of Humanities & Sciences at KIET Karachi. He is a self made professional who started his education career at a village primary school in Sialkot. Through dedication and hard work he ended up as a post graduate student at Imperial College London University (UK). This world famous institution awarded him PhD and DIC in a minimum period of 3 years. Besides, he has the honor to work as a research scholar for one year at Research Establishment, Winfrith (Atomic Energy Authority) UK. There, he made extensive use of packages specially prepared for the Analysis of Nuclear Reactors on IBM computers and produced two research reports. On his return to Pakistan in 1962, he continued the research work and produced research papers published in Journal of Natural Sciences, Govt College Lahore.
+During his professional career (1962- to date) he has served as professor of Mathematics and taught students of Engineering at undergraduate and post graduate levels at Institutions of National repute such as: Engineering University Lahore;  College of Aeronautical Engineering (NED) ; Navy Engineering College (NUST);  Usman Institute of Technology (Hamdard) and KIET Karachi.
+Mathematics
+The department of Mathematics is assigned the task to conduct mathematics courses which comprise the integral part of syllabi for under graduate and post graduate programs in Electrical Engineering , Computer Science and Management Sciences offered by KIET. Therefore we run courses in almost all branches of mathematics such as:
+1. Mathematics Courses for Management Science Programs
+Code
+Course
+CR-H
+QT102
+Business Math
+QT203
+Statistics & Inferences
+2. Mathematics Courses for Computer Science Programs
+Code
+Course
+CR-H
+QT101
+Algebra and Trigonometry
+QT104
+Calculus and  Analytical Geometry
+QT105
+Differential Equations and Multivariable Calculus
+QT203
+Probability & Statistics
+QT 303
+Numerical Computing
+3. Mathematics Courses for Engineering Programs
+Code
+Course
+CR-H
+QT101
+Algebra and Trigonometry
+QT104
+Calculus and  Analytical Geometry
+QT105
+Differential Equations and Multivariable Calculus
+QT203
+Probability & Statistics
+QT 303
+Numerical Computing
+In due course, we plan to introduce undergraduate program in Applied Mathematics, gradually leading to post graduate studies and research dealing with mathematical problems of applied sciences.
+Mathematics for Management Science Program
+QT 102 Business Mathematics
+Introduction to real numbers, fractions, powers, roots, exponentials, and logarithms; use of calculator. Simple polynomials, synthetic division and factorization, quadratic equation formula; simple permutations and combinations. Introduction to rectangular coordinates, distance and midpoint formulas; equation of a straight line, graph and application. Introduction to matrices and determinants; cofactors and matrix inversion; solution of system of linear equations by row operations, Cramer’s rule and matrix inversion. Introduction to finance mathematics; interest laws and application to payment computation, annuities and cost-benefits analysis.
+QT 201 Advanced Business Mathematics
+Algebra:
+Review: arithmetic operations and use of calculators; evaluation of powers, roots exponential and logs. Simple equations and inequalities in one and two variables; equation of a straight line, slope –intercept form and linear programming ; business applications. Introduction to matrices, determinants and basic mathematical operations; solution of system of linear equations by simple row operations, Cramer’s rule and matrix inversion; application to business problems.
+Financial Mathematics:
+Introduction, simple and compound interest laws; payment computation and annuity.
+Calculus:
+Introduction to functions , graphs , limit and continuity; average rate of change, derivative and basic laws of differentiation; instantaneous rate of change , concavity , maxima , minima , point of inflection and business applications. Integral as antidervative , basic formulas and methods of integration. Definite integral as area under the curve, area of simple figures ,mean values and numerical integration; application to business problem.
+Prerequisite: QT 102
+QT 203 Statistics & Inferences
+Introduction to statistical data, data collection and sampling techniques; frequency distribution and graphical representation, measures of central tendency, variation, skewness and kurtosis. Introduction to permutations and combinations; sets and probability, basic laws, simple, combined and conditional probabilities. Introduction to random variables and probability distributions; binomial poisson, and normal distributions and applications. Sampling distributions, estimation of parameters, testing of hypothesis and goodness of fit. Simple linear regression and correlation. Use of statistical tables. Prerequisite: QT 201
+Mathematics for Computer Science Program
+QT 101 Algebra and Trigonometry
+Algebra
+Real numbers, powers, roots, basic laws of exponentials, logs and numerical computation; introduction to complex numbers and simple mathematical operations. Introduction to polynomial functions, graphs and solution of linear equations; second degree polynomials, graphs and factorization; solution of quadratic equations by factorization, basic formula, graph and nature of roots; simultaneous equations. Introduction to matrixes and determinants, simple mathematical operations, minors, cofactors and matrix inversion; system of linear equations and Cramer rule. Sequences and series; AP, GP and HP series, main properties and numerical problems. Simple permutations and combinations , binomial theorem and approximation; Simple partial fractions involving linear, repeated and quadratic factors.
+Trigonometry
+Introduction to angle in radians; relation and numerical problems. Trigonometric rations, mutual relations and simple identities; variation in four quadrants and graphs; application to height and distance problem. Sum, difference product, double and half angle formulas of T-ratios; area, sine and cosine formulas of a triangle.
+QT 104 Calculus & Analytical Geometry
+Basic Mathematics: Complex numbers, rectangular, polar and exponential forms, simple mathematical operations, Demoivre’s theorem, powers and roots. Polynomials functions, remainder theorem, synthetic division, factorization and determinations of roots. Simple functions, standard curves, graphs and main properties.
+Differential Calculus limit. continuity, derivatives and basic laws of differentiation; simple application to tangent, normal, velocity, acceleration, maxima, minima; Taylor and Maclaurin’s series and. approximation.
+Integral Calculus: Integral as anti -derivative, basic formulas; Methods of integration, definite integral as limit of a sum; application to area of plane figures and volume of simple solids of revolution.
+Prerequisite QT 101.
+QT 105 Differential Equations and Multivariable Calculus
+Vectors in two and three dimensions, dot and cross products, equations of line and plane. Multivariable functions, partial derivatives and differentials. Introduction to ordinary differential equations, simple first order differential equations, second order differential equations with constant coefficients and method of undetermined coefficients. Prerequisite QT 104
+QT 303 Numerical Computing
+Nonlinear equations and solution by Iterative, Newton Raphson, Regula-Falsi and Secant Methods; systems of linear equations, row operation, solution by Gauss, Jordan, Jacobi, Seidel and Crouts methods and matrix inversion; eigen values and vectors. Introduction to finite differences, interpolation by Gregory Newton Lagrange and divided difference formulas; curve fitting by method of least square and application. Numerical differentiation; integration by Trepizidal, Sympson and Gauss rules. Solution of ordinary differential equations by Euler methods.
+Prerequisite: QT105
+QT 203 Probability & Statistics
+Introduction to statistical data, data collection and sampling techniques; frequency distribution and graphical representation, measures of central tendency, variation, skewness and kurtosis. Introduction to permutations and combinations; sets and probability, basic laws, simple, combined and conditional probabilities. Introduction to random variables and probability distributions; binomial poisson, and normal distributions and applications. Sampling distributions, estimation of parameters, testing of hypothesis and goodness of fit. Simple linear regression and correlation. Use of statistical tables.
+Mathematics for BE Program
+MS 1303 Calculus
+Differential Calculus
+Introduction to functions, graphs, limits and continuity. Derivatives as a limit , Basic laws of differentiation, chain rule and implicit differentiation. Derivative as a slope and as a rate of change; tangent and normal, critical points, maxima, minima and point of inflection; optimization. Taylor and Maclaurin series and convergence, L’ Hopital rule and mean value theorem.
+Integral Calculus
+Integral as anti-derivative, basic formulas and tables, indefinite and definite integrals. Methods of integration: substitution, by parts and partial fractions. Definite integral as limit of a sum, application to area, mean values and volume of solids of revolution. Polar coordinates, simple curves, graphs and area of plane figures ; parametric curves, arc length and surface of a solid of revolution.
+Introduction to multivariable functions, partial derivatives and differentials.
+Pre-Requisite: Pre-Engg Maths
+MS 1302 Linear Algebra
+Introduction to complex numbers, geometrical representation and simple mathematical operations; polar and exponential forms, DeMoivre’s theorem, powers and roots.
+Introduction to matrices and determinants , simple mathematical operations and special matrices. Simple row operations; Gauss elimination , echelon form , rank, linear independence and system of linear equation ; Gauss-Jordan elimination , matrix inversion and Cramer rule. Vector spaces, basis and dimensions; inner products, Gram- Schmidt process and orthogonalization; eigen values and vectors .
+Vectors in space, dot and cross products; physical and geometrical application; equations of lines and planes; curves in space and length of arc; simple surfaces.
+Pre-Requisite: MS 1303 Calculus
+MS 2304 Differential Equations and Transforms
+Introduction to ordinary linear differential equations: formulation, order, degree and linearity of differential equation. First order differential equations; second order homogenous and non homogenous differential equations with constant coefficients, complimentary, particular solutions and method of undetermined coefficients; variation of parameters and Cauchy-Euler differential equation; initial- and boundary-value problems; solution in series. Introduction to Laplace transformation; Laplace transform of simple functions and tables; Laplace inversion by partial fractions and convolution , application to initial value problems. Introduction to unit step and delta functions, Laplace transform of discontinuous, periodic and discrete phenomena.
+Introduction; periodic functions and Fourier series; half range Fourier series, Fourier integrals and transforms of simple functions. Introduction to partial differential equations and method of separation of variables.
+Pre-Requisite: MS-1303 Calculus
+MS 2305 Complex Variable and Multivariable Calculus
+Complex variable
+Complex variable and functions; analytic functions , Cauchy-Riemann equations, derivatives, orthogonal and harmonic properties of conjugate functions. Introduction to Complex integration: Cauchy integral theorem, Cauchy integral formula, poles , residues and residue theorem; contour integration; improper integrals.
+Multivariable Calculus
+Introduction to Multivariable integration; evaluation of area and volume of simple geometrical figures. Scalar and vector fields; Del operator, gradient, divergence, curl and laplacian; vector differential calculus. Line, surface and volume integrals; Green, Stokes and Gauss theorems. Simple applications.
+Pre-Requisite: MS 1302 Linear Algebra
+MS 2304 Differential Equations and Transforms
+MS 3306 Probability Methods in Engineering
+Introduction to statistical data, frequency distribution and graphical representation. Measures of central tendency and variation. Basic concepts of probability, simple combined and conditional probabilities, independent events, Baye’s theorem and application. Introduction to random variables; discrete and continuous probability distributions (binomial, poisson, normal, uniform and exponential); probability density function, expected values, mean, variance and standard deviation. Sampling distributions, estimation of parameters, testing of hypothesis and goodness of fit. Scatter diagram, linear regression , coefficients of correlation and determination; inferences. Use of SPSS.
+Pre-Requisite: MS-1303 Calculus
+MS 4307 Numerical Methods (3 + 0)
+Introduction to numerical methods and estimation of errors. Non linear algebric equations; Newton-Raphson , secant and Regula falsi methods; system of linear equations and LU method; Eigen values and Eigen vectors by power method. Calculus of finite differences and interpolation (equal and unequal intervals); curve fitting by least squares. Numerical differentiation; numerical integration by trapezoidal, Simpson and Gauss rules. Solution of first order ordinary differential equations by Euler and Runge – Kutta methods; system of linear differential equations. Introduction to numerical solution of partial differential equations. Use of MATLAB.
+Pre-Requisite: MS 1302 Linear Algebra
+MS 2304 Differential Equations and Transforms
+Author
+Title of Paper
+Name of Journal
+Ms Sahar Altaf
+An efficient haar wavelet technique for solution of fractional partial differential equation.
+Science International ,Lahore
+Ms Sahar Altaf
+Analyzing Human Communities using Fuzzy Graphs.
+Pakistan Journal of Engineering, Technology & Science
+Ms. Kahkashan Iqbal
+When is the center of a near ring It’s sub near ring?
+Annual Iranian Mathematics Conference (published in proceedings)
+Ms.Kahkashan Iqbal
+Assessment Using MATLAB- A Project Overview
+Published in electronic proceedings of ATCM’08 Bangkok
+Mr.Wajdan Raza
+A Rating Scale to Assess English Speaking Proficiency of University Students in Pakistan
+International Conference on Language Teaching and Learning in October-2008 at Panang (Malaysia)
+Ms.Kahkashan Iqbal
+On Units in Near Rings
+Published in Technology Force of KIET/ LUMS 2
+International Conference on Mathematics (LICM’08)
+Mr.Shahbaz Khan &
+Ms.Kahkashan Iqbal
+Students; absents during semester: A simulation based study
+Presented in 2
+Mathematics Colloquium 2008 at Institute of Business Management
+Ms.Kahkashan Iqbal
+Study of Commutativity in Matrix Near Rings
+Ohio University Conference of Alg & its Application
+Ms.Kahkashan Iqbal
+Quantitative Analysis on Data of Sales of Honda Atlas Cars Pakistan Ltd.
+Presented in 1
+Mathematics Colloquium 2007 at Institute of Business Management
+Ms.Kahkashan Iqbal
+How learning and teaching of Mathematics can be made interesting: a case study
+Presented in the Twelfth Asian Technology Conference in Mathematics / Published in electronic proceeding of ATCM’07.
+Mr.Wasi Zaidi
+The Roaring Nineties (Book Review)
+Published in Market Forces of KIET
+Mr.Irfan Sheikh
+‘Identity and Violence: The Illusion of Density’ (Book Review)
+Published in Market Forces of KIET
+Ms.Kahkashan Iqbal
+Some Remarks on Matrix Rings (An Article)
+Published in Technology Force of KIET
+Ms.Kahkashan Iqbal
+On Near – Integral Domain
+Published in Technology Force of KIET/LUMS Summer Conf.2007
+Welcome to Humanities & Sciences Faculty
+The faculty is keen to prepare students for positions of greater responsibility in their chosen field of profession and aims to inspire students to develop specialized skills. The faculty aims not just to pass on human capital but also social capital in the form of social norms and rules to participate more effectively in the formal and informal events in the society.
+The Faculty of Social Sciences encourages students to combine their theoretical knowledge of the contemporary world with an understanding of the cultural and political processes to participate more effectively in the formal and informal events, which it does through the students’ Societies at the Institute.
+Permanent Faculty Profiles
+Prof. Dr.Muhammad Amin
+MSc, Applied Math (PU)
+PhD, DIC Imperial College, London (UK)
+Professional Profile:
+Director College of Humanities &amp; Sciences, KIET, 2002 – Present.
+Professor at Usman Institute of Technology, Hamdard University, 1995 to 2002
+Professor of Mathematics, Navy Engg. College, 1987 to 1994
+Professor & Head (HS) at CAE, NED from 1966 to 1987
+Associate Professor at University of Engineering and Technology, Lahore, 1953 to 1966
+Research Interest:
+Application of Mathematics in Science and Engineering.
+Mr. Muhammad Shahbaz Khan
+MS (Statistics and Soft Computing), IoBM
+MSc Statistics University of Karachi
+Profile:
+Assistant Professor, KIET since 2001
+Lecturer, Department of Statistics, University of Karachi.
+Statistician, MAB/ Paradigms 2004-2005
+19 years of teaching experience in Statistical and Mathematical courses at various Institutions.  (KIET, SZABIST, and IoBM
+Research Interest
+Fuzzy time series
+Analysis and Design of experiments.
+Publication
+A novel high order Fuzzy Time Series Forecasting method with higher accuracy rate
+Simulation in volume controlled system of Rocket.
+The impact of the logistics outsourcing of activities of supply chain in pharmaceutical industry in Karachi.
+Ms. Sahar Altaf
+PhD Mathematics, University of Karachi (in progress)
+MS, Applied Mathematics, IoBM
+MSc, Mathematics, University of Karachi
+Profile:
+Assistant Professor, KIET since 2013
+Visiting Faculty member, KIET, 2012
+Visiting Faculty member, IoBM since 2013
+Permanent Lecturer, University College 2011
+9 years of teaching experience in Mathematics at various Institutions
+Research Interest
+Applied Mathematics and Computation
+(Partial Differential Equation Numerical Analysis Non- Linear waves & dynamics)
+Publication
+An efficient haar wavelet technique for the numerical solution of FPDES.
+Analyzing human communities using Fuzzy graphs.
+Ms. Ammarah Nazakat
+MS, Applied Mathematics, NED-UET
+MSc, Mathematics, University of Karachi
+Profile:
+Permanent Faculty member, KIET since 2016
+Visiting Faculty member, KIET, 2015
+Visiting Faculty member, Dadabhoy Institute of Higher Education.
+Co-operative Lecturer, NED University
+7 years experience of teaching Mathematics at various Institutions
+Research Interest:
+Numerical Analysis
+Differential Equation
+Mr. Shair-a-Yazdan
+PhD Mathematics, University of Canterbury New Zealand (in progress)
+M.Phil, Applied Mathematics,  Quaid-I-Azam University Islamabad
+Profile:
+Permanent Faculty, KIET since 2020
+Assistant Professor, National University Fast since 2013 to 2015
+Senior Lecturer, KASBIT since 2011 to 2013
+Lecturer Gravitational Physics, University of Karachi since 2008
+Visiting Faculty, Urdu University 2009-2010.
+Visiting Faculty, NUST since 2007 to 2009.
+Visiting Faculty, Bharia University since 2009 to 2010.
+Visiting Faculty, Biztek since 2010
+Research Assistant, 2005 to 2006
+15 years of teaching experience in Mathematics at various Institution.
+Research Interest:
+Numerical Analysis
+Differential Equation
+Mr. Jamil Ahmad
+MSc, Mathematics, Almeda College University (U.S.A)
+Profile:
+Permanent Faculty Member, KIET since January, 2017.
+Visiting Faculty member, KIET since 2011 to 2015.
+32 years experience of teaching Mathematics at various Institutions.
+Adjunct Faculty Profiles
+Mr. Muhammad Saeed
+MS,  (In process), NED-UET
+MSc, Applied Maths University of Karachi
+Profile:
+Visiting Faculty member, KIET since 2010
+15  years experience of  teaching Mathematics at various Institutions
+Mr. Ahmed Faraz Ayubi
+MS, Applied Mathematics, NED-UET
+MSc, Mathematics, University of Karachi
+Profile:
+Visiting Faculty, KIET since 2014
+13 years experience of teaching Mathematics at various Institutions
+Mr. Ismail Khan
+MS, Statistics and Soft Computing (In process), IoBM
+MSc, Applied Mathematics University of Karachi
+Profile:
+Visiting Faculty member, KIET since 2012
+Visiting Faculty member, FAST-National University
+6 years experience of teaching Mathematics at various Institutions.
+Ms. Atifa Mehmood
+MSc. Mathematics, University of Karachi
+Profile:
+Visiting Faculty, KIET Since 2017
+Permanent Faculty Member,  at KIET 2011-2013
+Lecturer of Mathematics and Statistics at Pakistan Institute of Professional Sciences 2009-2011.
+Worked as an External Examiner of Federal Urdu University 2008–2011
+Lecturer of Mathematics and Statistics at College of Management and Sciences 2009-2011.
+Lecturer of Mathematics and Statistics at MIDASIA Institute 2009.
+Lecturer of Mathematics and Statistics at Indus Public College 2008-2011.
+More than 18 year’s experience of teaching Statistics & Mathematics at various Institutions.
+Mr. Shakil Ahmad
+MSc, Applied Mathematics, Punjab University Lahore
+Profile:
+Visiting Faculty, KIET since 2018.
+Associate Professor, KASBIT since 2011 to 2018
+Visiting Faculty member, Bharia University since 2002 to 2004
+Associate Professor in Maths,UIT since 2000 to 2001
+Instructor in Maths at school of Electronic, P.A.F Korangi Creek since 1998 to 1999
+Instructor in Maths at collage of Flying Training P.A.F Academy Risalpur since 1997 to 1998
+Administrative Trades Training School P.A.F Kohat since 1994 to 1997
+Principal P.A.F Degree College Rafique, Shorkot since 1992 to 1994
+Commanded Education Squadron, School of Aeronautics P.A.F Korangi since 1991 to 1992
+Head of Maths Department, School of Electronic P.A.F Korangi Creek since 1988 to 1991
+Head of Maths Department, Pre Trade Training School P.A.F Kohat. since 1983 to 1988
+Professor of Maths, College of Aeronautical Engineering P.A.F Base since 1980 to 1983
+Maths instructor, School of Electronics P.A.F Korangi Creek since 1979 to 1980
+41 year’s experience of teaching at various Institutions.
+Mr. Muhammad Najam Uddin
+PhD (Pursuing), Statistics, University of Karachi
+Phil, Statistics, University of Karachi
+MSc, Statistics (Gold medalist), University of Karachi
+Profile:
+Visiting Faculty Member, KIET since 2012.
+Visiting Faculty Member, IBA
+Visiting Faculty Member, Bahria University
+Lecturer, (Statistics) Federal Urdu University since 2009
+More than 10 year’s experience of teaching Statistics & Mathematics at various Institutions.
+Mr. Syed Khawaja Amanullah
+Mphil leading to Phd, Mathematics (KU)
+MCS; Applied Mathematics (KU)
+Profile:
+Visiting Faculty member, KIET Since 2008.
+Permanent faculty member, CS department KIET, 2001-2008.
+Visiting Faculty member, DHA Suffa University.
+Visiting Faculty member, Bharia University.
+Lecturer, Operational Research & Statistical Inference, UoK
+External evaluator for computer sciences courses, ICMAP
+Visiting Faculty member, IoBM, 2000-2004.
+Assistant Professor, Government Degree Science and Commerce College.
+16 years experience of teaching Mathematics at various Institutions.
+Mr. Zia Uddin
+Phil Computer Science, University of Sindh
+M.C.S University of Karachi
+MSc Economics, University of Karachi
+Profile:
+Visiting Faculty, KIET Since 2005
+Visiting Faculty, IoBM Since 2005
+Permanent Faculty member & Asst. Controller Examination, BIZTEK since 2004
+Co-operative Lecturer and Network Administrator, Govt, College for Women since 2001.
+Database Administrator, IMIT since 2002.
+Visiting Faculty member, Preston University.
+16 years experience of teaching Mathematics at various Institutions.
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

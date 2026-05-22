@@ -1,0 +1,42 @@
+ Source URL: https://kjcisjournal.kiet.edu.pk/index.php/kjcis/issue/view/3
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Vol. 2 No. 2 (2019): Volume 2 | Issue 2 | July - Dec | 2019
+DOI:
+https://doi.org/10.51153/kjcis.v2i2
+Published:
+2019-07-01
+Full Issue
+Requires Subscription
+Volume 2 |  Issue 2 |  July - De
+Articles
+Identity Lock – Privacy-Preserving Data Publishing Tool
+Neha Maroof Siddiqui, Sara Benish, Tehreem Qamar
+PDF
+Spreadsheet Based Software Engineering
+Awais Azam, Khubaib Amjad Alam
+PDF
+Robust Feature Extraction Techniques in Speech Recognition: A Comparative Analysis
+Isra Khan, Ashhad Ullah, Rafi ullah, Shah Muhammad Emad
+PDF
+Improving Requirement Prioritization process in Product line using Artificial Intelligence technique
+Wasi Haider, Yasir Hafeez, Sadia Ali, Azeem Abbas, M Numan Rafi, Abdul Salam
+PDF
+Real-Time Simulation of IoT Based Smart Home System and Services Using RFID
+Rana M. Amir Latif, Muhammad Farhan, Laiqa Binte Imran, Kashif Manzoor, Tayyab Tariq, Hassan Raza
+PDF
+The Analysis on the usage of the Video Conferencing Rooms using Classi????ication
+Arfa Hassan, Salma Aftab, Raheela Khan, Hira Asim
+PDF
+Lean Product Development (LPD)-A Systematic Literature Review
+Rida Fatima, Khubaib Amjab
+PDF
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---
+https://kjcisjournal.kiet.edu.pk/index.php/kjcis/issue/view/3/4

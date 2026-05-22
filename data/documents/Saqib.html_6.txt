@@ -1,0 +1,17 @@
+ Source URL: https://iccis.kiet.edu.pk/Saqib.html#Committee
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Dr. Khursheed Saqib
+Dr. Khursheed Saqib
+Talk Title:
+"Secure and Reliable Microelectronics Design"
+There is global consensus on the importance of microelectronic systems in several application domains including autonomous systems, IoTs, medical, and robotics. However, full utilization of microelectronic systems is threatened by challenges posed by the security and reliability of the underlying hardware. This talk will cover key challenges posed by counterfeit ICs and hardware Trojans, and solutions that are being developed to deliver low-cost, scalable, and robust sensing and control mechanisms for improving the reliability and security of microelectronic designs.
+Back
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

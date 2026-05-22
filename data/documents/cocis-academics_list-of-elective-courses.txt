@@ -1,0 +1,42 @@
+ Source URL: https://cocis.kiet.edu.pk/cocis-academics/list-of-elective-courses/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+List of Elective Courses
+The List of elective courses Computer Science offering are listed below:
+Advance software engineering
+Capability maturity model integration
+Distributed computing
+Formal methods of software engineering
+Software risk management
+Model based software development
+Software reliability
+Software capability maturity model
+Software architecture and design
+Standardized exchange of messages/xml
+Components and reuse
+Simulation & modeling
+Advanced data warehousing
+Business process re-engineering
+Distributed systems
+Software costing and estimation
+Software metrics
+Software testing
+Requirements project management
+Requirements engineering
+Enterprise service and components
+Seminar in software engineering
+Advance DBMS
+Content management system
+Mobile application development
+Artificial neural networks
+Web application development
+Information security technologies
+Network design & Implementation
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

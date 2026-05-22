@@ -1,0 +1,33 @@
+ Source URL: http://mis.kiet.edu.pk/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+© Powered KIET MIS Department
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+>>> OCR: pic03.jpg <<<
+OTHER
+LINKS/INFO
+--------------------
+
+
+>>> OCR: pic02.jpg <<<
+STAFF/FACULTY
+LINKS
+--------------------
+
+
+>>> OCR: pic01.jpg <<<
+STUDENT
+LINKS
+--------------------
+
+
+ --- LINKS FOUND ---
+http://mis.kiet.edu.pk/index.html
+http://mis.kiet.edu.pk/downloads/jre-1_5_0_1.exe
+http://mis.kiet.edu.pk/downloads/chromeinstall-6u29.exe

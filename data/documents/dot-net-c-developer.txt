@@ -1,0 +1,54 @@
+ Source URL: https://kiet.edu.pk/dot-net-c-developer/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+(Dot Net & C#) Developer
+Position Title:
+(Dot Net & C#) Developer
+Location of Workstation: Karachi-Sindh
+Type of Job: Contractual
+Skills & Expertise Required:
+Have .NET C# Development Expertise using .NET Language and Technologies with C# Expertise.
+Can Handle the CRM Call Management software Developed in .NET
+Have Expertise in ERP Software Development
+Have analytical and software Designing Skills
+Reviewing current and new in-house applications requirement
+Presenting ideas for new application designing, development
+Execute full lifecycle software development
+Enhancing and upgrading existing applications
+Troubleshooting and fixing software related problems
+Programming Skills
+Candidate must have strong understanding of UI, Cross platform compatibility, general web functions and standards
+Experience in windows application development with VB.net and C#
+Deep expertize in front end programming languages such as HTML, CSS, JavaScript, Bootstrap, JQuery, Ajax and API’s
+Must have knowledge of Contact Center Application development
+Strong concept of object oriented programming
+Knowledge of asp.net web form is required
+Knowledge of asp.net MVC is required
+Excellent knowledge of Relational Database especially Microsoft SQL, SQL Server
+Hands on Block diagram, Flow graph, Use case diagram, ERD diagram and system related documentation
+Knowledge from development to deployment of applications to server
+Familiarity with reporting software (Crystal reports, Report viewer etc.)
+Other skills
+SQL
+CSS
+Object-oriented programming and Cascading Style Sheet
+JavaScript, Front-end frameworks
+Code Pattern, Web pack
+C# and Microsoft .Net framework
+JavaScript/Type Script
+EEO Statement:
+Integrated into our shared values is LAS’s commitment to diversity and equal employment opportunity. All qualified applicants will receive consideration for employment regardless of sex, age, race, color, creed, religion, disability, sexual orientation, gender identity, or any other characteristics or conduct protected by law. LAS is committed to being an inclusive organization where all people are treated fairly, recognized for their individuality, promoted based on performance and encourage to strive to reach their full potential. We believe in understanding and respecting differences among all people. Every individual at LAS has an ongoing responsibility to respect and support a diverse environment.
+Application Process
+Interested candidates may send their CV and cover letter at hr@las.org.pk latest by 20th January, 2023 mentioning subject line:
+“(Dot Net & C#) Developer”
+Only Shortlisted candidates will be called for test and interview.
+The organization reserves the right to reject any or all applications.
+For further information please visit http//www.las.org.pk.
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

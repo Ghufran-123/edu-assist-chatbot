@@ -1,0 +1,17 @@
+ Source URL: https://kiet.edu.pk/spec-coe-fall-2018/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+SPECFall’18 CoE
+SPEC FALL 2018 held on 10th December, 2018 at the College of Engineering, KIET Main Campus.
+This, end of the term Project Exhibition and Competition, being true to its tradition, provided students of CoE with a platform to showcase their efforts in the shape of projects to the audience.
+Cash Prizes were distributed to the winner and runner ups of the various competitions including Line Following Robots, Speed Wiring and to the Best Projects.
+What differs it from other available “Smart wheelchairs” is that it can convert itself into a bed and is also capable of providing orthostatic position too. The smart wheelchair can be controlled using joysticks or through smart phone / laptop via Bluetooth and it can also be controlled through Voice. Besides, this prototype has low RPM motors which provide slow smooth and painless transitions to its user.
+This will be one amongst many other FYP/SDP being displayed and demonstrated on Monday during SPEC-Fall-2018 at College of Engineering.
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

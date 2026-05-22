@@ -1,0 +1,27 @@
+ Source URL: https://kiet.edu.pk/portfolio_page/dr-husain-parvez/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Dr. Husain Parvez
+HoD (Software Eng.) & Associate Professor
+Ph.D. (Embedded Systems)
+University Paris-6, France
+Email:
+husain.parvez@kiet.edu.pk
+Husain Parvez received his Bachelors of Engineering in Computer Science from National University of Sciences and Technology, Rawalpindi. He received MS and PhD in Electronics and Computer Science from University Pierre & Marie Curie (Paris-6), Paris. Before doing MS and PhD, he worked at the System-on-Chip tools department at Communications Enabling Technologies Islamabad, and at Video Decoder & Optimization department at Streaming Networks Islamabad. He has taught at University Pierre & Marie Curie, Paris, and at IQRA University, Karachi. He is associated with KIET since 2012. His current research interests include design and exploration of FPGA architectures and related CAD tools for FPGAs.
+Dr. Parvez was the co-principal investigator of two ICTR&D funded projects, each worth 14 million rupees. He is also working on funded projects of mutual interest in collaboration with international partners. He has authored and co-authored 5 publications in high impact journals, and 15 papers in international conferences. He has also authored a book titled “Application-Specific Mesh-based Heterogeneous FPGA Architectures” published by Springer.
+Find @ Google Scholor
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+>>> OCR: husain11.jpg <<<
+6
+
+A/
+--------------------
+
+
+ --- LINKS FOUND ---

@@ -1,0 +1,224 @@
+ Source URL: https://admissions.kiet.edu.pk/sample-test-paper/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+SAMPLE TEST PAPERS
+General Instructions
+Applicants must follow the following  instructions for aptitude test.
+1. Mark your answer at the appropriate space.
+2. There will be no negative marking.
+3. Follow the instructions of the test controller and stop editing when you are told to do so.
+4. Calculators / gadgets of any kind are not allowed.
+5. Mobile phones are not allowed in the examination venue.
+6. All the questions are self-explanatory. Do not ask for any clarification.
+Sample Test Paper for Management Sciences Candidates
+Sample Test Paper for Computer Science Candidates
+Sample Test Paper for Engineering Candidates
+Sample Test Paper for Media & Arts Candidates
+Sample Test Paper for Management Sciences Candidates
+Section-I ENGLISH
+(A) GRAMMAR                                         (10 minutes, 20 Questions)
+(B) PASSAGE READING                          (18 minutes, 20 Questions)
+(C) ESSAY WRITING                                (20 minutes)
+GRAMMAR
+Consequently, Phillip sailed northward in search of (1) _______ (
+the, a, an
+) better location, which was discovered quickly. After they (2) ___________ (
+had unloaded, unload, were loading
+) the people and supplies from the ships, Phillip claimed the entire coast for Britain.
+PASSAGE READING
+Two pages of text to be read in 12 minutes followed by twenty questions to be answered.
+Section – II MATHEMATICS & WORD PROBLEMS
+(A) QUICK MATHS                            (15 minutes, 15 Questions)
+(B) WORD PROBLEMS                     (15 minutes, 10 Questions)
+QUICK MATHS
+1-       If
+then
+will be:
+a. 8                  b. 12                c. 6                  d. 9
+2-       The value of the determinant
+a. -8                 b. 40                c. 39                d. 28
+WORD PROBLEMS
+If a fruit seller buys bananas at Rs.16 per dozen and sells at Rs.20 per dozen,
+he earns the profit at:
+4%             b. 20%             c. 25%              d. 50%
+Section-III   GENERAL KNOWLEDGE
+I.Q QUESTIONS
+(10 minutes, 15 Questions)
+Which one of the five is least like the other?
+a. Touch          b. Taste           c. Hear                        d. Sleep           e. none
+GENERAL KNOWLEDGE
+(07 minutes, 10 Questions)
+Sample Test Paper for Computer Science Candidates
+Section-I ENGLISH
+(A) GRAMMAR                                         (10 minutes, 20 Questions)
+(B) PASSAGE READING                          (18 minutes, 20 Questions)
+(C) ESSAY WRITING                                (20 minutes)
+GRAMMAR
+Consequently, Phillip sailed northward in search of (1) _______ (the, a, an) better location, which was discovered quickly. After they (2) ___________ (had unloaded, unload, were loading) the people and supplies from the ships, Phillip claimed the entire coast for Britain.
+PASSAGE READING
+Two pages of text to be read in 12 minutes followed by twenty questions to be answered.
+Section – II MATHEMATICS & WORD PROBLEMS
+(A) QUICK MATHS                            (15 minutes, 15 Questions)
+(B) WORD PROBLEMS                     (15 minutes, 10 Questions)
+QUICK MATHS
+then
+will be:
+a. 8                  b. 12                c. 6                  d. 9
+2-       The value of the determinant
+a. -8                 b. 40                c. 39                d. 28
+WORD PROBLEMS
+If a fruit seller buys bananas at Rs.16 per dozen and sells at Rs.20 per dozen,
+he earns the profit at:
+4%             b. 20%             c. 25%              d. 50%
+Section – III  I.Q.
+Note: Only for Computer Science candidate.
+Exposure to Information Technology……….
+(07 Minutes for 10 Questions)
+Introduction to Computer Science…………
+(07 Minutes for 10 Questions)
+Section-IV   GENERAL KNOWLEDGE
+I.Q QUESTIONS                       (10 minutes, 15 Questions)
+Which one of the five is least like the other?
+a. Touch          b. Taste           c. Hear                        d. Sleep           e. none
+GENERAL KNOWLEDGE
+(07 minutes, 10 Questions)
+Sample Test Paper for Engineering Candidates
+Section-I   ENGLISH
+(A) GRAMMAR
+(10 minutes, 20 Questions)
+(B) PASSAGE READING
+(18 minutes, 20 Questions)
+(C) ESSAY WRITING            (20 minutes)
+GRAMMAR
+Consequently, Phillip sailed northward in search of
+(1) _______ (
+the, a, an
+) better location, which was discovered quickly. After they
+(2) ___________ (
+had unloaded, unload, were loading
+) the people and supplies from the ships, Phillip claimed the entire coast for Britain.
+PASSAGE READING
+Two pages of text to be read in 12 minutes followed by twenty questions to be answered
+Section–II MATHEMATICS
+Section – III – PHYSICS
+The dimensions of power are:
+(a) ML2T-2                      (b) ML 2T2
+(c) ML 2T-1                     (d) ML -1T-1
+The special theory of relativity was published in 1950 by:
+(a) Lorentz                      (b) Schrodinger
+(c) Einstein                      (d) Max Plank
+One inch is equal to:
+(a) 0.254 cm                       (b) 2.54 cm
+(c) 2.45 cm                          (d) 2.98 cm
+Sample Test Paper for Media & Arts Candidates
+Section A (English)
+1. Essay
+2. English Grammer
+For example: (Put the verb, complete the sentences / correct the sentences etc)
+PART–B (DRAWING)
+Ability to draw, Assessment of the Eye to hand coordination.
+Composition of Solid Objects (ROUND + SQUARE + TRIANGLE)
+Ability To Visualize And Draw Things From Perception.
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+>>> OCR: SAMPLE-TEST-PAPER-FOR-ENGINEERING-CANDIDATES.pdf <<<
+SAMPLE TEST PAPER
+(Engineering Candidates)
+GENERAL INSTRUCTIONS: (shall be followed at the time of Admission Test)
+1. Mark your answer at the appropriate space.
+2. There will be no negative marking.
+3. Follow the instructions of the test controller and stop editing when you are told to do so.
+4. Calculators / gadgets of any kind are not allowed.
+5. Mobile phones are not allowed in the examination venue.
+6. All the questions are self-explanatory. Do not ask for any clarification.
+SECTION – I (ENGLISH)
+(A) GRAMMAR (10 minutes, 20 Questions)
+(B) PASSAGE READING (18 minutes, 20 Questions)
+(C) ESSAY WRITING (20 minutes)
+GRAMMAR
+Consequently, Phillip sailed northward in search of (1) _______ (the, a, an) better location,
+which was discovered quickly. After they (2) ___________ (had unloaded, unload, were
+loading) the people and supplies from the ships, Phillip claimed the entire coast for Britain.
+PASSAGE READING
+Two pages of text to be read in 12 minutes followed by twenty questions to be answered
+SECTION – II (MATHEMATICS)
+The foci of the hyperbola lie on the line:
+a) x = 0 b) y = 0 c) x = 3 d) y = 4
+is equal to:
+a) 0 b) e c) –1 d) 1
+If , then the 4th derivative at x = 1 is:
+a) e b) c) d)
+SECTION – III (PHYSICS)
+The dimensions of power are:
+(a) ML2T-2 (b) ML 2T2
+(c) ML 2T-1 (d) ML -1T-1
+The special theory of relativity was published in 1950 by:
+(a) Lorentz (b) Schrodinger
+(c) Einstein (d) Max Plank
+One inch is equal to:
+(a) 0.254 cm (b) 2.54 cm
+(c) 2.45 cm (d) 2.98 cm
+--------------------
+
+
+>>> OCR: SAMPLE-TEST-PAPER-FOR-MANAGEMENT-SCIENCES-CANDIDATES.pdf <<<
+SAMPLE TEST PAPER
+(Management Sciences Candidates)
+GENERAL INSTRUCTIONS: (shall be followed at the time of Admission Test)
+1. Mark your answer at the appropriate space.
+2. There will be no negative marking.
+3. Follow the instructions of the test controller and stop editing when you are told to do so.
+4. Calculators / gadgets of any kind are not allowed.
+5. Mobile phones are not allowed in the examination venue.
+6. All the questions are self-explanatory. Do not ask for any clarification.
+SECTION – I (ENGLISH)
+(A) GRAMMAR (10 minutes, 20 Questions)
+(B) PASSAGE READING (18 minutes, 20 Questions)
+(C) ESSAY WRITING (20 minutes)
+GRAMMAR
+Consequently, Phillip sailed northward in search of (1) _______ (the, a, an) better location,
+which was discovered quickly. After they (2) ___________ (had unloaded, unload, were
+loading) the people and supplies from the ships, Phillip claimed the entire coast for Britain
+PASSAGE READING
+Two pages of text to be read in 12 minutes followed by twenty questions to be answered.
+SECTION – II (MATHEMATICS & WORD PROBLEMS)
+(A) QUICK MATHS (15 minutes, 15 Questions)
+(B) WORD PROBLEMS (15 minutes, 10 Questions)
+QUICK MATHS
+1- If then will be:
+a. 8 b. 12 c. 6 d. 9
+2- The value of the determinant
+a. -8 b. 40 c. 39 d. 28
+WORD PROBLEMS
+If a fruit seller buys bananas at Rs.16 per dozen and sells at Rs.20 per dozen,
+he earns the profit at:
+a. 4% b. 20% c. 25% d. 50%
+SECTION – III
+I.Q QUESTIONS (10 minutes, 15 Questions)
+Which one of the five is least like the other?
+a. Touch b. Taste c. Hear d. Sleep e. none
+GENERAL KNOWLEDGE
+(07 minutes, 10 Questions)
+--------------------
+
+
+>>> OCR: Media-Arts-Admission-Test.pdf <<<
+Admission Test Sample Paper
+(Media & Arts Candidates)
+Section – I (English)
+1. Essay
+2. English Grammer
+For example: (Put the verb, complete the sentences / correct the sentences etc)
+Section – II (DRAWING)
+1. Ability to draw, Assessment of the Eye to hand coordination.
+2. Composi tion of Solid Objects (ROUND + SQUARE + TRIANGLE)
+3. Ability To Visualize And Draw Things From Perception.
+--------------------
+
+
+ --- LINKS FOUND ---

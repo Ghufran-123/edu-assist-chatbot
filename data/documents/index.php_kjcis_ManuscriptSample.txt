@@ -1,0 +1,46 @@
+ Source URL: https://kjcisjournal.kiet.edu.pk/index.php/kjcis/ManuscriptSample
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Manuscript Sample
+Manuscript Sample Template
+This sample provides the recommended structure for manuscripts submitted to KJCIS.
+Title Page
+Manuscript Title
+Author Name(s):
+Full name, affiliation, email, ORCID (if any)
+Corresponding Author:
+Name, full postal address, phone (optional), email
+Funding:
+(If applicable)
+Conflict of Interest:
+Declared / None
+Abstract
+Maximum 200 words summarizing background, objective, methodology, major results, and conclusions.
+Keywords
+3–6 keywords separated by commas.
+1. Introduction
+Introduce the topic, motivation, background, gap statement, and contributions of the paper.
+2. Related Work
+Cite relevant literature and demonstrate novelty.
+3. Methodology / System Model
+Theoretical framework or algorithm
+Mathematical formulations
+Workflow diagrams or architecture
+4. Results
+Present experimental findings, datasets, evaluation metrics, tables, and figures.
+5. Discussion
+Interpret results and compare with existing work.
+6. Conclusion
+Summarize outcomes, limitations, and future work.
+Acknowledgements
+Optional.
+References
+Follow APA format. Ensure accuracy and completeness.
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

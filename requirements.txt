@@ -1,0 +1,86 @@
+# ============================================================
+# EDU Assist — Requirements (Iteration 6)
+# ============================================================
+# Setup:
+#   1. Delete old venv folder
+#   2. python -m venv venv
+#   3. venv\Scripts\activate
+#   4. pip install -r requirements.txt
+#
+# For GPU support (CUDA), replace torch line with:
+#   pip install torch --index-url https://download.pytorch.org/whl/cu118
+# ============================================================
+
+
+# ============================================================
+# Web Framework (Iteration 6 — replaces Streamlit)
+# ============================================================
+fastapi>=0.110.0                # Web framework
+uvicorn>=0.29.0                 # ASGI server
+python-multipart>=0.0.9         # File upload support (Iteration 7)
+
+
+# ============================================================
+# Database
+# ============================================================
+pymongo>=4.6.0                  # MongoDB client (FAQ Agent + Analytics)
+
+
+# ============================================================
+# Vector Store & Embeddings
+# ============================================================
+faiss-cpu>=1.7.4                # FAISS vector store (use faiss-gpu for GPU)
+langchain>=0.2.0                # LangChain core
+langchain-community>=0.2.0      # FAISS vectorstore integration
+langchain-huggingface>=0.0.3    # HuggingFace embeddings via LangChain
+langchain-text-splitters>=0.2.0 # RecursiveCharacterTextSplitter
+sentence-transformers>=2.7.0    # Required by HuggingFaceEmbeddings (e5-base-v2)
+
+
+# ============================================================
+# LLM & HuggingFace
+# ============================================================
+torch>=2.1.0                    # PyTorch (CPU build — see note above for GPU)
+transformers>=4.40.0            # AutoTokenizer, AutoModelForCausalLM, TextIteratorStreamer
+huggingface-hub>=0.23.0         # HuggingFace login + model download
+accelerate>=0.29.0              # Required for low_cpu_mem_usage + device_map
+
+
+# ============================================================
+# PDF Extraction
+# ============================================================
+pymupdf>=1.24.0                 # Primary PDF extractor (fitz) — handles complex layouts
+PyPDF2>=3.0.0                   # Fallback PDF extractor
+
+
+# ============================================================
+# Web Scraping
+# ============================================================
+crawl4ai>=0.3.0                 # Async web crawler with Playwright support
+requests>=2.31.0                # Static HTTP fallback
+beautifulsoup4>=4.12.0          # HTML parsing
+lxml>=5.1.0                     # Faster HTML parser backend for BeautifulSoup
+
+
+# ============================================================
+# Fuzzy Matching
+# ============================================================
+rapidfuzz>=3.6.0                # Fast fuzzy string matching (FAQ + reranking)
+
+
+# ============================================================
+# Configuration & Environment
+# ============================================================
+python-dotenv>=1.0.0            # Load secrets from .env file
+
+
+# ============================================================
+# Utilities (stdlib — no install needed, listed for reference)
+# ============================================================
+# asyncio      — built-in
+# threading    — built-in
+# pathlib      — built-in
+# hashlib      — built-in
+# logging      — built-in
+# dataclasses  — built-in
+# collections  — built-in

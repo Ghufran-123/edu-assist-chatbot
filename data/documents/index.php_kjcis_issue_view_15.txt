@@ -1,0 +1,21 @@
+ Source URL: https://kjcisjournal.kiet.edu.pk/index.php/kjcis/issue/view/15
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Recovered Archives
+Published:
+2025-09-30
+Full Issue
+Requires Subscription
+test
+Articles
+A Study of Q-Learning in the Taxi-v3 Environment: Reinforcement Learning for Optimal Navigation through Hyperparameter Optimization
+Mirza Muhammad Abbas, Abdul Lahad, Areej Fatemah Meghji
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---
+https://kjcisjournal.kiet.edu.pk/index.php/kjcis/issue/view/15/15

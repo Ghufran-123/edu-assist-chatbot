@@ -1,0 +1,312 @@
+ Source URL: https://qec.kiet.edu.pk/forms/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Forms
+1. Survey-of-Graduating-Students.
+P1-Course-Evaluation
+Faculty-Course-Review-Report
+P5-Faculty-Survey-converted-converted
+P4-RESEARCH-STUDENT-PROGRESS-REVIEW-FORM
+P9-Faculty-Resume
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+>>> OCR: P2-Faculty-Course-Review-Report-converted-1-converted.pdf <<<
+Faculty Course Review Report
+(To be filled by each teacher at the time of Course
+Completion)
+For completion by the course instructor and transmission to Head of Department of his/her nominee (Dept.
+Quality Officer) together with copies of the Course Syllabus outline
+Department: Faculty:
+Course Code: Title:
+Session: Semester: Autumn Spring Summer
+Credit Value: Level: Prerequisites:
+Name of Course No. of Lectures Other (Please State)
+Instructor: Students
+Contact Seminars
+Hours
+Assessment Methods:
+give precise details (no & length of assignments,
+exams, weightings etc)
+Distribution of Grade/Marks and other Outcomes: (adopt the grading system as required)
+Undergraduate Originally %Grade %Grade %Grade D E F No Withdrawal Total
+Registered A B C Grade
+No. of Students
+Post-Graduate Originally %Grade %Grade %Grade D E No Grade Withdrawal Total
+Registered A B C
+No. of Students
+Overview/Evaluation (Course Co-coordinator’s Comments)
+Feedback: first summarize, then comment on feedback received from:
+(These boxes will expand as you type in your answer.)
+1)Student (Course Evaluation) Questionnaires
+2)External Examiners or Moderators (if any)
+3)Student /staff Consultative Committee (SSCC) or equivalent, (if any)
+4)Curriculum: comment on the continuing appropriateness of the Course curriculum in
+relation to the intended learning outcomes (course objectives) and its compliance with the
+HEC Approved / Revised National Curriculum Guidelines
+5)Assessment: comment on the continuing effectiveness of method(s) of assessment in
+relation to the intended learning outcomes (Course objectives)
+6)Enhancement: comment on the implementation of changes proposed in earlier
+Faculty Course Review Reports
+7)Outline any changes in the future delivery or structure of the Course that this
+semester/term’s experience may prompt
+Name: Date:
+(Course Instructor)
+Name: Date:
+(Head of Department)
+--------------------
+
+
+>>> OCR: P1-Course-Evaluation.pdf <<<
+Student Course Evaluation Questionnaire
+(To be filled by each Student at the time of Course
+Completion)
+Department _______________________ ____Course No _________________________
+Course Title __________________________Teacher Name: _______________________
+Year of Study _______________________ Semester / Term ______________________
+Please give us your views so that Course quality can be improved. You are encouraged to be frank and constructive
+in your comments
+CORE QUESTIONS
+Course Content and Organization Strongly Agree Uncertain Disagree Strongly
+Agree Disagree
+1.The course objectives were clear
+2.The Course workload was manageable
+3.The Course was well organized (e.g. timely
+access to materials, notification of changes, etc.)
+4.Comments
+Student Contribution
+5.Approximate level of your own attendance
+<20% 21- 41- 61- >81%
+during the whole Course 40% 60% 80%
+Strongly Agree uncertain Disagree Strongly
+Agree Disagree
+6.I participated actively in the Course
+7.I think I have made progress in this Course
+8.Comments
+Learning Environment and Teaching Methods Strongly Agree Uncertain Disagree Strongly
+Agree Disagree
+9.I think the Course was well structured to achieve
+the learning outcomes (there was a good balance of
+lectures, tutorials, practical etc.)
+10.The learning and teaching methods encouraged
+participation.
+11.The overall environment in the class was
+conducive to learning.
+12.Classrooms were satisfactory
+13.Comments
+Learning Resources Strongly Agree Uncertain Disagree Strongly
+Agree Disagree
+14.Learning materials (Lesson Plans, Course Notes
+etc.) were relevant and useful.
+15.Recommended reading Books etc. were relevant
+and appropriate
+16.The provision of learning resources in the library
+was adequate and appropriate
+17.The provision of learning resources on the Web
+was adequate and appropriate ( if relevant)
+18 Comments
+Quality of Delivery Strongly Agree Uncertain Disagree Strongly
+Agree Disagree
+19.The Course stimulated my interest and thought on
+the subject area
+20.The pace of the Course was appropriate
+21.Ideas and concepts were presented clearly
+22.Comments
+Assessment Strongly Agree Uncertain Disagree Strongly
+Agree Disagree
+23.The method of assessment were reasonable
+24.Feedback on assessment was timely
+25.Feedback on assessment was helpful
+26.Comments
+Additional Core Questions
+Instructor / Teaching Assistant Evaluation Strongly Agree Uncertain Disagree Strongly
+Agree Disagree
+27. I understood the lectures
+28.The material was well organized and presented
+29.The instructor was responsive to student needs and
+problems
+30.Had the instructor been regular throughout the
+course?
+Tutorial Strongly Agree Uncertain Disagree Strongly
+Agree Disagree
+30.The material in the tutorials was useful
+31.I was happy with the amount of work needed for
+tutorials
+32.The tutor dealt effectively with my problems
+Practical Strongly Agree Uncertain Disagree Strongly
+Agree Disagree
+33.The material in the practicals was useful
+34.The demonstrators dealt effectively with my
+problems.
+Overall Evaluation
+35.The best features of the Course were:
+36.The Course could have been improved by:
+Equal Opportunities Monitoring (Optional)
+37.The University does not tolerate discrimination on any irrelevant distinction (e.g. race,
+age, gender) and is committed to work with diversity in a wholly positive way. Please
+indicate below anything in relation to this Course which may run counter to this
+objective:
+Demographic Information: (Optional)
+38.Full/part time study: Full Time Part Time
+39.Do you consider yourself to be disabled: Yes No
+40.Domicile:
+41.Gender: Male Female
+42.Age Group: less than 22 22-29 over 29
+43.Campus: Distance Learning/ Collaborative
+--------------------
+
+
+>>> OCR: P4-RESEARCH-STUDENT-PROGRESS-REVIEW-FORM.pdf <<<
+RESEARCH STUDENT PROGRESS REVIEW FORM
+( To be filled out by
+Master/ M.Phil / Ph.D Research Students on Six Monthly Basis)
+To be submitted by the HoD / Dept. Quality Officer to the QEC
+For Research Student to Complete (Please Extend answer space as you need):
+1. Date of admission to the department
+2. Date of initiation of research
+3. Date of completion of Course work
+4. Number of credit hours completed
+5. Date of Synopsis Defense
+6. Cumulative Grade Point Average (CGPA) secured
+7. Please outline details of progress in your research since your last review (including any research
+publications):
+8. Do you have any comments on the level of supervision received?
+9. What do you plan to achieve over the next 6 months?
+10. Do you have any comments on generic or subject-specialist training you may have received or
+would like to receive internally and / or externally?
+11. Do you have easy access to sophisticated scientific equipment?
+12. Do you have sufficient research material / commodities available?
+Student ___________________________ Date: __________________
+Page 1
+Supervisory Committee Comments
+(Please comment on and benchmark the student’s progress against your University’s internal and external
+HEC Quality Criteria for Master/PhD/MPhil Studies)
+Principal Supervisor: __________________ Date: ______________
+Co-Supervisor: __________________ Date: ______________
+Co-Supervisor: __________________ Date: ______________
+Head of Department Comments:
+Signature: __________________________ Date: ______________
+Director, Board of Research Studies (or equivalent) Comments:
+Signature: __________________________ Date: ______________
+Dean/Director, QEC Action: (including monitoring of Follow-up action) Date: ___________
+Page 2
+--------------------
+
+
+>>> OCR: P5-Faculty-Survey-converted-converted-1.pdf <<<
+Faculty Survey
+(To be submitted on annual basis by each faculty member)
+The Purpose of this survey is to assess faculty members’ satisfaction level and the effectiveness of programs
+in place to help them progress and excel in their profession. We seek your help in completing this survey
+and the information provided will be kept in confidence. Indicate how satisfied are you with each of the
+following aspects of you situation at your department?
+A: Very satisfied B: Satisfied C: Uncertain D: Dissatisfied E: Very dissatisfied.
+1. Your mix of research, teaching and community service.
+A B C D E
+2. The intellectual stimulation of your work.
+A B C D E
+3. Type of teaching / research you currently do.
+A B C D E
+4. Your interaction with students.
+A B C D E
+5. Cooperation you receive from colleagues.
+A B C D E
+6. The mentoring available to you.
+A B C D E
+7. Administrative support from the department.
+A B C D E
+8. Providing clarity about the faculty promotion process.
+A B C D E
+9. Your prospects for advancement and progress through ranks.
+A B C D E
+10. Salary and compensation package.
+A B C D E
+11. Job security and stability at the department.
+A B C D E
+12. Amount of time you have for yourself and family.
+A B C D E
+13. The overall climate at the department.
+A B C D E
+14. Whether the department is utilizing your experience and knowledge
+A B C D E
+15. What are the best programs / factors currently available in your department that enhance your
+motivation and job satisfaction:
+16. Suggest programs / factors that could improve your motivation and job satisfaction?
+Information about faculty member
+i. Academic rank:
+A: Professor B: Associate Professor C: Assistant Professor D: Lecturer
+E: Other
+ii. Years of service:
+A: 1-5 B: 6-10 C: 11-15 D: 16-20 E: >20
+Name: Signature: Date:
+--------------------
+
+
+>>> OCR: P9-Faculty-Resume.pdf <<<
+Faculty Resume
+Name
+Personal May include address(s) and phone number(s) and
+other personal information that the candidate feels is
+pertinent.
+List current appointment first, each entry as follows:
+Experience
+Date, Title, Institution.
+List honors or awards for scholarship or professional
+Honor and Awards activity.
+Memberships List memberships in professional and learned
+Societies, indicating offices held, committees, or other
+specific assignments.
+Graduate Students List supervision of graduate students, postdocs and
+Postdocs undergraduate honors theses showing:
+Undergraduate
+Years Degree Name
+Students
+Honour Students Show other information as appropriate and list membership
+on graduate degree committees.
+Service Activity
+List University and public service activities.
+Brief Statement of May be as brief as a sentence or contain additional
+Research Interest details up to one page in length.
+Page 1
+Publications List publications in standard bibliographic format with
+earliest date first.
+o Manuscripts accepted for publication should be
+included under appropriate category as “in press;”
+o Segment the list under the following standard
+headings:
+ Articles published by refereed journals.
+ Books.
+ Scholarly and / or creative activity published through a
+refereed electronic venue.
+ Contribution to edited volumes.
+ Papers published in refereed conference proceedings.
+ Paper or extended abstracts published in conference
+proceedings. (refereed on the basis of abstract)
+ Articles published in popular press.
+ Articles appearing in in-house organs.
+ Research reports submitted to sponsors.
+ Articles published in non-refereed journals.
+ Manuscripts submitted for publication. (include where and
+when submitted).
+Research Grants and Entries should include:
+Contracts.
+Date Title Agency / Organization
+Total Award Amount
+Segment the list under following headings:
+ Completed
+ Funded and in progress
+ In review
+Other Research or List patents, software, new products developed, etc.
+Creative
+Accomplishments
+Selected Professional
+Presentations
+Page 2
+--------------------
+
+
+ --- LINKS FOUND ---

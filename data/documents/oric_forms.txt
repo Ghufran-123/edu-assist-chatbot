@@ -1,0 +1,33 @@
+ Source URL: https://kiet.edu.pk/oric/forms/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Forms
+Journal Publication Incentive Claim Form
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+>>> OCR: Journal-Publication-Incentive-Claim-Form.pdf <<<
+JOURNAL PUBLICATION INCENTIVE CLAIM FORM
+S.NO Author* Faculty Complete Journal Paper Citation Research On line Journal HEC- JCR
+Status Paper publish publish Category Impact
+Status year Year Factor
+*List of Author and Co Author
+(a) Title of the Research Paper. Name of the Applicant :- -----------------------------------------
+(b) Name of the Journal.
+(c) DOI:
+Date: - Signature-------------------------------
+Recommendation by College Director. Recommendation by DEAN.
+Date: - Signature------------------ Date: - Signature------------------
+Recommendation by Director ORIC. Approved/ Not Approved
+.
+Date: - Signature------------------ Date: - Signature------------------
+President KIET
+Note: 'Abstract' page of Research Paper from Journal to be attached.
+--------------------
+
+
+ --- LINKS FOUND ---

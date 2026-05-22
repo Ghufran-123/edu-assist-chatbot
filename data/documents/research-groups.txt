@@ -1,0 +1,30 @@
+ Source URL: https://cocis.kiet.edu.pk/research-groups/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Research Groups
+Research Areas & Respective Supervisors
+A dedicated team of qualified researchers including six foreign qualified Ph.Ds are teaching and supervising research in diverse and upcoming areas of technology. Given are the details of the research areas and their respective supervisors:
+Research Area
+Group Heads
+Block chain and Distributed Cloud
+Dr. Muhammad Khalid Khan
+Evolutionary Computing
+Dr. Salman Ahmed Khan
+Internet of things / Persuasive computing
+Dr. Muhammad Taha Jilani
+Information Security
+Dr. Maaz Bin Ahmed
+Image and Pattern Recognition
+Dr. Muhammad Affan Alim
+Software Architecture & Design
+Mr. Ayub Latif
+Machine Learning/Data Sciences
+Mr. Sohail Imran
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

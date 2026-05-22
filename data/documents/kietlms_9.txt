@@ -1,0 +1,35 @@
+ Source URL: http://cms.kiet.edu.pk/kietlms/#top
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Page path
+Home
+Log in to the site
+Log in
+LOGIN AS STUDENT
+LOGIN AS STAFF/FACULTY
+LOGIN AS PARENT/GUARDIAN
+Reset your password
+Click here
+to get  password reset link through Email
+Note: Password reset link will be sent only to your registered E-mail address in MIS Database
+Instructions: (For Students/ Alumni)
+Username
+:  Your Student Number e.g. 3214
+Instructions: (
+For Teachers/Staff
+Username
+:  Type Your Employe Number e.g. 324
+For further queries please contact KIET MIS Dept.
+Phone: (92-21) 35091114-7 (Ext: 211)
+Email: lms@kiet.edu.pk  or  mis@kiet.edu.pk
+COMPUTER USE POLICY / GUIDELINES
+LMS Server Timings
+Available 24/7
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

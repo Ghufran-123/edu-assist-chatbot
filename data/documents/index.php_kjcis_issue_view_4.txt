@@ -1,0 +1,39 @@
+ Source URL: https://kjcisjournal.kiet.edu.pk/index.php/kjcis/issue/view/4
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Vol. 3 No. 1 (2020): Volume 3 | Issue 1 | Jan - June | 2020
+DOI:
+https://doi.org/10.51153/kjcis.v3i1
+Published:
+2020-01-01
+Full Issue
+Requires Subscription
+Volume 3 | Issue 1 | Jan - June
+Articles
+Impaired Glove for Blind and Impaired Person
+Ummay Faseeha, Samia Ghazal, Bushra Rehmani, Rabia Rafique, Suman Taba, Najam us sehar
+PDF
+Multi-Class Emotion Detection (MCED) using Textual Analysis
+Hajira Tabassum, Shah Muhammad Emaduddin, Aqsa Awan, Rafi Ullah
+PDF
+Code Clone Detection: A Systematic Review
+Iqra Yaqub, Khubaib Amjad Alam
+PDF
+Supervised Learning Algorithm of Classification on Basis of Ranges
+Ahmer Hassan, Usman Khan
+PDF
+3D Printing using Fused Filament Fabrication
+A. M. Khan, M. T. Khan, M. Faisal, S. Tahir, G. Mustafa, Kalbeabbas
+PDF
+Next Release Problem: A Systematic Literature Review
+Umer Iqbal, Khubaib Amjad Alam
+PDF
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---
+https://kjcisjournal.kiet.edu.pk/index.php/kjcis/issue/view/4/5

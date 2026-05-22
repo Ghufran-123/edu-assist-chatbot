@@ -1,0 +1,88 @@
+ Source URL: http://kjcis.kiet.edu.pk/index.php/kjcis
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Welcome to KJCIS
+KIET Journal of Computing & Information Sciences (KJCIS)
+is a bi-annual, multi-disciplinary,
+Y-Category HEC recognized
+research journal published by the
+College of Computing & Information Sciences (CoCIS), Karachi Institute of Economics & Technology (KIET), Pakistan.
+The journal publishes high-quality peer-reviewed research in all major domains of computing and information sciences. KJCIS serves as a global platform connecting researchers, scientists, practitioners, and industry experts.
+Key Features
+Bi-annual publication
+(June & December)
+Double-blind peer review
+process
+Open Access (free for authors & readers)
+No article processing or publication fee
+Indexed
+by Crossref, EuroPub, WorldCat, DRJI, and others
+Strong academic Editorial and Advisory Boards
+Learn More About KJCIS
+Aims & Scope
+KJCIS publishes original contributions in the following domains:
+Artificial Intelligence
+Machine Learning, Neural Networks, Expert Systems
+Data Science
+Big Data Analytics, Data Mining, Visualization
+Cybersecurity
+Network Security, Cryptography, Cyber Defense
+Software Engineering
+DevOps, Agile, Software Testing, Architecture
+Internet of Things
+Embedded Systems, Sensors, Smart Applications
+Information Systems
+DBMS, ERP, Business Intelligence, MIS
+View Detailed Aims & Scope
+Indexing & Abstracting
+KJCIS is indexed and abstracted in prestigious databases:
+Crossref
+(DOIs Active)
+Google Scholar
+PKP Index
+ROAD – ISSN Portal
+Directory of Research Journals Indexing (DRJI)
+EuroPub Database
+WorldCat
+View All Indexing
+Journal Policies
+Our policies ensure transparency and ethical publishing:
+Publication Ethics
+Peer Review Policy & Process
+Submission Guidelines
+Copyright Policy
+Open Access Policy
+Archiving Policy
+View All Policies
+Publication Ethics
+KJCIS adheres to the highest standards of publication ethics in accordance with guidelines from COPE (Committee on Publication Ethics). We maintain strict policies against plagiarism, data fabrication, and duplicate publication.
+Transparency
+Clear review and publication processes for all stakeholders.
+Author Rights
+Protection of intellectual property and proper attribution.
+Rigorous Review
+Double-blind peer review by domain experts.
+Read Our Ethics Policy
+Featured Research
+Explore some of our most cited and impactful research articles:
+Highly Cited
+Advanced Machine Learning Algorithms for Predictive Analytics in Big Data
+This research presents novel ML algorithms optimized for big data environments, achieving 95% accuracy in predictive modeling across diverse datasets.
+Dr. Sarah Johnson
+42 Citations
+Read Full Article
+Trending
+Blockchain Implementation for Secure Digital Identity Management Systems
+A comprehensive framework for implementing blockchain technology in digital identity management, enhancing security and user privacy.
+Prof. Ahmed Raza
+28 Citations
+Read Full Article
+Search All Articles
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

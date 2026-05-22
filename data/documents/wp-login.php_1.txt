@@ -1,0 +1,16 @@
+ Source URL: https://tencoms.kiet.edu.pk/wp-login.php?action=lostpassword
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Powered by WordPress
+Please enter your username or email address. You will receive an email message with instructions on how to reset your password.
+Log in
+← Go to
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---
+https://tencoms.kiet.edu.pk/wp-login.php

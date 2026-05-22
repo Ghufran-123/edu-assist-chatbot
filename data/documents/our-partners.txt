@@ -1,0 +1,27 @@
+ Source URL: https://tencoms.kiet.edu.pk/our-partners/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Skip to content
+Our Partners
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+>>> OCR: NICK.png <<<
+Funded by ont, MomT
+--------------------
+
+
+>>> OCR: Dynamic-Research-Center-logo-1024x538-1-300x158.jpeg <<<
+DYNAMIC
+[- RESEARCH
+CENTER
+--------------------
+
+
+ --- LINKS FOUND ---
+https://tencoms.kiet.edu.pk/our-partners/#content
+https://tencoms.kiet.edu.pk/our-partners/#search

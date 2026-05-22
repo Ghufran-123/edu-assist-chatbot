@@ -1,0 +1,37 @@
+ Source URL: https://kjcisjournal.kiet.edu.pk/index.php/kjcis/issue/view/11
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Vol. 6 No. 2 (2023): Volume 6 | Issue 2 | July - Dec | 2023
+DOI:
+https://doi.org/10.51153/kjcis.v6i2
+Published:
+2023-11-08
+Articles
+Stock Prediction for ARGAAM Companies Dataset
+Noman Islam, Salis Khizar Khan, Abdul Rehman, Usman Aftab, Darakhshan Syed
+1-13
+PDF
+Deep Learning based Market Basket Analysis using Association Rules
+Hamid  Ghous, Mubasher Malik, Iqra  Rehman
+14-34
+PDF
+Guidelines for the Development of Automated Test Case Designing and Generation Tool(s)
+Saima Rafique, Rizwan  Bin Faiz
+35-50
+PDF
+SD-ALB: Software Defined Adaptive load balancing in Data Center Network
+Riwan Fazal, Syed Mushhad M. Gilani, Muuhammad Junaid Khalid
+51-67
+PDF
+Impediment in Adaptation of Algorithm Trading: A Case of Frontier Stock Exchange
+Uroosa Rahat, Ammar Siddiqui, Khurram  Pervez, Muhammad  Hasan
+67-84
+PDF
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

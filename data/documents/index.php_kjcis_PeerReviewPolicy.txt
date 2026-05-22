@@ -1,0 +1,49 @@
+ Source URL: https://kjcisjournal.kiet.edu.pk/index.php/kjcis/PeerReviewPolicy
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Peer Review Policy
+KJCIS adopts a rigorous double-blind peer review process to ensure impartiality, quality, and integrity. This page outlines the peer-review workflow, roles, expected timelines, reviewer responsibilities, and appeals procedures.
+Review model
+KJCIS uses a
+double-blind
+review model: authors’ identities are concealed from reviewers and reviewers’ identities are concealed from authors. This helps minimize bias and supports objective assessment.
+Initial submission & editorial triage
+Receipt & acknowledgement:
+The OJS system issues an automatic acknowledgement and submission ID.
+Editorial triage:
+The editorial office screens for scope fit, formatting, completeness, and plagiarism. Manuscripts failing triage are desk-rejected with brief rationale.
+Plagiarism screening:
+Manuscripts are checked using similarity detection tools. Authors may be asked to address overlapping text before peer review if similarity exceeds allowable thresholds.
+Reviewer selection & assignment
+The Editor selects at least two independent reviewers with expertise relevant to the manuscript. Reviewers are chosen based on publication record, domain knowledge, and absence of conflicts of interest. When necessary, the Editor may appoint additional reviewers or recommend editorial board members to assess niche content.
+Reviewer responsibilities
+Evaluate originality, technical quality, clarity, reproducibility, and significance.
+Provide clear, constructive, and actionable feedback, with reference to line numbers or sections.
+Declare conflicts of interest and decline review when impartiality is compromised.
+Maintain confidentiality and do not use data or ideas for personal advantage.
+Review format & decision categories
+Reviewers provide:
+A confidential recommendation for the editors (Accept, Minor revision, Major revision, Reject).
+A structured review with summary, strengths, weaknesses, and specific comments for the authors.
+Timelines & expected turnaround
+Typical timeframes (indicative):
+Initial editorial triage: 2–4 weeks
+Peer review (one round): 6–12 weeks depending on reviewer availability
+Revision submission by authors: variable (generally 4–8 weeks for major revisions)
+Final editorial decision after revision: 2–4 weeks
+Editorial decision process
+The Editor considers reviewer reports and authors’ responses to make the final decision. In cases of conflicting reviews, additional reviews may be solicited. The Editor can also request statistical or methodological review for specialized submissions.
+Appeals & complaints
+Authors may appeal editorial decisions by submitting a written appeal to the Editor-in-Chief with a clear rationale and any new evidence. Appeals are handled by a senior editor or an independent appeals panel. Complaints regarding ethical issues or review misconduct are handled through the journal’s ethics procedures.
+Record-keeping & transparency
+The journal maintains records of reviewer assignments, decisions, and correspondence to ensure transparency and to support indexing audits. Aggregate turnaround statistics (median times) may be published annually.
+Reviewer recognition
+KJCIS acknowledges reviewers in annual reports and may provide certificates or acknowledgements. Exceptional reviewers may be invited to editorial roles.
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

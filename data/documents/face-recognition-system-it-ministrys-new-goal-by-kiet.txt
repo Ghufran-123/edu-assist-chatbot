@@ -1,0 +1,22 @@
+ Source URL: https://kiet.edu.pk/face-recognition-system-it-ministrys-new-goal-by-kiet/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Face recognition system IT ministry’s new goal – by KIET
+Face recognition system IT ministry’s new goal – The Express Tribune The project is being developed by KIET at a cost of Rs13.84m TRIBUNE.COM.PK
+Dr Imran Naseem has extensive experience with the state-of-art face recognition systems; his benchmark work was use of linear regression to solve most challenging problem of occlusion in face recognition. He has also designed robust “regression based face recognition” to encounter the difficult problem of illumination variation.
+Dr Muhammad Mohiuddin and Dr Husain Parvez are the Co-Project Directors who have worked on Xilinx FPGAs as target platform for VHDL based digital de
+signs and on design and exploration of FPGA architecture and related CAD tools respectively.
+KIET
+’s highly qualified and productive team of PhDs is meaningfully involved in projects jointly undertaken with foreign research institutes, as well as in four projects, funded by Ignite (formerly ICT R&D Fund) which carry significant contribution to the society. It is pertinent to mention that, KIET is the largest recipients in terms of funds and number of projects from Ignite in Sindh region.
+Details of other such research projects by KIET can be found here:
+https://gsse.kiet.edu.pk/?q=ProjectsAndPublications
+www.kiet.edu.pk
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---
+https://gsse.kiet.edu.pk/?q=ProjectsAndPublications

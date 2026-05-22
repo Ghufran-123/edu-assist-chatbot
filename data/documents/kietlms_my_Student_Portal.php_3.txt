@@ -1,0 +1,24 @@
+ Source URL: https://lms.kiet.edu.pk/kietlms/my/Student_Portal.php#collapseTwo
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Skip to main content
+Login Instructions
+For Students
+Username: Your Student Number e.g. 3214
+For Faculty
+Username: Your Employe Number e.g. 324
+LOGIN AS STUDENT
+LOGIN AS FACULTY
+LOGIN AS PARENT
+Reset your password
+Click here
+to get  password reset link through Email
+Note: Password reset link will be sent only to your registered E-mail address in MIS Database
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

@@ -1,0 +1,31 @@
+ Source URL: https://kiet.edu.pk/marketforces/index.php/marketforces/deadlineofallprocesses
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Deadline of all Processes
+Duration of Paper Submission
+The journal’s call for papers is posted on LinkedIn and other social media on a routine basis.
+When an author uploadshis/her manuscript on the OJS system, it immediately acknowledges the manuscript's receipt and allocates a code, which the authors can use to see at what stage their manuscript is at. The editorial team only processes manuscripts that theauthors have uploaded on the Market Forces OJS system.
+Review, Acceptance, and Publication of Manuscripts
+We can publish a limited number of articles in an issue. Our editorial office reviewsthe oldest uploaded articleson a first-come, first-served basis andsends them for double-blind review if they are of desired quality. The review process is discussed in the section "Steps involved from the date of receipt of research article till the publication of the article."
+Timelines for Publication of Issues
+Market Forces is a bi-annual research journal that is published regularly in June and December each year.
+Steps involved from date of receipt of research article till the publication of the article
+The editorial office initially reviews the manuscripts submitted on a first-come, first basis for quality and plagiarism.
+If the quality of the manuscript isnot of the desired level, the editorial office rejects it and informs the corresponding author.
+The editorial office sends the manuscript for double-blind review if it is of desired quality and similarity.It sendsthe manuscript to at least one foreign and one local reviewer. Both reviewers belong to renowned institutions.
+After receiving the reviewers' comments, the editorial team communicates the comments to the corresponding authors. The comments are mostly related to rejecting the articles or acceptingthem with major or minor changes.
+After receiving the revised manuscripts, the editorial office proofreadsthem and sends themto the printer forthe publication of the first dummy copy.
+The editorial office then sends the first dummy copy to all the authors for receiving their consent on authorship, the correctness of names, order of authors, and affiliation of the authors.
+While sending the dummy copy, the editorial office informs all the authors that if it does not receive any response in a week, it will assume that the authors have consented to the authorships and have nochanges to offer. This process is necessary for the timely publication of the issue.
+The editorial office sends the first dummy copy with the corrections to the publisher in the final stage.
+After receiving the final dummy copy, the editorial office proofreads it and then uploads the manuscripts on OJS to generate DOI.
+The editorial office then sends the DOI to the publisher who prints the generated DOI on each article and sends the final manuscripts for uploading on the web page and to the printer for publishing hard copies of the issue.
+The process takes six months to one year, depending on the number of manuscripts in the queue.
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

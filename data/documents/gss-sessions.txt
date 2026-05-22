@@ -1,0 +1,146 @@
+ Source URL: https://cocis.kiet.edu.pk/gss-sessions/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+GSS Sessions
+The Guest Speaker Session (GSS) Program offers FREE, regularly scheduled study sessions for traditionally difficult courses. Weekly 50-minute sessions are held using a collaborative learning process. Attend once or attend every session, the choice is up to you, but our data suggests that the more you attend, the higher your final grade will be in the course.
+GSS sessions are facilitated by leaders, undergraduate students who have previously taken the course and demonstrated academic competency in the subject area. GSS leaders will share their approach to success in the course and help the groups to review lecture material, work through homework and problem-solving exercises and review for exams.
+Guest Speaker Sessions
+Topic
+Guest Name
+Designation
+Organization
+SQL Injection & Prevention
+Hassan Ali
+Manager Software
+Jubilee Life
+Arrays / Game Development
+Waqar
+Software Engineer
+HOM
+Machine Learning Model Evaluation for Real World Problems
+Owais Ahmed
+Team Lead
+Interactive Health Solution
+Agile Project Development
+Raja Muhammad
+Senior Project Manager
+Bank Al-Habib Ltd.
+Making Image Using Arrays of thermal sensors
+Usama Ayub
+Lecturer
+NED University
+Use of Discrete Mathematics in Software Engineering
+S. Imad UR Rehman
+SQA Analyst
+Contour Software
+Talk on Career Guidance
+Javed Akbar
+Director
+Engro Corp
+Pillars of TE, Methods
+Muhammad Kamran
+SQA Analyst & Team Lead
+Contour Software
+Pillars of OOP
+Zain Farooq
+Technical Consultant
+PLD & Intro to VHDL Programming
+Muhammad Zeeshan
+Research Associate
+ICT RnD
+Building World Class Technologies
+Naresh Kumar
+Cloud Network Analysis
+Quick Start
+Emerging Technologies in DS
+Bilal Tasneem
+Manager
+UBL
+Role of Computer in Scientific Research
+Syed Najmul Haq
+CEO
+National Engineering Lab
+Islamic Banking System
+Mufti Irshad A. Aijaz
+Shariah Scholar
+Bank Islami
+Structure Network Broad Band Routing
+Mr. Waqar Ahmed
+IT Manager
+S.S.G.C (Pvt) Ltd.
+High End Data Storage
+Mr. Shams-ul-Haq
+Prof. Services Consultant
+Teradata (Pvt) Ltd.
+New Development Technologies form Microsoft
+Mr. Zia Khan
+M.V.P
+Microsoft Pakistan
+Information Security
+Mr. Taimur Jilal
+Chief Info. Security Officer
+Bank Al – Falah
+Difference b/w Islamic and Conventional Banking
+M. Aamir Ehsan
+Group Manager Credits
+Allied Bank Ltd.
+Revolution of Internet in Pakistan
+Mr. Asif Nasim Khan
+Network Manager
+Dubai Islamic Bank
+Scope of software Animation in industry
+Umair Ahmed
+Software Engineer
+ICE Animation (Pvt) Ltd
+Career Consuling Communication
+Ahmed Ali Shirz
+Software Engineer
+Tahweel Net
+Leadership Development
+Dr. Tanveer Ahmed
+C.E.O
+HANDS
+Network Address Translation (NAT), Port Address Translation(PAT)
+Abdul Rafay Qureshi
+Manager Network Operation
+Aircom Telecommunication Technology
+Information System Security Carrier
+Anwar Saleem Kamal
+Senior Consultant
+TransLog
+Software Quality Issues and Casesses
+Maaz Ibrahim
+Quality Consultant
+Avanza
+MIS, Share experience in IT and MIS
+Abdul Rasheed Meher
+IT Director
+High Court of Sindh
+Motivation in Islam
+Shuja-uddin Sheikh
+Director
+Quran Academy
+Vision
+Rabia Graib
+C.E.O
+C.I.O Pakistan
+Virtual Private Networks
+Muhammad Hussain
+Head IT infrastructure
+Pak Suzuki
+Juniper Network
+Muhammad Atif
+Director
+Onwire Institute
+Google Wave
+Hammad Arshad
+Senior Software Engineer
+Ovrlod (Impact Proximity)
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

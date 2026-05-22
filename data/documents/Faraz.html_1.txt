@@ -1,0 +1,18 @@
+ Source URL: https://iccis.kiet.edu.pk/Faraz.html#about
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Dr. Faraz Zaidi
+Dr. Faraz Zaidi
+Talk Title:
+"Data Science in the Healthcare Industry "
+"One of the most successful area of applications for Data Science is the Healthcare Industry. Huge volumes of health data are generated around the globe. This data provides us insights about several health-related information such as patient demography and lifestyle, medication and treatment plans, results of medical tests and their reports.
+This presentation provides an overview of how data science is changing the landscape of the health industry at the Regional Municipality of Peel in Canada and what are some of the application areas where the region is successfully using data science to solve challenging problems. The health department at the Region of Peel serves four service areas: Paramedic Service, Senior Services, Public Health and Long Term Care. Data from all these sources is being used to improve the quality of service, facilitate and support the people in leading a health life, and ensuring efficient and effective programs for health protection and promotion. Several case studies will be discussed to demonstrate the use of Data Science in achieving these organizational objectives.
+Back
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

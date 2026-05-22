@@ -1,0 +1,17 @@
+ Source URL: https://iccis.kiet.edu.pk/Shakeel.html#submissions
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Dr. Shakeel Ahmed Khoja
+Dr. Shakeel Ahmed Khoja
+Talk Title:
+"Machine Reading Comprehension & Automatic Question Generation for Low-Resource Languages"
+"Machine Reading Comprehension (MRC) has been defined as a field of NLP where machines are taught to understand answer questions for user based queries on the web. This phenomenon has gained significant importance due to the popularity of voice-controlled personal assistants available on various smart devices. You can ask MRC questions about any statement or a fact in a document, and it will use various parts of the content to come up with an answer. This requires complex interactions between the context of the statement or a fact given in the document and the query given by the user. This talk explores two projects in this area. The first is about developing an MRC for a low-resource language, Urdu. The work explores the semi-auto creation of the Urdu Question Answer Dataset (UQuAD) by combining machine-translated SQuAD with human-generated samples derived from various web documents. The second project is about Automatic Question Generation (AQG) systems that can be used as a complement for a MRC. In this project we propose a hybrid approach for question generation in Urdu, where questions are generated using rule based approach, and then ranked using ML approaches over UQuAD. The rules are used to cater to the complexity of the grammar of the language, whereas the ranking model overcomes the issue of eliminating non-relevant questions."
+Back
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

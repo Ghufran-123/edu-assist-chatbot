@@ -1,0 +1,802 @@
+ Source URL: https://iccis.kiet.edu.pk/index.html#submissions
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Introduction
+Introduction
+Karachi Institute of Economics & Technology  is a degree awarding institution imparting quality education in the field of computing & information sciences, management sciences, engineering and media & arts.
+College of Computing and information sciences  at KIET is working with a clear vision of producing high quality technology entrepreneurs & market leaders for national & International market. To establish a culture of research and innovation, CoCIS has taken two major steps:
+Organizes a biannual conference, International Conference of Computing and Information Sciences , available at www.iccis.pafkiet.edu.pk
+Publishes a biannual peer reviewed journal, KIET Journal of Computing & Information Sciences , available at www.kjcis.pafkiet.edu.pk.
+ICCIS aims to provide a forum to present new research problems and recent results of the emerging technologies in the field of computing and information sciences. The conference also endeavors to act as a bridge between academia and industry and to encourage fruitful collaboration. It brings together researchers, faculty members, consultants, industry experts and technologist on one platform.
+No registration fee for authors and participants to ease the impact of COVID-19 pandemic.
+"This is a hybrid mode conference (Online+Physical)"
+About KIET
+About KIET
+Vision Statement
+"To be amongst the leading universities of the world where an excellent environment for education, research and innovation exists, to produce quality leaders."
+Mission Statement
+"KIET is committed in providing a quality learning and research environment in order to inculcate fundamental and specialized knowledge and skills for producing competent professionals with focus on technology, innovation and entrepreneurship."
+VISIT
+KARACHI INSTITUTE OF ECONOMICS & TECHNOLOGY
+About CoCIS
+About CoCIS
+Vision Statement
+"To develop technology entrepreneurs & leaders for national & international market."
+Mission Statement
+"To produce quality professionals by using diverse learning methodology, aspiring faculty, innovative curriculum and cutting edge research, in the field of computing & information sciences."
+VISIT
+COLLEGE OF COMPUTING & INFORMATION SCIENCES
+KEYNOTE SPEAKERS
+KEYNOTE SPEAKERS
+Dr. Andries Engelbrecht
+Professor
+South Africa
+Andries Engelbrecht received his Masters and Ph.D. degrees in Computer Science from Stellenbosch University, South Africa, in 1994 and 1999 respectively. He is currently appointed as the Voigt Chair in Data Science in the Department of Industrial Engineering, with a joint appointment as Professor in the Computer Science Division, Stellenbosch University.
+Profile
+Talk Title
+Dr. Helen Karatza
+Professor Emeritus
+Greece
+(Senior Member, IEEE, ACM, SCS) is a Professor Emeritus in the Department of Informatics at the Aristotle University of Thessaloniki, Greece. Dr. Karatza's research interests include Cloud, Fog and Mist Computing, Energy Efficiency, Resource Allocation, and Scheduling, and Real-time Distributed Systems.
+Profile
+Talk Title
+Dr. Mardé Helbig
+Assistant Professor
+Australia
+Senior Lecturer, School of Information and Communication Technology, Griffith University in Australia. She was formerly Senior Lecturer at the Department of Computer Science at the University of Pretoria. Her research focuses on solving dynamic multi-objective optimization problems using computational intelligence algorithms.
+Profile
+Talk Title
+Dr. Shakeel Ahmed Khoja
+Professor
+Pakistan
+Professor and Dean School of Mathematics and Computer Science Department at Institute of Business Management. He has done Post-Doc Fellowship, the University of Southhampton, UK – 2008, Ph.D. (Computer Science), University of South Hampton, UK – 2001, and BE from Mehran University of Engg Tech – 1995.
+Profile
+Talk Title
+Dr. Shoab Ahmad Khan
+Professor
+Pakistan
+Dr. Shoab Khan is of Prof Computer and Software Engineering NUST College of EME. He received his Ph.D. from Georgia Institute of Technology USA in 1995. While in the US he got extensive experience working in several top notches technology companies like Scientific Atlanta, Picture Tel, and Cisco System.
+Profile
+Talk Title
+Dr. Jawwad Shamsi
+Professor
+Pakistan
+Jawwad A. Shamsi is a Professor of Computer Science and Dean (Faculty of Computing) at FAST-National University of Computer and Emerging Sciences.
+He completed his PhD. in 2009, from Wayne State University MI, USA. In the past, he has served as the Head of Computer Science Dept. (2012 - 2017) and Director of the Karachi campus (2018-2021). He has also authored a book on Big Data Systems: A 360 Degree Approach, which has been published by CRC publishers from Taylor and Francis group. In addition, he has authored several papers in leading journals and conferences. His research has been funded by HEC, NCAI, Ignite, and NVIDIA, USA.
+Profile
+Talk Title
+Dr. Faraz Zaidi
+Data Scientist
+Canada
+Specialties: Data Mining, Data Science, Social Network Analysis, Complex Networks, Graph Algorithms, Visual Analytics, Data Visualization
+,Over 14 years of professional and research experience of working on different projects related to Data Mining, Machine Learning, and Data Visualization using statistical and computational methods
+,Vast Experience of using Data Mining techniques such as Clustering, Text Mining, Natural Language Processing, Association Mining, Decision Trees, Genetic Algorithms and Statistical Learning
+Profile
+Talk Title
+Dr. Nazeeruddin Mohammad
+Director
+Saudi Arabia
+Dr. Nazeeruddin Mohammad is a cybersecurity professional and researcher with 20+ years of combined experience in academic and industrial research, Infrastructure design/management, university-level teaching, and proto-type development in simulation environments as well as in the real world test-bed environments.
+Profile
+Talk Title
+Dr. Saqib Khursheed
+Assistant Professor
+United Kingdom
+Dr. Khursheed is currently working as a lecturer (Assistant Professor) with the Department of Electrical Engineering and Electronics, University of Liverpool, UK. In 2010, he received his Ph.D. degree in Electronics and Electrical Engineering from the University of Southampton, UK.
+Profile
+Talk Title
+Dr. Noman Islam
+HOD
+Iqra University
+Postdoc Researcher, University of Kuala Lumpur, Malaysia
+Professor, Head MS/ PhD Program and Head of Department (HoD),
+Iqra University
+Data Scientist,
+ALADIN Solutions
+Program Evaluator,
+Higher Education Commission(HEC) NCEAC
+Profile
+Talk Title
+Dr. Asim Wagan
+Dean Faculty of Engineering
+MAJU
+Dr. Asim Imdad is a tech entrepreneur, technology enthusiast and academician with a Ph.D. in AI and 15+ years of national and international experience in industry and academia spanning three continents.
+He got his Ph.D. from France a decade ago focusing on Machine Learning and Computer Vision working on digital heritage. He is an international published tech author with several national and international research publications under his belt.
+Profile
+Talk Title
+Dr. Kashif Nisar
+Associate Professor
+University Malaysia Sabah, Malaysia
+Currently, I am serving as an Associate Professor at the Faculty of Computing and Informatics at University Malaysia Sabah, KK, Sabah, Malaysia. This position seems ideal for my experience, education, skills, and interest. I completed my Ph.D. as a candidate with full funding at the Universiti Teknologi PETRONAS, Malaysia, majoring in Computer Networks and Information Technology.
+Profile
+Talk Title
+CALL FOR PAPER
+CALL FOR PAPER
+Our Partners
+Our Partners
+Submissions GuideLines
+Submissions GuideLines
+For submission of manuscripts please click on
+EasyChair
+All paper submissions will be managed electronically, so you may only submit complete and properly formatted paper. Paper length must be 4-6 pages (minimum-maximum limit). Any incomplete submission will be rejected.
+For submission of manuscript follow the steps below:
+Select your area of interest from technical tracks
+Complete your Manuscript in
+IEEE Format
+Submit via
+EasyChair
+Technical Tracks
+ICCIS 2021
+, is a multi-track conference and invites original unpublished manuscripts for submission in the following technical tracks:
+Pattern Classification
+"Pattern Recognition, Multidimensional Signal Processing, Image Processing, Biomedical, Genome Signal Processing, Neuromorphic Computing, Bioinformatics, Compressive Sensing Convolutional, Neural Networks, Speech/Music Processing and Coding, Deep Learning and Machine Learning"
+Computing Applications
+"Cloud/Fog Computing, Information Security, Mobile Computing, Operating Systems, Data Mining, Management Information Systems, Computing Architectures, Machine Learning, Super Computing, Information Theory, Coding Memory Systems, Software Engineering, Grid Computing, Cluster Computing, Database technologies & its application, Internet of things (IoT)"
+Big Data Analytics
+"Data Science, Data Analytics, Big Data Analytics, Feature Engineering, Data Mining, Data Warehousing and Data Visualization"
+Communication and Networking
+"Internet Of Things, Cellular and Broadband Wireless, Green Communication, Mobile Ad hoc Networks, Cognitive Radios Software, Defined Networks, Peer to Peer Networks, Next Generation Networks, Quality of Service, Data Management, 5G & Beyond Technologies, Optical & RF Networks, Peer to Peer Networks, Wireless Sensor Networks, LiFi Communication, Secure Communication Networks, Cyber Physical Systems"
+Proceedings of ICCIS 2021
+All accepted and presented papers at ICCIS 2021 will be submitted to IEEE Xplore (Digital Library) for conference proceedings publication.
+Previous ICCIS Proceedings are
+available here
+Plagiarism policy
+Policy on Multiple Submissions and Prior Publication:
+A submission must present original work which has not appeared/accepted elsewhere for publication, or has not been concurrently submitted to another conference/journal publication. All submitted papers will undergo plagiarism checks in multiple plagiarism detection software as mandated by IEEE. Papers found violating the above mentioned plagiarism policy may be rejected at any stage: before review, after review, after acceptance notification or before submission of conference proceedings for publishing in IEEE Xplore. For specific IEEE policy on plagiarism please visit:
+https://www.ieee.org/publications/rights/copyright-faqs.html
+https://www.ieee.org/publications/rights/plagiarism/id-plagiarism.html
+Important Dates
+Important Dates
+Conference date:
+29th & 30th November 2021
+Deadline for paper submission:
+05th October 2021
+12th October 2021
+18th October 2021
+Acceptance date:
+30th October 2021
+05th November 2021
+Submission of camera-ready paper:
+10th November 2021
+Last Date of Registrartion:
+18th November 2021
+ICCIS 2021 Committees
+ICCIS 2021 Committees
+Patron
+AVM Retd Tubrez Asif
+President, KIET
+Conference Steering and Advisory Committee
+Prof. Dr. Bhawani Shankar Chowdhary
+Chair IEEE Karachi Section
+Former Dean and Professor Emeritus
+Faculty of Electrical, Electronics and Computer Engineering,
+Mehran University of Engineering & Technology, Jamshoro
+Prof. Dr. Tariq Rahim Soomro
+Vice-Chair IEEE Karachi Section
+Dean,
+College of Computer Science and information systems,
+Institute of Business Management,
+Prof. Dr. Asim Ur Rehman
+Secretary, IEEE Karachi Section
+Professor, FAST Karachi
+Prof. Dr. M. Shahid Shaikh
+Chair, Conference Committee
+Dean, Habib University
+Prof. Dr. Muhammad Shahab Siddiqui
+Chair, Membership Development
+Professor, Jinnah University for Woman.
+Engr. Parkash Lohana
+Chair, Professional Activities - IEEE Region
+HoD, Computer Science, Usman Institute of Economics and Technology
+Organizing Committee
+Prof. Dr Muzaffar Mehmood
+Dean,
+Karachi Institute of Economics and Technology (KIET)
+Prof. Dr. Khalid Khan
+Associate Dean & Director, COCIS
+Karachi Institute of Economics and Technology (KIET)
+Dr. Affan Alim
+Assistant Professor, CoCIS,
+Karachi Institute of Economics and Technology (KIET)
+Mr. Usman Khan
+Assistant Professor, CoCIS,
+Karachi Institute of Economics and Technology (KIET)
+Syed Hassan Ali
+Assistant Manager Production & Circulation, COCIS,
+Karachi Institute of Economics and Technology (KIET)
+Conference Co-Chairs
+Prof. Dr. Bhawani Shankar Chowdhary
+Chair IEEE Karachi Section
+Prof. Dr. Salman Ahmed Khan
+Professor, COCIS
+Karachi Institute of Economics and Technology (KIET)
+Conference Website / Publicity Committee
+Dr. Muhammad Naveed (Chair)
+Assistant professor, COCIS,
+Karachi Institute of Economics and Technology (KIET)
+Engr. Atif Fareed
+Chair, Student Activities Committee, IEEE
+Assistant Professor, Usman Institute of Technology, Karachi
+Mr. Muhammad Fahad
+Assistant Professor, COCIS,
+Karachi Institute of Economics and Technology (KIET)
+Ms. Hira Beenish
+Assistant Professor, COCIS,
+Karachi Institute of Economics and Technology (KIET)
+Mr. Saad Akber
+Assistant Professor, COCIS,
+Karachi Institute of Economics and Technology (KIET)
+Mr. Abdul Wahab
+Assistant Professor, COCIS,
+Karachi Institute of Economics and Technology (KIET)
+Syed Hassan Ali
+Assistant Manager Production & Circulation, COCIS,
+Karachi Institute of Economics and Technology (KIET)
+Publication Committee
+Dr. Maaz Bin Ahmad (Chair)
+Associate Professor, COCIS,
+Karachi Institute of Economics and Technology (KIET)
+Dr. Taha Jilani
+Associate Professor, COCIS,
+Karachi Institute of Economics and Technology (KIET)
+Dr. Umema Hani
+Assistant Professor, COCIS,
+Karachi Institute of Economics and Technology (KIET)
+Dr. Syed Mubashir Ali
+Assistant Professor, COCIS,
+Karachi Institute of Economics and Technology (KIET)
+Dr. Usman Amjad
+Assistant Professor, COCIS,
+Karachi Institute of Economics and Technology (KIET)
+Ms. Samrina Zamir
+Assistant Professor, COCIS,
+Karachi Institute of Economics and Technology (KIET)
+Mr. Emad Uddin
+Assistant Professor, COCIS,
+Karachi Institute of Economics and Technology (KIET)
+Syed Farooq Zaidi
+Assistant Professor, COCIS,
+Karachi Institute of Economics and Technology (KIET)
+Mr. Arabi Tayyab
+Assistant Professor, COCIS,
+Karachi Institute of Economics and Technology (KIET)
+Finance & Registration Committee
+Mr. Kashif Bashir (Chair)
+Assistant Professor, COCIS,
+Karachi Institute of Economics and Technology (KIET)
+Engr. Moiz Rahman Memon
+Treasurer,
+IEEE Karachi Section
+Mr. Ahsan Manzoor,
+Assistant CFO,
+Karachi Institute of Economics and Technology (KIET)
+Mr. Usman Khan
+Assistant Professor, COCIS,
+Karachi Institute of Economics and Technology (KIET)
+Mr. Sanjay Lakhani
+Assistant Professor, COCIS,
+Karachi Institute of Economics and Technology (KIET)
+Technical Program Committee
+Prof. Dr. Salman Ahmed Khan (Chair)
+Professor, COCIS,
+Karachi Institute of Economics and Technology (KIET)
+Dr. Andries Engelbrecht
+Stellenbosch University
+South Africa
+Dr. Rashid Mehmood
+King Abdul Aziz University,
+Saudi Arabia
+Dr. Ibrahima Faye
+University of Technology Petronas,
+Malaysia
+Dr. Faraz Rasheed
+Microsoft,
+USA
+Dr. Abdul Naser Mohamed Rashid
+Qassim University,
+Saudi Arabia
+Dr. Nazeeruddin Mohammad
+Prince Muhammad bin Fahd University, Saudi Arabia
+Dr. Ayazul Hasan Khan
+King Fahd University of Petroleum & Minerals, Saudi Arabia
+Dr. Syed Omar bin Saeed
+Air University, Islamabad, Pakistan
+Dr. Mohammad Mubashir Khan
+NED University, Pakistan
+Dr. Mohammad Akhlaq
+Hafr Albatin University, Saudi Arabia
+Dr. Abul Bashar
+Prince Muhammad bin Fahd University, Saudi Arabia
+Dr. Luisella Balbis
+University of Bahrain, Bahrain
+Dr Atiq W. Siddiqui
+Imam AbdulRahman Bin Faisal University, Saudi Arabia
+Dr. Syed Arshad Raza
+Imam AbdulRahman Bin Faisal University, Saudi Arabia
+Dr. Aarij Hussan
+Iqra University, Karachi, Pakistan
+Dr. Syed Zeeshan Rizvi
+Corning Inc., USA
+Dr. Syed Mujahid
+King Fahd University of Petroleum & Minerals, Saudi Arabia
+Dr. Ahmed Abdulqadeer
+Hong Kong University of Science and Technology, Hong Kong
+Dr. Mohammad Saqib Sohail
+Hong Kong University of Science and Technology, Hong Kong
+Dr. Jawad Shamsi
+FAST - NUCES,
+Pakistan
+Dr. Mohamed Amin Embi
+University Kebangsaan,
+Malaysia
+Dr. Anh Nguyen-Duc
+University of South-Eastern,
+Norway
+Dr. Tahir Riaz
+Data Architect, SleeknoteApS,
+Denmark
+Dr. Mohd Fadzil Bin Hassan
+University of Technology Petronas,
+Malaysia
+Dr. Nasir Tauheed
+Institute of Business Administration,
+Pakistan
+Dr. Ronald Jabangwe
+University of Southern Denmark,
+Denmark
+Dr. Suliman A. Alsuhibany
+Qassim University,
+Saudi Arabia
+Dr. Asim Imdad Wagan
+Mohammad Ali Jinnah University,
+Pakistan
+Dr. Sardar Anisul Haque
+Alcorn State University,
+USA
+Dr. Yasser Ismail
+Southern University Louisiana,
+USA
+Dr. Manzoor Ahmed Hashmi
+University of Technology Petronas,
+Malaysia
+Dr. Atif Tahir
+FAST NUCES,
+Pakistan
+Dr. Maaz Bin Ahmed
+Karachi Institute of Economics & Tech,
+Pakistan
+Dr. Taha  Jilani
+Karachi Institute of Economics & Tech,
+Pakistan
+Dr. Faraz Zaidi
+Region of Peel,
+Canada
+Dr. Tafseer Ahmed
+Muhammad Ali Jinnah University,
+Pakistan
+Dr. S. M. K. Raazi
+Muhammad Ali Jinnah University,
+Pakistan
+Dr. Muhammad Khurrum
+NED University of Engineering & Technology,
+Pakistan
+Dr. Rauf Shams Malik
+National University- FAST,
+Pakistan
+Dr. Shaukat Wasi
+Muhammad Ali Jinnah University,
+Pakistan
+Dr. Imran Khan
+Institute of Business Administration,
+Pakistan
+Dr. Ghufran Ahmed
+National University- FAST,
+Pakistan
+Dr. Khurram Nazir Junejo
+Data Scientist, IBEX Global,
+Pakistan
+Dr. Ehsan Rehman
+Institute of Business Management,
+Pakistan
+Dr. Syed Tahir Qasim
+National University-FAST,
+Pakistan
+Dr. Goh Chuan Meng
+University Technology Abdur Rehman
+UTAR
+Dr. Hassan Ali Khattak	Comsat
+University, Islamabad,
+Pakistan
+Dr. Aqeel-ur-Rehman
+Sir Syed University, Karachi,
+Pakistan
+Dr. Noman Islam
+Iqra University,
+Pakistan
+Dr. Muhammad Saeed
+UBIT, Karachi University,
+Pakistan
+Dr. Muhammad Aamir
+Sir Syed University of Engineering & Technology,
+Pakistan
+Dr. Shaheer Waqar
+Manager IT, BIEK
+Pakistan
+Dr. Adnan Ahmed Sidiqui
+Hamdard University,
+Pakistan
+Dr. Numan Husny
+Sir Syed University,
+Pakistan
+Dr. Qasim Pasta
+Usman Institute, Karachi,
+Pakistan
+Dr. Imran Naseem
+Karachi Institute of Economics and Tech,
+Pakistan
+Dr. Muhammad Asim Qureshi
+Bahria University,
+Karachi
+Dr. Imran Jami
+Muhammad Ali Jinnah University,
+Pakistan
+Previous Conference
+Previous Conference
+ICCIS-2019
+ICCIS-2018
+ICCIS-2017
+Tehcnical Program Schedule
+Tehcnical Program Schedule
+DAY 01 – Lab 08
+Technical Session I  Session Chair: Dr. Saqib Khursheed, Assistant Professor, University of Liverpool, UK
+Invited Talk: Dr. Saqib Khursheed,
+Assistant Professor, University of Liverpool, UK
+Online
+2:00 pm
+PID -02 :
+-Boids Consensus Algorithm using Adaptive Flocking Model
+Authors:
+Muhammad Majid Gulzar, Muhammad, Munawar, Javaria Khalil, Daud Sibtain, Adeel Ahmed
+In-person
+02:15 pm
+PID-84:
+Deep Frustration Severity Network for the Prediction of Declined Students’ Cognitive Skills
+Authors:
+Sadique Ahmad, M. Shahid Anwar, Mir. Shahzad, Mansoor Ebrahim, Imran Memon
+In-person
+02:30 pm
+PID-01:
+An Integrated Approach of GIS and Machine Learning to Assess the Spatio-Temporal Earthquake Vulnerability in South Africa
+Author:
+Iqra Atif
+Online
+02:45 pm
+PID-12:
+Vulnerabilities and Security Threats for IoT in Transportation and Fleet Management
+Author:
+Ayima Zahra
+Online
+03:00 pm
+PID-13:
+Multi-Sensor SLAM for efficient Navigation of a Mobile Robot
+Author:
+Muhammad Shahzad Alam Khan
+Online
+03:15 pm
+PID-21:
+Development of Real-Time Eye Tracking Algorithm
+Author:
+Siti Nuradlin Syahirah Sheikh Anwar
+Online
+03:30 pm
+PID-75:
+The Identification of Influential Factors to Evaluate the Kids Smartphone Addiction: A Literature Review
+Author:
+Bilal Khan	Online	3:45 pm
+Online
+03:45 pm
+Certificate Distribution
+04:00 pm
+DAY 01 – Room 70
+Technical Session II
+Session Chair: Dr. Faraz Zaidi, Data Scientist, Canada
+Invited Talk: Dr. Faraz Zaidi, Data Scientist, Canada  (In-person)
+In-person
+02:00 pm
+PID – 19:
+IoT Based Substation Monitoring & Control System Using Arduino with Data Logging
+Author:
+Sadiq Ur Rehman
+In-person
+02:15 pm
+PID-22:
+Analyzing the quality of responses of Pakistani software developers over stack overflow
+Author:
+Noman Islam
+In-person
+02:30 pm
+PID-23:
+Techniques and Methodologies of Self-Adaptive Software and its Architecture: A Survey
+Author:
+Abdur Rehman Riaz
+Online
+02:45 pm
+PID- 25:
+An ARM Cortex Microcontroller Based Solution for Real-Time Extraction and Classification of Autoregressive EEG Features
+Author:
+Faisal Mehmood, Abdul Haseeb and Muhammad Aqil
+Online
+03:00 pm
+PID – 27:
+E-Health Care With Smart Hospital In Pervasive Environment
+Author:
+Laila Nawaz
+Online
+03:15 pm
+PID-33:
+Approaches for Non-Functional Requirement Modeling: A Literature Survey
+Author: Saman Tariq
+Online
+03:30 pm
+PID-88:
+The Impact of Mitigation Strategies for Temporal Distance Issues in (GSD): A Systematic Literature Review
+Author:
+Attaur Rehman
+Online
+03:45 pm
+Certificate Distribution
+04:00 pm
+DAY 01 – Room 71
+Technical Session III
+Session Chair :Dr. Asim Wagan, Dean Faculty of Engineering, MAJU
+Invited Talk: Dr. Asim Wagan, Dean Faculty of Engineering, MAJU
+In-person
+02:00 pm
+PID – 38:
+Smart Career Guidance System
+Author:
+Areej Kamal, Hadia Rafiq, Batul Naushad, Shahab Tahzeeb
+In-person
+02:15 pm
+PID-42:
+Prototype Implementation of Device-to-Device Communication
+Author:
+Nehan Abdul Ghani
+In-person
+02:30 pm
+PID-53:
+Comparative Study of Deep Learning Models For Automatic Detection of Metastases in H&E Stained Images
+Author:
+Bilal Ahmad
+Online
+02:45 pm
+PID-55:
+Sentiment Analysis of Cancer Patients About Their Treatment During the Peak Time of Pandemic COVID-19
+Author:
+Bilal Ahmad
+Online
+03:00 pm
+PID-57:
+Multiclass Imbalanced Classification of Quranic Verses Using Deep Learning Approach
+Author:
+Aqsa Noor
+Online
+03:15 pm
+PID-58:
+A Support Vector Regression based Machine Learning method for on-chip Aging Estimation
+Author:
+Turki Alnuayri
+Online
+03:30 pm
+Certificate Distribution
+03:45 pm
+DAY 02 – Lab 8
+Technical Session – IV
+Dr. Nazeeruddin Mohammad,
+Director of Cybersecurity Center, Prince Mohammad Bin Fahd University, Saudi Arabia
+Invited Talk: Dr. Nazeeruddin Mohammad
+Online
+09:30 am
+PID-44:
+Communication System For Non-Verbal Paralyzed  Patients Using Computer Vision
+Author:
+Usman Hassan
+In-person
+09:45 am
+PID-49:
+Leukocytes Segmentation and Classification in Digital Microscopic Images
+Author:
+Muhammad Abbas Hussain
+In-person
+10:00 am
+PID-62:
+An Overview of Requirements Elicitation  Techniques in Software Engineering with a  focus on Agile Development
+Author: Ahmad Ibrahim
+Online
+10:15 am
+PID-63:
+Attention based Covid-19 Detection using Generative Adversarial Network
+Author:
+Zeshan Khan
+Online
+10:30 am
+PID-69:
+Predicting Propane Demand Generation with Autoregressive Artificial Neural Networks
+Author:
+Atiq Siddiqui
+Online
+10:45 am
+PID-71:
+Portable Outdoor Quality Air Monitoring using a Wireless Sensor Network
+Author:
+Mohamed Azwan Mohamed Razif
+Online
+11:00 am
+Certificate Distribution
+11:15 am
+DAY 02 – Room 70
+Technical Session V
+Session Chair: Dr. Noman Islam, HOD, IQRA University
+Invited Talk: Dr. Noman Islam
+In-person
+09:30 am
+PID-51:
+TeraHertz Communication and Associated Challenges in 6G Cellular Networks
+Author:
+Tahniyat Aslam
+In-person
+09:45 am
+PID-52:
+A Convolutional Neural Network-based Framework for the Assessment of Human Muscles
+Author
+Noman Ali
+In-person
+10:00 am
+PID-64:
+Evaluation of descriptive answers of open ended questions using NLP techniques
+Author:
+Hira Ahmed
+In-person
+10:15 am
+PID-72:
+Accessibility of social media application for blinds
+Author:
+Mamoona Atif Swati
+Online
+10:30 am
+PID-76:
+Geographical Distance Issues and their Mitigation Strategies in GSD: A Systematic Literature Review towards Conceptual Framework
+Author:
+Nadia Ka e nat
+Online
+10:45 am
+PID – 81:
+Deep Learning Models for Classification and Localization of COVID-19 Abnormalities on Chest Radiographs
+Author:
+L. J. Muhammad	Online	11:00 am
+Online
+11:00 am
+Certificate Distribution
+11:15 am
+DAY 02 – Room 71
+Technical Session VI
+Session Chair: Dr. Kashif Nisar, Assistant Professor, University Malaysia Sabah
+Invited Talk: Dr. Kashif Nisar
+Online
+09:30 am
+PID-70:
+Spear-Phishing campaigns: Link Vulnerability  leads to phishing attacks, Spear-Phishing  electronic/UAV communication-scam targeted
+Author:
+Faisal Ahmed
+In-person
+10:00 am
+PID-11:
+Evolution of IoT in Cloud Computing: Risk Analysis and Potential Solutions
+Author:
+Syed Mushhad M. Gilani
+In-person
+10:15 am
+PID-83:
+Factors Influencing Student Satisfaction in Distance Learning Environment: A Systematic Literature Review
+Author:
+Irfan Kazim
+Online
+10:30 am
+PID: 86:
+A Comprehensive Survey of Sentiment Analysis Based on User Opinion
+Author:
+Toqeer Mahmood
+Online
+10:45 am
+PID-87:
+DeepFake Detection Using Error Level Analysis and Deep Learning
+Author:
+Rimsha Rafique
+Online
+11:00 am
+Certificate Distribution
+11:15 am
+Conference Program Schedule
+conference Program Schedule
+Conference Program Schedule
+Day 1- Monday, November 29, 2021
+Arrival of Guests, participants / Registration
+09:30 am
+Guests to be seated
+09:55 am
+National Anthem, Recitation from the Holy Quran
+10:00 am
+Welcome Address - President KIET, AVM Tubrez Asif (retd.)
+10:10 am
+Conference Brief - Associate Dean & Director, Prof. Dr. Muhammad Khalid Khan	10:20 am
+10:20 am
+Address by Chair, IEEE Karachi Section - Prof. Dr. Bhawani Shankar Chowdhary
+10:30 am
+Plenary Talk 1: Dr. Shakeel Ahmed Khoja (Dean, School of Mathematics and Computer Science, Institute of Business Administration)
+10:40 am
+Plenary Talk 2: Dr. Jawwad Shamsi (Dean, National University of Computer and Emerging Sciences)
+11:05 am
+Refreshment
+11:30 am – 12:00 pm
+Arrival of Chief Guest
+12:00 pm
+Plenary Talk 3: Dr. Asim Imdad Wagan, Dean Faculty of Engineering, MAJU
+12:05 pm
+Address by Chief Guest
+12:30 pm
+Distribution of Souvenirs to Chief Guest and Speakers
+12:40 pm
+Plenary Talk 4: Dr. Mardé Helbig  (Australia)  (online)
+Professor, School of Information and Communication Technology, Griffith University
+12:50 pm
+Group Photo
+01:10 pm
+Namaz & Lunch break
+01:15 pm - 02:00 pm
+Parallel Technical Sessions - I
+Session - I – Session Chair (Dr. Saqib Khursheed, University of Liverpool, UK)
+Session - II – Session Chair (Dr. Faraz Zaidi, Data Scientist, Canada)
+- III – Session Chair (Dr. Asim Wagan, Dean Faculty of Engineering, MAJU)
+02:00 pm  - 3:45 pm
+Industry Talks on Leading IT Trends
+IT Leaders / CIOs from renowned organizations will share their experience
+02:00 pm - 03:45 pm
+Day 2- Tuesday, November 30, 2021
+Parallel Technical Sessions - II
+Session - I – Session Chair (Dr. Numan Islam, HOD, Iqra University)
+Session - II – Session Chair (Dr. Nazeeruddin Mohammad, Director of Cybersecurity Center, Prince Mohammad Bin Fahd University, Saudi Arabia)
+Session - III – Session Chair (Dr. Kashif Nisar, University Malaysia Sabah)	09:30 am - 11:30 am
+09:30 am - 11:30 am
+Plenary Talk 5: Dr. Shoab Ahmed Khan (Chancellor, Sir Syed CASE Institute of Technology)
+11:40 am
+Plenary Talk 6: Dr. Helen Karatza  (Greece) (online)
+Professor Emeritus, Department of Informatics, Aristotle University of Thessaloniki
+12:00 pm
+Plenary Talk 7: Dr. Andries Engelbrecht  (South Africa) (online)
+Professor, Division of Computer Science, Stellenbosch University
+12:20 pm
+Closing remarks by Dean Academics – Dr. Muzaffar Mahmood
+12:40 pm
+Address by Chief Guest
+12:50 pm
+Distribution of Souvenirs
+01:00 pm
+Lunch
+01:10 pm
+Registration
+Registration
+To register, please complete and submit the form at the following form
+Please note that there is no registration fee for authors and participants.
+Loading…
+We'd love to talk with you.
+We'd love to talk with you.
+Dr. Affan Alim
+Email: iccis@pafkiet.edu.pk
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

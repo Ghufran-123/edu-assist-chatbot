@@ -1,0 +1,258 @@
+📄 Source File:
+https://cocis.kiet.edu.pk/bs-artificial-intelligence/
+
+🧠 Extracted Page Text:
+================================================================================
+Bachelor of Science in BS-AI
+Rapid growth of I.T. infrastructure in local and foreign organizations has increased the demand for computer professionals. The program meets the HEC and international standards for a full-length 4-year bachelor’s degree.
+Course Code
+Course Title
+Credit Hour
+
+Year # 1
+C-Code
+Course Title
+Cr-H
+AICC111
+Programming Fundamentals
+3
+AICC112
+Programming Fundamentals Lab
+1
+AIGE111
+Application of Information & Communication Technologies
+2
+AIGE112
+Application of Information & Communication Technologies Lab
+1
+AIGE113
+Discrete Structures
+3
+AIGE114
+Calculus and Analytic Geometry
+3
+AIGE115
+Functional English
+3
+AIGE116
+Visionary Leadership & Motivation
+2
+AIGE117
+Sports 1
+0.5
+AICC121
+Object Oriented Programming
+3
+AICC122
+Object Oriented Programming Lab
+1
+AICC123
+Database Systems
+3
+AICC124
+Database Systems Lab
+1
+AICC125
+Digital Logic Design
+2
+AICC126
+Digital Logic Design Lab
+1
+AIMS121
+Multivariable Calculus
+3
+AIMS122
+Linear Algebra
+3
+AIGE121
+Sports 2
+0.5
+
+Year # 2
+Cr-H
+AICC211
+Data Structures
+3
+AICC212
+Data Structures Lab
+1
+AICC213
+Information Security
+2
+AICC214
+Information Security Lab
+1
+AICC215
+Artificial Intelligence
+2
+AICC216
+Artificial Intelligence Lab
+1
+AICC217
+Computer Networks
+2
+AICC218
+Computer Networks Lab
+1
+AICC219
+Software Engineering
+3
+AIMS211
+Probability & Statistics
+3
+AIGE211
+Sports 3
+0.5
+AICC221
+Computer Organization & Assembly Language
+2
+AICC222
+Computer Organization & Assembly Language Lab
+1
+AIDC221
+Programming for AI
+2
+AIDC222
+Programming for AI Lab
+1
+AIDC223
+Machine Learning
+2
+AIDC224
+Machine Learning Lab
+1
+AIGE221
+Applied Physics
+2
+AIGE222
+Applied Physics Lab
+1
+AIGE223
+Expository Writing
+3
+AIGE224
+Islamic Studies
+2
+AIGE225
+Sports 4
+0.5
+
+Year # 3
+Cr-H
+AICC311
+Operating Systems
+2
+AICC312
+Operating Systems Lab
+1
+AIDC311
+Artificial Neural Networks & Deep Learning
+2
+AIDC312
+Artificial Neural Networks & Deep Learning Lab
+1
+AIDC313
+Knowledge Representation & Reasoning
+2
+AIDC314
+Knowledge Representation & Reasoning Lab
+1
+AIDE311
+Reinforcement Learning
+2
+AIDE312
+Reinforcement Learning Lab
+1
+AIDE313
+Data Mining
+2
+AIDE314
+Data Mining Lab
+1
+AIGE311
+Introduction to Management
+2
+AIGE312
+Sports 5
+0.5
+AIDC321
+Computer Vision
+2
+AIDC322
+Computer Vision Lab
+1
+AIDC323
+Parallel & Distributed Computing
+2
+AIDC324
+Parallel & Distributed Computing Lab
+1
+AIDE321
+Natural Language Processing
+2
+AIDE322
+Natural Language Processing Lab
+1
+AIDE323
+Theory of Automata
+3
+AIDE324
+HCI & Computer Graphics
+2
+AIDE325
+HCI & Computer Graphics Lab
+1
+AIDE326
+Swarm Intelligence
+2
+AIDE327
+Swarm Intelligence Lab
+1
+AIGE321
+Sports 6
+0.5
+
+Year # 4
+Cr-H
+AICC411
+Final Year Project - I
+2
+AICC412
+Analysis of Algorithms
+3
+AIDE411
+Knowledge Based Systems
+2
+AIDE412
+Knowledge Based Systems Lab
+1
+AIES411
+Financial Accounting
+3
+AIMS411
+Technical & Business Writing
+3
+AIGE411
+Entrepreneurship
+2
+AIGE412
+Sports 7
+0.5
+AIGE413
+Professional Practices 1
+1
+AICC421
+Final Year Project - II
+4
+AIGE421
+Ideology and Constitution of Pakistan
+2
+AIGE422
+Professional Practices 2
+1
+AIGE423
+Sports 8
+0.5
+
+🔗 Relevant Internal Links Found:
+================================================================================

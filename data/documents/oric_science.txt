@@ -1,0 +1,13 @@
+ Source URL: https://kiet.edu.pk/oric/science/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Embedded System
+The design and exploration of reconfigurable architectures, related CAD tools, and FPGA-based systems design. We have received 13.4 million PKR funding from ICTRnD to conduct research.
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---
