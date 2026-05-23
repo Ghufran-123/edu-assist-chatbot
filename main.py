@@ -132,27 +132,22 @@ def _is_valid_session(token: str | None) -> bool:
 # ── Lifespan (replaces deprecated @app.on_event) ─────────────
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    """Pre-load the bot so the first request is not slow."""
     logger.info("🚀 EDU Assist starting up...")
-    try:
-        _get_bot()
-        logger.info("✅ Bot pre-loaded successfully.")
-    except Exception as e:
-        logger.error("❌ Bot pre-load failed: %s", e)
     yield
-    # ── Graceful shutdown — close connections ──
+
     logger.info("🛑 EDU Assist shutting down...")
     try:
         bot = _get_bot()
         bot.close()
     except Exception:
         pass
+
     try:
         query_logger.close()
     except Exception:
         pass
-    logger.info("🛑 Shutdown complete.")
 
+    logger.info("🛑 Shutdown complete.")
 
 # ── App ─────────────────────────────────────────────────────
 app = FastAPI(
