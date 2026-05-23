@@ -54,7 +54,7 @@ from fastapi.responses import FileResponse, JSONResponse, StreamingResponse, Red
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 
-from pipeline import get_bot
+#from pipeline import get_bot
 from utils.ui_helpers import (
     enrich_with_context,
     get_followup_suggestions,
@@ -71,17 +71,9 @@ logging.basicConfig(
 )
 logger = logging.getLogger("eduassist.main")
 
-# ── Bot singleton ────────────────────────────────────────────
-_bot = None
-
+# ── Temporary Render Test Bot ───────────────────────────────
 def _get_bot():
-    global _bot
-    if _bot is None:
-        logger.info("🚀 Loading EDU Assist pipeline...")
-        _bot = get_bot()
-        logger.info("✅ Pipeline ready.")
-    return _bot
-
+    return None
 
 # ── Rate limiter (simple in-memory) ──────────────────────────
 _RATE_LIMIT = int(os.getenv("RATE_LIMIT_PER_MINUTE", "10"))
@@ -569,21 +561,9 @@ async def admin_reindex(body: ReindexRequest, x_admin_key: str = Header(default=
 
 @app.get("/api/health")
 async def health():
-    """
-    Returns bot readiness status.
-    Called by chat.html on page load to show/hide the loading overlay.
-    """
-    try:
-        bot = _get_bot()
-        return JSONResponse({
-            "status": "ready",
-            "faq_agent":    bot.faq_agent    is not None,
-            "vector_agent": bot.vector_agent is not None,
-            "llm_agent":    bot.llm_agent    is not None,
-        })
-    except Exception as e:
-        return JSONResponse({"status": "loading", "error": str(e)}, status_code=503)
-
+    return JSONResponse({
+        "status": "ready"
+    })
 
 # ════════════════════════════════════════════════════════════
 # /api/ask — Main SSE streaming endpoint
@@ -858,18 +838,8 @@ async def _stream_answer(request: AskRequest) -> AsyncIterator[str]:
 
 
 @app.post("/api/ask")
-async def ask(request: AskRequest):
-    """
-    Main chat endpoint. Returns a Server-Sent Events stream.
-
-    The browser connects with EventSource / fetch + ReadableStream,
-    receives pipeline_step, token, and done events in real time.
-    """
-    return StreamingResponse(
-        _stream_answer(request),
-        media_type="text/event-stream",
-        headers={
-            "Cache-Control":     "no-cache",
-            "X-Accel-Buffering": "no",   # disables nginx buffering
-        },
+async def ask(request: Request):
+    return JSONResponse({
+        "message": "Render deployment successful"
+    }
     )
